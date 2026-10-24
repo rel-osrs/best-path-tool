@@ -1,0 +1,16 @@
+.gradle
+build
+out/
+.idea/
+*.iml
+.project
+.settings/
+.classpath
+nbactions.xml
+nb-configuration.xml
+nbproject/
+*.class
+*.tmp
+/reference/
+/cache/
+/map-pictures/

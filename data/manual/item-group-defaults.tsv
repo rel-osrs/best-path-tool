@@ -1,0 +1,30 @@
+# Each item group's default item: its picture is shown when the player has none of the group (owner 2026-10-13).
+# group <tab> item id <tab> chosen by <tab> time <tab> item name (for reading only). Chosen in the Data Tool: Item groups...
+light source	4550	Rel	2026-10-13T07:21:39.967268400Z	Bullseye lantern
+safe light source	4550	Rel	2026-10-13T07:21:48.936686Z	Bullseye lantern
+amulet of glory	11978	Rel	2026-10-13T07:21:55.522079600Z	Amulet of glory(6)
+games necklace	3853	Rel	2026-10-13T07:21:58.809934200Z	Games necklace(8)
+ring of dueling	2552	Rel	2026-10-13T07:22:01.276702900Z	Ring of dueling(8)
+combat bracelet	11118	Rel	2026-10-13T07:22:02.872656800Z	Combat bracelet(4)
+skills necklace	11968	Rel	2026-10-13T07:22:06.312673Z	Skills necklace(6)
+ring of wealth	11980	Rel	2026-10-13T07:22:12.480308400Z	Ring of wealth (5)
+slayer ring	11866	Rel	2026-10-13T07:22:16.208542300Z	Slayer ring (8)
+digsite pendant	11194	Rel	2026-10-13T07:22:19.720552400Z	Digsite pendant (5)
+necklace of passage	21146	Rel	2026-10-13T07:22:24.698113800Z	Necklace of passage(5)
+burning amulet	21166	Rel	2026-10-13T07:22:42.335984500Z	Burning amulet(5)
+teleport crystal	13102	Rel	2026-10-13T07:22:47.912890700Z	Teleport crystal (5)
+enchanted lyre	13079	Rel	2026-10-13T07:22:52.698100Z	Enchanted lyre(5)
+ring of returning	21129	Rel	2026-10-13T07:23:08.040692Z	Ring of returning(5)
+axe	1351	Rel	2026-10-13T07:23:17.480859700Z	Bronze axe
+monkey greegree	4024	Rel	2026-10-13T07:23:27.712505500Z	Ninja monkey greegree
+slash weapon	946	Rel	2026-10-13T07:23:46.012453200Z	Knife
+crossbow	23601	Rel	2026-10-13T07:23:56.060640500Z	Rune crossbow
+machete	975	Rel	2026-10-13T07:24:06.019929Z	Machete
+pickaxe	1265	Rel	2026-10-13T07:24:09.243703800Z	Bronze pickaxe
+fire arrows	2535	Rel	2026-10-13T07:24:21.123904200Z	Steel fire arrow (lit)
+bow	841	Rel	2026-10-13T07:24:32.034737200Z	Shortbow
+salve amulet	4081	Rel	2026-10-13T07:24:47.906686500Z	Salve amulet
+hammer	2347	Rel	2026-10-13T07:24:57.070543600Z	Hammer
+cooks guild outfit	1949	Rel	2026-10-13T07:25:11.864406300Z	Chef's hat
+ghostspeak	552	Rel	2026-10-13T07:25:22.640651900Z	Ghostspeak amulet
+smoke protection	4164	Claude	2026-10-14T01:18:23Z	Facemask

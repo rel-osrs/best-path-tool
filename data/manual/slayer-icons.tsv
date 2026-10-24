@@ -1,0 +1,160 @@
+# The Slayer task icons: the item picture the RuneLite Slayer plugin shows for each task (owner 2026-10-19: "use the
+# same icon that the slayer plugins do for the monster"). DATA ONLY, from RuneLite (BSD-2-Clause) runelite-client
+# plugins/slayer/Task.java at commit 6945ec389ac47ada58915ce9b8465a9436f8d356: the task name and its ItemID constant, turned into the item
+# number with the RuneLite API's gameval ItemID (runelite-api-1.13.1-sources.jar).
+# The Data Tool's Slayer export matches them to the cache's task names (DB table 113, ignoring case) and checks each
+# number in the game cache. A task the plugin does not name is matched by the monster names it lists (targets):
+# "Bronze dragons" by "Bronze dragon" in "Metal dragons".
+task	item	constant	targets
+Aberrant spectres	4144	SLAYERGUIDE_ABERRANTSPECTER	Spectre
+Abyssal demons	4149	SLAYERGUIDE_ABYSSALDEMON	Abyssal Sire
+The Abyssal Sire	15312	ABYSSALSIRE_PET	-
+The Alchemical Hydra	22747	HYDRAPET	-
+Ankou	20097	ANKOU_HEAD	-
+Aquanites	32885	SLAYERGUIDE_AQUANITE	-
+Araxxor	29837	ARAXXORPET	-
+Araxytes	29789	POH_ARAXYTE_HEAD	Araxxor
+Aviansies	13504	ARCEUUS_CORPSE_AVIANSIE_INITIAL	Kree'arra / Flight Kilisa / Flockleader Geerin / Wingman Skree
+Bandits	4625	PICKPOCKET_GUIDE_DESERT_BANDIT	Bandit / Black Heather / Donny the Lad / Speedy Keith
+Banshees	4135	SLAYERGUIDE_BANSHEE	-
+Barrows Brothers	15683	BARROWS_KARIL_HEAD	-
+Basilisks	4139	SLAYERGUIDE_BASILISK	-
+Bats	20875	RAIDS_BAT2_COOKED	Death wing
+Bears	13462	ARCEUUS_CORPSE_BEAR_INITIAL	Callisto / Artio
+Birds	15439	FEATHER	Chicken / Rooster / Terrorbird / Seagull / Vulture / Duck / Penguin / Baby Roc
+Black demons	20028	BLACK_DEMON_MASK	Demonic gorilla / Balfrug Kreeyath / Skotizo / Porazdir
+Black dragons	15997	DRAGONMASK_BLACK	-
+Black Knights	14150	BLACK_FULL_HELM	Black Knight
+Bloodveld	4141	SLAYERGUIDE_BLOODVELD	-
+Blue dragons	15995	DRAGONMASK_BLUE	Vorkath
+Brine rats	11047	OLAF2_BRINE_RAT_INV	-
+Callisto	15307	CALLISTO_PET	-
+Catablepon	18688	SOS_HALF_SKULL2	-
+Cave bugs	4521	SWAMP_CAVE_BUG	-
+Cave crawlers	4134	SLAYERGUIDE_CAVECRAWLER	Chasm crawler
+Cave horrors	8900	SLAYERGUIDE_HARMLESS_CAVE_HORROR	Cave abomination
+Cave kraken	3272	CERT_EADGAR_FADE_TO_BLACK_INV	Kraken
+Cave slimes	4520	SWAMP_CAVE_SLIME	-
+Cerberus	15313	HELL_PET	-
+Chaos druids	20597	ELDERCHAOS_HOOD	-
+The Chaos Elemental	15286	CHAOSELEPET	-
+The Chaos Fanatic	16476	STAFF_OF_ZAROS	-
+Cockatrice	4137	SLAYERGUIDE_COCKATRICE	Cockathrice
+Cows	18163	COW_MASK	Buffalo / Brutus
+Crabs	17396	HUNDRED_PIRATE_CRAB_SHELL_GAUNTLET	Ammonite Crab / Frost Crab / King Sand Crab / Rock Crab / Giant Rock Crab / Sand Crab / Swamp Crab
+Crawling hands	4133	SLAYERGUIDE_CRAWLINGHAND	Crushing hand
+Crazy Archaeologists	18275	FEDORA	-
+Crocodiles	15369	GREEN_SALAMANDER	-
+Custodian Stalkers	30994	SLAYERGUIDE_CUSTODIAN_STALKER_MATURE	Ancient Custodian
+Dagannoth	8141	POH_DAGGANOTH	-
+Dagannoth Kings	15288	PRIMEPET	-
+Dark beasts	6637	SLAYERGUIDE_DARK_BEAST	Night beast
+Dark warriors	14143	BLACK_MED_HELM	Dark warrior
+Deranged Archaeologist	21630	FOSSIL_SWAMP_DIARY	-
+Dogs	8132	POH_GUARD_DOG	Jackal / Temple Guardian
+Drakes	23041	SLAYERGUIDE_DRAKE	-
+Duke Sucellus	28251	DUKESUCELLUSPET	-
+Dust devils	4145	SLAYERGUIDE_DUSTDEVIL	Choke devil
+Dwarves	17819	GRIM_WEAR_HELMET	Dwarf / Black Guard
+Earth warriors	15851	BRONZE_FULL_HELM_TRIM	-
+Elves	6105	PICKPOCKET_GUIDE_WOODELF	Elf / Iorwerth Warrior / Iorwerth Archer
+Ents	8174	POH_TREE_2	-
+Fever spiders	6709	SLAYERGUIDE_FEVER_SPIDER	-
+Fire giants	30623	RTBRANDAPET	Branda the Fire Queen
+Fleshcrawlers	13459	ARCEUUS_CORPSE_SCORPION_INITIAL	Flesh crawler
+Fossil island wyverns	21507	SLAYERGUIDE_FOSSILWYVERN	Ancient wyvern / Long-tailed wyvern / Spitting wyvern / Taloned wyvern
+Frost dragons	31731	FROST_DRAGON_BONES	-
+Gargoyles	4147	SLAYERGUIDE_GARGOYLE	Dusk / Dawn
+General Graardor	15292	BANDOSPET	-
+Ghosts	16918	AMULET_OF_GHOSTSPEAK	Death wing / Tortured soul / Forgotten Soul / Revenant
+Ghouls	18162	TRICK_OR_TREAT_HEAD	-
+The Giant Mole	15295	MOLEPET	-
+Goblins	13447	ARCEUUS_CORPSE_GOBLIN_INITIAL	Sergeant Strongstack / Sergeant Grimspike / Sergeant Steelwill
+Greater demons	20025	GREATER_DEMON_MASK	K'ril Tsutsaroth / Tstanon Karlak / Skotizo / Tormented Demon
+Green dragons	15994	DRAGONMASK_GREEN	Elvarg
+The Grotesque Guardians	21751	DUSKPET	Dusk / Dawn
+Gryphons	32884	SLAYERGUIDE_GRYPHON	-
+Harpie bug swarms	7050	SLAYERGUIDE_SWARM	-
+Hellhounds	8137	POH_HELLHOUND	Cerberus
+Hill giants	13474	ARCEUUS_CORPSE_GIANT_INITIAL	Cyclops / Reanimated giant / Obor
+Hobgoblins	8133	POH_HOBGOBLIN	-
+Hydras	23042	SLAYERGUIDE_HYDRA	-
+Icefiends	16472	FD_ICEDIAMOND	-
+Ice giants	30625	RTELDRICPET	Eldric the Ice King
+Ice warriors	15887	MITHRIL_FULL_HELM_TRIM	Icelord
+Infernal mages	4140	SLAYERGUIDE_INFERNALMAGE	Malevolent mage
+TzTok-Jad	15311	JAD_PET	-
+Jellies	4142	SLAYERGUIDE_JELLY	Jelly
+Jungle horrors	13486	ARCEUUS_CORPSE_HORROR_INITIAL	-
+Kalphites	8139	POH_KALPHITE_SOLDIER	-
+The Kalphite Queen	15298	KQPET_WALKING	-
+Killerwatts	7160	SLAYERGUIDE_KILLERWATT	-
+The King Black Dragon	15296	KBDPET	-
+The Cave Kraken Boss	15300	KRAKENPET	Kraken
+Kree'arra	15291	ARMADYLPET	-
+K'ril Tsutsaroth	15294	ZAMORAKPET	-
+Kurask	4146	SLAYERGUIDE_KURASK	-
+Lava Dragons	18276	LAVA_SCALE	Lava dragon
+Lesser demons	20022	LESSER_DEMON_MASK	Zakl'n Gritch
+Lesser Nagua	28823	SLAYERGUIDE_LESSER_NAGUA	Sulphur Nagua / Frost Nagua / Amoxliatl
+Lizardmen	18464	LIZARDMAN_FANG	Lizardman
+Lizards	6695	SLAYERGUIDE_LIZARD	-
+The Maggot King	33643	MAGGOTKINGPET	-
+Magic axes	14714	IRON_BATTLEAXE	-
+Mammoths	10516	BARBASSAULT_ATT_HORN_01	-
+Metal dragons	8142	POH_STEEL_DRAGON	Bronze dragon / Iron Dragon / Steel dragon / Mithril dragon / Adamant dragon / Rune dragon
+Minotaurs	13456	ARCEUUS_CORPSE_MINOTAUR_INITIAL	-
+Mogres	6661	SLAYERGUIDE_MOGRE	-
+Molanisks	10997	SLAYERGUIDE_MOLANISK	-
+Monkeys	13450	ARCEUUS_CORPSE_MONKEY_INITIAL	Tortured gorilla / Demonic gorilla / Padulah
+Moss giants	22375	MOSSY_KEY	Bryophyta
+Mutated zygomites	7420	SLAYER_ZYGOMITE_OBJECT	Zygomite / Fungi
+Nechryael	4148	SLAYERGUIDE_NECHRYAEL	Nechryarch
+Ogres	13477	ARCEUUS_CORPSE_OGRE_INITIAL	Enclave guard / Mogre / Ogress / Skogre / Zogre
+Otherworldly beings	16480	SECRET_GHOST_HAT	-
+The Phantom Muspah	27591	MUSPAHPET	-
+Pirates	8950	BREW_RED_PIRATE_HAT	Pirate
+Pyrefiends	4138	SLAYERGUIDE_PYRFIEND	Flaming pyrelord
+Rats	17197	RATS_TAIL	-
+Red dragons	8134	POH_DRAGON	-
+Revenants	21816	WILD_CAVE_BRACELET_CHARGED	-
+Rockslugs	4136	SLAYERGUIDE_ROCKSLUG	-
+Rogues	18427	ROGUESDEN_HELM	-
+Sarachnis	23496	SARACHNISPET	-
+Scabarites	16168	NTK_SCARAB_GOLD	Scarab swarm / Locust rider / Scarab mage / Small Scarab
+Scorpia	15310	SCORPIA_PET	-
+Scorpions	13459	ARCEUUS_CORPSE_SCORPION_INITIAL	Scorpia / Lobstrosity
+Sea snakes	17360	HUNDRED_ILM_SNAKE_CORPSE	-
+Shades	19279	BLACKROBETOP	Loar / Phrin / Riyl / Asyn / Fiyr / Urium
+Shadow warriors	14150	BLACK_FULL_HELM	-
+The Shellbane Gryphon	31287	GRYPHONBOSSPET_ADULT	-
+Skeletal wyverns	6811	SLAYERGUIDE_SKELETALWYVERN	-
+Skeletons	8131	POH_SKELETON_GUARD	Vet'ion / Calvar'ion / Skeletal Mystic
+Smoke devils	5349	CERT_GUIDE_ICON_DUMMY	-
+Sourhogs	24944	PORCINE_SOURHOG_TROPHY	-
+Spiders	8135	POH_SPIDER	Kalrag / Sarachnis / Venenatis / Spindel / Araxxor / Araxyte
+Spiritual creatures	18361	DRAGON_BOOTS	Spiritual ranger / Spiritual mage / Spiritual warrior
+Suqahs	16697	SUQKA_TOOTH	-
+Terror dogs	10591	SLAYERGUIDE_TERRORDOG	-
+The Leviathan	28253	LEVIATHANPET	-
+The Whisperer	28247	WHISPERERPET	-
+The Thermonuclear Smoke Devil	15299	SMOKEPET	-
+Trolls	8136	POH_TROLL	Dad / Arrg / Stick / Kraka / Pee Hat / Rock / Twig / Berry
+Turoth	4143	SLAYERGUIDE_TUROTH	-
+Tzhaar	13498	ARCEUUS_CORPSE_TZHAAR_INITIAL	TzTok-Jad / TzKal-Zuk
+Vampyres	1549	STAKE	Vyrewatch
+Vardorvis	28249	VARDORVISPET	-
+Venators	33826	SLAYERGUIDE_VENATOR	-
+Venenatis	15306	VENENATIS_PET	-
+Vet'ion	15308	VETION_PET	-
+Vorkath	21993	VORKATHPET	-
+Wall beasts	4519	SWAMP_WALLBEAST	-
+Warped Creatures	28582	POG_SLAYER_DUMMY_WARPED_TERRORBIRD	Warped terrorbird / Warped tortoise / Mutated terrorbird / Mutated tortoise
+Waterfiends	13696	WATER_ORB	-
+Werewolves	16502	DAGGER_WOLFBANE	Werewolf
+Wolves	14299	GREY_WOLF_FUR	Wolf
+Wyrms	23040	SLAYERGUIDE_WYRM	Wyrmling / Strykewyrm
+Commander Zilyana	15293	SARADOMINPET	-
+Zombies	18162	TRICK_OR_TREAT_HEAD	Undead / Vorkath / Zogre
+TzKal-Zuk	22319	INFERNOPET_ZUK	-
+Zulrah	15302	SNAKEPET	-

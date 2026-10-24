@@ -1,0 +1,11 @@
+# Dark areas that hold clue spots (hand-authored, 2026-10-14): a spot inside a box needs the box's light requirement
+# (data/clues/clue-overrides.tsv `needs` lines; a tool test checks every clue spot in a box has it). The 12 dark areas
+# are those of the Wiki (Light sources rev 15327831, "Light source required"); only the two below hold a clue spot.
+# Checked 2026-10-14 for the other ten (Abandoned Mine, Dorgesh-Kaan South Dungeon, Dorgesh-Kaan mine, Mole Hole,
+# Kruk's Dungeon, Mos Le'Harmless Cave, Shayzien Crypts, Skavid Caves, Sophanem Dungeon, Temple of Ikov lower level):
+# no clue target or STASH unit lies within 100 tiles of the ways in our data has into them (the kill spawns near them
+# are other places: Ancient Cavern, Witchaven Dungeon, God Wars Dungeon), and no clue description names them (only
+# places above ground, e.g. "Outside the great pyramid of Sophanem"). Boxes: x0 y0 x1 y1 plane, inclusive.
+name	x0	y0	x1	y1	plane	needs	source
+Lumbridge Swamp Caves	3136	9536	3263	9599	0	one of (item safe light source | varbit 6533 = 1)	Wiki: Light sources rev 15327831; box = map regions 12693 + 12949 on plane 0 (only the caves walk there, cache 2735; the Lumbridge Castle cellar and the Tears of Guthix cave, plane 2, lie outside); requirement as the ways in (DECISIONS 2026-10-13 part 4)
+Genie's cavern west of Nardah	3328	9280	3391	9343	0	item light source	Wiki: Light sources rev 15327831; box = map region 13457 on plane 0 (its only walking area is the 106-tile cave, cache 2735); requirement as the crevice in (DECISIONS 2026-10-13 part 4)

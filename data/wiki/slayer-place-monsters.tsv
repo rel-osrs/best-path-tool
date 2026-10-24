@@ -1,0 +1,918 @@
+# Which monsters live at each Slayer place: the place's monsters column and the monsters its amount names,
+# as OSRS Wiki pages (development time; CC BY-NC-SA 3.0, see data/wiki/LICENSE-WIKI.txt). Made by
+# gradlew -p tool wikiSlayerDrops (WikiSlayerDropsCli); see docs/DATA_FORMATS.md.
+task	place	monsters
+545	God Wars Dungeon (Armadyl boss room)	Kree'arra
+6155	God Wars Dungeon (Saradomin boss room)	Commander Zilyana
+6157	God Wars Dungeon (Bandos boss room)	General Graardor
+6159	God Wars Dungeon (Zamorak boss room)	K'ril Tsutsaroth
+6161	Waterbirth Island Dungeon	Dagannoth Rex
+6161	Waterbirth Island Dungeon (Slayer lair)	Dagannoth Rex
+6163	Mole Hole (Under Falador Park)	Giant Mole
+6165	Kalphite Lair	Kalphite Queen
+6167	King Black Dragon Lair (Wilderness)	King Black Dragon
+6169	Callisto's Den	Callisto
+6171	Silk Chasm	Venenatis
+6173	Vet'ion's Rest	Vet'ion
+6175	West of the Rogues' Castle	Chaos Elemental
+6177	West of the Lava Maze	Chaos Fanatic
+6179	Ruins (west)	Crazy archaeologist
+6181	Cave in the Scorpion Pit (north-east Wilderness)	Scorpia
+6187	Kraken Cove	Kraken
+6189	Smoke Devil Dungeon	Thermonuclear smoke devil
+6191	Cerberus' Lair	Cerberus
+6193	Abyssal Nexus	Abyssal Sire
+6197	Ungael	Vorkath
+6199	Karuulm Slayer Dungeon (lower level)	Alchemical Hydra
+6201	Forthos Dungeon — Burial tomb	Sarachnis
+6203	Ghorrock Dungeon	Phantom Muspah
+6205	The Stranglewood - Ritual Site	Vardorvis
+6207	Ghorrock Prison - Asylum	Duke Sucellus
+6209	Lassar Undercity - Sunken Cathedral	The Whisperer
+6211	The Scar	The Leviathan
+6213	Morytania Spider Cave	Araxxor
+6214	Ape Atoll Dungeon	Monkey (monster) / Monkey Archer / Monkey Guard / Monkey Zombie / Maniacal monkey / Tortured gorilla / Demonic gorilla
+6214	Ardougne Zoo	Monkey (monster) / Monkey Archer / Monkey Guard / Monkey Zombie / Maniacal monkey / Tortured gorilla / Demonic gorilla
+6214	Around Brimhaven	Monkey (monster) / Monkey Archer / Monkey Guard / Monkey Zombie / Maniacal monkey / Tortured gorilla / Demonic gorilla
+6214	Crash Site Cavern	Monkey (monster) / Monkey Archer / Monkey Guard / Monkey Zombie / Maniacal monkey / Tortured gorilla / Demonic gorilla
+6214	East of Tai Bwo Wannai	Monkey (monster) / Monkey Archer / Monkey Guard / Monkey Zombie / Maniacal monkey / Tortured gorilla / Demonic gorilla
+6214	Karamja, near the volcano	Monkey (monster) / Monkey Archer / Monkey Guard / Monkey Zombie / Maniacal monkey / Tortured gorilla / Demonic gorilla
+6214	Marim	Monkey (monster) / Monkey Archer / Monkey Guard / Monkey Zombie / Maniacal monkey / Tortured gorilla / Demonic gorilla
+6214	Marim gates	Monkey (monster) / Monkey Archer / Monkey Guard / Monkey Zombie / Maniacal monkey / Tortured gorilla / Demonic gorilla
+6214	Mos Le'Harmless	Monkey (monster) / Monkey Archer / Monkey Guard / Monkey Zombie / Maniacal monkey / Tortured gorilla / Demonic gorilla
+6214	North-east Karamja (instanced)	Monkey (monster) / Monkey Archer / Monkey Guard / Monkey Zombie / Maniacal monkey / Tortured gorilla / Demonic gorilla
+6214	North-east of Shilo Village	Monkey (monster) / Monkey Archer / Monkey Guard / Monkey Zombie / Maniacal monkey / Tortured gorilla / Demonic gorilla
+6214	North-west of Shilo Village	Monkey (monster) / Monkey Archer / Monkey Guard / Monkey Zombie / Maniacal monkey / Tortured gorilla / Demonic gorilla
+6214	South-east Karamja	Monkey (monster) / Monkey Archer / Monkey Guard / Monkey Zombie / Maniacal monkey / Tortured gorilla / Demonic gorilla
+6214	Temple of Marimbo	Monkey (monster) / Monkey Archer / Monkey Guard / Monkey Zombie / Maniacal monkey / Tortured gorilla / Demonic gorilla
+6214	Temple of Marimbo Dungeon	Monkey (monster) / Monkey Archer / Monkey Guard / Monkey Zombie / Maniacal monkey / Tortured gorilla / Demonic gorilla
+6215	Lumbridge	Goblin / Cave goblin (monster)
+6215	Stronghold of Security	-
+6215	Lumbridge Swamp Caves	Cave goblin (monster)
+6215	Dorgeshuun Mines	Cave goblin miner / Cave goblin guard
+6215	Observatory Dungeon	Goblin
+6215	Goblin Cave	Goblin
+6215	Goblin Village	-
+6215	West of Fishing Guild	Goblin
+6215	God Wars Dungeon	Sergeant Strongstack
+6215	Clock Tower Dungeon	Goblin
+6215	Outside of Port Sarim	Goblin
+6215	Tree Gnome Village maze	Goblin
+6216	House west of the Grand Exchange	Rat
+6216	South of Slepe	Rat / Giant rat
+6216	Lovakengj	Rat / Giant rat
+6216	Ruins (east)	Rat
+6216	Ferox Enclave	Rat
+6216	Port Piscarilius	Rat
+6216	House west of McGrubor's Wood	Rat
+6216	Port Sarim jail	Rat
+6216	Draynor Village	Rat
+6216	South-east of Mount Quidamortem	Rat
+6216	Lumbridge	Rat
+6216	Farm south of Falador	Rat
+6216	South-east of the Farming Guild	Rat
+6216	Arceuus	Rat
+6216	North of the Chaos Temple (Wilderness)	Rat
+6216	Gertrude's House	Rat
+6216	Fire Altar	Rat
+6216	Port Phasmatys	Rat
+6216	South of Kourend Castle	Rat
+6216	Mos Le'Harmless	Rat
+6216	Lunar Isle Ship	Rat
+6216	Rimmington	Rat
+6216	Burgh De Rott	Rat
+6216	Brimhaven	Rat
+6216	West Ruins	Rat
+6216	Sinclair Mansion	Rat
+6216	Lunar Isle	Rat
+6216	South of the Farming Guild	Rat
+6216	Draynor Manor	Rat
+6216	North-west of Hosidius Town Square	Rat
+6216	Melzar's Maze	Rat / Zombie rat
+6216	South of Gu'Tanoth	Rat
+6216	Fishing Guild	Rat
+6216	Gnome maze	Rat
+6216	Varrock	Rat
+6216	Behind Lumbridge Castle	Rat
+6216	West Ardougne	Rat
+6216	Port Phasmatys Ship	Rat
+6216	Port Piscarilius (1st Floor Buildings)	Rat
+6216	Lunar Isle Dock	Rat
+6216	Melzar's Maze (1st Floor)	Rat
+6216	Mos Le'Harmless Ship	Rat
+6216	Port Piscarilius (2nd Floor Buildings)	Rat
+6216	Melzar's Maze (2nd Floor)	Rat
+6216	Ardougne Sewers	Rat / Giant rat / Dungeon rat
+6216	Goblin Cave	Rat / Dungeon rat
+6216	Clock Tower Basement	Rat
+6216	Rat Pits	Rat
+6216	Melzar's Maze Basement	Rat
+6216	Dwarven Mines	Rat
+6216	Crandor and Karamja Dungeon	Rat
+6216	Draynor Sewers	Rat
+6216	Varrock Sewers	Rat / Giant rat / Scurrius
+6216	Draynor Manor Basement	Rat
+6216	Edgeville Dungeon	Rat / Giant rat
+6216	Sisterhood Sanctuary	Rat
+6216	Stronghold of Security: Catacomb of Famine	Rat
+6216	Stronghold of Security: Vault of War	Rat
+6216	Grand Tree Mine	Rat / Giant rat
+6216	Taverley Dungeon	Rat
+6216	The Warrens	Rat
+6216	Abandoned Mine (Level 2)	Rat
+6216	Abandoned Mine (Level 4)	Rat
+6216	Keldagrim Rat Pits	Rat
+6216	Meiyerditch Laboratories	Rat
+6216	The Hollows	Rat
+6216	Meiyerditch Hideout (Myreque Hideout)	Rat
+6216	Observatory Dungeon	Rat
+6216	Rashiliyia's Tomb	Rat
+6216	Shadow Dungeon	Rat / Giant rat
+6216	Skavid Caves	Rat
+6216	Underground Pass (Level 2)	Rat
+6216	Waterfall Dungeon	Rat
+6216	Waterfall Dungeon (Flooded during quest)	Rat
+6216	Cabin Fever Boats	Rat
+6216	Cabin Fever Boats, floor 1	Rat
+6216	Isle of Souls	Rat
+6216	Black Knights' Fortress basement	Rat
+6216	Wilderness Slayer Cave	Rat
+6216	Aldarin	Rat
+6216	East of Mistrock	Rat / Giant rat
+6216	Salvager Overlook	Rat
+6216	Gloomthorn Trail	Rat
+6216	Fortis Cothon	Rat
+6216	Outer Fortis	Rat
+6216	Colossal Wyrm Remains	Rat
+6216	Vatrachos Island	Rat
+6216	Pandemonium Cave	Rat / Giant rat
+6216	Port Roberts	Rat
+6216	Buccaneers' Haven (floor 0)	Rat
+6216	Buccaneers' Haven (floor 1)	Rat
+6216	Buccaneers' Haven (floor 2)	Rat
+6216	Sunbleak Island	Rat
+6216	The Onyx Crest	Rat
+6216	West Ruins (Wilderness)	Giant rat
+6216	Wilderness Bandit Camp	Giant rat
+6216	Gnome maze entrance	Giant rat
+6216	West of Kourend Castle	Giant rat
+6216	North of Land's End	Giant rat
+6216	North of Hosidius town square	Giant rat
+6216	Lumbridge Swamp	Giant rat
+6216	Varrock south-east mine	Giant rat
+6216	North of Varrock (Wilderness)	Giant rat
+6216	South-west of The Dancing Donkey Bar (Varrock)	Giant rat
+6216	North of Port Sarim chapel	Giant rat
+6216	The Hollows (Level 6)	Giant rat
+6216	The Hollows (level 3)	Giant rat
+6216	Stronghold of Security	Giant rat
+6216	Brine Rat Cavern (dks)	Brine rat
+6216	Clock Tower Dungeon	Dungeon rat
+6216	Barrows (tunnels)	Crypt rat
+6216	Barrows tunnel	Giant crypt rat
+6217	Arceuus, outside the Tower of Magic	Spider
+6217	Forthos Dungeon	Sarachnis / Temple Spider
+6217	Gnome Maze	Spider
+6217	Hosidius	Spider
+6217	Lovakengj	Spider
+6217	Morytania Spider Cave	Araxyte
+6217	Ogre Enclave	Spider
+6217	Port Piscarilius	Spider
+6217	Sisterhood Sanctuary	Spider
+6217	Stronghold of Security, Pit of Pestilence (level 3)	Spider / Giant spider
+6217	Underground Pass	Spider
+6218	Farmer Fred's chicken pen	-
+6218	Along the River Lum south of Varrock	Duck / Chicken / Undead chicken / Rooster / Seagull / Penguin (monster) / Entrana firebird / Bird / Chompy bird / Terrorbird / Vulture / Oomlie bird / Mounted terrorbird gnome / Baby Roc
+6218	Along the River Lum north of Lumbridge	Duck / Chicken / Undead chicken / Rooster / Seagull / Penguin (monster) / Entrana firebird / Bird / Chompy bird / Terrorbird / Vulture / Oomlie bird / Mounted terrorbird gnome / Baby Roc
+6218	Corsair Cove	Duck / Chicken / Undead chicken / Rooster / Seagull / Penguin (monster) / Entrana firebird / Bird / Chompy bird / Terrorbird / Vulture / Oomlie bird / Mounted terrorbird gnome / Baby Roc
+6218	Port Sarim	Duck / Chicken / Undead chicken / Rooster / Seagull / Penguin (monster) / Entrana firebird / Bird / Chompy bird / Terrorbird / Vulture / Oomlie bird / Mounted terrorbird gnome / Baby Roc
+6218	Port Piscarilius	Duck / Chicken / Undead chicken / Rooster / Seagull / Penguin (monster) / Entrana firebird / Bird / Chompy bird / Terrorbird / Vulture / Oomlie bird / Mounted terrorbird gnome / Baby Roc
+6219	Lumbridge cow field	Cow
+6219	Lumbridge cow field (north)	Cow
+6219	Fred's farm	Cow
+6219	Crafting Guild	Cow
+6219	South Falador Farm	Cow
+6219	Ortus Farm	Buffalo
+6219	Alice's farm	Undead cow
+6220	Al Kharid Mine	Scorpion
+6220	Ardougne Zoo	Scorpion
+6220	Dwarven Mine	King Scorpion
+6220	Stonecutter Outpost temple, East of Colossal Wyrm Remains	Scorpion
+6220	Scorpion Pit	Scorpion
+6220	Scorpion Pit (Cave)	Scorpia
+6221	Silvarea	Bat / Giant bat / Albino bat / Death wing
+6221	Slayer Tower entrance	Bat / Giant bat / Albino bat / Death wing
+6221	Haunted Woods	Bat / Giant bat / Albino bat / Death wing
+6221	Graveyard of Heroes	Bat / Giant bat / Albino bat / Death wing
+6221	Abandoned Mine level 1	Bat / Giant bat / Albino bat / Death wing
+6221	Abandoned Mine level 4	Bat / Giant bat / Albino bat / Death wing
+6221	Yanille Agility Dungeon north entrance	Bat / Giant bat / Albino bat / Death wing
+6221	Yanille Agility Dungeon south entrance	Bat / Giant bat / Albino bat / Death wing
+6221	Outside Keep Le Faye	Bat / Giant bat / Albino bat / Death wing
+6221	Coal Trucks area	Bat / Giant bat / Albino bat / Death wing
+6221	Legends' Guild basement	Bat / Giant bat / Albino bat / Death wing
+6221	Heroes' Guild basement	Bat / Giant bat / Albino bat / Death wing
+6221	Temple of Ikov	Bat / Giant bat / Albino bat / Death wing
+6221	Deep Wilderness, west of Mage Arena	Bat / Giant bat / Albino bat / Death wing
+6221	Karamja Volcano dungeon	Bat / Giant bat / Albino bat / Death wing
+6221	Taverley Dungeon	Bat / Giant bat / Albino bat / Death wing
+6221	The Underground Pass, part 1	Bat / Giant bat / Albino bat / Death wing
+6221	The Underground Pass, part 2	Bat / Giant bat / Albino bat / Death wing
+6221	Chaos Druid Tower dungeon	Bat / Giant bat / Albino bat / Death wing
+6221	Grand Tree mine	Bat / Giant bat / Albino bat / Death wing
+6221	Brine Rat Cavern	-
+6221	West of Dark Altar, path towards Fairy Ring	Bat / Giant bat / Albino bat / Death wing
+6221	East of Dark Altar, path towards Soul Altar	Bat / Giant bat / Albino bat / Death wing
+6221	South of Dark Altar, path towards Blood Altar	Bat / Giant bat / Albino bat / Death wing
+6221	Mount Karuulm (north side)	Bat / Giant bat / Albino bat / Death wing
+6221	Mount Karuulm (south-east side)	Bat / Giant bat / Albino bat / Death wing
+6221	North of Hosidius mine/South of Hosidius Plows	Bat / Giant bat / Albino bat / Death wing
+6221	North of Slepe	Bat / Giant bat / Albino bat / Death wing
+6221	Goblin Cave, east of the Fishing Guild	Bat / Giant bat / Albino bat / Death wing
+6221	Mos Le'Harmless Cave	Bat / Giant bat / Albino bat / Death wing
+6221	Shaman Caves	Bat / Giant bat / Albino bat / Death wing
+6222	Arandar entrance	Wolf / Dire Wolf
+6222	Ardougne Zoo	Wolf
+6222	Feldip Hills	Wolf / Big Wolf
+6222	Inside the Tree Gnome Village maze	-
+6222	Path between Seers' Village and Rellekka	Wolf
+6222	South of Forthos Dungeon, near the saltpetre mines	Wolf
+6222	South of Rellekka	Wolf
+6222	South of West Ardougne	Wolf
+6222	Stronghold of Security first level	Wolf
+6222	West of Sinclair Mansion	Wolf
+6222	West of the Outpost	Wolf
+6222	White Wolf Mountain	Wolf / Big Wolf / White wolf
+6222	Wilderness, south-east of the Deserted Keep	Wolf / White wolf
+6223	Alice's farm west of the Ectofuntus	Undead chicken / Undead cow
+6223	Ape Atoll Dungeon	Monkey Zombie
+6223	Ardougne Sewers	Zombie
+6223	Braindeath Island	Zombie pirate (Braindeath Island) / Zombie swab
+6223	Chaos Temple (Wilderness)	Zombie pirate
+6223	Draynor Sewers	Zombie
+6223	Edgeville Dungeon	Zombie
+6223	Edgeville Dungeon mine	Zombie
+6223	Forthos Dungeon	Undead Druid
+6223	Glarial's Tomb	Zombie
+6223	Graveyard of Shadows (Wilderness)	-
+6223	Harmony Island	Sorebones
+6223	Harmony Island ship	Sorebones
+6223	Harmony Island Underground	Sorebones
+6223	Jiggig	Zogre
+6223	Jiggig Dungeon	Zogre
+6223	Magic Guild's Dungeon	-
+6223	Melzar's Maze	Zombie rat
+6223	Ruins (east) (Wilderness)	-
+6223	Shilo Village Entrance	-
+6223	South of the Graveyard of Heroes	-
+6223	Stronghold of Security (Level 2, Catacomb of Famine)	-
+6223	Temple of Ah Za Rhoon (during the Shilo Village quest)	-
+6223	Temple of Marimbo Dungeon	Monkey Zombie
+6223	Tomb of Rashiliyia (during the Shilo Village quest)	Undead one
+6223	Tree Gnome Village dungeon	Zombie
+6223	Ungael	Vorkath
+6223	Varrock Sewers	Zombie
+6223	West Ardougne Cemetery	Zombie
+6224	Ape Atoll Dungeon	Skeleton (Ape Atoll)
+6224	Barrows	Skeleton (Barrows)
+6224	Catacombs of Kourend	Skeleton / Skeleton (Tarn's Lair) / Skeleton (mage) / Skeleton (Barrows) / Skeleton (Shayzien Crypts) / Skeleton (Melzar's Maze) / Skeleton (Ape Atoll) / Skeleton (Draynor Manor) / Skogre / Skeleton Mage / Calvar'ion / Vet'ion
+6224	Digsite Dungeon	Skeleton
+6224	Draynor Manor	Skeleton (Draynor Manor)
+6224	Draynor Sewers	Skeleton
+6224	Edgeville Dungeon	Skeleton
+6224	Jiggig	Skogre
+6224	Jiggig Dungeon	Zogre
+6224	Melzar's Maze	Skeleton (Melzar's Maze)
+6224	Shayzien Crypts	Skeleton (Shayzien Crypts)
+6224	Stronghold of Security	-
+6224	Taverley Dungeon	Skeleton
+6224	Tarn's Lair	Skeleton (Tarn's Lair) / Skeleton (mage)
+6224	Tarn's Lair, Abandoned Mine	Skeleton (Tarn's Lair) / Skeleton (mage)
+6224	Varrock Sewers	Skeleton
+6224	Waterfall Dungeon	Skeleton / Skeleton Mage
+6224	Wilderness	Skeleton
+6224	Wizards' Tower	-
+6225	Catacombs of Kourend	Ghost / Revenants / Forgotten Soul / Tortured soul / Death wing
+6225	Crumbling Tower	Ghost / Revenants / Forgotten Soul / Tortured soul / Death wing
+6225	Death Altar	Ghost / Revenants / Forgotten Soul / Tortured soul / Death wing
+6225	Draynor Manor (floor 1)	Ghost / Revenants / Forgotten Soul / Tortured soul / Death wing
+6225	Grave of Scorpius	Ghost / Revenants / Forgotten Soul / Tortured soul / Death wing
+6225	Melzar's Maze (floor 1)	Ghost / Revenants / Forgotten Soul / Tortured soul / Death wing
+6225	Mynydd	Ghost / Revenants / Forgotten Soul / Tortured soul / Death wing
+6225	North-east of dense essence mine	Ghost / Revenants / Forgotten Soul / Tortured soul / Death wing
+6225	North-east of Chaos Temple (Wilderness)	Ghost / Revenants / Forgotten Soul / Tortured soul / Death wing
+6225	North-west of Ferox Enclave	Ghost / Revenants / Forgotten Soul / Tortured soul / Death wing
+6225	Outside Ectofuntus	Ghost / Revenants / Forgotten Soul / Tortured soul / Death wing
+6225	Stronghold of Security: Sepulchre of Death	Ghost / Revenants / Forgotten Soul / Tortured soul / Death wing
+6225	Taverley Dungeon	Ghost / Revenants / Forgotten Soul / Tortured soul / Death wing
+6225	Temple in The Golem	Ghost / Revenants / Forgotten Soul / Tortured soul / Death wing
+6225	The Forgotten Cemetery	Ghost / Revenants / Forgotten Soul / Tortured soul / Death wing
+6225	Revenant Caves	Ghost / Revenants / Forgotten Soul / Tortured soul / Death wing
+6225	Varrock Sewers	Ghost / Revenants / Forgotten Soul / Tortured soul / Death wing
+6225	Shaman Caves	Ghost / Revenants / Forgotten Soul / Tortured soul / Death wing
+6225	West Ardougne	Ghost / Revenants / Forgotten Soul / Tortured soul / Death wing
+6225	West of Port Phasmatys	Ghost / Revenants / Forgotten Soul / Tortured soul / Death wing
+6226	Ardougne Zoo	Bear Cub / Black bear / Callisto / Artio / Grizzly bear / Grizzly bear cub / Grizzly bear (Escape Caves)
+6226	East of Varrock Palace, accessible via Varrock Sewers	Bear Cub / Black bear / Callisto / Artio / Grizzly bear / Grizzly bear cub / Grizzly bear (Escape Caves)
+6226	Entrana	Bear Cub / Black bear / Callisto / Artio / Grizzly bear / Grizzly bear cub / Grizzly bear (Escape Caves)
+6226	Fremennik Province - woods outside of Rellekka	Bear Cub / Black bear / Callisto / Artio / Grizzly bear / Grizzly bear cub / Grizzly bear (Escape Caves)
+6226	Gnome Maze	Bear Cub / Black bear / Callisto / Artio / Grizzly bear / Grizzly bear cub / Grizzly bear (Escape Caves)
+6226	Great Kourend - north of Land's End	Bear Cub / Black bear / Callisto / Artio / Grizzly bear / Grizzly bear cub / Grizzly bear (Escape Caves)
+6226	Great Kourend - Farming Guild	Bear Cub / Black bear / Callisto / Artio / Grizzly bear / Grizzly bear cub / Grizzly bear (Escape Caves)
+6226	Isafdar	Bear Cub / Black bear / Callisto / Artio / Grizzly bear / Grizzly bear cub / Grizzly bear (Escape Caves)
+6226	Kebos Lowlands - south of Mount Quidamortem	Bear Cub / Black bear / Callisto / Artio / Grizzly bear / Grizzly bear cub / Grizzly bear (Escape Caves)
+6226	North-east of Ardougne	Bear Cub / Black bear / Callisto / Artio / Grizzly bear / Grizzly bear cub / Grizzly bear (Escape Caves)
+6226	North-east of the Observatory	Bear Cub / Black bear / Callisto / Artio / Grizzly bear / Grizzly bear cub / Grizzly bear (Escape Caves)
+6226	North-east of Tyras Camp (instanced)	Bear Cub / Black bear / Callisto / Artio / Grizzly bear / Grizzly bear cub / Grizzly bear (Escape Caves)
+6226	North-west of Dark Warriors' Fortress	Bear Cub / Black bear / Callisto / Artio / Grizzly bear / Grizzly bear cub / Grizzly bear (Escape Caves)
+6226	Outside of the Mind Altar	Bear Cub / Black bear / Callisto / Artio / Grizzly bear / Grizzly bear cub / Grizzly bear (Escape Caves)
+6226	Prifddinas (outside the city)	Bear Cub / Black bear / Callisto / Artio / Grizzly bear / Grizzly bear cub / Grizzly bear (Escape Caves)
+6226	South of Prifddinas (instanced)	Bear Cub / Black bear / Callisto / Artio / Grizzly bear / Grizzly bear cub / Grizzly bear (Escape Caves)
+6226	South of the Demonic Ruins (Callisto's Den)	Bear Cub / Black bear / Callisto / Artio / Grizzly bear / Grizzly bear cub / Grizzly bear (Escape Caves)
+6226	South-east of Dark Warriors' Fortress	Bear Cub / Black bear / Callisto / Artio / Grizzly bear / Grizzly bear cub / Grizzly bear (Escape Caves)
+6226	South-east of Gu'Tanoth	Bear Cub / Black bear / Callisto / Artio / Grizzly bear / Grizzly bear cub / Grizzly bear (Escape Caves)
+6226	West of Tree Gnome Village	Bear Cub / Black bear / Callisto / Artio / Grizzly bear / Grizzly bear cub / Grizzly bear (Escape Caves)
+6226	South-west of Tree Gnome Stronghold	Bear Cub / Black bear / Callisto / Artio / Grizzly bear / Grizzly bear cub / Grizzly bear (Escape Caves)
+6226	Varrock south-east mine	Bear Cub / Black bear / Callisto / Artio / Grizzly bear / Grizzly bear cub / Grizzly bear (Escape Caves)
+6226	West of Lletya	Bear Cub / Black bear / Callisto / Artio / Grizzly bear / Grizzly bear cub / Grizzly bear (Escape Caves)
+6226	West of Lletya (during Song of the Elves)	Bear Cub / Black bear / Callisto / Artio / Grizzly bear / Grizzly bear cub / Grizzly bear (Escape Caves)
+6226	West of the Graveyard of Shadows	Bear Cub / Black bear / Callisto / Artio / Grizzly bear / Grizzly bear cub / Grizzly bear (Escape Caves)
+6227	Lava Maze	Hill Giant
+6227	Giant Pit (South of Chasm of Fire)	Hill Giant
+6227	Gnome Maze	Hill Giant
+6227	North of the Observatory	Hill Giant
+6227	South-west of Tree Gnome Stronghold	Hill Giant
+6227	Bone Yard Hunter area	Hill Giant
+6227	Edgeville Dungeon	Hill Giant
+6227	Taverley Dungeon	Hill Giant
+6227	Deep Wilderness Dungeon	Hill Giant
+6227	Catacombs of Kourend	Hill Giant
+6227	Giants' Plateau	Hill Giant
+6227	Warriors' Guild floor 2	Cyclops
+6227	Warriors' Guild (basement)	Cyclops
+6227	Ardougne Zoo	Cyclops
+6227	God Wars Dungeon (Bandos' Stronghold)	Cyclops
+6227	Giants' Den	Hill Giant
+6227	Avium Savannah	Hill Giant
+6228	Asgarnian Ice Dungeon	Ice giant
+6228	Settlement Ruins	Ice giant
+6228	White Wolf Mountain	Ice giant
+6228	Ice Queen's Lair	Ice giant
+6228	Ruins of Tapoyauik	Ice giant
+6228	Wilderness Slayer Cave	Ice giant
+6228	Frozen Waste Plateau	Ice giant
+6229	Brimhaven Dungeon	Fire giant
+6229	Charred Dungeon	Fire giant
+6229	Stronghold Slayer Cave	Fire giant
+6229	Deep Wilderness Dungeon	Fire giant
+6229	Catacombs of Kourend	Fire giant
+6229	Giants' Den	Fire giant
+6229	Karuulm Slayer Dungeon	Fire giant
+6229	Smoke Dungeon	Fire giant
+6229	Waterfall Dungeon	Fire giant
+6229	Isle of Souls Dungeon	Fire giant
+6230	Kourend Woodland	Moss giant
+6230	Moss Giant Island, west of Brimhaven (10 Agility required)	Moss giant
+6230	Wilderness Pond	Moss giant
+6230	Crandor	Moss giant
+6230	Pirates' Cove	Moss giant
+6230	West of Fishing Guild	Moss giant
+6230	Brimhaven Dungeon	Moss giant
+6230	Varrock Sewers	Moss giant
+6230	Catacombs of Kourend	Moss giant
+6230	Giants' Den	Moss giant
+6230	Isle of Souls	Moss giant
+6230	North east of Prifddinas	Moss giant
+6230	West of Ralos' Rise	Moss giant
+6230	Laguna Aurorae	Moss giant
+6230	Tonali Cavern - Southern Chamber (floor 0)	Moss giant
+6230	Tonali Cavern - Southern Chamber (floor 1)	Moss giant
+6230	Iorwerth Dungeon	Moss Giant (Iorwerth Dungeon)
+6230	Bryophyta's Lair (Varrock Sewers)	Bryophyta
+6231	Enchanted Valley	River troll / Thrower Troll / Thrower troll (Trollheim) / Mountain troll / Troll spectator / Twig / Berry / Ice troll runt / Ice troll male / Ice troll female / Pee Hat / Kraka / Dad / Ice troll grunt / Stick / Rock (Troll) / Troll general / Arrg / Ice troll / Ice Troll King
+6231	Northern Jatizso and Neitiznot	Ice troll runt / Ice troll male / Ice troll female
+6231	Keldagrim (Entrance tunnel)	River troll / Thrower Troll / Thrower troll (Trollheim) / Mountain troll / Troll spectator / Twig / Berry / Ice troll runt / Ice troll male / Ice troll female / Pee Hat / Kraka / Dad / Ice troll grunt / Stick / Rock (Troll) / Troll general / Arrg / Ice troll / Ice Troll King
+6231	South of Mount Quidamortem (North-east location)	River troll / Thrower Troll / Thrower troll (Trollheim) / Mountain troll / Troll spectator / Twig / Berry / Ice troll runt / Ice troll male / Ice troll female / Pee Hat / Kraka / Dad / Ice troll grunt / Stick / Rock (Troll) / Troll general / Arrg / Ice troll / Ice Troll King
+6231	South of Mount Quidamortem (South-west location)	River troll / Thrower Troll / Thrower troll (Trollheim) / Mountain troll / Troll spectator / Twig / Berry / Ice troll runt / Ice troll male / Ice troll female / Pee Hat / Kraka / Dad / Ice troll grunt / Stick / Rock (Troll) / Troll general / Arrg / Ice troll / Ice Troll King
+6231	Death Plateau	River troll / Thrower Troll / Thrower troll (Trollheim) / Mountain troll / Troll spectator / Twig / Berry / Ice troll runt / Ice troll male / Ice troll female / Pee Hat / Kraka / Dad / Ice troll grunt / Stick / Rock (Troll) / Troll general / Arrg / Ice troll / Ice Troll King
+6231	Troll Stronghold (location) (Outside)	River troll / Thrower Troll / Thrower troll (Trollheim) / Mountain troll / Troll spectator / Twig / Berry / Ice troll runt / Ice troll male / Ice troll female / Pee Hat / Kraka / Dad / Ice troll grunt / Stick / Rock (Troll) / Troll general / Arrg / Ice troll / Ice Troll King
+6231	Wyrmscraig Cavern	River troll / Thrower Troll / Thrower troll (Trollheim) / Mountain troll / Troll spectator / Twig / Berry / Ice troll runt / Ice troll male / Ice troll female / Pee Hat / Kraka / Dad / Ice troll grunt / Stick / Rock (Troll) / Troll general / Arrg / Ice troll / Ice Troll King
+6232	Southern Frozen Waste Plateau	Ice warrior
+6232	Northern Frozen Waste Plateau	Ice warrior
+6232	Asgarnian Ice Dungeon	Ice warrior
+6232	White Wolf Mountain	Ice warrior
+6232	Ice Queen's Lair	Ice warrior
+6232	Ruins of Tapoyauik - middle level	Ice warrior
+6232	Ruins of Tapoyauik - lower level	Ice warrior
+6232	Iceberg	Icelord
+6233	Chaos Druid Tower Dungeon	Ogre
+6233	Clock Tower Dungeon	Ogre
+6233	Combat Training Camp	Ogre
+6233	Corsair Cove Dungeon	Ogress Shaman
+6233	Feldip Hills	Ogre
+6233	Gnome Maze	Ogre
+6233	God Wars Dungeon	Ogre
+6233	Gu'Tanoth	Ogre
+6233	Jiggig	Skogre
+6233	Jiggig Dungeon	Zogre
+6233	Mudskipper Point	Mogre
+6233	Underground Pass (dungeon)	Ogre
+6233	West of Yanille	Ogre
+6233	Wilderness God Wars Dungeon	Ogre
+6233	Witchaven Dungeon	Ogre
+6234	Bandit Camp mine	Hobgoblin
+6234	Peninsula north-east of the Hosidius vinery	Hobgoblin
+6234	God Wars Dungeon	Hobgoblin
+6234	Peninsula West of the Crafting Guild	Hobgoblin
+6234	Outpost	Hobgoblin
+6234	Asgarnian Ice Dungeon	Hobgoblin
+6234	Edgeville Dungeon	Hobgoblin
+6235	Hosidius marketplace	Guard dog
+6235	West of Nardah	Jackal
+6235	Central Brimhaven Dungeon	Wild dog
+6235	Handelmort Mansion in East Ardougne	Guard dog
+6236	North of Mort Myre Swamp	Ghoul
+6236	South of the Slayer Tower	Ghoul
+6237	Wilderness (West of Dark Warriors' Fortress)	Green dragon
+6237	Wilderness (South of Venenatis)	Green dragon
+6237	Wilderness (North of Graveyard of Shadows)	Green dragon
+6237	Wilderness (South of Lava Maze)	Green dragon
+6237	Wilderness Slayer Cave	Green dragon
+6238	Catacombs of Kourend	Brutal blue dragon
+6238	Corsair Cove Dungeon, (Myths' Guild Dungeon)	Blue dragon / Baby blue dragon
+6238	Dragon Nest	Blue dragon / Baby blue dragon
+6238	Heroes' Guild (basement)	Blue dragon
+6238	Isle of Souls Dungeon	Blue dragon / Baby blue dragon
+6238	Ogre Enclave	Blue dragon
+6238	Taverley Dungeon	Blue dragon / Baby blue dragon
+6238	Taverley Dungeon (upper level)	Blue dragon
+6238	Ruins of Tapoyauik	Blue dragon / Baby blue dragon / Brutal blue dragon
+6238	Ungael	Vorkath
+6239	Brimhaven Dungeon	Red dragon
+6239	Charred Dungeon	Red dragon
+6239	Corsair Cove Dungeon	Red dragon
+6239	Forthos Dungeon	Red dragon
+6239	Brimhaven Dungeon (2)	Baby red dragon
+6239	Corsair Cove Dungeon (2)	Baby red dragon
+6239	Forthos Dungeon (2)	Baby red dragon
+6239	Catacombs of Kourend	Brutal red dragon
+6240	Taverley Dungeon	Black dragon
+6240	Taverley Dungeon (upper level)	Black dragon
+6240	Mynydd	Black dragon
+6240	Charred Dungeon	Black dragon
+6240	Lava Maze Dungeon	Black dragon
+6240	Evil Chicken's Lair	Black dragon
+6240	Wilderness Slayer Cave	Black dragon
+6240	Corsair Cove Dungeon	Black dragon
+6240	King Black Dragon Lair	King Black Dragon
+6240	Catacombs of Kourend	Brutal black dragon
+6240	Corsair Cove Dungeon/Myths' Guild (basement)	Baby black dragon / Black dragon
+6241	Lava Maze	Lesser demon
+6241	Demonic Ruins	Lesser demon
+6241	King Black Dragon Lair	Lesser demon
+6241	Crandor	Lesser demon
+6241	Cage on the top floor of Kourend Castle	Lesser demon
+6241	Cage on the top floor of Wizards' Tower	Lesser demon
+6241	Councillor Hughes' house in Kingstown	Lesser demon
+6241	Crandor and Karamja Dungeon	Lesser demon
+6241	Sisterhood Sanctuary	Lesser demon
+6241	Taverley dungeon	Lesser demon
+6241	Wilderness Slayer Cave	Lesser demon
+6241	Chasm of Fire	Lesser demon
+6241	Catacombs of Kourend	Lesser demon
+6241	Temple of Ikov	Lesser demon
+6241	Viyeldi caves	Lesser demon
+6241	Isle of Souls Dungeon	Lesser demon
+6241	Charred Dungeon	Lesser demon
+6242	Brimhaven Dungeon	Greater demon
+6242	Chasm of Fire	Greater demon
+6242	Catacombs of Kourend	Greater demon
+6242	Entrana Dungeon	Greater demon
+6242	Lava Maze Dungeon	Greater demon
+6242	Demonic Ruins	Greater demon
+6242	Ogre Enclave	Greater demon
+6242	Isle of Souls Dungeon	Greater demon
+6242	Karuulm Slayer Dungeon	Greater demon
+6242	Wilderness Slayer Cave	Greater demon
+6243	Brimhaven Dungeon	Black demon
+6243	Catacombs of Kourend	Black demon
+6243	Charred Dungeon	Black demon
+6243	Chasm of Fire (Bottom level)	Black demon
+6243	Crash Site Cavern	Demonic gorilla
+6243	Edgeville Dungeon	Black demon
+6243	Taverley Dungeon	Black demon
+6243	Wilderness Slayer Cave	Black demon
+6244	Buccaneers' Laboratory	Hellhound / Skeleton Hellhound (Vet'ion) / Greater Skeleton Hellhound (Vet'ion) / Skeleton Hellhound (Calvar'ion) / Greater Skeleton Hellhound (Calvar'ion) / Cerberus
+6244	Catacombs of Kourend	Hellhound / Skeleton Hellhound (Vet'ion) / Greater Skeleton Hellhound (Vet'ion) / Skeleton Hellhound (Calvar'ion) / Greater Skeleton Hellhound (Calvar'ion) / Cerberus
+6244	Charred Dungeon	Hellhound
+6244	God Wars Dungeon	Hellhound / Skeleton Hellhound (Vet'ion) / Greater Skeleton Hellhound (Vet'ion) / Skeleton Hellhound (Calvar'ion) / Greater Skeleton Hellhound (Calvar'ion) / Cerberus
+6244	Karuulm Slayer Dungeon	Hellhound / Skeleton Hellhound (Vet'ion) / Greater Skeleton Hellhound (Vet'ion) / Skeleton Hellhound (Calvar'ion) / Greater Skeleton Hellhound (Calvar'ion) / Cerberus
+6244	Stronghold Slayer Dungeon	Hellhound / Skeleton Hellhound (Vet'ion) / Greater Skeleton Hellhound (Vet'ion) / Skeleton Hellhound (Calvar'ion) / Greater Skeleton Hellhound (Calvar'ion) / Cerberus
+6244	Taverley Dungeon	Hellhound / Skeleton Hellhound (Vet'ion) / Greater Skeleton Hellhound (Vet'ion) / Skeleton Hellhound (Calvar'ion) / Greater Skeleton Hellhound (Calvar'ion) / Cerberus
+6244	Witchaven Dungeon	Hellhound / Skeleton Hellhound (Vet'ion) / Greater Skeleton Hellhound (Vet'ion) / Skeleton Hellhound (Calvar'ion) / Greater Skeleton Hellhound (Calvar'ion) / Cerberus
+6244	Wilderness (Level 49-55), near the Resource Area	Hellhound / Skeleton Hellhound (Vet'ion) / Greater Skeleton Hellhound (Vet'ion) / Skeleton Hellhound (Calvar'ion) / Greater Skeleton Hellhound (Calvar'ion) / Cerberus
+6244	Wilderness (Level 18-22), Wilderness Slayer Cave	Hellhound / Skeleton Hellhound (Vet'ion) / Greater Skeleton Hellhound (Vet'ion) / Skeleton Hellhound (Calvar'ion) / Greater Skeleton Hellhound (Calvar'ion) / Cerberus
+6244	Wilderness (Level 31-35), near Vet'ion	-
+6245	Legends' Guild Dungeon	Shadow warrior
+6246	God Wars Dungeon	Werewolf
+6246	Wilderness God Wars Dungeon	Werewolf
+6247	Burgh de Rott	Feral Vampyre / Vampyre Juvinate
+6247	Darkmeyer	Vampyre Juvinate / Vyrewatch / Vyrewatch Sentinel
+6247	God Wars Dungeon	Feral Vampyre
+6247	Haunted Woods	Feral Vampyre
+6247	Meiyerditch	Vampyre Juvinate / Vyrewatch
+6247	Slepe	Vyrewatch
+6247	Wilderness God Wars Dungeon	Feral Vampyre
+6248	Catacombs of Kourend	Dagannoth
+6248	Jormungand's Prison	Dagannoth
+6248	Lighthouse Dungeon	Dagannoth
+6248	Waterbirth Island Dungeon	Dagannoth (Waterbirth Island) / Dagannoth spawn / Dagannoth fledgeling / Dagannoth Prime / Dagannoth
+6249	Fremennik Slayer Dungeon	Turoth / Spiked Turoth
+6250	Dorgesh-Kaan South Dungeon	Cave crawler
+6250	Fremennik Slayer Dungeon	Cave crawler
+6250	Lumbridge Swamp Caves	Cave crawler
+6250	Ruins of Tapoyauik	Cave crawler
+6251	Slayer Tower (floor 0)	Banshee / Screaming banshee / Twisted Banshee / Screaming twisted banshee
+6251	Catacombs of Kourend	Banshee / Screaming banshee / Twisted Banshee / Screaming twisted banshee
+6252	Meiyerditch Laboratories	Crawling Hand
+6252	Slayer Tower (floor 0)	Crawling Hand
+6253	Slayer Tower (floor 1)	Infernal Mage
+6254	Slayer Tower (floor 1)	Aberrant spectre / Abhorrent spectre / Deviant spectre / Repugnant spectre
+6254	Stronghold Slayer Cave	Aberrant spectre / Abhorrent spectre / Deviant spectre / Repugnant spectre
+6254	Catacombs of Kourend	Aberrant spectre / Abhorrent spectre / Deviant spectre / Repugnant spectre
+6254	Deepfin Mine	Aberrant spectre / Abhorrent spectre / Deviant spectre / Repugnant spectre
+6255	Abyssal Area	Abyssal demon
+6255	Catacombs of Kourend	Abyssal demon
+6255	Slayer Tower (floor 2)	Abyssal demon
+6255	Slayer Tower (Basement)	Abyssal demon
+6255	Wilderness Slayer Cave	Abyssal demon
+6256	Fremennik Slayer Dungeon	Basilisk
+6256	Jormungand's Prison eastern rooms	Basilisk
+6256	Jormungand's Prison southern rooms	Basilisk Knight
+6257	Fremennik Slayer Cave (AJR)	Cockatrice
+6257	Neypotzli - Earthbound Cavern	Moonlight Cockatrice
+6258	Fremennik Slayer Dungeon	Kurask / King kurask
+6258	Iorwerth Dungeon	Kurask / King kurask
+6258	Kurask Lair	Kurask / King kurask
+6259	Slayer Tower (top floor)	Gargoyle / Marble gargoyle / Dawn / Dusk
+6259	Slayer Tower (basement)	Gargoyle / Marble gargoyle / Dawn / Dusk
+6259	Slayer Tower (roof)	Gargoyle / Marble gargoyle / Dawn / Dusk
+6260	Fremennik Slayer Cave (ajr)	Pyrefiend / Flaming pyrelord / Pyrelord / Infernal pyrelord
+6260	God Wars Dungeon	Pyrefiend / Flaming pyrelord / Pyrelord / Infernal pyrelord
+6260	Isle of Souls (bjp)	Pyrefiend / Flaming pyrelord / Pyrelord / Infernal pyrelord
+6260	Sisterhood Sanctuary	Pyrefiend / Flaming pyrelord / Pyrelord / Infernal pyrelord
+6260	Smoke Dungeon	Pyrefiend / Flaming pyrelord / Pyrelord / Infernal pyrelord
+6260	Wilderness God Wars Dungeon	Pyrefiend / Flaming pyrelord / Pyrelord / Infernal pyrelord
+6261	Buccaneers' Laboratory	Bloodveld / Insatiable Bloodveld / Mutated Bloodveld / Insatiable mutated Bloodveld / Reanimated bloodveld
+6261	Catacombs of Kourend	Bloodveld / Insatiable Bloodveld / Mutated Bloodveld / Insatiable mutated Bloodveld / Reanimated bloodveld
+6261	Iorwerth Dungeon	Bloodveld / Insatiable Bloodveld / Mutated Bloodveld / Insatiable mutated Bloodveld / Reanimated bloodveld
+6261	God Wars Dungeon	Bloodveld / Insatiable Bloodveld / Mutated Bloodveld / Insatiable mutated Bloodveld / Reanimated bloodveld
+6261	Meiyerditch Laboratories	Bloodveld / Insatiable Bloodveld / Mutated Bloodveld / Insatiable mutated Bloodveld / Reanimated bloodveld
+6261	Slayer Tower (floor 1)	Bloodveld / Insatiable Bloodveld / Mutated Bloodveld / Insatiable mutated Bloodveld / Reanimated bloodveld
+6261	Slayer Tower (basement)	Bloodveld / Insatiable Bloodveld / Mutated Bloodveld / Insatiable mutated Bloodveld / Reanimated bloodveld
+6261	Stronghold Slayer Cave	Bloodveld / Insatiable Bloodveld / Mutated Bloodveld / Insatiable mutated Bloodveld / Reanimated bloodveld
+6261	Wilderness God Wars Dungeon	Bloodveld / Insatiable Bloodveld / Mutated Bloodveld / Insatiable mutated Bloodveld / Reanimated bloodveld
+6262	Catacombs of Kourend	Dust devil / Choke devil
+6262	Wilderness Slayer Cave	Dust devil / Choke devil
+6262	Smoke Dungeon	Dust devil / Choke devil
+6263	Fremennik Slayer Dungeon	Jelly
+6263	Catacombs of Kourend	Warped Jelly
+6263	Wilderness Slayer Cave	Jelly
+6263	Ruins of Tapoyauik	Chilled jelly
+6263	Grimstone Dungeon	Chilled jelly
+6264	Dorgesh-Kaan South Dungeon (ajq)	Rockslug
+6264	Fremennik Slayer Dungeon (ajr)	Rockslug
+6264	Lumbridge Swamp Caves	Rockslug
+6264	Tonali Cavern	Rockslug
+6264	Ynysdail Cavern	Rockslug
+6265	Slayer Tower (top floor)	Nechryael
+6265	Slayer Tower (basement)	Nechryael
+6265	Catacombs of Kourend	Greater Nechryael
+6265	Wilderness Slayer Cave	Greater Nechryael
+6265	Iorwerth Dungeon	Greater Nechryael
+6265	Charred Dungeon	Nechryael
+6266	Kalphite Lair	Kalphite Worker / Kalphite Soldier / Kalphite Guardian / Kalphite Queen
+6266	Kalphite Cave	Kalphite Worker / Kalphite Soldier / Kalphite Guardian / Kalphite Queen
+6267	Edgeville Dungeon (Wilderness)	Earth warrior
+6268	Zanaris	Otherworldly being
+6269	Iorwerth Camp	Iorwerth Archer / Elf Archer / Iorwerth Warrior / Elf Warrior / Mourner / Guard (Prifddinas) / Reanimated elf
+6269	Iorwerth Dungeon	Iorwerth Archer / Elf Archer / Iorwerth Warrior / Elf Warrior / Mourner / Guard (Prifddinas) / Reanimated elf
+6269	Lletya	Iorwerth Archer / Elf Archer / Iorwerth Warrior / Elf Warrior / Mourner / Guard (Prifddinas) / Reanimated elf
+6269	Lletya (upstairs)	Iorwerth Archer / Elf Archer / Iorwerth Warrior / Elf Warrior / Mourner / Guard (Prifddinas) / Reanimated elf
+6269	Mourner Headquarters (downstairs)	Iorwerth Archer / Elf Archer / Iorwerth Warrior / Elf Warrior / Mourner / Guard (Prifddinas) / Reanimated elf
+6269	Prifddinas South Gate	Iorwerth Archer / Elf Archer / Iorwerth Warrior / Elf Warrior / Mourner / Guard (Prifddinas) / Reanimated elf
+6269	Prifddinas East Gate	Iorwerth Archer / Elf Archer / Iorwerth Warrior / Elf Warrior / Mourner / Guard (Prifddinas) / Reanimated elf
+6269	Prifddinas North Gate	Iorwerth Archer / Elf Archer / Iorwerth Warrior / Elf Warrior / Mourner / Guard (Prifddinas) / Reanimated elf
+6269	Prifddinas West Gate	Iorwerth Archer / Elf Archer / Iorwerth Warrior / Elf Warrior / Mourner / Guard (Prifddinas) / Reanimated elf
+6269	Tower of Voices floor 0	Iorwerth Archer / Elf Archer / Iorwerth Warrior / Elf Warrior / Mourner / Guard (Prifddinas) / Reanimated elf
+6269	Tower of Voices floor 1	Iorwerth Archer / Elf Archer / Iorwerth Warrior / Elf Warrior / Mourner / Guard (Prifddinas) / Reanimated elf
+6269	Prifddinas market place	Iorwerth Archer / Elf Archer / Iorwerth Warrior / Elf Warrior / Mourner / Guard (Prifddinas) / Reanimated elf
+6270	Deep Wilderness Dungeon	Dwarf / Guard (dwarf) / Black Guard / Dwarf gang member / Chaos dwarf / Black Guard Berserker
+6270	Dwarven Mine	Dwarf / Guard (dwarf) / Black Guard / Dwarf gang member / Chaos dwarf / Black Guard Berserker
+6270	Dwarven Mine entrance (Ice Mountain)	Dwarf / Guard (dwarf) / Black Guard / Dwarf gang member / Chaos dwarf / Black Guard Berserker
+6270	Ice Mountain	Dwarf / Guard (dwarf) / Black Guard / Dwarf gang member / Chaos dwarf / Black Guard Berserker
+6270	Falador Mining Guild (floor 1)	Dwarf / Guard (dwarf) / Black Guard / Dwarf gang member / Chaos dwarf / Black Guard Berserker
+6270	Falador near the Mining Guild ladders	Dwarf / Guard (dwarf) / Black Guard / Dwarf gang member / Chaos dwarf / Black Guard Berserker
+6270	Keldagrim (upstairs in the building west of the bank)	Dwarf / Guard (dwarf) / Black Guard / Dwarf gang member / Chaos dwarf / Black Guard Berserker
+6270	Keldagrim	Dwarf / Guard (dwarf) / Black Guard / Dwarf gang member / Chaos dwarf / Black Guard Berserker
+6270	Lovakengj	Dwarf / Guard (dwarf) / Black Guard / Dwarf gang member / Chaos dwarf / Black Guard Berserker
+6270	Lovakengj (floor 1 Buildings)	Dwarf / Guard (dwarf) / Black Guard / Dwarf gang member / Chaos dwarf / Black Guard Berserker
+6270	North of Wilderness Bandit Camp	Dwarf / Guard (dwarf) / Black Guard / Dwarf gang member / Chaos dwarf / Black Guard Berserker
+6270	South-east of Lava Dragon Isle	Dwarf / Guard (dwarf) / Black Guard / Dwarf gang member / Chaos dwarf / Black Guard Berserker
+6270	South of Yanille	Dwarf / Guard (dwarf) / Black Guard / Dwarf gang member / Chaos dwarf / Black Guard Berserker
+6270	South of Coal Trucks	Dwarf / Guard (dwarf) / Black Guard / Dwarf gang member / Chaos dwarf / Black Guard Berserker
+6270	Taverley Dungeon	Dwarf / Guard (dwarf) / Black Guard / Dwarf gang member / Chaos dwarf / Black Guard Berserker
+6270	White Wolf Mountain tunnels	Dwarf / Guard (dwarf) / Black Guard / Dwarf gang member / Chaos dwarf / Black Guard Berserker
+6271	Brimhaven Dungeon (task only area)	Iron dragon
+6271	Brimhaven Dungeon	Iron dragon
+6271	Catacombs of Kourend	Iron dragon
+6271	Isle of Souls Dungeon	Iron dragon
+6271	Ancient Cavern (upper level)	Mithril dragon
+6271	Lithkren Vault	Adamant dragon / Rune dragon
+6272	Brimhaven Dungeon	Iron dragon
+6272	Brimhaven Dungeon (Task only area)	Iron dragon
+6272	Catacombs of Kourend	Iron dragon
+6272	Isle of Souls Dungeon	Iron dragon
+6273	Brimhaven Dungeon	Steel dragon
+6273	Brimhaven Dungeon (Task only area)	Steel dragon
+6273	Catacombs of Kourend	Steel dragon
+6274	Lumbridge Swamp Caves	Wall beast
+6275	Dorgesh-Kaan South Dungeon (ajq)	Cave slime
+6275	Lumbridge Swamp Caves	Cave slime
+6276	Dorgesh-Kaan South Dungeon	Cave bug
+6276	Lumbridge Swamp Caves	Cave bug
+6277	Sepulchre of Death in Stronghold of Security	Shade
+6277	Catacombs of Kourend	Shade
+6277	Mort'ton	Loar Shade
+6277	Shade Catacombs	Urium Shade
+6278	Along the River Elid	Crocodile
+6278	Near the Ruins of Unkah	Crocodile
+6278	Near the Ruins of Ullek	Crocodile
+6279	Iorwerth Dungeon	Dark beast
+6279	Mourner Tunnels	Dark beast
+6280	Chaos Druid Tower Dungeon	Ogre
+6280	Clock Tower Dungeon	Ogre
+6280	Combat Training Camp	Ogre
+6280	Corsair Cove Dungeon	Ogress Shaman
+6280	Feldip Hills	Ogre
+6280	Gnome Maze	Ogre
+6280	God Wars Dungeon	Ogre
+6280	Gu'Tanoth	Ogre
+6280	Jiggig	Skogre
+6280	Jiggig Dungeon	Zogre
+6280	Mudskipper Point	Mogre
+6280	Underground Pass (dungeon)	Ogre
+6280	West of Yanille	Ogre
+6280	Wilderness God Wars Dungeon	Ogre
+6280	Witchaven Dungeon	Ogre
+6281	Kharidian Desert, north of Nardah ()	Small Lizard / Desert Lizard / Lizard / Sulphur Lizard / Grimy Lizard
+6281	Karuulm Slayer Dungeon (floor 1)	Small Lizard / Desert Lizard / Lizard / Sulphur Lizard / Grimy Lizard
+6281	Neypotzli - Streambound Cavern	Small Lizard / Desert Lizard / Lizard / Sulphur Lizard / Grimy Lizard
+6282	Braindeath Island	Fever spider
+6283	North-east of Tai Bwo Wannai (dkp)	Harpie Bug Swarm
+6283	East of the Colossal Wyrm Remains	Harpie Bug Swarm
+6284	Miscellania and Etceteria dungeon	Sea Snake Hatchling / Sea Snake Young
+6285	Asgarnian Ice Dungeon (AIQ)	Skeletal Wyvern
+6286	Killerwatt plane	Killerwatt
+6287	East of the furnace in Zanaris	Zygomite
+6287	Zanaris near the Cosmic Altar	Zygomite
+6287	Mushroom Forest on Fossil Island	Ancient Zygomite
+6287	Stalker Den	Ancient Zygomite
+6288	Ice Mountain	Icefiend
+6288	Ruins of Tapoyauik	Icefiend
+6288	Ralos' Rise	Icefiend
+6288	Mons Gratia	Icefiend
+6288	God Wars Dungeon	Icefiend
+6288	Wilderness God Wars Dungeon	Icefiend
+6289	Stronghold of Security: Vault of War	Minotaur
+6290	Stronghold of Security: Catacomb of Famine	Flesh Crawler
+6291	Stronghold of Security: Pit of Pestilence	Catablepon
+6292	Catacombs of Kourend	Ankou / Dark Ankou
+6292	Stronghold of Security: Sepulchre of Death	Ankou / Dark Ankou
+6292	Stronghold Slayer Cave	Ankou / Dark Ankou
+6292	Wilderness Slayer Cave	Ankou / Dark Ankou
+6292	The Forgotten Cemetery	Ankou / Dark Ankou
+6293	Mos Le'Harmless Cave	Cave horror
+6294	Mos Le'Harmless	Jungle horror
+6295	North Lunar Isle	Suqah
+6295	South-east Lunar Isle	Suqah
+6295	South-west Lunar Isle	Suqah
+6296	Brine Rat Cavern	Brine rat
+6297	Sophanem Dungeon (cavern level)	Locust rider
+6297	Sophanem Dungeon (maze level)	Locust rider
+6297	Uzer Mastaba	Small scarab
+6298	Tarn's Lair	Terror dog
+6299	Dorgesh-Kaan South Dungeon	Molanisk
+6300	Ancient Cavern	Waterfiend
+6300	Kraken Cove	Waterfiend
+6300	Iorwerth Dungeon	Waterfiend
+6301	God Wars Dungeon	Spiritual ranger
+6301	God Wars Dungeon (2)	Spiritual ranger
+6301	Wilderness God Wars Dungeon	Spiritual ranger
+6301	God Wars Dungeon (3)	Spiritual warrior
+6301	God Wars Dungeon (4)	Spiritual warrior
+6301	Wilderness God Wars Dungeon (2)	Spiritual warrior
+6301	God Wars Dungeon (5)	Spiritual mage
+6301	God Wars Dungeon (6)	Spiritual mage
+6301	Wilderness God Wars Dungeon (3)	Spiritual mage
+6302	Shayziens' Wall	Lizardman
+6302	Lizardman Canyon, west side	Lizardman
+6302	Lizardman Canyon, east side	Lizardman
+6302	Lizardman Settlement	Lizardman
+6302	Kebos Swamp	Lizardman
+6302	Battlefront	Lizardman
+6302	Molch	Lizardman
+6302	Shayziens' Wall (2)	Lizardman brute
+6302	Lizardman Canyon	Lizardman brute
+6302	Lizardman Settlement (2)	Lizardman brute
+6302	Kebos Swamp (2)	Lizardman brute
+6302	Battlefront (2)	Lizardman brute
+6302	Molch (2)	Lizardman brute
+6302	South of Xeric's Shrine	Lizardman brute
+6302	Lizardman Canyon, west side (2)	Lizardman shaman
+6302	Lizardman Caves, underneath Lizardman Settlement	Lizardman shaman
+6302	Lizardman Temple, beneath Molch	Lizardman shaman
+6303	Magic axe hut (23 Thieving and lockpick required)	Magic axe
+6303	Taverley Dungeon	Magic axe
+6303	Catacombs of Kourend	Magic axe
+6304	Kraken Cove	Cave kraken / Kraken
+6305	Brimhaven Dungeon (task only area)	Iron dragon
+6305	Brimhaven Dungeon	Iron dragon
+6305	Catacombs of Kourend	Iron dragon
+6305	Isle of Souls Dungeon	Iron dragon
+6305	Ancient Cavern (upper level)	Mithril dragon
+6305	Lithkren Vault	Adamant dragon / Rune dragon
+6306	God Wars Dungeon	Aviansie / Kree'arra / Flight Kilisa / Wingman Skree / Flockleader Geerin
+6306	Wilderness God Wars Dungeon	Aviansie / Kree'arra / Flight Kilisa / Wingman Skree / Flockleader Geerin
+6307	Smoke Devil Dungeon	Smoke devil / Thermonuclear smoke devil
+6308	Mor Ul Rek	TzHaar-Hur / TzHaar-Mej / TzHaar-Ket
+6308	Mor Ul Rek (Ranged)	TzHaar-Xil
+6308	Mor Ul Rek (Melee)	TzHaar-Xil
+6312	South-east of Ferox Enclave	Mammoth
+6313	Rogues' Castle (floor 0)	Rogue
+6313	Rogues' Castle (floor 1)	Rogue
+6313	Rogues' Castle (floor 2)	Rogue
+6313	Rogues' Castle (floor 3)	Rogue
+6313	South-west of Mage Arena	Rogue
+6314	East of Chaos Temple (Wilderness)	Ent
+6314	North of Chaos Temple (Wilderness)	Ent
+6314	Woodcutting Guild Ent Dungeon	Ent
+6315	Bandit Camp (Wilderness)	Bandit
+6315	Wilderness Slayer Cave	Bandit
+6316	Dark Warriors' Fortress	Dark warrior
+6316	Dark Warriors' Fortress (floor 1)	Dark warrior
+6316	South of Shayzien	Dark warrior
+6316	Woods between Lovakengj and Arceuus	Dark warrior
+6317	Lava Dragon Isle	Lava dragon
+6318	Wyvern Cave, east of Museum Camp	Spitting Wyvern / Taloned Wyvern / Long-tailed Wyvern / Ancient Wyvern
+6318	Task-only Wyvern Cave, inside the Mushroom Forest	Spitting Wyvern / Taloned Wyvern / Long-tailed Wyvern / Ancient Wyvern
+6319	Revenant Caves	Revenant imp / Revenant pyrefiend / Revenant demon / Revenant ork
+6319	Revenant Cave	Revenant goblin / Revenant hobgoblin / Revenant cyclops / Revenant hellhound / Revenant dark beast / Revenant knight / Revenant dragon
+6320	Lithkren Vault	Adamant dragon
+6321	Lithkren Vault	Rune dragon
+6322	Brimhaven Dungeon (task only area)	Iron dragon
+6322	Brimhaven Dungeon	Iron dragon
+6322	Catacombs of Kourend	Iron dragon
+6322	Isle of Souls Dungeon	Iron dragon
+6322	Ancient Cavern (upper level)	Mithril dragon
+6322	Lithkren Vault	Adamant dragon / Rune dragon
+6323	Chaos Druid Tower	Chaos druid
+6323	Top of Slepe Church	Chaos druid
+6323	Edgeville Dungeon (Wilderness)	Chaos druid
+6323	Taverley Dungeon	Chaos druid
+6323	Yanille Agility Dungeon	Chaos druid
+6323	Chaos Temple (Wilderness)	Elder Chaos druid
+6324	Karuulm Slayer Dungeon	Wyrm
+6324	Neypotzli	Wyrmling
+6324	Wyrmscraig	Wyrmling
+6324	Wyrmscraig Cavern	Wyrm
+6324	Wyrmscraig Cavern (2)	Lava Strykewyrm
+6324	Charred Dungeon	Lava Strykewyrm
+6325	Karuulm Slayer Dungeon	Drake
+6326	Karuulm Slayer Dungeon	Hydra
+6326	Karuulm Slayer Dungeon (Alchemical Hydra room)	Alchemical Hydra
+6327	Forthos Dungeon	Temple Spider
+6328	Forthos Dungeon	Undead Druid
+6329	Karuulm Slayer Dungeon (floor 1)	Sulphur Lizard
+6330	Catacombs of Kourend	Brutal black dragon
+6332	Avium Savannah - southern coast	Sand Crab
+6332	Crabclaw Caves	Sand Crab
+6332	Crabclaw Isle	Sand Crab
+6332	East of the Hosidius vinery	Sand Crab
+6332	Hosidius - southern coast	Sand Crab
+6332	Isle of Souls	Sand Crab
+6332	Outer Fortis	Sand Crab
+6332	Tear of the Soul	Sand Crab
+6332	Wintumber Island	Sand Crab
+6333	Mogre Camp	Crab
+6333	Mushroom Forest	Ammonite Crab
+6333	Fossil Island Volcano	Ammonite Crab
+6333	Wyvern Cave - northern cave	Ammonite Crab
+6333	Ruins of Tapoyauik bottom floor	Frost Crab
+6333	Ruins of Tapoyauik middle floor	Frost Crab
+6333	Catacombs of Kourend	King Sand Crab
+6333	Crabclaw Caves	King Sand Crab / Sand Crab
+6333	North of Rellekka	Rock Crab
+6333	Waterbirth Island	Rock Crab
+6333	West of Mount Quidamortem	Rock Crab
+6333	Waterbirth Island Dungeon	Rock Crab
+6333	Brine Rat Cavern	Rock Crab
+6333	Charred Island	Rock Crab
+6333	Waterbirth Island Dungeon sublevel 1	Giant Rock Crab
+6333	Waterbirth Island Dungeon sublevel 2	Giant Rock Crab
+6333	Waterbirth Island Dungeon sublevel 3	Giant Rock Crab
+6333	Waterbirth Island Dungeon sublevel 5	Giant Rock Crab
+6333	Tonali Cavern	Giant Rock Crab
+6333	Isle of Serpents	Giant Rock Crab
+6333	Avium Savannah - southern coast	Sand Crab
+6333	Crabclaw Isle	Sand Crab
+6333	East of the Hosidius vinery	Sand Crab
+6333	Hosidius - southern coast	Sand Crab
+6333	Isle of Souls	Sand Crab
+6333	Outer Fortis	Sand Crab
+6333	Tear of the Soul	Sand Crab
+6333	Wintumber Island	Sand Crab
+6333	Haunted Woods	Swamp Crab
+6333	Slepe	Swamp Crab
+6334	North-east of Bone Yard (Wilderness)	Black Knight
+6334	South of Draynor Village Bank	Black Knight
+6334	North of Varrock	Black Knight
+6334	Jolly Boar Inn	Black Knight
+6334	Black Knights' Fortress (floor 0)	Black Knight
+6334	Lava Maze (Wilderness)	Black Knight
+6334	Black Knights' Fortress (floor 1)	Black Knight
+6334	Black Knights' Fortress (floor 2)	Black Knight
+6334	Taverley Dungeon	Black Knight
+6335	Pirates' Hideout	Pirate
+6335	Chaos Temple (Wilderness)	Zombie pirate
+6336	Sourhog Cave	Sourhog
+6337	Poison Waste Dungeon - main level tortoises	Warped Tortoise
+6337	Poison Waste Dungeon - lower level tortoises	Warped Tortoise
+6337	Poison Waste Dungeon - main level terrorbirds	Warped Terrorbird
+6337	Poison Waste Dungeon - lower level terrorbirds	Warped Terrorbird
+6338	Neypotzli	Sulphur Nagua
+6338	Ruins of Tapoyauik	Frost Nagua
+6338	Crypt of Tonali	-
+6339	Morytania Spider Cave main room	Araxyte
+6339	Morytania Spider Cave south-eastern room	Araxyte
+6339	Morytania Spider Cave eastern room	Araxyte
+6339	Morytania Spider Cave northern room	Araxyte
+6339	Araxxor boss lair	Araxyte
+6340	Stalker Den (single-combat)	Juvenile custodian stalker / Mature custodian stalker / Elder custodian stalker
+6340	Stalker Den (multicombat)	Juvenile custodian stalker / Mature custodian stalker / Elder custodian stalker
+7201	Apsul Hunting Ground	Venator
+7201	Virer Hunting Ground	Venator
+9414	Western gryphon dungeon	Gryphon
+9414	Eastern gryphon dungeon	Gryphon
+9414	Shellbane Gryphon Cave	Shellbane gryphon
+9415	Ynysdail Cavern	Aquanite
+9416	Grimstone Dungeon (DLP)	Frost dragon
+6217	Spider Hill (north of the Lava Dragon Isle)	Spider / Giant spider
+6217	West of the Wilderness Bandit Camp	Giant spider / Spider
+6217	North of the Lava Maze	Deadly red spider
+6217	Ruins (east)	Deadly red spider
+6217	Edgeville Dungeon (Wilderness)	Deadly red spider / Poison spider
+6217	South of the Demonic Ruins	Poison spider
+6217	Lava Maze Dungeon	Poison spider
+6217	Escape Caves	Poison spider (Escape Caves)
+6217	Deep Wilderness Dungeon	Shadow spider
+6217	Frozen Waste Plateau	Ice spider
+6217	Venenatis (Silk Chasm)	Venenatis
+6219	North of Hosidius Town Square	Cow calf
+6219	Kebos Lowlands - Keith's farm	Cow calf
+6219	Kebos Lowlands - Gordon's farm	Cow calf
+6219	South-west Isle of Souls	Cow calf
+6242	Ancient Guthixian Temple	Tormented Demon
+6338	Tonali Cavern - Southern Cavern (middle floor)	Earthen Nagua
+6338	Tonali Cavern - Southern Cavern (bottom floor)	Earthen Nagua
+6338	Tonali Cavern - Sun Chamber	Earthen Nagua
+6297	Scabaras Dungeon	Scarab Mage
+6220	Near the Grave of Scorpius	Grave scorpion
+6220	Legends' Guild dungeon	Pit Scorpion
+6220	Near North Brimhaven mine	Poison Scorpion
+6220	Taverley Dungeon	Poison Scorpion
+6224	Shilo Village Entrance	Undead one
+6224	Ah Za Rhoon	Undead one
+6224	Rashiliyia's Tomb	Undead one
+6217	Barrows tunnels	Crypt spider / Giant crypt spider
+6217	Karamja	Jungle spider
+6217	Kharazi Jungle	Jungle spider
+6217	Yanille Chain	Jungle spider
+6217	Tai Bwo Wannai	Jungle spider
+6217	Brimhaven	Jungle spider
+6217	Ape Atoll	Spider (Ape Atoll)
+6217	Ape Atoll (floor 1 Buildings)	Spider (Ape Atoll)
+6217	Ape Atoll (floor 2 Buildings)	Spider (Ape Atoll)
+6217	Ape Atoll Dungeon	Spider (Ape Atoll)
+6217	Banana plantation (Ape Atoll)	Spider (Ape Atoll)
+6217	Temple of Marimbo Dungeon	Spider (Ape Atoll)
+6217	Ungael laboratory	Spider (Ungael)
+6247	Crombwick Manor	Vampyre Juvenile
+6222	Kharidian Desert	Desert Wolf
+6222	Necropolis	Desert Wolf
+6222	Trollweiss Mountain	Ice wolf
+6222	Settlement Ruins	Ice wolf
+6222	Weiss	Ice wolf
+6222	Ice Path	Ice wolf
+6222	Outside God Wars Dungeon	Ice wolf
+6222	Kharazi Jungle	Jungle Wolf

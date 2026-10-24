@@ -1,0 +1,8 @@
+# Special Slayer loot (owner 2026-10-19: "special loot should be displayed somewhere, like the items you get from kourend
+# catacombs"). Hand-written from the OSRS Wiki pages named per line (read 2026-10-19; CC BY-NC-SA 3.0, see
+# data/wiki/LICENSE-WIKI.txt); the item numbers are checked in the game cache by the Data Tool's Slayer export.
+# kind "area": for every Slayer place whose name starts with the key; kind "master": for every task from that master.
+kind	key	items	note	source
+area	Catacombs of Kourend	19677 19679 19681 19683	Ghosts don't drop the totem pieces.	OSRS Wiki: Catacombs of Kourend
+master	Konar	23083	Only while on a task from Konar.	OSRS Wiki: Brimstone key
+master	Krystilia	23490	Only while on a task from Krystilia; more often in the Wilderness Slayer Cave.	OSRS Wiki: Larran's key

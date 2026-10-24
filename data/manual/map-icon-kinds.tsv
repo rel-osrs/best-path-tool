@@ -1,0 +1,79 @@
+# Names for the game's map icon kinds (stage 8, "go to nearest", 2026-10-19). The game cache has each kind's picture and
+# where it is shown (invisible marker objects carrying a map icon id; cache 2735: 369 kinds placed) but NO names, so the
+# names here were written by Claude from each icon's picture and the named objects found beside its places
+# (gradlew -p tool mapIconSurvey); NOT yet checked by the owner, who picks which kinds get a button.
+# Only the kinds named here go into the plugin's places.tsv; a kind left out here is not offered.
+# icon <tab> kind (as the sidebar shows it) <tab> why this name (beside = named objects within 5 tiles of its places;
+# "Name not sure:" = named from the picture only, the card asks the owner to check). The owner keeps, removes or
+# renames each kind on its card in the Data Tool (PLACE_KIND changes in changes.jsonl); this file is not changed by that.
+icon	kind	why
+0	General store	picture (sack of goods); 64 places
+1	Sword shop	picture (sword)
+2	Magic shop	picture (red orb)
+3	Axe shop	picture (axe); Lumbridge 3233,3203 (Bob's axes)
+4	Helmet shop	picture (helmet); Barbarian Village 3074,3429
+5	Bank	picture (coins); beside: bank booth, bank chest. Its places come from banks.tsv (the tiles a player banks from)
+7	Amulet shop	picture (amulet)
+8	Mining site	picture (pickaxe); beside: coal, iron, mithril rocks
+9	Furnace	picture; beside: furnace (31 of 49)
+10	Anvil	picture; beside: anvil (69 of 74)
+11	Combat training	picture; beside: dummy (10 of 10)
+12	Dungeon	picture; beside: cave, cave entrance
+13	Quest start	picture; 194 places (about one per quest)
+15	Staff shop	picture (staff); Varrock 3203,3437 (Zaff)
+16	Platebody shop	picture (platebody); Varrock 3229,3440 (Horvik)
+17	Platelegs shop	picture (platelegs); Al Kharid 3316,3175 (Louie)
+18	Scimitar shop	picture (scimitar); Al Kharid 3289,3189 (Zeke)
+19	Archery shop	picture (bow); beside: arrows
+20	Shield shop	picture (shield); Falador 2977,3383 (Cassie)
+21	Altar	picture; beside: altar (48 of 79), chaos altar
+22	Herbalist	Name not sure: picture (leaf)
+23	Jewellery shop	picture (ring)
+24	Gem shop	picture (gem); beside: gem stall
+25	Crafting shop	picture (needle); beside: clothing shelves, spinning wheel
+26	Candle shop	picture (candle)
+27	Fishing shop	picture (rod); beside: fish stall
+28	Fishing spot	picture (fish); 245 places
+29	Clothes shop	picture (shirt); beside: clothes model
+30	Apothecary	picture (potion); Varrock 3195,3403
+31	Silk trader	picture; beside: silk stall
+32	Kebab seller	picture; beside: kebab
+33	Pub	picture (beer); beside: bar
+34	Mace shop	picture (mace); Falador 2950,3386 (Flynn)
+35	Tannery	picture; beside: tanning line
+36	Rare trees	picture (tree); beside: yew, maple, magic trees
+37	Spinning wheel	picture; beside: spinning wheel
+38	Food shop	picture (bread); beside: baker's stall
+39	Cookery shop	picture (knife and fork); beside: gnome cooker
+40	Minigame	Name not sure: picture
+41	Water source	picture (drop); beside: sink
+42	Cooking range	picture (pan); beside: range
+43	Skirt shop	picture (skirt); Al Kharid 3315,3162
+44	Pottery	picture (pot); beside: potter's wheel, pottery oven
+45	Windmill	Name not sure: picture (sails); Lumbridge mill 3166,3307
+46	Mining shop	picture (pickaxe); Dwarven Mine 3036,9846 (Nurmof)
+47	Chainmail shop	picture (chainmail); Falador 2972,3313 (Wayne)
+48	Silver shop	picture; beside: silver stall
+49	Fur trader	picture; beside: fur stall
+50	Spice shop	picture; beside: spice stall
+51	Agility training	picture (running man)
+52	Fruit shop	picture (apple); beside: fruit stall, veg stall
+53	Slayer master	picture (skull); Burthorpe 2931,3536, Edgeville Dungeon 3146,9914, Canifis 3511,3509, Shilo 2869,2982
+54	Hairdresser	picture (scissors); beside: vanity dresser
+55	Farming patch	picture (trowel); Farming Guild 1234,3754 and others
+56	Makeover Mage	picture (face); south of Falador 2920,3324
+58	Transportation	picture (arrow); beside: gangplank, hoisted sail
+59	House portal	picture (portal); beside: house advertisement
+60	Farming shop	Name not sure: picture (plant pot)
+61	Loom	picture; beside: loom
+62	Brewery	picture (barrel); beside: tap, valve, apple press
+63	Dairy churn	picture; beside: dairy churn (15 of 15)
+65	Hunter training	picture (paw)
+66	Poll booth	Name not sure: picture (ballot); beside: bank booth
+68	Estate agent	picture (house); Varrock 3240,3476, Falador 2983,3368
+69	Sawmill	picture (saw); Varrock 3301,3494
+70	Stonemason	picture (hammer and stone); Keldagrim 2849,10184
+71	Agility shortcut	picture (green arrow); beside: rocks, stepping stone, crevice
+74	Sandpit	picture (sand); beside: sand pit
+596	Dairy cow	picture (cowbell); beside: dairy cow (13 of 16)
+652	Death's Domain	picture (gravestone); beside: Death's Domain

@@ -1,0 +1,3 @@
+// BestPath Data Tool: a separate Gradle build from the plugin.
+// The plugin build (repository root) never sees this build or its dependencies.
+rootProject.name = 'bestpath-tool'

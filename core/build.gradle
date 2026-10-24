@@ -1,0 +1,32 @@
+plugins {
+	id 'java'
+}
+
+repositories {
+	mavenCentral()
+}
+
+dependencies {
+	testImplementation 'org.junit.jupiter:junit-jupiter:5.10.2'
+	testRuntimeOnly 'org.junit.platform:junit-platform-launcher:1.10.2'
+}
+
+tasks.withType(JavaCompile).configureEach {
+	options.encoding = 'UTF-8'
+	options.release.set(11)
+}
+
+// Development-only code in src/dev/java: the plain searches the real one is checked against, the data files' writers
+// and builders, diagnostics. The tests and the Data Tool compile it; the plugin never does (it is not published).
+sourceSets {
+	test {
+		java {
+			srcDir 'src/dev/java'
+		}
+	}
+}
+
+test {
+	testLogging.showStandardStreams = true
+	useJUnitPlatform()
+}

@@ -1,0 +1,17 @@
+# Teleport categories and their tick cost (owner 2026-10-12: "break them down into categories and make them adjustable").
+# category <tab> ticks <tab> what belongs in it. Starting values from Shortest Path's durations (to check in game);
+# change them here or in the Data Tool (Route tab, "Teleport costs ..."). Owner 2026-10-12: item categories are split into
+# "infinite" (unlimited uses) and "consumable" (charges, limited uses per day, or the item is used up); the four spellbook
+# categories are one "spell" category (owner 2026-10-12). Owner 2026-10-18: every category 10 ticks, home and grouping
+# teleports 100 (they were 124 = 24 + 100).
+spell	10	Teleport spells of every spellbook (standard, Ancient, Lunar, Arceuus; not the home teleports)
+home teleport	100	Home teleports of every spellbook (cooldown)
+grouping teleport	100	Minigame / grouping teleports (cooldown)
+tablet	10	Teleport tablets (house tablets included)
+scroll	10	Teleport scrolls
+jewellery (infinite)	10	Amulets, necklaces, rings, bracelets with unlimited uses (eternal glory, ring of the elements...)
+jewellery (consumable)	10	Amulets, necklaces, rings, bracelets that use up charges or crumble (glory, games necklace, ring of dueling...)
+cape or diary item (infinite)	10	Skill capes, max cape, diary rewards with unlimited uses
+cape or diary item (consumable)	10	Capes and diary rewards with limited uses (charges or uses per day)
+other item (infinite)	10	Other teleport items with unlimited uses (ectophial, eternal teleport crystal...)
+other item (consumable)	10	Other teleport items that use up charges, uses or the item (teleport crystal, seed pods, whistles...)

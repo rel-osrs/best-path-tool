@@ -1,0 +1,5 @@
+# Transport ends the owner checked and found fine although groundCheck finds no ground there (gradlew -p tool groundCheck).
+# groundCheck counts them as "checked by the owner (fine)" and doesn't list them. Columns: transport id, end (start or end), why.
+t-1791778058879-1927	start	Owner 2026-10-19: checked, fine (Cave at Wyrmscraig: only a boat uses it, the sailing search)
+t-1791778058879-1927	end	Owner 2026-10-19: checked, fine (Cave at Wyrmscraig: only a boat uses it, the sailing search)
+t-1791779951768-2159	end	Owner 2026-10-19: checked, fine (Rock, Meiyerditch: the tile the owner opened, 2026-10-18 card gc-2159)

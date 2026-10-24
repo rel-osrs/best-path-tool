@@ -1,0 +1,11 @@
+# Safe areas inside the Wilderness (owner 2026-10-18: "ferox is a safe area"). The game's level script (client script
+# 384) counts them as the Wilderness; the server makes them safe. name <tab> one tile inside x,y,plane <tab> source.
+# The Data Tool's export takes the walled ground around that tile (walking map, barriers not walked through, holes
+# closed) out of the Wilderness (tool/.../extract/SafeAreas).
+Ferox Enclave	3131,3631,0	owner 2026-10-18 ("ferox is a safe area"); the tile in front of the Ferox Enclave bank chest (banks.tsv)
+Slayer Tower basement	3412,9932,3	owner 2026-10-19 in-game test ("that is wrong", "not wilderness"); the tile the Slayer Tower's basement ladder (3417,3536) lands on
+Falador museum underground (west stairs)	3014,9951,0	owner 2026-10-19 ("not wilderness"); the tile the Staircase (museum) at 3038,3382 lands on
+Falador museum underground (east stairs)	3065,9951,0	owner 2026-10-19 ("not wilderness"); the tile the Staircase (museum) at 3053,3382 lands on
+Falador museum underground (lower room)	2975,9950,0	owner 2026-10-19 ("not wilderness"); the tile the Staircase at 3039,9950 lands on
+Ferox Enclave underground	3164,10042,0	owner 2026-10-19 ("not wilderness"); the tile the Ferox Enclave stairs (3152,3643) land on; the Soul Wars portal room
+Bryophyta's Lair (Varrock Sewers)	3220,9933,0	owner 2026-10-19 (yes to "Bryophyta's Lair in the Varrock Sewers is not Wilderness"); the Slayer place's tile (slayer.tsv, Wiki Slayer task/Moss giants@15250972)

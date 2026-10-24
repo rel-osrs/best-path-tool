@@ -1,0 +1,343 @@
+{
+  "licence": "Tiles derived from the Old School RuneScape Wiki (https://oldschool.runescape.wiki), CC BY-NC-SA 3.0. Each record names its page and revision. NPC ids, names and options are from the game cache. Not covered by the project's BSD-2 licence.",
+  "fetched": "2026-10-10T17:56:25.994047300Z",
+  "records": [
+    {
+      "npcId": 14975,
+      "name": "Junior Jim",
+      "options": [
+        "Talk-to",
+        "Buy-boat",
+        "Customise-boat",
+        "Recover-boat"
+      ],
+      "tiles": [
+        [
+          3058,
+          2981,
+          0
+        ],
+        [
+          2018,
+          2665,
+          0
+        ],
+        [
+          3058,
+          2979,
+          0
+        ]
+      ],
+      "page": "Junior Jim",
+      "revid": 15239708
+    },
+    {
+      "npcId": 15352,
+      "name": "Shipwright Seb",
+      "options": [
+        "Talk-to",
+        "Trade",
+        "Repair-boat"
+      ],
+      "tiles": [
+        [
+          2082,
+          2722,
+          0
+        ]
+      ],
+      "page": "Shipwright Seb",
+      "revid": 15321841
+    },
+    {
+      "npcId": 15363,
+      "name": "Shipwright Sam",
+      "options": [
+        "Talk-to",
+        "Buy-boat",
+        "Customise-boat",
+        "Recover-boat"
+      ],
+      "tiles": [
+        [
+          3024,
+          3204,
+          0
+        ]
+      ],
+      "page": "Shipwright Sam",
+      "revid": 15239750
+    },
+    {
+      "npcId": 15364,
+      "name": "Shipwright Sally",
+      "options": [
+        "Talk-to",
+        "Buy-boat",
+        "Customise-boat",
+        "Recover-boat"
+      ],
+      "tiles": [
+        [
+          2946,
+          3149,
+          0
+        ],
+        [
+          2946,
+          3147,
+          0
+        ]
+      ],
+      "page": "Shipwright Sally",
+      "revid": 15239749
+    },
+    {
+      "npcId": 15365,
+      "name": "Shipwright Sophie",
+      "options": [
+        "Talk-to",
+        "Buy-boat",
+        "Customise-boat",
+        "Recover-boat"
+      ],
+      "tiles": [
+        [
+          2805,
+          3428,
+          0
+        ]
+      ],
+      "page": "Shipwright Sophie",
+      "revid": 15239748
+    },
+    {
+      "npcId": 15366,
+      "name": "Shipwright Steve",
+      "options": [
+        "Talk-to",
+        "Buy-boat",
+        "Customise-boat",
+        "Recover-boat"
+      ],
+      "tiles": [
+        [
+          2763,
+          3227,
+          0
+        ]
+      ],
+      "page": "Shipwright Steve",
+      "revid": 15239747
+    },
+    {
+      "npcId": 15367,
+      "name": "Shipwright Sarah",
+      "options": [
+        "Talk-to",
+        "Buy-boat",
+        "Customise-boat",
+        "Recover-boat"
+      ],
+      "tiles": [
+        [
+          2662,
+          3155,
+          0
+        ]
+      ],
+      "page": "Shipwright Sarah",
+      "revid": 15207610
+    },
+    {
+      "npcId": 15368,
+      "name": "Shipwright Sasha",
+      "options": [
+        "Talk-to",
+        "Buy-boat",
+        "Customise-boat",
+        "Recover-boat"
+      ],
+      "tiles": [
+        [
+          1510,
+          3410,
+          0
+        ]
+      ],
+      "page": "Shipwright Sasha",
+      "revid": 15140232
+    },
+    {
+      "npcId": 15369,
+      "name": "Shipwright Spencer",
+      "options": [
+        "Talk-to",
+        "Buy-boat",
+        "Customise-boat",
+        "Recover-boat"
+      ],
+      "tiles": [
+        [
+          1819,
+          3685,
+          0
+        ]
+      ],
+      "page": "Shipwright Spencer",
+      "revid": 15197354
+    },
+    {
+      "npcId": 15370,
+      "name": "Shipwright Sennia",
+      "options": [
+        "Talk-to",
+        "Buy-boat",
+        "Customise-boat",
+        "Recover-boat"
+      ],
+      "tiles": [
+        [
+          1779,
+          3125,
+          0
+        ]
+      ],
+      "page": "Shipwright Sennia",
+      "revid": 15239746
+    },
+    {
+      "npcId": 15371,
+      "name": "Shipwright Sigrun",
+      "options": [
+        "Talk-to",
+        "Buy-boat",
+        "Customise-boat",
+        "Recover-boat"
+      ],
+      "tiles": [
+        [
+          2638,
+          3685,
+          0
+        ]
+      ],
+      "page": "Shipwright Sigrun",
+      "revid": 15239742
+    },
+    {
+      "npcId": 15372,
+      "name": "Shipwright Silas",
+      "options": [
+        "Talk-to",
+        "Buy-boat",
+        "Customise-boat",
+        "Recover-boat"
+      ],
+      "tiles": [
+        [
+          1446,
+          2965,
+          0
+        ]
+      ],
+      "page": "Shipwright Silas",
+      "revid": 15239744
+    },
+    {
+      "npcId": 15373,
+      "name": "Shipwright Soraya",
+      "options": [
+        "Talk-to",
+        "Buy-boat",
+        "Customise-boat",
+        "Recover-boat"
+      ],
+      "tiles": [
+        [
+          2562,
+          2851,
+          0
+        ]
+      ],
+      "page": "Shipwright Soraya",
+      "revid": 15239745
+    },
+    {
+      "npcId": 15374,
+      "name": "Shipwright Scott",
+      "options": [
+        "Talk-to",
+        "Buy-boat",
+        "Customise-boat",
+        "Recover-boat"
+      ],
+      "tiles": [
+        [
+          1883,
+          3296,
+          0
+        ]
+      ],
+      "page": "Shipwright Scott",
+      "revid": 15239743
+    },
+    {
+      "npcId": 15375,
+      "name": "Shipwright Sylvia",
+      "options": [
+        "Talk-to",
+        "Buy-boat",
+        "Customise-boat",
+        "Recover-boat"
+      ],
+      "tiles": [
+        [
+          2804,
+          2523,
+          0
+        ]
+      ],
+      "page": "Shipwright Sylvia",
+      "revid": 15319010
+    },
+    {
+      "npcId": 15376,
+      "name": "Shipwright Sornik",
+      "options": [
+        "Talk-to",
+        "Buy-boat",
+        "Customise-boat",
+        "Recover-boat"
+      ],
+      "tiles": [
+        [
+          1937,
+          2758,
+          0
+        ]
+      ],
+      "page": "Shipwright Sornik",
+      "revid": 15319009
+    },
+    {
+      "npcId": 15377,
+      "name": "Shipwright Silrien",
+      "options": [
+        "Talk-to",
+        "Buy-boat",
+        "Customise-boat",
+        "Recover-boat"
+      ],
+      "tiles": [
+        [
+          2173,
+          3334,
+          0
+        ]
+      ],
+      "page": "Shipwright Silrien",
+      "revid": 15369176
+    }
+  ]
+}

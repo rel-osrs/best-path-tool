@@ -1,0 +1,311 @@
+# Best Path plugin data, format 1: the banks a route may start at.
+# From data/banks/banks.tsv (gradlew -p tool banks): bank booths and chests from cache 2740, bank names, needs and bankers
+# from the OSRS Wiki at development time (CC BY-NC-SA 3.0; pages and revisions in data/banks/banks.tsv).
+bank	kind	needs	use
+The Node bank	chest		3098,3026,0
+The Node bank	booth		3098,3027,0
+Tutorial Island bank	booth		3120,3123,0 3119,3124,0
+Tutorial Island bank	booth		3123,3124,0 3122,3123,0
+Draynor bank	booth		3092,3242,0
+Draynor bank	booth		3092,3243,0
+Draynor bank	booth		3092,3245,0
+Edgeville bank	booth		3094,3489,0
+Edgeville bank	booth		3094,3491,0
+Edgeville bank	booth		3096,3494,0
+Edgeville bank	booth		3098,3494,0
+Ferox Enclave bank	chest		3131,3632,0 3130,3631,0 3129,3632,0
+Buccaneers' Haven chest	chest	varbit 18369 = 1; members	2097,3686,0
+Lunar Isle bank	booth	members; quest Lunar Diplomacy	2097,3919,0
+Lunar Isle bank	booth	members; quest Lunar Diplomacy	2098,3919,0
+Lunar Isle bank	booth	members; quest Lunar Diplomacy	2099,3919,0
+Deepfin Mine eastern chest	chest	varbit 18362 = 1; members	2094,9197,0
+The Great Conch bank	booth	members; quest Troubled Tortugans	3182,2418,0
+The Great Conch bank	booth	members; quest Troubled Tortugans	3182,2419,0
+The Great Conch bank	chest	members; quest Troubled Tortugans	3180,2417,0 3181,2416,0 3179,2416,0
+The Great Conch bank	chest	members; quest Troubled Tortugans	3181,2421,0 3180,2420,0 3179,2421,0
+Unkah chest	chest	members	3156,2836,0 3155,2835,0
+Cook's Guild bank	booth	members	3147,3450,0
+Cook's Guild bank	booth	members	3148,3450,0
+Varrock west bank	booth		3185,3438,0
+Varrock west bank	booth		3185,3440,0
+Varrock west bank	booth		3185,3442,0
+Varrock west bank	booth		3185,3444,0
+Varrock west bank	booth	one of (varbit 4153 = 0 | varbit 4153 = 1)	3185,3436,0
+Grand Exchange	booth		3162,3489,0
+Grand Exchange	booth		3167,3489,0
+Grand Exchange	booth		3167,3490,0
+Grand Exchange	booth	one of (varbit 4153 = 0 | varbit 4153 = 1)	3162,3490,0
+Bank booth near 2131,4906	booth		2132,4906,0
+Bank booth near 2131,4907	booth		2132,4907,0
+Bank booth near 2131,4909	booth		2132,4909,0
+Sunbleak Island chest	chest	varbit 18358 = 1; members	2195,2314,0
+Bank chest near 2212,2860	chest		2212,2859,0
+Lumbridge Castle bank	booth		3208,3220,2
+Lumbridge Castle bank	booth	one of (varbit 4153 = 0 | varbit 4153 = 1)	3209,3220,2
+Varrock east bank	booth		3252,3420,0
+Varrock east bank	booth		3253,3420,0
+Varrock east bank	booth		3254,3420,0
+Varrock east bank	booth		3255,3420,0
+Varrock east bank	booth		3256,3420,0 3257,3419,0
+Varrock east bank	booth	one of (varbit 4153 = 0 | varbit 4153 = 1)	3251,3420,0 3250,3419,0
+Prifddinas north bank	booth	members; quest Song of the Elves	3255,6105,0
+Prifddinas north bank	booth	members; quest Song of the Elves	3256,6105,0
+Prifddinas north bank	booth	members; quest Song of the Elves	3256,6109,0
+Prifddinas north bank	booth	members; quest Song of the Elves	3258,6105,0
+Prifddinas north bank	booth	members; quest Song of the Elves	3258,6109,0
+Bank chest near 2189,6226	chest		2189,6227,0 2190,6226,0 2189,6225,0
+Bank chest near 2189,6228	chest		2189,6229,0 2190,6228,0 2189,6227,0
+Tal Teklan bank	booth	members; quest Children of the Sun	1243,3121,0
+Shantay Pass bank	chest	members	3308,3120,0
+Al Kharid bank	booth		3269,3164,0
+Al Kharid bank	booth		3269,3166,0
+Al Kharid bank	booth		3269,3167,0
+Al Kharid bank	booth		3269,3168,0
+Al Kharid bank	booth		3269,3169,0
+Mount Quidamortem bank	chest	members	1255,3572,0 1254,3571,0 1253,3572,0
+Farming Guild bank	booth	members; Farming 85	1248,3758,0
+Farming Guild bank	booth	members; Farming 85	1249,3758,0
+Farming Guild chest	chest	members; Farming 60	1253,3741,0 1252,3742,0
+Prifddinas south bank	booth	members; quest Song of the Elves	3295,6058,0
+Prifddinas south bank	booth	members; quest Song of the Elves	3295,6059,0
+Prifddinas south bank	booth	members; quest Song of the Elves	3295,6060,0
+Lletya bank	booth	members; quest Mourning's End Part I	2351,3164,0 2352,3164,0
+Lletya bank	booth	members; quest Mourning's End Part I	2354,3164,0
+Emir's Arena bank	chest		3381,3268,0
+Emir's Arena bank	chest		3383,3270,0
+Mage Training Arena chest	chest	members	3365,3318,1
+Mount Karuulm chest	chest	members	1325,3825,0 1324,3824,0 1323,3825,0
+Neitiznot bank	chest	members; quest The Fremennik Isles	2334,3807,0
+Neitiznot bank	chest	members; quest The Fremennik Isles	2336,3808,0 2335,3807,0
+Neitiznot bank	chest	members; quest The Fremennik Isles	2338,3807,0 2337,3808,0
+Neitiznot bank	chest	members; quest The Fremennik Isles	2339,3807,0
+Bank booth near 2313,5407	booth		2314,5407,1
+Bank booth near 2313,5408	booth		2314,5408,1
+Bank booth near 2313,5409	booth		2314,5409,1
+Bank booth near 2320,5401	booth		2320,5402,1
+Bank booth near 2321,5401	booth		2321,5402,1
+Bank booth near 2322,5401	booth		2322,5402,1
+Giants' Foundry chest	chest	members; quest Sleeping Giants	3374,11493,0 3374,11494,0
+Mistrock bank	booth	members; quest Children of the Sun	1383,2866,0
+Mistrock bank	booth	members; quest Children of the Sun	1380,2866,0
+Aldarin bank	booth	members; quest Children of the Sun	1399,2928,0 1399,2929,0
+Aldarin bank	booth	members; quest Children of the Sun	1399,2924,0 1399,2925,0
+Nardah bank	booth	members	3427,2889,0
+Nardah bank	booth	members	3427,2891,0
+Nardah bank	booth	members	3427,2893,0
+Nardah bank	booth	members	3427,2894,0
+Nemus Retreat bank	booth	members; quest Children of the Sun	1386,3309,0 1388,3310,0 1387,3309,0
+Zanaris bank	chest	members; quest Lost City	2381,4456,0
+Zanaris bank	chest	members; quest Lost City	2381,4457,0
+Zanaris bank	chest	members; quest Lost City	2381,4458,0
+Zanaris bank	chest	members; quest Lost City	2381,4459,0
+Zanaris bank	chest	members; quest Lost City	2381,4460,0
+Hallowed Sepulchre bank chests	chest	members; quest Sins of the Father	2396,5985,0
+Hallowed Sepulchre bank chests	chest	members; quest Sins of the Father	2404,5986,0
+Alchemical Society chest	chest	members; quest Children of the Sun	1398,9313,0
+Myths' Guild chest	chest	members; quest Dragon Slayer II	2465,2848,1 2464,2849,1
+Castle Wars lobby chest	chest		2443,3083,0
+Burgh de Rott bank	booth	varbit 1977 = 1; members; quest In Aid of the Myreque	3495,3211,0
+Auburnvale bank	booth	members; quest Children of the Sun	1413,3353,0
+Auburnvale bank	booth	members; quest Children of the Sun	1416,3350,0
+Auburnvale bank	booth	members; quest Children of the Sun	1416,3356,0
+Auburnvale bank	booth	members; quest Children of the Sun	1419,3353,0
+Gnome Stronghold south bank	booth	members	2445,3425,1
+Gnome Stronghold south bank	booth	members	2446,3424,1
+Gnome Stronghold south bank	booth	members	2446,3427,1
+Gnome Stronghold south bank	booth	one of (varbit 4153 = 0 | varbit 4153 = 1); members	2445,3424,1
+Gnome Stronghold north bank	booth	members	2442,3487,1
+Gnome Stronghold north bank	booth	members	2442,3488,1
+Gnome Stronghold north bank	booth	members	2442,3489,1
+Gnome Stronghold north bank	booth	members	2448,3482,1
+Gnome Stronghold north bank	booth	members	2449,3482,1
+Gnome Stronghold north bank	booth	members	2450,3482,1
+Canifis bank	booth	members; quest Priest in Peril	3513,3477,0 3512,3478,0
+Canifis bank	booth	members; quest Priest in Peril	3512,3479,0
+Canifis bank	booth	members; quest Priest in Peril	3512,3480,0
+Canifis bank	booth	members; quest Priest in Peril	3512,3481,0
+Canifis bank	booth	members; quest Priest in Peril	3512,3482,0
+Canifis bank	booth	members; quest Priest in Peril	3512,3483,0
+Lovakengj mine bank	booth	members	1436,3822,0
+Lovakengj mine bank	booth	members	1438,3834,0
+Lovakengj mine bank	booth	members	1436,3824,0
+Lovakengj mine bank	booth	members	1438,3828,0
+Lovakengj mine bank	booth	members	1436,3834,0
+Lovakengj mine bank	booth	members	1438,3822,0
+Lovakengj mine bank	booth	members	1436,3832,0
+Sulphur mine chest	chest	members	1454,3858,0
+Tzhaar City bank	chest	members	2445,5180,0 2444,5181,0
+Cam Torum bank	booth	members; quest Perilous Moons started	1451,9567,1
+Cam Torum bank	booth	members; quest Perilous Moons started	1454,9569,1
+Cam Torum bank	booth	members; quest Perilous Moons started	1451,9568,1
+Cam Torum bank	booth	members; quest Perilous Moons started	1454,9566,1
+Quetzacalli Gorge bank	booth	members; quest Children of the Sun	1519,3229,0 1520,3231,0 1519,3230,0
+Quetzacalli Gorge bank	booth	members; quest Children of the Sun	1520,3226,0 1519,3227,0 1519,3228,0
+The Darkfrost bank	booth	members; quest Children of the Sun	1526,3292,0 1525,3293,0 1525,3294,0 1528,3293,0 1527,3292,0 1528,3294,0
+Land's End chest	chest	members	1512,3421,0
+Barbarian Outpost chest	chest	members	2536,3573,0
+Shayzien Encampment bank chest	chest	members	1483,3646,0
+Shayzien Encampment bank chest	chest	members	1486,3646,0
+Shayzien bank	booth	members	1488,3591,0 1487,3590,0
+Shayzien bank	booth	members	1488,3592,0
+Shayzien bank	booth	members	1487,3594,0 1488,3593,0
+Lovakengj bank	booth	members	1520,3740,0
+Lovakengj bank	booth	members	1530,3738,0
+Lovakengj bank	booth	members	1522,3740,0
+Lovakengj bank	booth	members	1526,3740,0
+Lovakengj bank	booth	members	1522,3738,0
+Lovakengj bank	booth	members	1528,3740,0
+Lovakengj bank	booth	members	1524,3740,0
+Lovakengj bank	booth	members	1530,3740,0
+Blast mine chests	chest	members	1477,3874,0
+Blast mine chests	chest	members	1478,3856,0
+Blast mine chests	chest	members	1499,3857,0
+Blast mine chests	chest	members	1502,3870,0
+Mage Arena bank	chest	members; quest Mage Arena I	2534,4712,0 2533,4711,0
+Mor Ul Rek east bank	chest	members	2544,5140,0 2543,5141,0
+Wyrmscraig chest	chest	varbit 15774 = 1; members	2588,2260,0 2587,2259,0
+Corsair Cove bank	booth	varbit 6071 = 60; quest The Corsair Curse	2569,2864,0
+Hunter Guild bank	chest	members; quest Children of the Sun	1542,3040,0
+Yanille bank	booth	members	2613,3091,0
+Yanille bank	booth	members	2613,3092,0
+Yanille bank	booth	one of (varbit 4153 = 0 | varbit 4153 = 1); members	2613,3094,0
+Ardougne north bank	booth	members	2618,3332,0
+Ardougne north bank	booth	members	2619,3332,0
+Ardougne north bank	booth	one of (varbit 4153 = 0 | varbit 4153 = 1); members	2615,3332,0
+Darkmeyer bank	booth	members; quest Sins of the Father	3603,3367,0
+Darkmeyer bank	booth	members; quest Sins of the Father	3604,3367,0
+Darkmeyer bank	booth	members; quest Sins of the Father	3605,3367,0
+Darkmeyer bank	booth	members; quest Sins of the Father	3607,3367,0
+Fishing Guild bank	booth	members; Fishing 68	2586,3418,0
+Fishing Guild bank	booth	members; Fishing 68	2586,3419,0
+Fishing Guild bank	booth	members; Fishing 68	2586,3421,0
+Fishing Guild bank	booth	members; Fishing 68	2586,3422,0
+Woodcutting Guild chest	chest	members; Woodcutting 60	1592,3476,0
+Etceteria bank	booth	members; quest Throne of Miscellania	2618,3894,0 2618,3895,0
+Sangvesti bank	chest	varbit 15621 = 1; members	2575,7833,0 2575,7834,0
+Guardians of the Rift chest	chest	members	3619,9474,0 3619,9472,0 3618,9473,0
+Ent dungeon chest	chest	members; Woodcutting 60	1551,9873,0
+Charred Island chest	chest	varbit 18353 = 1; members	2654,2387,0
+Void Knights' Outpost bank	booth	members	2665,2653,0
+Void Knights' Outpost bank	booth	members	2667,2653,0
+Void Knights' Outpost bank	booth	members	2668,2653,0
+Void Knights' Outpost bank	booth	one of (varbit 4153 = 0 | varbit 4153 = 1); members	2666,2653,0
+Mos Le'Harmless bank	booth	members; quest Cabin Fever	3680,2981,0
+Mos Le'Harmless bank	booth	members; quest Cabin Fever	3680,2982,0
+Mos Le'Harmless bank	booth	members; quest Cabin Fever	3680,2983,0
+Fortis west bank	booth	members; quest Children of the Sun	1646,3118,0 1647,3118,0
+Fortis west bank	booth	members; quest Children of the Sun	1648,3118,0 1649,3118,0
+Port Khazard chest	chest	members	2661,3162,0
+Ver Sinhaza bank	booth	members; quest Priest in Peril	3649,3208,0
+Ver Sinhaza bank	booth	members; quest Priest in Peril	3651,3208,0
+Ver Sinhaza bank	booth	members; quest Priest in Peril	3652,3208,0
+Ardougne south bank	booth	members	2655,3280,0
+Ardougne south bank	booth	members	2655,3286,0
+Ardougne south bank	booth	one of (varbit 4153 = 0 | varbit 4153 = 1); members	2655,3283,0
+Port Phasmatys bank	booth	members; quest Ghosts Ahoy	3687,3466,0
+Port Phasmatys bank	booth	members; quest Ghosts Ahoy	3688,3466,0
+Port Phasmatys bank	booth	members; quest Ghosts Ahoy	3691,3466,0
+Port Phasmatys bank	booth	one of (varbit 4153 = 0 | varbit 4153 = 1); members; quest Ghosts Ahoy	3690,3466,0
+Kourend Castle bank	booth	members	1610,3681,2
+Kourend Castle bank	booth	members	1611,3681,2
+Kourend Castle bank	booth	members	1612,3681,2
+Kourend Castle bank	booth	members	1613,3681,2
+Arceuus bank	booth	members	1624,3740,0 1624,3741,0
+Arceuus bank	booth	members	1635,3740,0 1635,3741,0
+Arceuus bank	booth	members	1624,3743,0 1624,3744,0
+Arceuus bank	booth	members	1635,3743,0 1635,3744,0
+Arceuus bank	booth	members	1624,3746,0 1624,3747,0
+Arceuus bank	booth	members	1635,3746,0 1635,3747,0
+Arceuus bank	booth	members	1624,3749,0 1624,3750,0
+Arceuus bank	booth	members	1635,3749,0 1635,3750,0
+Wintertodt chest	chest	members	1640,3944,0
+Legends' Guild bank	chest	members; quest Legends' Quest	2732,3379,2
+Legends' Guild bank	chest	members; quest Legends' Quest	2732,3381,2
+Legends' Guild bank	chest	members; quest Legends' Quest	2732,3379,2
+Charcoal camp chest	chest	members	1718,3466,0 1719,3465,0
+Seers' Village bank	booth	members	2721,3493,0
+Seers' Village bank	booth	members	2722,3493,0
+Seers' Village bank	booth	members	2724,3493,0
+Seers' Village bank	booth	members	2727,3493,0
+Seers' Village bank	booth	members	2729,3493,0
+Seers' Village bank	booth	one of (varbit 4153 = 0 | varbit 4153 = 1); members	2728,3493,0
+Hosidius Kitchen chest	chest	members	1675,3616,0 1676,3615,0
+Fossil Island bank	chest	varbit 5800 = 1; members; quest Bone Voyage	3742,3804,0 3741,3805,0
+Bank Chest-wreck	chest	members; quest Bone Voyage	3766,3899,0
+Dorgesh-Kaan bank	booth	members; quest Death to the Dorgeshuun	2701,5347,0
+Dorgesh-Kaan bank	booth	members; quest Death to the Dorgeshuun	2701,5348,0
+Dorgesh-Kaan bank	booth	members; quest Death to the Dorgeshuun	2701,5349,0
+Dorgesh-Kaan bank	booth	members; quest Death to the Dorgeshuun	2701,5350,0
+Dorgesh-Kaan bank	booth	members; quest Death to the Dorgeshuun	2701,5351,0
+Dorgesh-Kaan bank	booth	members; quest Death to the Dorgeshuun	2701,5352,0
+Motherlode Mine chest	chest	members; Mining 30	3760,5666,0
+Bank booth near 1712,6132	booth		1712,6131,0 1711,6132,0
+Bank booth near 1714,6132	booth		1715,6132,0 1714,6131,0
+Red Rock chest	chest	members	2808,2521,0
+Ape Atoll bank	chest	one of (varbit 5027 = 195 | varbit 5027 = 196 | varbit 5027 = 197 | varbit 5027 = 198 | varbit 5027 = 199 | varbit 5027 = 200); members; quest Monkey Madness II	2781,2782,0
+Trouble Brewing chest	chest	members; quest Cabin Fever	3810,3021,0
+Fortis east bank	booth	members; quest Children of the Sun	1780,3094,0 1781,3094,0 1782,3093,0
+Fortis east bank	booth	members; quest Children of the Sun	1778,3094,0 1777,3093,0 1779,3094,0
+Catherby bank	booth	members	2807,3441,0
+Catherby bank	booth	members	2809,3441,0
+Catherby bank	booth	members	2811,3441,0
+Catherby bank	booth	one of (varbit 4153 = 0 | varbit 4153 = 1); members	2810,3441,0
+Hosidius bank	booth	members	1748,3598,0 1746,3598,0
+Hosidius bank	booth	members	1748,3599,0 1746,3599,0
+Hosidius bank	booth	members	1747,3601,0 1748,3600,0 1746,3600,0
+Volcanic Mine chest	chest	members; quest Bone Voyage	3819,3809,0
+Sophanem bank	booth	members; quest Contact!	2798,5169,0
+Sophanem bank	booth	members; quest Contact!	2799,5169,0
+Sophanem bank	booth	members; quest Contact!	2800,5169,0
+Sophanem bank	booth	one of (varbit 4153 = 0 | varbit 4153 = 1); members; quest Contact!	2801,5169,0
+Clan Hall bank	booth		1745,5476,0
+Clan Hall bank	booth		1746,5476,0
+Clan Hall bank	booth		1747,5476,0
+Clan Hall bank	booth		1748,5476,0
+Bank counter near 2799,6109	booth		2799,6108,0 2800,6108,0
+Bank counter near 2802,6109	booth		2802,6108,0
+Vinery chest	chest	members	1809,3566,0
+Warriors' Guild bank	booth	members	2843,3543,0
+Port Piscarilius bank	booth	members	1796,3790,0
+Port Piscarilius bank	booth	members	1800,3790,0
+Port Piscarilius bank	booth	members	1804,3790,0
+Port Piscarilius bank	booth	members	1808,3790,0
+Fortis Colosseum chest	chest	members	1804,9501,0
+Keldagrim bank	booth	members; quest The Giant Dwarf	2836,10207,0
+Keldagrim bank	booth	members; quest The Giant Dwarf	2838,10207,0
+Port Roberts bank	booth	members; Sailing 50	1881,3315,0
+Port Roberts bank	booth	members; Sailing 50	1882,3315,0
+Port Roberts bank	booth	members; Sailing 50	1883,3315,0
+Port Roberts bank	booth	members; Sailing 50	1884,3315,0
+Crafting Guild chest	chest	members	2936,3281,0 2936,3279,0 2935,3280,0
+The Onyx Crest chest	chest	varbit 18363 = 1; members	2984,2268,0
+Deepfin Point chest	chest	members; Sailing 67	1936,2755,0
+Falador west bank	booth		2945,3368,0 2945,3366,0
+Falador west bank	booth		2946,3368,0 2946,3366,0
+Falador west bank	booth		2947,3368,0 2947,3366,0
+Falador west bank	booth		2948,3368,0 2948,3366,0
+Falador west bank	booth	one of (varbit 4153 = 0 | varbit 4153 = 1)	2949,3368,0 2949,3366,0
+Blast Furnace bank	chest	members; quest The Giant Dwarf	1948,4957,0 1949,4956,0
+Camdozaal chest	chest	quest Below Ice Mountain	2979,5797,0 2978,5798,0
+The Pandemonium bank crab	booth	members	3039,2999,0 3038,3000,0
+Falador east bank	booth		3010,3355,0
+Falador east bank	booth		3011,3355,0
+Falador east bank	booth		3012,3355,0
+Falador east bank	booth		3013,3355,0
+Falador east bank	booth		3014,3355,0
+Falador east bank	booth	one of (varbit 4153 = 0 | varbit 4153 = 1)	3015,3355,0
+Emerald Benedict's bank	chest	members	3040,4969,1 3039,4968,1
+Bank booth near 1993,5535	booth		1994,5535,1
+Bank booth near 1993,5536	booth		1994,5536,1
+Bank booth near 1993,5537	booth		1994,5537,1
+Bank booth near 2000,5529	booth		2000,5530,1
+Bank booth near 2001,5529	booth		2001,5530,1
+Bank booth near 2002,5529	booth		2002,5530,1
+Deepfin Mine western chest	chest	varbit 18361 = 1; members	2011,9186,0
+Mining Guild chest	chest	members; Mining 60	3013,9718,0
+Shilo Village bank	banker	members; quest Shilo Village	2852,2955,0 2853,2954,0 2852,2953,0 2851,2954,0
+Piscatoris bank	banker	members; quest Swan Song	2331,3691,0 2330,3690,0 2329,3691,0
+Jatizso bank	banker	members; quest The Fremennik Isles	2417,3801,0
+Ourania bank	banker	members	3013,5626,0 3014,5625,0 3013,5624,0 3012,5625,0
+Ancient Prison bank	banker	members; quest The Frozen Door	2904,5206,0 2905,5205,0 2904,5204,0 2903,5205,0
+Tarn's Lair bank	banker	members; quest Haunted Mine	3195,4570,0 3196,4569,0 3195,4568,0 3194,4569,0

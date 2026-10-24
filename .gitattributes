@@ -1,0 +1,2 @@
+# The plugin's exported data is checked by hash when it loads: Git must store and check it out byte for byte.
+/src/main/resources/com/bestpath/data/** -text

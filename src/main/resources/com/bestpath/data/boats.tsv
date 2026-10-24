@@ -1,0 +1,75 @@
+# Best Path plugin data, format 1: what the game's boat varbits mean.
+# From cache 2740 DB tables 166 (boat kinds), 175-181 and 185 (parts, facilities), 164 (their stats), 147 (boat statuses), 187 (name words), 194 (docks).
+# type <id> <kind RAFT|SKIFF|SLOOP|-> <name> <hull tiers> <sail tiers> <keel tiers> <helm tiers> <brazier values> <inoculation hotspot:value>
+# port <value> <label> | name <part 1-3> <word for 0> <word for 1> ... | dock <id> <name>
+type	0	RAFT	Raft	0,1,2,3,4,5,6	0,1,2,3,4,5,6	-	0,1,2,3,4,5,6	1	-
+type	1	SKIFF	Skiff	0,1,2,3,4,5,6	0,1,2,3,4,5,6	0,1,2,3,4,5,6	0,1,2,3,4,5,6	1	5:1
+type	2	SLOOP	Sloop	0,1,2,3,4,5,6	0,1,2,3,4,5,6	0,1,2,3,4,5,6	0,1,2,3,4,5,6	1	9:1
+type	3	-	Will and Anne's boat	-1	-1	-1	-1	-	-
+port	253	Lost
+port	254	Capsized
+port	255	Bottled
+name	1	
+name	2		Adamant	Almighty	Ancient	Angry	Armadyl's	Ascended	Bandos'	Beautiful	Bladed	Blasted	Bloody	Blue	Brave	Bronze	Brutal	Cheeky	Cinnamon	Classy	Clever	Cursed	Dainty	Dark	Dawn	Daylight	Deadly	Death	Dragon	Dream	Earnest	Enigmatic	Excessive	Extreme	Fabulous	Fatal	Fearful	Fervent	Fierce	Final	Fine	First	Flying	Foul	Frivolous	Gallant	Giant	Golden	Gorgeous	Green	Grey	Grim	Grumpy	Happy	Holy	Honest	Illustrious	Implacable	Indomitable	Insightful	Iron	Jaunty	Jolly	King	Lady	Last	Laughing	Light	Little	Lonely	Lord	Lunar	Lusty	Merry	Mighty	Misty	Mithril	Morbid	Nervous	Night	Nightmare	Noisome	Omniscient	Piebald	Pink	Prancing	Prime	Prince	Princess	Proud	Pure	Purple	Queen	Raging	Rainbow	Ralos'	Rampaging	Ranul's	Red	Reeking	Ribald	Rising	Rune	Sad	Saradomin's	Savage	Scornful	Screaming	Sea	Second	Serene	Smashing	Smiling	Steel	Storm	Sturdy	Sun	Supreme	Swift	Terrifying	Third	Thunder	Tide	Trusty	Twilight	Ultimate	Unholy	Unsinkable	Vibrant	Wandering	Wave	Weeping	Whimsical	Whistling	Wily	Wind	Winged	Yowling	Zamorak's
+name	3	Boat	Aegis	Aeon	Age	Anchor	Axe	Bane	Beard	Beast	Blood	Blow	Bounty	Builder	Calm	Cannon	Chaos	Chaser	Clam	Claw	Clipper	Cloud	Coral	Craft	Crow	Dagger	Dasher	Death	Demon	Diver	Diviner	Doom	Dragon	Epoch	Excess	Flyer	Fury	Glow	Grace	Heart	Hind	Hunter	Joker	Killer	Knife	Knight	Lament	Law	Lion	Loner	Manta	Mind	Miner	Mirage	Moon	Ocean	Oyster	Pearl	Pride	Rage	Raider	Rain	Ranger	Raven	Reaver	Sea	Shine	Siren	Slayer	Storm	Sun	Sword	Terror	Tide	Time	Warrior	Wave	Whip	Wind
+dock	0	Port Sarim
+dock	1	The Pandemonium
+dock	2	Land's End
+dock	3	Musa Point
+dock	4	Hosidius
+dock	5	Rimmington
+dock	6	Catherby
+dock	7	Port Piscarilius
+dock	8	Brimhaven
+dock	9	Ardougne
+dock	10	Port Khazard
+dock	11	Witchaven
+dock	12	Entrana
+dock	13	Civitas illa Fortis
+dock	14	Corsair Cove
+dock	15	Cairn Isle
+dock	16	Sunset Coast
+dock	17	The Summer Shore
+dock	18	Aldarin
+dock	19	Ruins of Unkah
+dock	20	Void Knights' Outpost
+dock	21	Port Roberts
+dock	22	Red Rock
+dock	23	Rellekka
+dock	24	Etceteria
+dock	25	Port Tyras
+dock	26	Deepfin Point
+dock	27	Jatizso
+dock	28	Neitiznot
+dock	29	Prifddinas
+dock	30	Piscatoris
+dock	31	Lunar Isle
+dock	32	Isle of Souls
+dock	33	Waterbirth Island
+dock	34	Weiss
+dock	35	Dognose Island
+dock	36	Remote Island
+dock	37	The Little Pearl
+dock	38	The Onyx Crest
+dock	39	Last Light
+dock	40	Charred Island
+dock	41	Vatrachos Island
+dock	42	Anglers' Retreat
+dock	43	Minotaurs' Rest
+dock	44	Isle of Bones
+dock	45	Tear of the Soul
+dock	46	Wintumber Island
+dock	47	The Crown Jewel
+dock	48	Rainbow's End
+dock	49	Sunbleak Island
+dock	50	Shimmering Atoll
+dock	51	Laguna Aurorae
+dock	52	Chinchompa Island
+dock	53	Lledrith Island
+dock	54	Ynysdail
+dock	55	Buccaneers' Haven
+dock	56	Drumstick Isle
+dock	57	Brittle Isle
+dock	58	Grimstone
+dock	59	Wyrmscraig
+dock	60	Wyrmscraig Cavern

@@ -1,0 +1,3 @@
+// Shared pathfinding code (no RuneLite dependencies). Built here only to run
+// its tests; the BestPath Data Tool (and later the plugin) compile these sources.
+rootProject.name = 'bestpath-core'

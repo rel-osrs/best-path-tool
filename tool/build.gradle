@@ -1,0 +1,296 @@
+plugins {
+	id 'java'
+	id 'application'
+}
+
+repositories {
+	maven {
+		url = 'https://repo.runelite.net'
+		content {
+			includeGroupByRegex("net\\.runelite.*")
+		}
+	}
+	mavenCentral()
+}
+
+dependencies {
+	// RuneLite's BSD-licensed cache reader (also brings Gson and slf4j)
+	implementation 'net.runelite:cache:1.13.1'
+	implementation 'org.slf4j:slf4j-simple:2.0.13'
+	// same Gson version the cache library already uses
+	implementation 'com.google.code.gson:gson:2.8.5'
+	// RuneLite's game value names (gameval VarbitID): the sea charting import joins Quest Helper's list by them
+	implementation 'net.runelite:runelite-api:1.13.1'
+}
+
+group = 'com.bestpath'
+version = '0.1.0'
+
+// The shared pathfinding code lives in core/ (no RuneLite dependencies); the
+// plugin compiles the same sources.
+sourceSets {
+	main {
+		java {
+			srcDir '../core/src/main/java'
+			// core's development-only code: data writers, builders, diagnostics, the plain checker searches (not in the plugin)
+			srcDir '../core/src/dev/java'
+		}
+	}
+}
+
+tasks.withType(JavaCompile).configureEach {
+	options.encoding = 'UTF-8'
+	options.release.set(11)
+}
+
+application {
+	mainClass = 'com.bestpath.tool.BestPathTool'
+	applicationDefaultJvmArgs = [
+		'-Xmx4g',
+		'-Dorg.slf4j.simpleLogger.defaultLogLevel=error',
+		'-Dsun.java2d.uiScale.enabled=true',
+	]
+}
+
+run {
+	// Start in the repository root so the tool finds its workspace (cache/, data/).
+	workingDir = rootProject.projectDir.parentFile
+}
+
+// Developer aid: is every transport's start and end on real ground (a floor on its plane; not hidden, a closed-off
+// pocket or in an ignored region)?
+// Writes cache/ground-check/ground-check.tsv. gradlew -p tool groundCheck --args="<cacheDir>"
+tasks.register('groundCheck', JavaExec) {
+	classpath = sourceSets.main.runtimeClasspath
+	mainClass = 'com.bestpath.tool.route.GroundCheckCli'
+	maxHeapSize = '4g'
+	jvmArgs '-Dorg.slf4j.simpleLogger.defaultLogLevel=error', '-Djava.awt.headless=true'
+	workingDir = rootProject.projectDir.parentFile
+}
+
+// Developer aid: the banks (cache booths and chests, Wiki bankers) -> data/banks/banks.tsv. See docs/DATA_FORMATS.md.
+// gradlew -p tool banks --args="<cacheDir> [wiki cache folder]"
+tasks.register('banks', JavaExec) {
+	classpath = sourceSets.main.runtimeClasspath
+	mainClass = 'com.bestpath.tool.route.BanksCli'
+	maxHeapSize = '4g'
+	jvmArgs '-Dorg.slf4j.simpleLogger.defaultLogLevel=error'
+	workingDir = rootProject.projectDir.parentFile
+}
+
+// DEVELOPMENT-TIME ONLY: the sea charting places from Quest Helper's charting list into
+// data/charting/charting-places.tsv: gradlew -p tool chartingPlaces --args="<quest-helper folder> <cache folder>"
+tasks.register('chartingPlaces', JavaExec) {
+	classpath = sourceSets.main.runtimeClasspath
+	mainClass = 'com.bestpath.tool.extract.ChartingPlacesCli'
+	maxHeapSize = '4g'
+	jvmArgs '-Dorg.slf4j.simpleLogger.defaultLogLevel=error'
+	workingDir = rootProject.projectDir.parentFile
+}
+
+// DEVELOPMENT-TIME ONLY: the banks from the OSRS Wiki (List of banks; bankers at banks with no booth or chest)
+// -> data/wiki/banks.tsv, data/wiki/bankers.tsv. Pass the main checkout's cache/wiki (shared daily request budget).
+tasks.register('wikiBanks', JavaExec) {
+	classpath = sourceSets.main.runtimeClasspath
+	mainClass = 'com.bestpath.tool.wiki.WikiBanksCli'
+	workingDir = rootProject.projectDir.parentFile
+}
+
+// DEVELOPMENT-TIME ONLY: teleport destinations from the OSRS Wiki (see WikiTeleportsCli, DATA_SOURCES.md).
+tasks.register('wikiTeleports', JavaExec) {
+	classpath = sourceSets.main.runtimeClasspath
+	mainClass = 'com.bestpath.tool.wiki.WikiTeleportsCli'
+	workingDir = rootProject.projectDir.parentFile
+}
+
+// Developer aid: opens the tool off screen, runs scripted steps and saves pictures to cache/ui-check/.
+tasks.register('uiCheck', JavaExec) {
+	classpath = sourceSets.main.runtimeClasspath
+	mainClass = 'com.bestpath.tool.ui.UiCheck'
+	maxHeapSize = '4g'
+	jvmArgs '-Dorg.slf4j.simpleLogger.defaultLogLevel=error'
+	// -PuiCheckExport: also run "Update plugin data" for real, into a copy of the plugin's data (about a minute)
+	if (project.hasProperty('uiCheckExport'))
+	{
+		jvmArgs '-Duicheck.export=true'
+	}
+	workingDir = rootProject.projectDir.parentFile
+}
+
+dependencies {
+	testImplementation 'org.junit.jupiter:junit-jupiter:5.10.2'
+	testRuntimeOnly 'org.junit.platform:junit-platform-launcher:1.10.2'
+}
+
+// Speed tests load the real map (cache/openrs2-2735), so they need the big heap
+// and are left out of the normal test run: gradlew -p tool speedTest
+test {
+	useJUnitPlatform {
+		excludeTags 'speed'
+	}
+}
+
+tasks.register('speedTest', Test) {
+	description = 'Pathfinder speed on the real map'
+	testClassesDirs = sourceSets.test.output.classesDirs
+	classpath = sourceSets.test.runtimeClasspath
+	useJUnitPlatform {
+		includeTags 'speed'
+	}
+	// RuneLite's cache reader has an assert that fails on this cache; normal runs have asserts off too
+	enableAssertions = false
+	maxHeapSize = '4g'
+	jvmArgs '-Dorg.slf4j.simpleLogger.defaultLogLevel=error'
+	workingDir = rootProject.projectDir.parentFile
+	testLogging.showStandardStreams = true
+	outputs.upToDateWhen { false } // timings: always run
+	// profile the test process with Java Flight Recorder: gradlew -p tool speedTest -Pjfr=<file.jfr>
+	if (project.hasProperty('jfr')) {
+		jvmArgs "-XX:StartFlightRecording=filename=${project.property('jfr')},settings=profile"
+	}
+}
+
+// Development time only: shipwright tiles from their Wiki pages (data/wiki/shipwrights.json).
+tasks.register('wikiShipwrights', JavaExec) {
+	classpath = sourceSets.main.runtimeClasspath
+	mainClass = 'com.bestpath.tool.wiki.WikiShipwrightsCli'
+	workingDir = rootProject.projectDir.parentFile
+}
+
+// List every real item in the cache (developer aid for item groups).
+tasks.register('items', JavaExec) {
+	classpath = sourceSets.main.runtimeClasspath
+	mainClass = 'com.bestpath.tool.req.ItemsCli'
+	workingDir = rootProject.projectDir.parentFile
+}
+
+// Draw free-to-play land (developer aid): surface rows + places -> data/manual/free-land.tsv, and the ways off it.
+tasks.register('freeLand', JavaExec) {
+	classpath = sourceSets.main.runtimeClasspath
+	mainClass = 'com.bestpath.tool.route.FreeLandCli'
+	workingDir = rootProject.projectDir.parentFile
+	maxHeapSize = '4g'
+	jvmArgs '-Dorg.slf4j.simpleLogger.defaultLogLevel=error'
+}
+
+// House furniture -> house things for the plugin's house scan (developer aid):
+// gradlew -p tool houseObjects --args="<abs cache> [out.tsv] [house-things.tsv]" writes
+// src/main/resources/com/bestpath/player/house-objects.tsv. See docs/PLUGIN_PLAYER_STATE.md.
+tasks.register('houseObjects', JavaExec) {
+	classpath = sourceSets.main.runtimeClasspath
+	mainClass = 'com.bestpath.tool.extract.HouseObjectsCli'
+	workingDir = rootProject.projectDir.parentFile
+	maxHeapSize = '2g'
+	jvmArgs '-Dorg.slf4j.simpleLogger.defaultLogLevel=error'
+}
+
+// Developer aid: clue steps from the cache's clue-helper tables -> data/clues/clue-steps.tsv (docs/CLUES.md).
+tasks.register('clueExtract', JavaExec) {
+	classpath = sourceSets.main.runtimeClasspath
+	mainClass = 'com.bestpath.tool.clue.ClueExtractCli'
+	workingDir = rootProject.projectDir.parentFile
+	maxHeapSize = '2g'
+	jvmArgs '-Dorg.slf4j.simpleLogger.defaultLogLevel=error'
+}
+
+// DEVELOPMENT-TIME ONLY: where the clue "kill" step NPCs are found, from the Wiki (data/wiki/clue-kill-spawns.tsv).
+// Pass the main checkout's cache/wiki so the shared daily request budget is counted.
+tasks.register('wikiClueKills', JavaExec) {
+	classpath = sourceSets.main.runtimeClasspath
+	mainClass = 'com.bestpath.tool.wiki.WikiClueKillsCli'
+	workingDir = rootProject.projectDir.parentFile
+}
+
+// DEVELOPMENT-TIME ONLY: where each Slayer task's monsters are, from the cache's Slayer tables and the Wiki
+// (data/wiki/slayer-places.tsv, slayer-masters.tsv). --args="<cacheDir> <main checkout>/cache/wiki"
+tasks.register('wikiSlayer', JavaExec) {
+	classpath = sourceSets.main.runtimeClasspath
+	mainClass = 'com.bestpath.tool.wiki.WikiSlayerCli'
+	maxHeapSize = '2g'
+	workingDir = rootProject.projectDir.parentFile
+}
+
+// DEVELOPMENT-TIME ONLY: the monsters at each Slayer place and the collection log items they drop, from the saved Wiki
+// pages (data/wiki/slayer-place-monsters.tsv, slayer-drops.tsv). --args="<cacheDir> <main checkout>/cache/wiki"
+tasks.register('wikiSlayerDrops', JavaExec) {
+	classpath = sourceSets.main.runtimeClasspath
+	mainClass = 'com.bestpath.tool.wiki.WikiSlayerDropsCli'
+	maxHeapSize = '2g'
+	workingDir = rootProject.projectDir.parentFile
+}
+
+// Developer aid: can every clue location be reached? cache/clue-check/report.tsv + summary.md (docs/CLUES.md).
+tasks.register('clueCheck', JavaExec) {
+	classpath = sourceSets.main.runtimeClasspath
+	mainClass = 'com.bestpath.tool.clue.ClueCheckCli'
+	workingDir = rootProject.projectDir.parentFile
+	maxHeapSize = '6g'
+	jvmArgs '-Dorg.slf4j.simpleLogger.defaultLogLevel=error'
+}
+
+// The game update comparison: what changed between two caches and what of the data it
+// touches; writes docs/reports/<date>-cache-<old>-to-<new>.md. gradlew -p tool cacheCompare --args="<oldCache> <newCache> [report]"
+tasks.register('cacheCompare', JavaExec) {
+	classpath = sourceSets.main.runtimeClasspath
+	mainClass = 'com.bestpath.tool.update.CacheCompareCli'
+	maxHeapSize = '4g'
+	jvmArgs '-Dorg.slf4j.simpleLogger.defaultLogLevel=error', '-Djava.awt.headless=true'
+	workingDir = rootProject.projectDir.parentFile
+}
+
+// Moving to a new cache, the preview: clue steps, banks and the plugin's data made from the new cache
+// into cache/cache-move/<id>/, and what would change in docs/reports/. gradlew -p tool cacheMovePreview --args="<newCache> [checks]"
+tasks.register('cacheMovePreview', JavaExec) {
+	classpath = sourceSets.main.runtimeClasspath
+	mainClass = 'com.bestpath.tool.update.CacheMovePreviewCli'
+	maxHeapSize = '1g'
+	jvmArgs '-Dorg.slf4j.simpleLogger.defaultLogLevel=error', '-Djava.awt.headless=true'
+	workingDir = rootProject.projectDir.parentFile
+}
+
+// "Update plugin data" without the window: writes the plugin's data (default src/main/resources/com/bestpath/data), then
+// checks that routes on it are the tool's routes.
+// gradlew -p tool exportPlugin --args="<cacheDir> [outDir] [random routes to check, default 100]". See docs/DATA_FORMATS.md.
+tasks.register('exportPlugin', JavaExec) {
+	classpath = sourceSets.main.runtimeClasspath
+	mainClass = 'com.bestpath.tool.route.PluginExportCli'
+	maxHeapSize = '4g'
+	jvmArgs '-Dorg.slf4j.simpleLogger.defaultLogLevel=error'
+	workingDir = rootProject.projectDir.parentFile
+}
+
+// gradlew -p tool publishPlugin [--args="[public folder] [--build]"]: copies only the plugin into the public plugin repo's
+// folder (default: best-path beside the workspace); --build then builds that copy on its own. The tool's "Publish
+// plugin..." does the same. See com.bestpath.tool.publish.PluginPublisher.
+tasks.register('publishPlugin', JavaExec) {
+	classpath = sourceSets.main.runtimeClasspath
+	mainClass = 'com.bestpath.tool.publish.PluginPublishCli'
+	workingDir = rootProject.projectDir.parentFile
+}
+
+// The cache the plugin data was made from: the "cache" line of its manifest, as the Data Tool's DataCache reads it;
+// cache/openrs2-<id> is the downloader's folder name. Without a manifest: the newest downloaded cache.
+def dataCache = { File manifest ->
+	def line = manifest.exists() ? manifest.readLines().find { it.startsWith('cache	') } : null
+	if (line) {
+		return 'cache/openrs2-' + line.split('	')[1]
+	}
+	def ids = (new File(rootProject.projectDir.parentFile, 'cache').listFiles() ?: []).findAll { it.name ==~ /openrs2-\d+/ }.collect { it.name.substring(7) as int }
+	return ids ? 'cache/openrs2-' + ids.max() : 'cache/openrs2-none'
+}
+
+// Pictures for the plugin's fast UI preview (dev only, nothing goes into the plugin): item pictures and sprites drawn
+// from the game cache. Run from the plugin build: gradlew previewIcons (see docs/PLUGIN_UI.md). Properties:
+// -PiconCache=<cache folder> -PiconList=<list file> -PiconOut=<output folder>.
+tasks.register('previewIcons', JavaExec) {
+	classpath = sourceSets.main.runtimeClasspath
+	mainClass = 'com.bestpath.tool.cache.PreviewIconsCli'
+	workingDir = rootProject.projectDir.parentFile
+	maxHeapSize = '1g'
+	jvmArgs '-Dorg.slf4j.simpleLogger.defaultLogLevel=error', '-Djava.awt.headless=true'
+	args project.findProperty('iconCache') ?: dataCache(new File(rootProject.projectDir.parentFile, 'src/main/resources/com/bestpath/data/bestpath-data.txt')),
+		project.findProperty('iconList') ?: 'build/preview-icons/wanted.txt',
+		project.findProperty('iconOut') ?: 'build/preview-icons'
+	outputs.upToDateWhen { false }
+}
+

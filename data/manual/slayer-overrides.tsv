@@ -1,0 +1,10 @@
+# BestPath Slayer overrides: HAND-AUTHORED corrections on top of the generated data/wiki/slayer-places.tsv (never edited
+# by hand). Read by the plugin export (gradlew -p tool exportPlugin, tool/.../slayer/SlayerExport). A line matches the
+# place with that task row (column task of slayer-places.tsv) and place name.
+# Changes: place-shift <dx>,<dy>,<plane> (every Wiki tile of the place moved by dx, dy and put on that plane before it is
+# placed on the map) | skip-place - (the place is left out of the Slayer list).
+task	place	change	value	source
+6241	Chasm of Fire	place-shift	64,0,2	owner 2026-10-19: the Wiki draws the Chasm of Fire 64 tiles west of its game tiles, levels stacked south; moved by 64,0 onto plane 2 (whole 8x8 zones) all 9 lesser demon tiles lie on the chasm's top level (the Chasm entrance lands at 1435,10079,2)
+6242	Chasm of Fire	place-shift	64,96,1	owner 2026-10-19: as above; moved by 64,96 onto plane 1 (whole 8x8 zones) all 17 greater demon tiles lie on one walking area of the middle level (the Wiki tile 1377,9999 lies in the Garden of Death's cave instead); the only whole-zone offset in the chasm that fits
+6243	Chasm of Fire (Bottom level)	place-shift	64,192,0	owner 2026-10-19: as above; moved by 64,192 onto plane 0 (whole 8x8 zones) all 17 black demon tiles lie on the bottom level; the only whole-zone offset in the chasm that fits
+6333	Isle of Serpents	skip-place	-	owner 2026-10-19: the island cannot be reached in the game (Wiki Isle of Serpents rev 15221343: "inaccessible", cannot be moored on; Giant Rock Crab rev 15375315; no dock in cache 2735, docks survey 2026-10-11); its sub-regions are hidden

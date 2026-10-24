@@ -1,0 +1,629 @@
+# The collection log items the monsters of the Slayer places drop (owner 2026-10-19: "collection log entries"),
+# one line per drop line of the monster's OSRS Wiki page (development time; CC BY-NC-SA 3.0, see
+# data/wiki/LICENSE-WIKI.txt). version: the drop table's ("Ancient Prison" for "Drops (Ancient Prison)"),
+# - for the plain "Drops"; plain_drops: whether the page has a plain "Drops" table. Collection log from
+# the game cache. Made by gradlew -p tool wikiSlayerDrops (WikiSlayerDropsCli); see docs/DATA_FORMATS.md.
+# only_in: the place a drop's note limits it to ("Only dropped in Ruins of Tapoyauik"), - none.
+monster	revision	version	item	rarity	plain_drops	only_in
+Kree'arra	15337073	-	Armadyl helmet	1/381	yes	-
+Kree'arra	15337073	-	Armadyl chestplate	1/381	yes	-
+Kree'arra	15337073	-	Armadyl chainskirt	1/381	yes	-
+Kree'arra	15337073	-	Armadyl hilt	1/508	yes	-
+Kree'arra	15337073	-	Godsword shard 1	1/762	yes	-
+Kree'arra	15337073	-	Godsword shard 2	1/762	yes	-
+Kree'arra	15337073	-	Godsword shard 3	1/762	yes	-
+Kree'arra	15337073	-	Long bone	1/400	yes	-
+Kree'arra	15337073	-	Pet Kree'arra	1/5000	yes	-
+Kree'arra	15337073	-	Curved bone	1/5012.5	yes	-
+Commander Zilyana	15337016	-	Saradomin sword	1/127	yes	-
+Commander Zilyana	15337016	-	Saradomin's light	1/254	yes	-
+Commander Zilyana	15337016	-	Armadyl crossbow	1/508	yes	-
+Commander Zilyana	15337016	-	Saradomin hilt	1/508	yes	-
+Commander Zilyana	15337016	-	Godsword shard 1	1/762	yes	-
+Commander Zilyana	15337016	-	Godsword shard 2	1/762	yes	-
+Commander Zilyana	15337016	-	Godsword shard 3	1/762	yes	-
+Commander Zilyana	15337016	-	Pet Zilyana	1/5000	yes	-
+General Graardor	15337045	-	Bandos chestplate	1/381	yes	-
+General Graardor	15337045	-	Bandos tassets	1/381	yes	-
+General Graardor	15337045	-	Bandos boots	1/381	yes	-
+General Graardor	15337045	-	Bandos hilt	1/508	yes	-
+General Graardor	15337045	-	Godsword shard 1	1/762	yes	-
+General Graardor	15337045	-	Godsword shard 2	1/762	yes	-
+General Graardor	15337045	-	Godsword shard 3	1/762	yes	-
+General Graardor	15337045	-	Long bone	1/400	yes	-
+General Graardor	15337045	-	Pet General Graardor	1/5000	yes	-
+General Graardor	15337045	-	Curved bone	1/5012.5	yes	-
+K'ril Tsutsaroth	15357597	-	Steam battlestaff	1/127	yes	-
+K'ril Tsutsaroth	15357597	-	Zamorakian spear	1/127	yes	-
+K'ril Tsutsaroth	15357597	-	Staff of the Dead	1/508	yes	-
+K'ril Tsutsaroth	15357597	-	Zamorak hilt	1/508	yes	-
+K'ril Tsutsaroth	15357597	-	Godsword shard 1	1/762	yes	-
+K'ril Tsutsaroth	15357597	-	Godsword shard 2	1/762	yes	-
+K'ril Tsutsaroth	15357597	-	Godsword shard 3	1/762	yes	-
+K'ril Tsutsaroth	15357597	-	Pet K'ril Tsutsaroth	1/5000	yes	-
+Dagannoth Rex	15341726	-	Dragon axe	1/128	yes	-
+Dagannoth Rex	15341726	-	Berserker ring	1/128	yes	-
+Dagannoth Rex	15341726	-	Warrior ring	1/128	yes	-
+Dagannoth Rex	15341726	-	Pet Dagannoth Rex	1/5000	yes	-
+Giant Mole	15361720	-	Mole claw	Always	yes	-
+Giant Mole	15361720	-	Mole skin	Always	yes	-
+Giant Mole	15361720	-	Immaculate mole skin	1/50	yes	-
+Giant Mole	15361720	-	Long bone	1/400	yes	-
+Giant Mole	15361720	-	Baby Mole	1/3000	yes	-
+Giant Mole	15361720	-	Curved bone	1/5012.5	yes	-
+Kalphite Queen	15372004	-	Kq head	1/128	yes	-
+Kalphite Queen	15372004	-	Dragon chainbody	1/128	yes	-
+Kalphite Queen	15372004	-	Dragon 2h sword	1/256	yes	-
+Kalphite Queen	15372004	-	Dragon pickaxe	1/400	yes	-
+Kalphite Queen	15372004	-	Jar of Sand	1/2000	yes	-
+Kalphite Queen	15372004	-	Kalphite Princess	1/3000	yes	-
+King Black Dragon	15361304	-	Dragon pickaxe	1/1000	yes	-
+King Black Dragon	15361304	-	Kbd heads	1/128	yes	-
+King Black Dragon	15361304	-	Prince Black Dragon	1/3000	yes	-
+King Black Dragon	15361304	-	Draconic visage	1/5000	yes	-
+Callisto	15360463	-	Claws of Callisto	1/196	yes	-
+Callisto	15360463	-	Dragon 2h sword	1/256	yes	-
+Callisto	15360463	-	Dragon pickaxe	1/256	yes	-
+Callisto	15360463	-	Voidwaker hilt	1/360	yes	-
+Callisto	15360463	-	Tyrannical ring	1/512	yes	-
+Callisto	15360463	-	Long bone	1/400	yes	-
+Callisto	15360463	-	Callisto cub	1/1500	yes	-
+Callisto	15360463	-	Curved bone	2/10025	yes	-
+Venenatis	15361982	-	Fangs of Venenatis	1/196	yes	-
+Venenatis	15361982	-	Dragon 2h sword	1/256	yes	-
+Venenatis	15361982	-	Dragon pickaxe	1/256	yes	-
+Venenatis	15361982	-	Voidwaker gem	1/360	yes	-
+Venenatis	15361982	-	Treasonous ring	1/512	yes	-
+Venenatis	15361982	-	Long bone	1/400	yes	-
+Venenatis	15361982	-	Venenatis spiderling	1/1500	yes	-
+Venenatis	15361982	-	Curved bone	1/5012.5	yes	-
+Vet'ion	15360817	-	Skull of Vet'ion	1/196	yes	-
+Vet'ion	15360817	-	Dragon 2h sword	1/256	yes	-
+Vet'ion	15360817	-	Dragon pickaxe	1/256	yes	-
+Vet'ion	15360817	-	Voidwaker blade	1/360	yes	-
+Vet'ion	15360817	-	Ring of the gods	1/512	yes	-
+Vet'ion	15360817	-	Long bone	1/400	yes	-
+Vet'ion	15360817	-	Vet'ion Jr.	1/1500	yes	-
+Vet'ion	15360817	-	Skeleton champion scroll	1/5000	yes	-
+Vet'ion	15360817	-	Curved bone	1/5012.5	yes	-
+Chaos Elemental	15346650	-	Dragon pickaxe	1/256	yes	-
+Chaos Elemental	15346650	-	Dragon 2h sword	2/128	yes	-
+Chaos Elemental	15346650	-	Pet chaos elemental	1/300	yes	-
+Chaos Fanatic	15346616	-	Odium shard 1	1/256	yes	-
+Chaos Fanatic	15346616	-	Malediction shard 1	1/256	yes	-
+Chaos Fanatic	15346616	-	Pet chaos elemental	1/1000	yes	-
+Crazy archaeologist	15374897	-	Odium shard 2	1/256	yes	-
+Crazy archaeologist	15374897	-	Malediction shard 2	1/256	yes	-
+Crazy archaeologist	15374897	-	Long bone	2/128	yes	-
+Crazy archaeologist	15374897	-	Fedora	1/128	yes	-
+Scorpia	15362166	-	Odium shard 3	1/256	yes	-
+Scorpia	15362166	-	Malediction shard 3	1/256	yes	-
+Scorpia	15362166	-	Dragon 2h sword	1/128	yes	-
+Scorpia	15362166	-	Scorpia's offspring	1/2015.75	yes	-
+Kraken	15368743	-	Trident of the Seas (full)	1/512	yes	-
+Kraken	15368743	-	Kraken tentacle	1/400	yes	-
+Kraken	15368743	-	Jar of Dirt	1/1000	yes	-
+Kraken	15368743	-	Pet Kraken	1/3000	yes	-
+Thermonuclear smoke devil	15369525	-	Occult necklace	1/350	yes	-
+Thermonuclear smoke devil	15369525	-	Smoke battlestaff	1/512	yes	-
+Thermonuclear smoke devil	15369525	-	Dragon chainbody	1/2000	yes	-
+Thermonuclear smoke devil	15369525	-	Jar of Smoke	1/2000	yes	-
+Thermonuclear smoke devil	15369525	-	Pet Smoke Devil	1/3000	yes	-
+Cerberus	15363026	-	Primordial crystal	1/520	yes	-
+Cerberus	15363026	-	Pegasian crystal	1/520	yes	-
+Cerberus	15363026	-	Eternal crystal	1/520	yes	-
+Cerberus	15363026	-	Smouldering stone	1/520	yes	-
+Cerberus	15363026	-	Key master teleport	2/130	yes	-
+Cerberus	15363026	-	Jar of Souls	1/2000	yes	-
+Cerberus	15363026	-	Hellpuppy	1/3000	yes	-
+Abyssal Sire	15337396	-	Unsired	1/100	yes	-
+Vorkath	15364808	-	Vorkath's head	1/50	yes	-
+Vorkath	15364808	-	Dragonbone necklace	1/1000	yes	-
+Vorkath	15364808	-	Jar of Decay	1/3000	yes	-
+Vorkath	15364808	-	Vorki	1/3000	yes	-
+Vorkath	15364808	-	Draconic visage	1/5000	yes	-
+Vorkath	15364808	-	Skeletal visage	1/5000	yes	-
+Alchemical Hydra	15375803	-	Hydra's eye	1/{{#expr:180/(1999/2000*1999/2000*999/1000*511/512*511/512) round 1}}	yes	-
+Alchemical Hydra	15375803	-	Hydra's fang	1/{{#expr:180/(1999/2000*1999/2000*999/1000*511/512*511/512) round 1}}	yes	-
+Alchemical Hydra	15375803	-	Hydra's heart	1/{{#expr:180/(1999/2000*1999/2000*999/1000*511/512*511/512) round 1}}	yes	-
+Alchemical Hydra	15375803	-	Hydra tail	1/{{#expr:512/(1999/2000*1999/2000*999/1000) round 1}}	yes	-
+Alchemical Hydra	15375803	-	Hydra leather	1/{{#expr:512/(1999/2000*1999/2000*999/1000*511/512) round 1}}	yes	-
+Alchemical Hydra	15375803	-	Hydra's claw	1/{{#expr:1000/(1999/2000*1999/2000) round 1}}	yes	-
+Alchemical Hydra	15375803	-	Dragon thrownaxe	1/2000	yes	-
+Alchemical Hydra	15375803	-	Dragon knife	1/{{#expr:2000/(1999/2000) round 1}}	yes	-
+Alchemical Hydra	15375803	-	Mystic robe top (light)	1/101	yes	-
+Alchemical Hydra	15375803	-	Mystic robe bottom (light)	1/101	yes	-
+Alchemical Hydra	15375803	-	Alchemical hydra heads	1/256	yes	-
+Alchemical Hydra	15375803	-	Jar of Chemicals	1/2000	yes	-
+Alchemical Hydra	15375803	-	Ikkle Hydra	1/3000	yes	-
+Sarachnis	15366275	-	Sarachnis cudgel	1/384	yes	-
+Sarachnis	15366275	-	Giant egg sac(full)	1/20	yes	-
+Sarachnis	15366275	-	Pristine spider silk	1/50	yes	-
+Sarachnis	15366275	-	Jar of Eyes	1/2000	yes	-
+Sarachnis	15366275	-	Sraracha	1/3000	yes	-
+Phantom Muspah	15367478	-	Ancient essence	60/100	yes	-
+Phantom Muspah	15367478	-	Frozen cache	4/100	yes	-
+Phantom Muspah	15367478	-	Ancient icon	2/100	yes	-
+Phantom Muspah	15367478	-	Venator shard	1/100	yes	-
+Phantom Muspah	15367478	-	Charged ice	Always	yes	-
+Phantom Muspah	15367478	-	Muphin	1/2500	yes	-
+Vardorvis	15365789	-	Ultor vestige	1/1088	yes	-
+Vardorvis	15365789	-	Chromium ingot	3/1088	yes	-
+Vardorvis	15365789	-	Executioner's axe head	1/1088	yes	-
+Vardorvis	15365789	-	Virtus mask	1/3264	yes	-
+Vardorvis	15365789	-	Virtus robe top	1/3264	yes	-
+Vardorvis	15365789	-	Virtus robe bottom	1/3264	yes	-
+Vardorvis	15365789	-	Strangled tablet	1/25.5	yes	-
+Vardorvis	15365789	-	Awakener's orb	1/80.6	yes	-
+Vardorvis	15365789	-	Blood quartz	1/204.0	yes	-
+Vardorvis	15365789	-	Butch	1/3000	yes	-
+Duke Sucellus	15365802	-	Magus vestige	1/720	yes	-
+Duke Sucellus	15365802	-	Chromium ingot	3/720	yes	-
+Duke Sucellus	15365802	-	Eye of the Duke	1/720	yes	-
+Duke Sucellus	15365802	-	Virtus mask	1/2160	yes	-
+Duke Sucellus	15365802	-	Virtus robe top	1/2160	yes	-
+Duke Sucellus	15365802	-	Virtus robe bottom	1/2160	yes	-
+Duke Sucellus	15365802	-	Frozen tablet	1/25.8	yes	-
+Duke Sucellus	15365802	-	Awakener's orb	1/48.5	yes	-
+Duke Sucellus	15365802	-	Ice quartz	1/206.6	yes	-
+Duke Sucellus	15365802	-	Baron	1/2500	yes	-
+The Whisperer	15371845	-	Bellator vestige	1/512	yes	-
+The Whisperer	15371845	-	Chromium ingot	3/512	yes	-
+The Whisperer	15371845	-	Siren's staff	1/512	yes	-
+The Whisperer	15371845	-	Virtus mask	1/1536	yes	-
+The Whisperer	15371845	-	Virtus robe top	1/1536	yes	-
+The Whisperer	15371845	-	Virtus robe bottom	1/1536	yes	-
+The Whisperer	15371845	-	Sirenic tablet	1/26.2	yes	-
+The Whisperer	15371845	-	Awakener's orb	1/34.5	yes	-
+The Whisperer	15371845	-	Shadow quartz	1/209.3	yes	-
+The Whisperer	15371845	-	Wisp	1/2000	yes	-
+The Leviathan	15356627	-	Venator vestige	1/768	yes	-
+The Leviathan	15356627	-	Chromium ingot	3/768	yes	-
+The Leviathan	15356627	-	Leviathan's lure	1/768	yes	-
+The Leviathan	15356627	-	Virtus mask	1/2304	yes	-
+The Leviathan	15356627	-	Virtus robe top	1/2304	yes	-
+The Leviathan	15356627	-	Virtus robe bottom	1/2304	yes	-
+The Leviathan	15356627	-	Scarred tablet	1/25.8	yes	-
+The Leviathan	15356627	-	Awakener's orb	1/53.6	yes	-
+The Leviathan	15356627	-	Smoke quartz	1/206.0	yes	-
+The Leviathan	15356627	-	Lil'viathan	1/2500	yes	-
+Araxxor	15360233	-	Noxious pommel	1/200	yes	-
+Araxxor	15360233	-	Noxious point	1/200	yes	-
+Araxxor	15360233	-	Noxious blade	1/200	yes	-
+Araxxor	15360233	-	Araxyte fang	1/600	yes	-
+Araxxor	15360233	-	Araxyte venom sac	1/16	yes	-
+Araxxor	15360233	-	Spider cave teleport	8/115	yes	-
+Araxxor	15360233	-	Araxyte head	1/250	yes	-
+Araxxor	15360233	-	Jar of Venom	1/1500	yes	-
+Araxxor	15360233	-	Coagulated venom	Always	yes	-
+Araxxor	15360233	-	Nid	1/3000	yes	-
+Monkey Zombie	15322124	-	Zombie champion scroll	1/5000	yes	-
+Tortured gorilla	15373438	-	Zenyte shard	1/3000	yes	-
+Tortured gorilla	15373438	-	Ballista limbs	1/5000	yes	-
+Tortured gorilla	15373438	-	Ballista spring	1/5000	yes	-
+Tortured gorilla	15373438	-	Light frame	1/7500	yes	-
+Tortured gorilla	15373438	-	Heavy frame	1/15000	yes	-
+Tortured gorilla	15373438	-	Monkey tail	1/15000	yes	-
+Tortured gorilla	15373438	-	Long bone	1/400	yes	-
+Tortured gorilla	15373438	-	Curved bone	1/5012.5	yes	-
+Demonic gorilla	15373646	-	Zenyte shard	1/300	yes	-
+Demonic gorilla	15373646	-	Ballista limbs	1/500	yes	-
+Demonic gorilla	15373646	-	Ballista spring	1/500	yes	-
+Demonic gorilla	15373646	-	Light frame	1/750	yes	-
+Demonic gorilla	15373646	-	Heavy frame	1/1500	yes	-
+Demonic gorilla	15373646	-	Monkey tail	1/1500	yes	-
+Cave goblin (monster)	15229939	-	Goblin champion scroll	1/5000	yes	-
+Cave goblin guard	15237744	-	Goblin champion scroll	1/5000	yes	-
+Sergeant Strongstack	15298419	-	Bandos chestplate	1/16256	yes	-
+Sergeant Strongstack	15298419	-	Bandos tassets	1/16256	yes	-
+Sergeant Strongstack	15298419	-	Bandos boots	1/16256	yes	-
+Sergeant Strongstack	15298419	-	Godsword shard 1	1/1524	yes	-
+Sergeant Strongstack	15298419	-	Godsword shard 2	1/1524	yes	-
+Sergeant Strongstack	15298419	-	Godsword shard 3	1/1524	yes	-
+Sergeant Strongstack	15298419	-	Goblin champion scroll	1/5000	yes	-
+Scurrius	15351656	MVP/Solo	Scurrius' spine	1/33	no	-
+Scurrius	15351656	MVP/Solo	Long bone	1/400	no	-
+Scurrius	15351656	MVP/Solo	Curved bone	1/5012.5	no	-
+Scurrius	15351656	MVP/Solo	Scurry	1/3000	no	-
+Scurrius	15351656	non-MVP	Scurrius' spine	1/33	no	-
+Brine rat	15372645	-	Brine sabre	1/512	yes	-
+Chompy bird	15326193	-	Chompy chick	1/500	yes	-
+Zombie	15373734	level 13	Zombie champion scroll	1/5000	no	-
+Zombie	15373734	level 18	Zombie champion scroll	1/5000	no	-
+Zombie	15373734	level 24	Zombie champion scroll	1/5000	no	-
+Zombie pirate (Braindeath Island)	15200516	-	Zombie champion scroll	1/5000	yes	-
+Zombie swab	15199673	-	Zombie champion scroll	1/5000	yes	-
+Undead Druid	15349469	-	Mask of Ranul	1/1000	yes	-
+Undead Druid	15349469	-	Zombie champion scroll	1/5000	yes	-
+Sorebones	15230661	-	Zombie champion scroll	1/5000	yes	-
+Zogre	15199334	-	Zombie champion scroll	1/5000	yes	-
+Undead one	15375554	-	Skeleton champion scroll	1/5000	yes	-
+Undead one	15375554	-	Zombie champion scroll	1/5000	yes	-
+Skeleton (Ape Atoll)	15322119	-	Skeleton champion scroll	1/5000	yes	-
+Skeleton (Barrows)	15216649	-	Skeleton champion scroll	1/5000	yes	-
+Skeleton	15370082	Plain	Skeleton champion scroll	1/5000	no	-
+Skeleton	15370082	Unarmed	Skeleton champion scroll	1/5000	no	-
+Skeleton	15370082	Armed	Skeleton champion scroll	1/5000	no	-
+Skeleton (mage)	15317690	-	Skeleton champion scroll	1/5000	yes	-
+Skeleton (Shayzien Crypts)	15323223	-	Skeleton champion scroll	1/5000	yes	-
+Skeleton (Melzar's Maze)	15200114	-	Skeleton champion scroll	1/5000	yes	-
+Skogre	15199447	-	Skeleton champion scroll	1/5000	yes	-
+Skogre	15199447	-	Zombie champion scroll	1/5000	yes	-
+Calvar'ion	15375801	-	Dragon 2h sword	1/358	yes	-
+Calvar'ion	15375801	-	Dragon pickaxe	1/358	yes	-
+Calvar'ion	15375801	-	Skull of Vet'ion	1/618	yes	-
+Calvar'ion	15375801	-	Ring of the gods	1/716	yes	-
+Calvar'ion	15375801	-	Voidwaker blade	1/912	yes	-
+Calvar'ion	15375801	-	Long bone	1/400	yes	-
+Calvar'ion	15375801	-	Curved bone	1/5012.5	yes	-
+Calvar'ion	15375801	-	Skeleton champion scroll	1/5000	yes	-
+Calvar'ion	15375801	-	Vet'ion Jr.	1/2800	yes	-
+Artio	15358758	-	Dragon 2h sword	1/358	yes	-
+Artio	15358758	-	Dragon pickaxe	1/358	yes	-
+Artio	15358758	-	Claws of Callisto	1/618	yes	-
+Artio	15358758	-	Tyrannical ring	1/716	yes	-
+Artio	15358758	-	Voidwaker hilt	1/912	yes	-
+Artio	15358758	-	Long bone	1/400	yes	-
+Artio	15358758	-	Curved bone	1/5012.5	yes	-
+Artio	15358758	-	Callisto cub	1/2800	yes	-
+Hill Giant	15362162	-	Giant key	1/128	yes	-
+Hill Giant	15362162	-	Long bone	1/400	yes	-
+Hill Giant	15362162	-	Giant champion scroll	1/5000	yes	-
+Hill Giant	15362162	-	Curved bone	1/5012.5	yes	-
+Cyclops	15337742	-	Bronze defender	2/100	yes	-
+Cyclops	15337742	-	Iron defender	2/100	yes	-
+Cyclops	15337742	-	Steel defender	2/100	yes	-
+Cyclops	15337742	-	Black defender	2/100	yes	-
+Cyclops	15337742	-	Mithril defender	2/100	yes	-
+Cyclops	15337742	-	Adamant defender	2/100	yes	-
+Cyclops	15337742	-	Rune defender	2/100	yes	-
+Cyclops	15337742	-	Long bone	1/400	yes	-
+Cyclops	15337742	-	Curved bone	1/5012.5	yes	-
+Cyclops	15337742	-	Dragon defender	1/100	yes	-
+Ice giant	15360393	-	Long bone	1/400	yes	-
+Ice giant	15360393	-	Giant champion scroll	1/5000	yes	-
+Ice giant	15360393	-	Curved bone	1/5012.5	yes	-
+Ice giant	15360393	-	Frozen tear	-	yes	Ruins of Tapoyauik
+Fire giant	15364222	-	Long bone	1/400	yes	-
+Fire giant	15364222	-	Giant champion scroll	1/5000	yes	-
+Fire giant	15364222	-	Curved bone	1/5012.5	yes	-
+Moss giant	15366318	-	Mossy key	1/150	yes	-
+Moss giant	15366318	-	Long bone	1/400	yes	-
+Moss giant	15366318	-	Giant champion scroll	1/5000	yes	-
+Moss giant	15366318	-	Curved bone	1/5012.5	yes	-
+Moss Giant (Iorwerth Dungeon)	15366308	-	Mossy key	1/120	yes	-
+Moss Giant (Iorwerth Dungeon)	15366308	-	Long bone	1/400	yes	-
+Moss Giant (Iorwerth Dungeon)	15366308	-	Giant champion scroll	1/5000	yes	-
+Moss Giant (Iorwerth Dungeon)	15366308	-	Curved bone	1/5012.5	yes	-
+Thrower Troll	15276240	-	Long bone	1/400	yes	-
+Thrower Troll	15276240	-	Curved bone	1/5012.5	yes	-
+Thrower troll (Trollheim)	15200204	-	Long bone	1/400	yes	-
+Thrower troll (Trollheim)	15200204	-	Curved bone	1/5012.5	yes	-
+Mountain troll	15360669	-	Long bone	1/400	yes	-
+Mountain troll	15360669	-	Curved bone	1/5012.5	yes	-
+Troll spectator	15215954	-	Long bone	1/400	yes	-
+Troll spectator	15215954	-	Curved bone	1/5012.5	yes	-
+Twig	15326896	-	Long bone	1/400	yes	-
+Twig	15326896	-	Curved bone	1/5012.5	yes	-
+Berry	15326895	-	Long bone	1/400	yes	-
+Berry	15326895	-	Curved bone	1/5012.5	yes	-
+Ice troll runt	15199610	variant 1	Long bone	1/400	no	-
+Ice troll runt	15199610	variant 1	Curved bone	1/5012.5	no	-
+Ice troll runt	15199610	variant 2	Long bone	1/400	no	-
+Ice troll runt	15199610	variant 2	Curved bone	1/5012.5	no	-
+Ice troll male	15199661	variant 1	Long bone	1/400	no	-
+Ice troll male	15199661	variant 1	Curved bone	1/5012.5	no	-
+Ice troll male	15199661	variant 2	Long bone	1/400	no	-
+Ice troll male	15199661	variant 2	Curved bone	1/5012.5	no	-
+Ice troll female	15276241	variant 1	Long bone	1/400	no	-
+Ice troll female	15276241	variant 1	Curved bone	1/5012.5	no	-
+Ice troll female	15276241	variant 2	Long bone	1/400	no	-
+Ice troll female	15276241	variant 2	Curved bone	1/5012.5	no	-
+Pee Hat	15199655	-	Long bone	1/400	yes	-
+Pee Hat	15199655	-	Curved bone	1/5012.5	yes	-
+Kraka	15199547	-	Long bone	1/400	yes	-
+Kraka	15199547	-	Curved bone	1/5012.5	yes	-
+Dad	15352679	-	Long bone	1/400	yes	-
+Dad	15352679	-	Curved bone	1/5012.5	yes	-
+Ice troll grunt	15199265	-	Long bone	1/400	yes	-
+Ice troll grunt	15199265	-	Curved bone	1/5012.5	yes	-
+Stick	15215947	-	Long bone	1/400	yes	-
+Stick	15215947	-	Curved bone	1/5012.5	yes	-
+Rock (Troll)	15199654	-	Long bone	1/400	yes	-
+Rock (Troll)	15199654	-	Curved bone	1/5012.5	yes	-
+Troll general	15267877	-	Long bone	1/400	yes	-
+Troll general	15267877	-	Curved bone	1/5012.5	yes	-
+Ice troll	15199343	-	Long bone	1/400	yes	-
+Ice troll	15199343	-	Curved bone	1/5012.5	yes	-
+Ice warrior	15275444	-	Frozen tear	-	yes	Ruins of Tapoyauik
+Icelord	15199467	-	Long bone	1/400	yes	-
+Icelord	15199467	-	Curved bone	1/5012.5	yes	-
+Ogre	15367212	-	Long bone	1/400	yes	-
+Ogre	15367212	-	Curved bone	1/5012.5	yes	-
+Ogress Shaman	15339928	-	Long bone	1/400	yes	-
+Ogress Shaman	15339928	-	Shaman mask	1/1200	yes	-
+Ogress Shaman	15339928	-	Curved bone	1/5012.5	yes	-
+Mogre	15346116	-	Mudskipper hat	5/128	yes	-
+Mogre	15346116	-	Flippers	2/128	yes	-
+Mogre	15346116	-	Long bone	1/400	yes	-
+Mogre	15346116	-	Curved bone	1/5012.5	yes	-
+Ghoul	15355380	-	Ghoul champion scroll	1/5000	yes	-
+Brutal blue dragon	15355323	-	Frozen tear	1/32	yes	Ruins of Tapoyauik
+Brutal blue dragon	15355323	-	Draconic visage	1/10000	yes	-
+Blue dragon	15369928	-	Frozen tear	1/100	yes	Ruins of Tapoyauik
+Baby blue dragon	15369927	-	Frozen tear	1/100	yes	Ruins of Tapoyauik
+Brutal red dragon	15355325	-	Draconic visage	1/10000	yes	-
+Black dragon	15286221	-	Draconic visage	1/10000	yes	-
+Brutal black dragon	15364104	-	Dragon spear	1/512	yes	-
+Brutal black dragon	15364104	-	Draconic visage	1/10000	yes	-
+Skeleton Hellhound (Vet'ion)	15358786	-	Skeleton champion scroll	1/5000	yes	-
+Greater Skeleton Hellhound (Vet'ion)	15358787	-	Skeleton champion scroll	1/5000	yes	-
+Skeleton Hellhound (Calvar'ion)	15358761	-	Skeleton champion scroll	1/5000	yes	-
+Greater Skeleton Hellhound (Calvar'ion)	15370225	-	Skeleton champion scroll	1/5000	yes	-
+Vyrewatch Sentinel	15367082	-	Blood shard	1/1500	yes	-
+Dagannoth Prime	15360344	-	Mud battlestaff	1/128	yes	-
+Dagannoth Prime	15360344	-	Dragon axe	1/128	yes	-
+Dagannoth Prime	15360344	-	Seers ring	1/128	yes	-
+Dagannoth Prime	15360344	-	Pet Dagannoth Prime	1/5000	yes	-
+Turoth	15373604	-	Leaf-bladed sword	1/500	yes	-
+Turoth	15373604	-	Mystic robe bottom (light)	1/512	yes	-
+Turoth	15373604	-	Necklace of Fangs	1/129	yes	-
+Spiked Turoth	15373800	-	Leaf-bladed sword	1/500	yes	-
+Spiked Turoth	15373800	-	Mystic robe bottom (light)	1/512	yes	-
+Spiked Turoth	15373800	-	Necklace of Fangs	1/128	yes	-
+Cave crawler	15373244	-	Bronze boots	1/128	yes	-
+Cave crawler	15373244	-	Frozen tear	1/134	yes	Ruins of Tapoyauik
+Banshee	15373192	-	Mystic gloves (dark)	1/512	yes	-
+Screaming banshee	15374732	-	Mystic gloves (dark)	1/512	yes	-
+Twisted Banshee	15339672	-	Mystic gloves (dark)	1/256	yes	-
+Screaming twisted banshee	15373768	-	Mystic gloves (dark)	1/256	yes	-
+Infernal Mage	15373465	-	Mystic boots (dark)	1/512	yes	-
+Infernal Mage	15373465	-	Mystic hat (dark)	1/512	yes	-
+Infernal Mage	15373465	-	Fire ruby	1/64	yes	-
+Aberrant spectre	15371564	-	Mystic robe bottom (dark)	1/512	yes	-
+Abhorrent spectre	15373806	-	Mystic robe bottom (dark)	1/512	yes	-
+Deviant spectre	15360075	-	Mystic robe bottom (dark)	1/512	yes	-
+Repugnant spectre	15373807	-	Mystic robe bottom (dark)	1/512	yes	-
+Abyssal demon	15357583	-	Abyssal whip	1/512	yes	-
+Abyssal demon	15357583	-	Abyssal dagger	1/32000	yes	-
+Abyssal demon	15357583	-	Abyssal head	1/6000	yes	-
+Basilisk	15338302	-	Mystic hat (light)	1/512	yes	-
+Basilisk	15338302	-	Basilisk head	1/2000	yes	-
+Basilisk Knight	15340714	-	Mystic hat (light)	1/256	yes	-
+Basilisk Knight	15340714	-	Basilisk head	1/1000	yes	-
+Basilisk Knight	15340714	-	Long bone	1/400	yes	-
+Basilisk Knight	15340714	-	Basilisk jaw	1/5000	yes	-
+Basilisk Knight	15340714	-	Curved bone	1/5012.5	yes	-
+Cockatrice	15374532	-	Mystic boots (light)	1/512	yes	-
+Cockatrice	15374532	-	Iron boots	1/128	yes	-
+Cockatrice	15374532	-	Cockatrice head	1/1000	yes	-
+Moonlight Cockatrice	15357611	-	Iron boots	1/128	yes	-
+Moonlight Cockatrice	15357611	-	Mystic boots (light)	1/512	yes	-
+Moonlight Cockatrice	15357611	-	Cockatrice head	1/1000	yes	-
+Kurask	15373546	-	Leaf-bladed sword	1/384	yes	-
+Kurask	15373546	-	Mystic robe top (light)	1/512	yes	-
+Kurask	15373546	-	Leaf-bladed battleaxe	1/1026	yes	-
+Kurask	15373546	-	Kurask head	1/3000	yes	-
+King kurask	15373844	-	Leaf-bladed sword	1/384	yes	-
+King kurask	15373844	-	Mystic robe top (light)	1/512	yes	-
+King kurask	15373844	-	Leaf-bladed battleaxe	1/1026	yes	-
+King kurask	15373844	-	Kurask head	1/3000	yes	-
+Gargoyle	15339578	-	Granite maul	1/256	yes	-
+Gargoyle	15339578	-	Mystic robe top (dark)	1/512	yes	-
+Gargoyle	15339578	-	Adamant boots	1/128	yes	-
+Marble gargoyle	15373861	-	Granite maul	1/256	yes	-
+Marble gargoyle	15373861	-	Mystic robe top (dark)	1/512	yes	-
+Marble gargoyle	15373861	-	Adamant boots	1/128	yes	-
+Pyrefiend	15355194	-	Steel boots	1/128	yes	-
+Flaming pyrelord	15373756	-	Steel boots	1/128	yes	-
+Pyrelord	15338384	-	Steel boots	1/128	yes	-
+Infernal pyrelord	15373757	-	Steel boots	1/128	yes	-
+Bloodveld	15357608	-	Black boots	1/128	yes	-
+Insatiable Bloodveld	15373759	-	Black boots	1/128	yes	-
+Mutated Bloodveld	15338397	-	Black boots	1/128	yes	-
+Insatiable mutated Bloodveld	15357549	-	Black boots	1/128	yes	-
+Dust devil	15339619	-	Dust battlestaff	1/4000	yes	-
+Dust devil	15339619	-	Dragon chainbody	1/{{#expr:128*256}}	yes	-
+Choke devil	15373841	-	Dust battlestaff	1/4000	yes	-
+Choke devil	15373841	-	Dragon chainbody	1/32768	yes	-
+Jelly	15339569	-	Mithril boots	1/128	yes	-
+Warped Jelly	15339567	-	Mithril boots	2/128	yes	-
+Chilled jelly	15352393	-	Mithril boots	2/128	yes	-
+Chilled jelly	15352393	-	Frozen tear	Rare	yes	-
+Rockslug	15339655	-	Mystic gloves (light)	1/512	yes	-
+Nechryael	15341793	-	Rune boots	1/116	yes	-
+Greater Nechryael	15341801	regular	Rune boots	1/128	no	-
+Greater Nechryael	15341801	Wilderness Slayer Cave	Rune boots	1/112	no	-
+Earth warrior	15365668	-	Earth warrior champion scroll	1/5000	yes	-
+Iorwerth Warrior	15357164	Iorwerth Dungeon	Enhanced crystal teleport seed	1/1024	no	-
+Guard (Prifddinas)	15369172	-	Enhanced crystal teleport seed	1/1024	yes	-
+Iron dragon	15273774	-	Draconic visage	1/10000	yes	-
+Mithril dragon	15351490	-	Dragon full helm	1/32768	yes	-
+Mithril dragon	15351490	-	Chewed bones	3/128	yes	-
+Mithril dragon	15351490	-	Ancient page	2/128	yes	-
+Mithril dragon	15351490	-	Draconic visage	1/10000	yes	-
+Adamant dragon	15373867	-	Dragon limbs	1/1000	yes	-
+Adamant dragon	15373867	-	Dragon metal slice	1/5000	yes	-
+Adamant dragon	15373867	-	Draconic visage	1/9000	yes	-
+Rune dragon	15364710	-	Dragon limbs	1/800	yes	-
+Rune dragon	15364710	-	Dragon metal lump	1/5000	yes	-
+Rune dragon	15364710	-	Draconic visage	1/8000	yes	-
+Steel dragon	15365305	-	Draconic visage	1/10000	yes	-
+Wall beast	15341845	-	Mystic hat (light)	1/512	yes	-
+Cave slime	15365366	-	Iron boots	1/128	yes	-
+Dark beast	15350345	-	Dark bow	1/512	yes	-
+Dark beast	15350345	-	Long bone	1/400	yes	-
+Dark beast	15350345	-	Curved bone	1/5012.5	yes	-
+Small Lizard	15374572	-	Mystic gloves (light)	1/512	yes	-
+Desert Lizard	15373521	-	Mystic gloves (light)	1/512	yes	-
+Lizard	15374564	-	Mystic gloves (light)	1/512	yes	-
+Lizard	15374564	-	Long bone	1/400	yes	-
+Lizard	15374564	-	Curved bone	1/5012.5	yes	-
+Sulphur Lizard	15339650	-	Mystic gloves (light)	1/512	yes	-
+Grimy Lizard	15366465	-	Mystic gloves (light)	1/512	yes	-
+Harpie Bug Swarm	15338388	-	Steel boots	1/128	yes	-
+Sea Snake Hatchling	15373409	-	Water sapphire	1/64	yes	-
+Sea Snake Young	15341254	-	Water sapphire	1/64	yes	-
+Sea Snake Young	15341254	-	Long bone	1/400	yes	-
+Sea Snake Young	15341254	-	Curved bone	1/5012.5	yes	-
+Skeletal Wyvern	15359558	-	Granite legs	1/512	yes	-
+Skeletal Wyvern	15359558	-	Draconic visage	1/10000	yes	-
+Killerwatt	15373866	-	Air diamond	1/64	yes	-
+Icefiend	15329347	-	Frozen tear	1/150	yes	Ruins of Tapoyauik
+Minotaur	15204227	-	Right skull half	3/101	yes	-
+Catablepon	15328106	-	Top of sceptre	3/101	yes	-
+Cave horror	15372165	-	Black mask (10)	1/512	yes	-
+Cave horror	15372165	-	Long bone	1/400	yes	-
+Cave horror	15372165	-	Curved bone	1/5012.5	yes	-
+Suqah	15359423	-	Long bone	1/400	yes	-
+Suqah	15359423	-	Curved bone	1/5012.5	yes	-
+Molanisk	15374547	-	Mole claw	1/128	yes	-
+Molanisk	15374547	-	Earth emerald	1/64	yes	-
+Waterfiend	15292679	-	Mist battlestaff	1/3000	yes	-
+Spiritual ranger	15341103	Ancient Prison	Ancient ceremonial mask	1/640	yes	-
+Spiritual ranger	15341103	Ancient Prison	Ancient ceremonial top	1/640	yes	-
+Spiritual ranger	15341103	Ancient Prison	Ancient ceremonial legs	1/640	yes	-
+Spiritual ranger	15341103	Ancient Prison	Ancient ceremonial gloves	1/640	yes	-
+Spiritual ranger	15341103	Ancient Prison	Ancient ceremonial boots	1/640	yes	-
+Spiritual ranger	15341103	Ancient Prison	Nihil shard	1/128	yes	-
+Spiritual warrior	15341102	Ancient Prison	Ancient ceremonial mask	1/640	yes	-
+Spiritual warrior	15341102	Ancient Prison	Ancient ceremonial top	1/640	yes	-
+Spiritual warrior	15341102	Ancient Prison	Ancient ceremonial legs	1/640	yes	-
+Spiritual warrior	15341102	Ancient Prison	Ancient ceremonial gloves	1/640	yes	-
+Spiritual warrior	15341102	Ancient Prison	Ancient ceremonial boots	1/640	yes	-
+Spiritual warrior	15341102	Ancient Prison	Nihil shard	1/128	yes	-
+Spiritual mage	15339602	-	Dragon boots	1/128	yes	-
+Spiritual mage	15339602	Ancient Prison	Ancient ceremonial mask	1/640	yes	-
+Spiritual mage	15339602	Ancient Prison	Ancient ceremonial top	1/640	yes	-
+Spiritual mage	15339602	Ancient Prison	Ancient ceremonial legs	1/640	yes	-
+Spiritual mage	15339602	Ancient Prison	Ancient ceremonial gloves	1/640	yes	-
+Spiritual mage	15339602	Ancient Prison	Ancient ceremonial boots	1/640	yes	-
+Spiritual mage	15339602	Ancient Prison	Nihil shard	1/128	yes	-
+Spiritual mage	15339602	Ancient Prison	Dragon boots	1/128	yes	-
+Lizardman brute	15339921	-	Xeric's talisman (inert)	1/250	yes	-
+Lizardman shaman	15371945	-	Xeric's talisman (inert)	2/500	yes	-
+Lizardman shaman	15371945	-	Long bone	1/400	yes	-
+Lizardman shaman	15371945	-	Curved bone	1/5012.5	yes	-
+Lizardman shaman	15371945	-	Dragon warhammer	1/3000	yes	-
+Cave kraken	15342837	-	Uncharged trident	1/200	yes	-
+Cave kraken	15342837	-	Kraken tentacle	1/1200	yes	-
+Flight Kilisa	15298482	-	Armadyl helmet	1/16129	yes	-
+Flight Kilisa	15298482	-	Armadyl chestplate	1/16129	yes	-
+Flight Kilisa	15298482	-	Armadyl chainskirt	1/16129	yes	-
+Flight Kilisa	15298482	-	Godsword shard 1	1/1524	yes	-
+Flight Kilisa	15298482	-	Godsword shard 2	1/1524	yes	-
+Flight Kilisa	15298482	-	Godsword shard 3	1/1524	yes	-
+Wingman Skree	15298484	-	Armadyl helmet	1/16129	yes	-
+Wingman Skree	15298484	-	Armadyl chestplate	1/16129	yes	-
+Wingman Skree	15298484	-	Armadyl chainskirt	1/16129	yes	-
+Wingman Skree	15298484	-	Godsword shard 1	1/1524	yes	-
+Wingman Skree	15298484	-	Godsword shard 2	1/1524	yes	-
+Wingman Skree	15298484	-	Godsword shard 3	1/1524	yes	-
+Flockleader Geerin	15329496	-	Armadyl helmet	1/16129	yes	-
+Flockleader Geerin	15329496	-	Armadyl chestplate	1/16129	yes	-
+Flockleader Geerin	15329496	-	Armadyl chainskirt	1/16129	yes	-
+Flockleader Geerin	15329496	-	Godsword shard 1	1/1524	yes	-
+Flockleader Geerin	15329496	-	Godsword shard 2	1/1524	yes	-
+Flockleader Geerin	15329496	-	Godsword shard 3	1/1524	yes	-
+Smoke devil	15357607	-	Occult necklace	1/512	yes	-
+Smoke devil	15357607	-	Dragon chainbody	1/32768	yes	-
+TzHaar-Mej	15372895	-	Obsidian cape	1/4096	yes	-
+TzHaar-Mej	15372895	-	Toktz-mej-tal	1/4096	yes	-
+TzHaar-Ket	15372893	Level 149	Tzhaar-ket-om	1/512	no	-
+TzHaar-Ket	15372893	Level 149	Toktz-ket-xil	1/512	no	-
+TzHaar-Ket	15372893	Level 149	Obsidian cape	1/512	no	-
+TzHaar-Ket	15372893	Level 221	Tzhaar-ket-om	1/512	no	-
+TzHaar-Ket	15372893	Level 221	Toktz-ket-xil	1/512	no	-
+TzHaar-Ket	15372893	Level 221	Obsidian cape	1/512	no	-
+TzHaar-Ket	15372893	Level 221	Obsidian helmet	1/2000	no	-
+TzHaar-Ket	15372893	Level 221	Obsidian platebody	1/2000	no	-
+TzHaar-Ket	15372893	Level 221	Obsidian platelegs	1/2000	no	-
+TzHaar-Xil	15374328	-	Toktz-xil-ul	4/2048	yes	-
+TzHaar-Xil	15374328	-	Toktz-xil-ak	3/2048	yes	-
+TzHaar-Xil	15374328	-	Toktz-xil-ek	3/2048	yes	-
+TzHaar-Xil	15374328	-	Obsidian cape	6/2048	yes	-
+Mammoth	15365428	-	Long bone	1/400	yes	-
+Mammoth	15365428	-	Curved bone	1/5012.5	yes	-
+Lava dragon	15343124	-	Draconic visage	1/10000	yes	-
+Spitting Wyvern	15366068	-	Granite longsword	1/512	yes	-
+Spitting Wyvern	15366068	-	Granite boots	1/2560	yes	-
+Spitting Wyvern	15366068	-	Wyvern visage	1/12000	yes	-
+Taloned Wyvern	15366069	-	Granite longsword	1/512	yes	-
+Taloned Wyvern	15366069	-	Granite boots	1/2560	yes	-
+Taloned Wyvern	15366069	-	Wyvern visage	1/12000	yes	-
+Long-tailed Wyvern	15366070	-	Granite longsword	1/512	yes	-
+Long-tailed Wyvern	15366070	-	Granite boots	1/2560	yes	-
+Long-tailed Wyvern	15366070	-	Wyvern visage	1/12000	yes	-
+Ancient Wyvern	15366067	-	Granite longsword	1/600	yes	-
+Ancient Wyvern	15366067	-	Granite boots	1/600	yes	-
+Ancient Wyvern	15366067	-	Wyvern visage	1/10000	yes	-
+Elder Chaos druid	15337739	-	Elder chaos hood	1/1419	yes	-
+Elder Chaos druid	15337739	-	Elder chaos robe	1/1419	yes	-
+Elder Chaos druid	15337739	-	Elder chaos top	1/1419	yes	-
+Wyrm	15341060	-	Dragon sword	1/10000	yes	-
+Wyrm	15341060	-	Dragon harpoon	1/10000	yes	-
+Wyrm	15341060	-	Dragon knife	1/10000	yes	-
+Wyrm	15341060	-	Dragon thrownaxe	1/10000	yes	-
+Lava Strykewyrm	15352211	-	Dragon metal sheet	1/115	yes	-
+Drake	15371749	-	Drake's tooth	1/2560	yes	-
+Drake	15371749	-	Drake's claw	1/2560	yes	-
+Drake	15371749	-	Dragon thrownaxe	1/10000	yes	-
+Drake	15371749	-	Dragon knife	1/10000	yes	-
+Hydra	15356026	-	Hydra's eye	1/1800.72	yes	-
+Hydra	15356026	-	Hydra's fang	1/1800.72	yes	-
+Hydra	15356026	-	Hydra's heart	1/1800.72	yes	-
+Hydra	15356026	-	Hydra tail	1/5001	yes	-
+Hydra	15356026	-	Dragon thrownaxe	1/10000	yes	-
+Hydra	15356026	-	Dragon knife	1/10001	yes	-
+Crab	15339926	Level 21	Fresh crab claw	1/16	no	-
+Crab	15339926	Level 21	Fresh crab shell	1/16	no	-
+Crab	15339926	Level 23	Fresh crab claw	1/8	no	-
+Crab	15339926	Level 23	Fresh crab shell	1/8	no	-
+Frost Crab	15200547	-	Frozen tear	1/90	yes	-
+Sourhog	15275486	-	Long bone	1/400	yes	-
+Sourhog	15275486	-	Curved bone	1/5012.5	yes	-
+Warped Tortoise	15341109	-	Long bone	1/400	yes	-
+Warped Tortoise	15341109	-	Curved bone	1/5012.5	yes	-
+Warped Tortoise	15341109	-	Warped sceptre (uncharged)	1/320	yes	-
+Warped Terrorbird	15341108	-	Warped sceptre (uncharged)	1/320	yes	-
+Sulphur Nagua	15352431	-	Sulphur blades	1/450	yes	-
+Frost Nagua	15341239	-	Frozen tear	1/10	yes	-
+Frost Nagua	15341239	-	Pendant of Ates (inert)	1/100	yes	-
+Frost Nagua	15341239	-	Glacial temotli	1/500	yes	-
+Juvenile custodian stalker	15340737	-	Broken antler	11/160	yes	-
+Juvenile custodian stalker	15340737	-	Long bone	1/400	yes	-
+Juvenile custodian stalker	15340737	-	Curved bone	1/5012.5	yes	-
+Mature custodian stalker	15341242	-	Broken antler	7/107	yes	-
+Mature custodian stalker	15341242	-	Huasca seed	1/107	yes	-
+Mature custodian stalker	15341242	-	Antler guard	1/800	yes	-
+Mature custodian stalker	15341242	-	Long bone	1/400	yes	-
+Mature custodian stalker	15341242	-	Curved bone	1/5012.5	yes	-
+Elder custodian stalker	15353320	-	Broken antler	4/124	yes	-
+Elder custodian stalker	15353320	-	Huasca seed	1/124	yes	-
+Elder custodian stalker	15353320	-	Alchemist's signet	2/124	yes	-
+Elder custodian stalker	15353320	-	Antler guard	1/650	yes	-
+Elder custodian stalker	15353320	-	Long bone	1/400	yes	-
+Elder custodian stalker	15353320	-	Curved bone	1/5012.5	yes	-
+Venator	15338733	-	Blood shard	1/860	yes	-
+Venator	15338733	-	Venator fang	7/131	yes	-
+Venator	15338733	-	Venator tooth	7/131	yes	-
+Gryphon	15352305	-	Gryphon feather	Always	yes	-
+Gryphon	15352305	-	Horn of Plenty (empty)	1/2500	yes	-
+Shellbane gryphon	15371397	-	Belle's folly (tarnished)	1/75	yes	-
+Shellbane gryphon	15371397	-	Gryphon feather	Always	yes	-
+Shellbane gryphon	15371397	-	Long bone	1/400	yes	-
+Shellbane gryphon	15371397	-	Jar of Feathers	1/2000	yes	-
+Shellbane gryphon	15371397	-	Curved bone	1/5012.5	yes	-
+Aquanite	15357067	-	Aquanite tendon	1/3500	yes	-
+Aquanite	15357067	-	Dragon cannonball	1/128	yes	-
+Aquanite	15357067	-	Long bone	1/400	yes	-
+Aquanite	15357067	-	Curved bone	1/5012.5	yes	-
+Frost dragon	15357143	-	Dragon metal sheet	1/100	yes	-
+Frost dragon	15357143	-	Dragon cannonball	2/130	yes	-
+Frost dragon	15357143	-	Dragon nails	2/130	yes	-
+Frost dragon	15357143	-	Draconic visage	1/10000	yes	-
+Ice spider	15231530	-	Frozen tear	-	yes	Ruins of Tapoyauik
+Tormented Demon	15337983	-	Burning claw	499/250000	yes	-
+Tormented Demon	15337983	-	Tormented synapse	1/500	yes	-
+Tormented Demon	15337983	-	Guthixian temple teleport	1/12	yes	-
+Earthen Nagua	15355034	-	Earthbound tecpatl	1/400	yes	-

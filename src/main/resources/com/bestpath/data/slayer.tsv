@@ -1,0 +1,1405 @@
+# Best Path plugin data, format 1: the Slayer tasks and where to kill them.
+# Masters' numbers, tasks, bosses and Konar areas from cache 2740 DB tables 113-116; master names and places from the OSRS Wiki at development time
+# (CC BY-NC-SA 3.0; data/wiki/slayer-places.tsv and slayer-masters.tsv, page and revision per place).
+master	1	Turael
+master	2	Mazchna
+master	3	Vannaka
+master	4	Chaeldar
+master	5	Duradel
+master	6	Nieve
+master	7	Krystilia
+master	8	Konar
+master	9	Spria
+master	10	Mortimer
+master	11	Slayer master 11
+task	545	-1	Kree'arra
+task	6155	-1	Commander Zilyana
+task	6157	-1	General Graardor
+task	6159	-1	K'ril Tsutsaroth
+task	6161	-1	Dagannoth Kings
+task	6163	-1	The Giant Mole
+task	6165	-1	The Kalphite Queen
+task	6167	-1	The King Black Dragon
+task	6169	-1	Callisto
+task	6171	-1	Venenatis
+task	6173	-1	Vet'ion
+task	6175	-1	The Chaos Elemental
+task	6177	-1	The Chaos Fanatic
+task	6179	-1	Crazy Archaeologists
+task	6181	-1	Scorpia
+task	6183	-1	Zulrah
+task	6185	-1	Barrows brothers
+task	6187	-1	The Cave Kraken boss
+task	6189	-1	The Thermonuclear Smoke Devil
+task	6191	-1	Cerberus
+task	6193	-1	The Abyssal Sire
+task	6195	-1	The Grotesque Guardians
+task	6197	-1	Vorkath
+task	6199	-1	The Alchemical Hydra
+task	6201	-1	Sarachnis
+task	6203	-1	The Phantom Muspah
+task	6205	-1	Vardorvis
+task	6207	-1	Duke Sucellus
+task	6209	-1	The Whisperer
+task	6211	-1	The Leviathan
+task	6213	-1	Araxxor
+task	6214	1	Monkeys
+task	6215	2	Goblins
+task	6216	3	Rats
+task	6217	4	Spiders
+task	6218	5	Birds
+task	6219	6	Cows
+task	6220	7	Scorpions
+task	6221	8	Bats
+task	6222	9	Wolves
+task	6223	10	Zombies
+task	6224	11	Skeletons
+task	6225	12	Ghosts
+task	6226	13	Bears
+task	6227	14	Hill Giants
+task	6228	15	Ice Giants
+task	6229	16	Fire Giants
+task	6230	17	Moss Giants
+task	6231	18	Trolls
+task	6232	19	Ice Warriors
+task	6233	20	Ogres
+task	6234	21	Hobgoblins
+task	6235	22	Dogs
+task	6236	23	Ghouls
+task	6237	24	Green Dragons
+task	6238	25	Blue Dragons
+task	6239	26	Red Dragons
+task	6240	27	Black Dragons
+task	6241	28	Lesser Demons
+task	6242	29	Greater Demons
+task	6243	30	Black Demons
+task	6244	31	Hellhounds
+task	6245	32	Shadow warriors
+task	6246	33	Werewolves
+task	6247	34	Vampyres
+task	6248	35	Dagannoth
+task	6249	36	Turoth
+task	6250	37	Cave Crawlers
+task	6251	38	Banshees
+task	6252	39	Crawling Hands
+task	6253	40	Infernal Mages
+task	6254	41	Aberrant Spectres
+task	6255	42	Abyssal Demons
+task	6256	43	Basilisks
+task	6257	44	Cockatrice
+task	6258	45	Kurask
+task	6259	46	Gargoyles
+task	6260	47	Pyrefiends
+task	6261	48	Bloodveld
+task	6262	49	Dust Devils
+task	6263	50	Jellies
+task	6264	51	Rockslugs
+task	6265	52	Nechryael
+task	6266	53	Kalphites
+task	6267	54	Earth Warriors
+task	6268	55	Otherworldly Beings
+task	6269	56	Elves
+task	6270	57	Dwarves
+task	6271	58	Bronze Dragons
+task	6272	59	Iron Dragons
+task	6273	60	Steel Dragons
+task	6274	61	Wall Beasts
+task	6275	62	Cave Slimes
+task	6276	63	Cave Bugs
+task	6277	64	Shades
+task	6278	65	Crocodiles
+task	6279	66	Dark Beasts
+task	6280	67	Mogres
+task	6281	68	Lizards
+task	6282	69	Fever Spiders
+task	6283	70	Harpie Bug Swarms
+task	6284	71	Sea Snakes
+task	6285	72	Skeletal Wyverns
+task	6286	73	Killerwatts
+task	6287	74	Mutated Zygomites
+task	6288	75	Icefiends
+task	6289	76	Minotaurs
+task	6290	77	Fleshcrawlers
+task	6291	78	Catablepon
+task	6292	79	Ankou
+task	6293	80	Cave Horrors
+task	6294	81	Jungle Horrors
+task	6295	83	Suqahs
+task	6296	84	Brine Rats
+task	6297	85	Scabarites
+task	6298	86	Terror Dogs
+task	6299	87	Molanisks
+task	6300	88	Waterfiends
+task	6301	89	Spiritual Creatures
+task	6302	90	Lizardmen
+task	6303	91	Magic Axes
+task	6304	92	Cave Kraken
+task	6305	93	Mithril Dragons
+task	6306	94	Aviansies
+task	6307	95	Smoke Devils
+task	6308	96	Tzhaar
+task	6309	105	TzKal-Zuk
+task	6310	97	TzTok-Jad
+task	6311	98	Boss
+task	6312	99	Mammoths
+task	6313	100	Rogues
+task	6314	101	Ents
+task	6315	102	Bandits
+task	6316	103	Dark Warriors
+task	6317	104	Lava Dragons
+task	6318	106	Fossil Island Wyverns
+task	6319	107	Revenants
+task	6320	108	Adamant Dragons
+task	6321	109	Rune Dragons
+task	6322	127	Metal Dragons
+task	6323	110	Chaos Druids
+task	6324	111	Wyrms
+task	6325	112	Drakes
+task	6326	113	Hydras
+task	6327	114	Temple Spiders
+task	6328	115	Undead Druids
+task	6329	116	Sulphur Lizards
+task	6330	117	Brutal Black Dragons
+task	6332	118	Sand Crabs
+task	6333	125	Crabs
+task	6334	119	Black Knights
+task	6335	120	Pirates
+task	6336	121	Sourhogs
+task	6337	122	Warped Creatures
+task	6338	123	Lesser Nagua
+task	6339	124	Araxytes
+task	6340	126	Custodian Stalkers
+task	7201	131	Venators
+task	9405	-1	The Shellbane Gryphon
+task	9414	128	Gryphons
+task	9415	129	Aquanites
+task	9416	130	Frost Dragons
+task	16939	-1	The Maggot King
+boss	1	545
+boss	2	6155
+boss	3	6157
+boss	4	6159
+boss	5	6161
+boss	6	6163
+boss	7	6165
+boss	8	6167
+boss	9	6169
+boss	10	6171
+boss	11	6173
+boss	12	6175
+boss	13	6177
+boss	14	6179
+boss	15	6181
+boss	16	6183
+boss	17	6185
+boss	18	6187
+boss	19	6189
+boss	20	6191
+boss	21	6193
+boss	22	6195
+boss	23	6197
+boss	24	6199
+boss	25	6201
+boss	26	6203
+boss	27	6205
+boss	28	6207
+boss	29	6209
+boss	30	6211
+boss	31	6213
+boss	32	9405
+boss	33	16939
+area	52	Crypt of Tonali
+area	1	Catacombs of Kourend
+area	20	Smoke Dungeon
+area	19	Smoke Devil Dungeon
+area	3	Karuulm Slayer Dungeon
+area	2	Stronghold Slayer Dungeon
+area	8	Waterfall Dungeon
+area	5	Brimhaven Dungeon
+area	47	Isle of Souls
+area	48	Giants' Den
+area	4	Chasm of Fire
+area	6	Taverley Dungeon
+area	7	Witchaven Dungeon
+area	9	Slayer Tower
+area	10	God Wars Dungeon
+area	11	Kalphite Lair
+area	12	task-only Kalphite Cave
+area	13	Kraken Cove
+area	14	in the Lighthouse
+area	15	Waterbirth Island
+area	16	Lizardman Canyon
+area	17	Molch
+area	18	Lizardman Settlement
+area	21	Death Plateau
+area	22	Troll Stronghold
+area	23	Keldagrim
+area	24	South of Mount Quidamortem
+area	25	Fremennik Isles
+area	26	Fremennik Slayer Dungeon
+area	27	Myths' Guild Dungeon
+area	28	Mourner Tunnels
+area	29	Lithkren Vault
+area	30	Ancient Cavern
+area	31	Stronghold of Security
+area	32	Fossil Island
+area	34	Ogre Enclave
+area	35	Brine Rat Cavern
+area	36	Zanaris
+area	37	Evil Chicken's Lair
+area	38	The Abyss
+area	39	Kebos Swamp
+area	40	The Battlefront
+area	41	Forthos Dungeon
+area	42	Iorwerth Dungeon
+area	43	Jormungand's Prison
+area	44	Darkmeyer
+area	45	Slepe
+area	46	Meiyerditch Laboratories
+area	49	Poison Waste Dungeon
+area	50	Neypotzli
+area	51	Tapoyauik
+area	33	Asgarnian Ice Dungeon
+area	56	Wyrmscraig
+area	53	Great Conch
+area	54	Charred Dungeon
+area	55	Vampyrium
+place	545	God Wars Dungeon (Armadyl boss room)	-1	?	?	?	?	2832,5302,2	yes	Kree'arra	Kree'arra@15337073	-
+place	6155	God Wars Dungeon (Saradomin boss room)	-1	?	?	?	?	2897,5269,0	yes	Commander Zilyana	Commander Zilyana@15337016	-
+place	6157	God Wars Dungeon (Bandos boss room)	-1	?	?	?	?	2872,5358,2	yes	General Graardor	General Graardor@15337045	-
+place	6159	God Wars Dungeon (Zamorak boss room)	-1	?	?	?	?	2925,5322,2	yes	K'ril Tsutsaroth	K'ril Tsutsaroth@15357597	-
+place	6161	Waterbirth Island Dungeon	-1	?	?	?	?	2913,4445,0	yes	Dagannoth Rex	Dagannoth Rex@15341726	-
+place	6161	Waterbirth Island Dungeon (Slayer lair)	-1	?	?	?	?	2913,4381,0	yes	Dagannoth Rex	Dagannoth Rex@15341726	-
+place	6163	Mole Hole (Under Falador Park)	-1	?	?	?	?	1759,5189,0	yes	Giant Mole	Giant Mole@15361720	-
+place	6165	Kalphite Lair	-1	?	?	?	?	3474,9496,0	yes	Kalphite Queen	Kalphite Queen@15372004	-
+place	6167	King Black Dragon Lair (Wilderness)	-1	?	?	?	?	2269,4697,0	yes	King Black Dragon	King Black Dragon@15361304	-
+place	6169	Callisto's Den	-1	?	?	?	?	3290,3848,0	yes	Callisto	Callisto@15360463	-
+place	6171	Silk Chasm	-1	?	?	?	?	3319,3798,0	yes	Venenatis	Venenatis@15361982	-
+place	6173	Vet'ion's Rest	-1	?	?	?	?	3219,3788,0	yes	Vet'ion	Vet'ion@15360817	-
+place	6175	West of the Rogues' Castle	-1	?	?	?	?	3261,3927,0	yes	Chaos Elemental	Chaos Elemental@15346650	-
+place	6177	West of the Lava Maze	-1	?	?	?	?	2979,3846,0	yes	Chaos Fanatic	Chaos Fanatic@15346616	-
+place	6179	Ruins (west)	-1	?	?	?	?	2977,3702,0	yes	Crazy archaeologist	Crazy archaeologist@15374897	-
+place	6181	Cave in the Scorpion Pit (north-east Wilderness)	-1	?	?	?	?	3233,10341,0	yes	Scorpia	Scorpia@15362166	-
+place	6187	Kraken Cove	-1	?	?	?	?	2275,10031,0	yes	Kraken	Kraken@15368743	-
+place	6189	Smoke Devil Dungeon	-1	?	?	?	?	2360,9452,0	yes	Thermonuclear smoke devil	Thermonuclear smoke devil@15369525	-
+place	6191	Cerberus' Lair	-1	?	?	?	?	1238,1250,0 1366,1250,0 1302,1314,0	no	Cerberus	Cerberus@15363026	-
+place	6193	Abyssal Nexus	-1	?	?	?	?	3107,4791,0 2967,4791,0 2977,4855,0 3102,4855,0	no	Abyssal Sire	Abyssal Sire@15337396	-
+place	6197	Ungael	-1	?	?	?	?	2268,4061,0	yes	Vorkath	Vorkath@15364808	-
+place	6199	Karuulm Slayer Dungeon (lower level)	-1	?	?	?	?	1364,10265,0	yes	Alchemical Hydra	Alchemical Hydra@15375803	-
+place	6201	Forthos Dungeon — Burial tomb	-1	?	?	?	?	1840,9900,0	yes	Sarachnis	Sarachnis@15366275	-
+place	6203	Ghorrock Dungeon	-1	?	?	?	?	2909,10317,0	yes	Phantom Muspah	Phantom Muspah@15367478	-
+place	6205	The Stranglewood - Ritual Site	-1	?	?	?	?	1128,3417,0	yes	Vardorvis	Vardorvis@15365789	-
+place	6207	Ghorrock Prison - Asylum	-1	?	?	?	?	3036,6451,0	yes	Duke Sucellus	Duke Sucellus@15365802	-
+place	6209	Lassar Undercity - Sunken Cathedral	-1	?	?	?	?	2656,6369,0	yes	Whisperer	The Whisperer@15371845	-
+place	6211	The Scar	-1	?	?	?	?	2081,6372,0	no	Leviathan	The Leviathan@15356627	-
+place	6213	Morytania Spider Cave	-1	?	?	?	?	3630,9813,0	yes	Araxxor	Araxxor@15360233	-
+place	6214	Ape Atoll Dungeon	-1	30	yes	yes	no	2779,9119,0 2752,9144,0 2799,9112,0 2777,9144,0 2719,9147,0 2694,9115,0 2697,9130,0 2698,9145,0 2714,9095,0	yes	Monkey (monster) / Monkey Archer / Monkey Guard / Monkey Zombie / Maniacal monkey / Tortured gorilla / Demonic gorilla	Slayer task/Monkeys@15250976	Watch out for falling rocks.
+place	6214	Ardougne Zoo	-1	6	no	yes	yes	2602,3275,0	yes	Monkey (monster) / Monkey Archer / Monkey Guard / Monkey Zombie / Maniacal monkey / Tortured gorilla / Demonic gorilla	Slayer task/Monkeys@15250976	If you want to kill these with melee, it is possible to get in the cage; however, it requires partial completion of Monkey Madness I. There are only 6 monkeys here; the additional pins are alternate spawns.
+place	6214	Around Brimhaven	-1	6	no	yes	no	2742,3159,0 2732,3176,0 2755,3170,0 2783,3175,0 2812,3182,0	yes	Monkey (monster) / Monkey Archer / Monkey Guard / Monkey Zombie / Maniacal monkey / Tortured gorilla / Demonic gorilla	Slayer task/Monkeys@15250976	-
+place	6214	Crash Site Cavern	-1	36	?	yes	no	2119,5660,0 2073,5645,0 2072,5673,0	yes	Monkey (monster) / Monkey Archer / Monkey Guard / Monkey Zombie / Maniacal monkey / Tortured gorilla / Demonic gorilla	Slayer task/Monkeys@15250976	See strategies on this page. Demonic gorillas are immune to cannon damage.
+place	6214	East of Tai Bwo Wannai	-1	7	no	yes	no	2900,3080,0	yes	Monkey (monster) / Monkey Archer / Monkey Guard / Monkey Zombie / Maniacal monkey / Tortured gorilla / Demonic gorilla	Slayer task/Monkeys@15250976	-
+place	6214	Karamja, near the volcano	-1	4	no	yes	no	2877,3154,0 2820,3193,0	yes	Monkey (monster) / Monkey Archer / Monkey Guard / Monkey Zombie / Maniacal monkey / Tortured gorilla / Demonic gorilla	Slayer task/Monkeys@15250976	-
+place	6214	Marim	-1	25	yes	yes	yes	2769,2773,0	yes	Monkey (monster) / Monkey Archer / Monkey Guard / Monkey Zombie / Maniacal monkey / Tortured gorilla / Demonic gorilla	Slayer task/Monkeys@15250976	Stay in the tall grass when possible.
+place	6214	Marim gates	-1	14	yes	yes	no	2715,2763,0	yes	Monkey (monster) / Monkey Archer / Monkey Guard / Monkey Zombie / Maniacal monkey / Tortured gorilla / Demonic gorilla	Slayer task/Monkeys@15250976	Climb up to their level before engaging.
+place	6214	Mos Le'Harmless	-1	18	no	yes	no	3748,3048,0 3754,3033,0 3833,3057,0 3789,3027,0 3774,3039,0 3743,3014,0 3720,3029,0 3716,3005,0 3702,3038,0 3750,2975,0 3667,3009,0 3724,2953,0 3738,2953,0 3834,3021,0	yes	Monkey (monster) / Monkey Archer / Monkey Guard / Monkey Zombie / Maniacal monkey / Tortured gorilla / Demonic gorilla	Slayer task/Monkeys@15250976	Requires completion of Cabin Fever. Can be attacked with melee during Tai Bwo Wannai Trio.
+place	6214	North-east Karamja (instanced)	-1	7	no	yes	no	2516,4552,0	yes	Monkey (monster) / Monkey Archer / Monkey Guard / Monkey Zombie / Maniacal monkey / Tortured gorilla / Demonic gorilla	Slayer task/Monkeys@15250976	-
+place	6214	North-east of Shilo Village	-1	16	no	yes	no	2871,3018,0 2921,3024,0	yes	Monkey (monster) / Monkey Archer / Monkey Guard / Monkey Zombie / Maniacal monkey / Tortured gorilla / Demonic gorilla	Slayer task/Monkeys@15250976	-
+place	6214	North-west of Shilo Village	-1	12	no	yes	no	2832,3029,0 2790,2997,0	yes	Monkey (monster) / Monkey Archer / Monkey Guard / Monkey Zombie / Maniacal monkey / Tortured gorilla / Demonic gorilla	Slayer task/Monkeys@15250976	-
+place	6214	South-east Karamja	-1	9	no	yes	no	2948,3001,0 2948,2970,0 2958,2900,0	yes	Monkey (monster) / Monkey Archer / Monkey Guard / Monkey Zombie / Maniacal monkey / Tortured gorilla / Demonic gorilla	Slayer task/Monkeys@15250976	-
+place	6214	Temple of Marimbo	-1	12	yes	yes	yes	2801,2782,0	yes	Monkey (monster) / Monkey Archer / Monkey Guard / Monkey Zombie / Maniacal monkey / Tortured gorilla / Demonic gorilla	Slayer task/Monkeys@15250976	Some of the monkey guards are capable of blocking your path, like Brawlers in Pest Control. Contains Gorilla Statue, allowing quick Prayer refills.
+place	6214	Temple of Marimbo Dungeon	-1	41	yes	yes	no	2785,9200,0	yes	Monkey (monster) / Monkey Archer / Monkey Guard / Monkey Zombie / Maniacal monkey / Tortured gorilla / Demonic gorilla	Slayer task/Monkeys@15250976	-
+place	6215	Lumbridge	-1	121	no	yes	yes	3194,3248,0 3253,3241,0 3156,3293,0 3142,3260,0 3215,3276,0 3224,3262,0 3259,3338,0 3167,3205,0 3253,9565,0	yes	Goblin / Cave goblin (monster)	Slayer task/Goblins@14871486	-
+place	6215	Lumbridge Swamp Caves	-1	4	no	yes	no	3253,9565,0	yes	Cave goblin (monster)	Slayer task/Goblins@14871486	Safespot technically possible behind the water, but impractical
+place	6215	Dorgeshuun Mines	-1	12	yes	yes	no	3316,9632,0 3318,9602,0	yes	Cave goblin miner / Cave goblin guard	Slayer task/Goblins@14871486	Combination of Cave goblin miners and guards
+place	6215	Observatory Dungeon	-1	31	no	yes	no	2335,9382,0 2359,9345,0	yes	Goblin	Slayer task/Goblins@14871486	-
+place	6215	Goblin Cave	-1	24	no	yes	yes	2584,9835,0	yes	Goblin	Slayer task/Goblins@14871486	-
+place	6215	West of Fishing Guild	-1	23	no	yes	?	2572,3420,0 2623,3396,0	yes	Goblin	Slayer task/Goblins@14871486	-
+place	6215	God Wars Dungeon	-1	14	yes	?	?	2866,5358,2	yes	Sergeant Strongstack	Slayer task/Goblins@14871486	-
+place	6215	Clock Tower Dungeon	-1	14	no	?	?	2605,9621,0 2565,9655,0 2565,9627,0	yes	Goblin	Slayer task/Goblins@14871486	-
+place	6215	Outside of Port Sarim	-1	12	no	?	?	2999,3208,0	yes	Goblin	Slayer task/Goblins@14871486	-
+place	6215	Tree Gnome Village maze	-1	10	no	?	?	2505,3176,0 2519,3145,0 2542,3155,0 2553,3198,0	yes	Goblin	Slayer task/Goblins@14871486	-
+place	6216	House west of the Grand Exchange	-1	?	?	?	?	3122,3487,0	yes	Rat	Slayer task/Rats@15372685	-
+place	6216	South of Slepe	-1	?	?	?	?	3745,3275,0 3727,3304,0	yes	Rat / Giant rat	Slayer task/Rats@15372685	-
+place	6216	Lovakengj	-1	?	?	?	?	1442,3825,0 1442,3839,0 1536,3719,0 1507,3788,0 1423,3819,0 1531,3805,0 1545,3802,0 1446,3750,0 1565,3759,0 1432,3787,0 1566,3810,0 1566,3827,0 1601,3723,0 1530,3789,0	yes	Rat / Giant rat	Slayer task/Rats@15372685	-
+place	6216	Ruins (east)	-1	?	?	?	?	3183,3724,0	yes	Rat	Slayer task/Rats@15372685	-
+place	6216	Ferox Enclave	-1	?	?	?	?	3149,3638,0	yes	Rat	Slayer task/Rats@15372685	-
+place	6216	Port Piscarilius	-1	?	?	?	?	1746,3779,0 1752,3761,0 1789,3717,0 1770,3738,0 1774,3710,0 1847,3724,0 1770,3784,0 1815,3715,0 1834,3747,0 1749,3733,0 1786,3747,0 1809,3753,0	yes	Rat	Slayer task/Rats@15372685	-
+place	6216	House west of McGrubor's Wood	-1	?	?	?	?	2610,3479,0	yes	Rat	Slayer task/Rats@15372685	-
+place	6216	Port Sarim jail	-1	?	?	?	?	3012,3189,0	yes	Rat	Slayer task/Rats@15372685	-
+place	6216	Draynor Village	-1	?	?	?	?	3100,3273,0	yes	Rat	Slayer task/Rats@15372685	-
+place	6216	South-east of Mount Quidamortem	-1	?	?	?	?	1352,3490,0	yes	Rat	Slayer task/Rats@15372685	-
+place	6216	Lumbridge	-1	?	?	?	?	3229,3223,0	yes	Rat	Slayer task/Rats@15372685	-
+place	6216	Farm south of Falador	-1	?	?	?	?	3015,3295,0	yes	Rat	Slayer task/Rats@15372685	-
+place	6216	South-east of the Farming Guild	-1	?	?	?	?	1294,3706,0	yes	Rat	Slayer task/Rats@15372685	-
+place	6216	Arceuus	-1	?	?	?	?	1594,3832,0	yes	Rat	Slayer task/Rats@15372685	-
+place	6216	North of the Chaos Temple (Wilderness)	-1	?	?	?	?	3252,3673,0	yes	Rat	Slayer task/Rats@15372685	-
+place	6216	Gertrude's House	-1	?	?	?	?	3151,3414,0	yes	Rat	Slayer task/Rats@15372685	-
+place	6216	Fire Altar	-1	?	?	?	?	3319,3250,0	yes	Rat	Slayer task/Rats@15372685	-
+place	6216	Port Phasmatys	-1	?	?	?	?	3713,3492,2 3714,3498,1	yes	Rat	Slayer task/Rats@15372685	-
+place	6216	South of Kourend Castle	-1	?	?	?	?	1652,3635,0 1650,3609,0 1620,3602,0	yes	Rat	Slayer task/Rats@15372685	-
+place	6216	Mos Le'Harmless	-1	?	?	?	?	3682,2948,1 3688,2947,2	yes	Rat	Slayer task/Rats@15372685	-
+place	6216	Lunar Isle Ship	-1	?	?	?	?	2223,3793,0	yes	Rat	Slayer task/Rats@15372685	-
+place	6216	Rimmington	-1	?	?	?	?	2955,3202,0	yes	Rat	Slayer task/Rats@15372685	-
+place	6216	Burgh De Rott	-1	?	?	?	?	3500,3224,0	yes	Rat	Slayer task/Rats@15372685	-
+place	6216	Brimhaven	-1	?	?	?	?	2807,3167,0	yes	Rat	Slayer task/Rats@15372685	-
+place	6216	West Ruins	-1	?	?	?	?	2966,3691,0 2997,3702,0	yes	Rat	Slayer task/Rats@15372685	-
+place	6216	Sinclair Mansion	-1	?	?	?	?	2725,3576,0	yes	Rat	Slayer task/Rats@15372685	-
+place	6216	Lunar Isle	-1	?	?	?	?	2117,3887,0 2142,3882,0	yes	Rat	Slayer task/Rats@15372685	-
+place	6216	South of the Farming Guild	-1	?	?	?	?	1244,3696,0 1257,3688,0	yes	Rat	Slayer task/Rats@15372685	-
+place	6216	Draynor Manor	-1	?	?	?	?	3099,3366,0	yes	Rat	Slayer task/Rats@15372685	-
+place	6216	North-west of Hosidius Town Square	-1	?	?	?	?	1731,3616,0	yes	Rat	Slayer task/Rats@15372685	-
+place	6216	Melzar's Maze	-1	?	?	?	?	2931,3249,0	yes	Rat / Zombie rat	Slayer task/Rats@15372685	-
+place	6216	South of Gu'Tanoth	-1	?	?	?	?	2527,2986,0 2547,2990,0	yes	Rat	Slayer task/Rats@15372685	-
+place	6216	Fishing Guild	-1	?	?	?	?	2592,3416,0	yes	Rat	Slayer task/Rats@15372685	-
+place	6216	Gnome maze	-1	?	?	?	?	2511,3188,0	yes	Rat	Slayer task/Rats@15372685	-
+place	6216	Varrock	-1	?	?	?	?	3243,3393,0	yes	Rat	Slayer task/Rats@15372685	-
+place	6216	Behind Lumbridge Castle	-1	?	?	?	?	3205,3204,0	yes	Rat	Slayer task/Rats@15372685	-
+place	6216	West Ardougne	-1	?	?	?	?	2484,3307,0	yes	Rat	Slayer task/Rats@15372685	-
+place	6216	Port Phasmatys Ship	-1	?	?	?	?	3715,3502,1	yes	Rat	Slayer task/Rats@15372685	-
+place	6216	Port Piscarilius (1st Floor Buildings)	-1	?	?	?	?	1749,3758,1 1783,3719,1 1749,3731,1 1791,3737,1	yes	Rat	Slayer task/Rats@15372685	-
+place	6216	Lunar Isle Dock	-1	?	?	?	?	2130,3899,1	yes	Rat	Slayer task/Rats@15372685	-
+place	6216	Melzar's Maze (1st Floor)	-1	?	?	?	?	2932,3242,1	yes	Rat	Slayer task/Rats@15372685	-
+place	6216	Mos Le'Harmless Ship	-1	?	?	?	?	3679,2949,1	yes	Rat	Slayer task/Rats@15372685	-
+place	6216	Port Piscarilius (2nd Floor Buildings)	-1	?	?	?	?	1784,3721,2 1785,3755,0	yes	Rat	Slayer task/Rats@15372685	-
+place	6216	Melzar's Maze (2nd Floor)	-1	?	?	?	?	2923,3245,2	yes	Rat	Slayer task/Rats@15372685	-
+place	6216	Ardougne Sewers	-1	?	?	?	?	2644,9708,0 2608,9683,0 2619,9724,0 2680,9701,0 2576,9689,0 2669,9681,0 2602,9711,1	yes	Rat / Giant rat / Dungeon rat	Slayer task/Rats@15372685	-
+place	6216	Goblin Cave	-1	?	?	?	?	2585,9830,0 2592,9806,0	yes	Rat / Dungeon rat	Slayer task/Rats@15372685	-
+place	6216	Clock Tower Basement	-1	?	?	?	?	2584,9625,0 2616,9633,0 2614,9656,0	yes	Rat	Slayer task/Rats@15372685	-
+place	6216	Rat Pits	-1	?	?	?	?	2976,9634,0 2961,9647,0 2989,9653,0	yes	Rat	Slayer task/Rats@15372685	-
+place	6216	Melzar's Maze Basement	-1	?	?	?	?	2921,9653,0 2923,9639,0 2936,9648,0	yes	Rat	Slayer task/Rats@15372685	-
+place	6216	Dwarven Mines	-1	?	?	?	?	3033,9827,0	yes	Rat	Slayer task/Rats@15372685	-
+place	6216	Crandor and Karamja Dungeon	-1	?	?	?	?	2860,9635,0	yes	Rat	Slayer task/Rats@15372685	-
+place	6216	Draynor Sewers	-1	?	?	?	?	3108,9672,0	yes	Rat	Slayer task/Rats@15372685	-
+place	6216	Varrock Sewers	-1	?	?	?	?	3233,9866,0 3276,9871,0 3279,9894,0 3299,9867,0	yes	Rat / Giant rat / Scurrius	Slayer task/Rats@15372685	-
+place	6216	Draynor Manor Basement	-1	?	?	?	?	3104,9760,0	yes	Rat	Slayer task/Rats@15372685	-
+place	6216	Edgeville Dungeon	-1	?	?	?	?	3117,9889,0 3089,9895,0	yes	Rat / Giant rat	Slayer task/Rats@15372685	-
+place	6216	Sisterhood Sanctuary	-1	?	?	?	?	3750,9710,1	yes	Rat	Slayer task/Rats@15372685	-
+place	6216	Stronghold of Security: Catacomb of Famine	-1	?	?	?	?	2007,5203,0 2030,5235,0	yes	Rat	Slayer task/Rats@15372685	-
+place	6216	Stronghold of Security: Vault of War	-1	?	?	?	?	1877,5220,0 1910,5202,0	yes	Rat	Slayer task/Rats@15372685	-
+place	6216	Grand Tree Mine	-1	?	?	?	?	2466,9881,0 2482,9914,0	yes	Rat / Giant rat	Slayer task/Rats@15372685	-
+place	6216	Taverley Dungeon	-1	?	?	?	?	2932,9692,0	yes	Rat	Slayer task/Rats@15372685	-
+place	6216	The Warrens	-1	?	?	?	?	1812,10122,0 1760,10141,0 1789,10133,0 1804,10140,0 1775,10166,0 1811,10159,0	yes	Rat	Slayer task/Rats@15372685	-
+place	6216	Abandoned Mine (Level 2)	-1	?	?	?	?	2802,4599,0 2785,4580,0	yes	Rat	Slayer task/Rats@15372685	-
+place	6216	Abandoned Mine (Level 4)	-1	?	?	?	?	2800,4526,0	yes	Rat	Slayer task/Rats@15372685	-
+place	6216	Keldagrim Rat Pits	-1	?	?	?	?	1945,4692,0	yes	Rat	Slayer task/Rats@15372685	-
+place	6216	Meiyerditch Laboratories	-1	?	?	?	?	3594,9677,0 3629,9690,0	yes	Rat	Slayer task/Rats@15372685	-
+place	6216	The Hollows	-1	?	?	?	?	3479,9835,0	yes	Rat	Slayer task/Rats@15372685	-
+place	6216	Meiyerditch Hideout (Myreque Hideout)	-1	?	?	?	?	3619,9621,0	yes	Rat	Slayer task/Rats@15372685	-
+place	6216	Observatory Dungeon	-1	?	?	?	?	2354,9390,0 2361,9403,0 2362,9347,0 2339,9356,0	yes	Rat	Slayer task/Rats@15372685	-
+place	6216	Rashiliyia's Tomb	-1	?	?	?	?	2899,9520,0 2937,9493,0	yes	Rat	Slayer task/Rats@15372685	-
+place	6216	Shadow Dungeon	-1	?	?	?	?	2741,5077,0 2693,5111,0 2712,5110,0 2739,5112,0 2708,5070,0 2721,5076,0 2737,5062,0	yes	Rat / Giant rat	Slayer task/Rats@15372685	-
+place	6216	Skavid Caves	-1	?	?	?	?	2527,9412,0 2546,9418,0 2501,9430,0 2509,9457,0 2533,9451,0	yes	Rat	Slayer task/Rats@15372685	-
+place	6216	Underground Pass (Level 2)	-1	?	?	?	?	2385,9624,0	yes	Rat	Slayer task/Rats@15372685	-
+place	6216	Waterfall Dungeon	-1	?	?	?	?	2604,9890,0 2574,9889,0	yes	Rat	Slayer task/Rats@15372685	-
+place	6216	Waterfall Dungeon (Flooded during quest)	-1	?	?	?	?	2542,9897,0	yes	Rat	Slayer task/Rats@15372685	-
+place	6216	Cabin Fever Boats	-1	?	?	?	?	1823,4829,0	yes	Rat	Slayer task/Rats@15372685	-
+place	6216	Cabin Fever Boats, floor 1	-1	?	?	?	?	1823,4828,1	yes	Rat	Slayer task/Rats@15372685	-
+place	6216	Isle of Souls	-1	?	?	?	?	2157,2804,0 2165,2978,0 2204,2791,0 2262,2884,0	yes	Rat	Slayer task/Rats@15372685	-
+place	6216	Black Knights' Fortress basement	-1	?	?	?	?	1865,4240,0	yes	Rat	Slayer task/Rats@15372685	-
+place	6216	Wilderness Slayer Cave	-1	?	?	?	?	3419,10078,0 3433,10061,0	yes	Rat	Slayer task/Rats@15372685	-
+place	6216	Aldarin	-1	?	?	?	?	1352,2965,0 1346,2949,0 1374,2947,0 1405,2939,0	yes	Rat	Slayer task/Rats@15372685	-
+place	6216	East of Mistrock	-1	?	?	?	?	1417,2856,0 1459,2878,0	yes	Rat / Giant rat	Slayer task/Rats@15372685	-
+place	6216	Salvager Overlook	-1	?	?	?	?	1624,3291,0	yes	Rat	Slayer task/Rats@15372685	-
+place	6216	Gloomthorn Trail	-1	?	?	?	?	1386,3216,0	yes	Rat	Slayer task/Rats@15372685	-
+place	6216	Fortis Cothon	-1	?	?	?	?	1771,3166,0	yes	Rat	Slayer task/Rats@15372685	-
+place	6216	Outer Fortis	-1	?	?	?	?	1643,3054,0 1670,3064,0 1708,3065,0 1740,3067,0 1695,3069,0 1772,3076,0 1663,3078,0 1632,3087,0 1605,3178,0	yes	Rat	Slayer task/Rats@15372685	-
+place	6216	Colossal Wyrm Remains	-1	?	?	?	?	1638,2920,0	yes	Rat	Slayer task/Rats@15372685	-
+place	6216	Vatrachos Island	-1	?	?	?	?	1879,2982,0	yes	Rat	Slayer task/Rats@15372685	-
+place	6216	Pandemonium Cave	-1	?	?	?	?	3051,9383,0	yes	Rat / Giant rat	Slayer task/Rats@15372685	-
+place	6216	Port Roberts	-1	?	?	?	?	1891,3271,0 1909,3282,0 1909,3295,0 1904,3321,0 1878,3315,0	yes	Rat	Slayer task/Rats@15372685	-
+place	6216	Buccaneers' Haven (floor 0)	-1	?	?	?	?	2059,3682,0 2092,3681,0	yes	Rat	Slayer task/Rats@15372685	-
+place	6216	Buccaneers' Haven (floor 1)	-1	?	?	?	?	2096,3689,1 2074,3688,1	yes	Rat	Slayer task/Rats@15372685	-
+place	6216	Buccaneers' Haven (floor 2)	-1	?	?	?	?	2075,3687,2	yes	Rat	Slayer task/Rats@15372685	-
+place	6216	Sunbleak Island	-1	?	?	?	?	2226,2336,0	yes	Rat	Slayer task/Rats@15372685	-
+place	6216	The Onyx Crest	-1	?	?	?	?	2981,2281,0	yes	Rat	Slayer task/Rats@15372685	-
+place	6216	West Ruins (Wilderness)	-1	?	?	?	?	2971,3690,0	yes	Giant rat	Slayer task/Rats@15372685	-
+place	6216	Wilderness Bandit Camp	-1	?	?	?	?	3049,3691,0	yes	Giant rat	Slayer task/Rats@15372685	-
+place	6216	Gnome maze entrance	-1	?	?	?	?	2517,3184,0	yes	Giant rat	Slayer task/Rats@15372685	-
+place	6216	West of Kourend Castle	-1	?	?	?	?	1568,3711,0	yes	Giant rat	Slayer task/Rats@15372685	-
+place	6216	North of Land's End	-1	?	?	?	?	1497,3461,0	yes	Giant rat	Slayer task/Rats@15372685	-
+place	6216	North of Hosidius town square	-1	?	?	?	?	1792,3638,0	yes	Giant rat	Slayer task/Rats@15372685	-
+place	6216	Lumbridge Swamp	-1	?	?	?	?	3161,3188,0 3168,3165,0 3197,3162,0 3207,3187,0 3229,3188,0	yes	Giant rat	Slayer task/Rats@15372685	-
+place	6216	Varrock south-east mine	-1	?	?	?	?	3292,3377,0	yes	Giant rat	Slayer task/Rats@15372685	-
+place	6216	North of Varrock (Wilderness)	-1	?	?	?	?	3227,3533,0 3236,3549,0 3242,3530,0	yes	Giant rat	Slayer task/Rats@15372685	-
+place	6216	South-west of The Dancing Donkey Bar (Varrock)	-1	?	?	?	?	3264,3383,0	yes	Giant rat	Slayer task/Rats@15372685	-
+place	6216	North of Port Sarim chapel	-1	?	?	?	?	2995,3191,0	yes	Giant rat	Slayer task/Rats@15372685	-
+place	6216	The Hollows (Level 6)	-1	?	?	?	?	3464,9818,0	yes	Giant rat	Slayer task/Rats@15372685	-
+place	6216	The Hollows (level 3)	-1	?	?	?	?	3495,9812,0	yes	Giant rat	Slayer task/Rats@15372685	-
+place	6216	Stronghold of Security	-1	?	?	?	?	2037,5211,0 2019,5235,0 1990,5190,0	yes	Giant rat	Slayer task/Rats@15372685	-
+place	6216	Brine Rat Cavern (dks)	-1	?	?	?	?	2705,10133,0	yes	Brine rat	Slayer task/Rats@15372685	-
+place	6216	Clock Tower Dungeon	-1	?	?	?	?	2587,9656,0 2573,9630,0	yes	Dungeon rat	Slayer task/Rats@15372685	-
+place	6216	Barrows (tunnels)	-1	?	?	?	?	3535,9695,0	yes	Crypt rat	Slayer task/Rats@15372685	-
+place	6216	Barrows tunnel	-1	?	?	?	?	3537,9694,0	yes	Giant crypt rat	Slayer task/Rats@15372685	-
+place	6217	Arceuus, outside the Tower of Magic	-1	8	yes	yes	no	1572,3833,0 1589,3834,0 1579,3800,0	yes	Spider	Slayer task/Spiders@15250979	-
+place	6217	Forthos Dungeon	-1	21	yes	no	no	1840,9900,0 1838,9958,0	yes	Sarachnis / Temple Spider	Slayer task/Spiders@15250979	-
+place	6217	Gnome Maze	-1	9	no	no	no	2542,3186,0	yes	Spider	Slayer task/Spiders@15250979	-
+place	6217	Hosidius	-1	6	no	no	?	1751,3533,0 1738,3611,0 1703,3614,0 1686,3630,0 1715,3497,0	yes	Spider	Slayer task/Spiders@15250979	-
+place	6217	Lovakengj	-1	41	yes	yes	no	1591,3721,0 1545,3807,0 1555,3824,0 1428,3861,0 1432,3877,0 1447,3849,0 1446,3880,0 1453,3771,0 1482,3808,0 1487,3878,0 1574,3766,0 1579,3737,0 1483,3766,0 1511,3761,0 1487,3782,0 1546,3722,0 1498,3833,0 1453,3744,0 1538,3787,0 1555,3752,0 1502,3854,0 1479,3855,0	yes	Spider	Slayer task/Spiders@15250979	-
+place	6217	Morytania Spider Cave	-1	A lot	yes	yes	yes	3657,3407,0	yes	Araxyte	Slayer task/Spiders@15250979	Note that many of the 'Spiders' here require 92 Slayer to kill. Also contains the boss Araxxor
+place	6217	Ogre Enclave	-1	10	yes	yes	no	2604,9441,0 2576,9454,0	yes	Spider	Slayer task/Spiders@15250979	-
+place	6217	Port Piscarilius	-1	10	no	yes	no	1756,3707,0 1808,3697,0 1845,3691,0 1817,3748,0 1842,3753,0	yes	Spider	Slayer task/Spiders@15250979	-
+place	6217	Sisterhood Sanctuary	-1	11	yes	yes	no	3730,9781,1 3817,9732,1 3796,9732,1 3831,9747,1 3825,9791,1 3784,9776,1 3785,9756,1	yes	Spider	Slayer task/Spiders@15250979	-
+place	6217	Stronghold of Security, Pit of Pestilence (level 3)	-1	35	no	yes	no	2150,5267,0 2150,5307,0	yes	Spider / Giant spider	Slayer task/Spiders@15250979	-
+place	6217	Underground Pass	-1	49	no	yes	no	2349,9897,0 2477,6185,0	yes	Spider	Slayer task/Spiders@15250979	-
+place	6217	Spider Hill (north of the Lava Dragon Isle)	-1	29	?	yes	?	3168,3886,0	yes	Spider / Giant spider	Slayer task/Spiders@15250979	The Wiki's tip for Krystilia's spider tasks: aggressive spiders with little hitpoints around a sapphire spawn, about level 46 Wilderness; a cannon works well.
+place	6217	West of the Wilderness Bandit Camp	-1	11	?	?	?	2989,3684,0	yes	Giant spider / Spider	Slayer task/Spiders@15250979	-
+place	6217	North of the Lava Maze	-1	14	?	?	?	3047,3890,0	yes	Deadly red spider	Slayer task/Spiders@15250979	-
+place	6217	Ruins (east)	-1	11	?	?	?	3164,3734,0	yes	Deadly red spider	Slayer task/Spiders@15250979	-
+place	6217	Edgeville Dungeon (Wilderness)	-1	12	?	?	?	3122,9955,0 3089,9943,0	yes	Deadly red spider / Poison spider	Slayer task/Spiders@15250979	-
+place	6217	South of the Demonic Ruins	-1	62	?	?	?	3297,3812,0	yes	Poison spider	Slayer task/Spiders@15250979	-
+place	6217	Lava Maze Dungeon	-1	10	?	?	?	3055,10253,0	yes	Poison spider	Slayer task/Spiders@15250979	-
+place	6217	Escape Caves	-1	18	?	?	?	3365,10267,0 3336,10277,0	yes	Poison spider (Escape Caves)	Slayer task/Spiders@15250979	-
+place	6217	Deep Wilderness Dungeon	-1	11	?	?	?	3025,10330,0	yes	Shadow spider	Slayer task/Spiders@15250979	-
+place	6217	Frozen Waste Plateau	-1	9	?	?	?	2963,3923,0	yes	Ice spider	Slayer task/Spiders@15250979	-
+place	6217	Venenatis (Silk Chasm)	-1	1	?	?	?	3319,3798,0	yes	Venenatis	Slayer task/Spiders@15250979	Venenatis, a boss; kills count for a spider task (Wiki Slayer task/Spiders).
+place	6217	Barrows tunnels	-1	11	?	?	?	3569,9695,0	yes	Crypt spider / Giant crypt spider	Crypt spider@15330932	-
+place	6217	Karamja	-1	44	?	?	?	2850,3063,0 2810,2987,0 2927,3043,0 2892,3000,0 2861,3088,0	yes	Jungle spider	Jungle spider@15239033	-
+place	6217	Kharazi Jungle	-1	3	?	?	?	2892,2946,0	yes	Jungle spider	Jungle spider@15239033	-
+place	6217	Yanille Chain	-1	21	?	?	?	2677,3090,0 2680,3110,0	yes	Jungle spider	Jungle spider@15239033	-
+place	6217	Tai Bwo Wannai	-1	8	?	?	?	2780,3029,0 2777,3116,0 2797,3112,0	yes	Jungle spider	Jungle spider@15239033	-
+place	6217	Brimhaven	-1	2	?	?	?	2767,3204,0	yes	Jungle spider	Jungle spider@15239033	-
+place	6217	Ape Atoll	-1	10	?	?	?	2796,2763,0 2753,2799,0 2770,2766,0 2767,2794,0 2791,2780,0	yes	Spider (Ape Atoll)	Spider (Ape Atoll)@15200116	-
+place	6217	Ape Atoll (floor 1 Buildings)	-1	7	?	?	?	2734,2792,1 2793,2789,1 2767,2765,1 2769,2798,1	yes	Spider (Ape Atoll)	Spider (Ape Atoll)@15200116	-
+place	6217	Ape Atoll (floor 2 Buildings)	-1	2	?	?	?	2749,2768,2 2752,2798,2	yes	Spider (Ape Atoll)	Spider (Ape Atoll)@15200116	-
+place	6217	Ape Atoll Dungeon	-1	29	?	?	?	2764,9103,0 2761,9144,0 2732,9130,0 2743,9107,0 2748,9143,0 2793,9130,0 2799,9099,0 2793,9117,0 2810,9124,0 2694,9138,0 2711,9137,0 2704,9104,0	yes	Spider (Ape Atoll)	Spider (Ape Atoll)@15200116	-
+place	6217	Banana plantation (Ape Atoll)	-1	16	?	?	?	2707,9170,0 2701,9194,0 2732,9178,0 2723,9198,0	yes	Spider (Ape Atoll)	Spider (Ape Atoll)@15200116	-
+place	6217	Temple of Marimbo Dungeon	-1	22	?	?	?	2787,9169,0 2784,9201,0	yes	Spider (Ape Atoll)	Spider (Ape Atoll)@15200116	-
+place	6217	Ungael laboratory	-1	7	?	?	?	2273,10472,0	yes	Spider (Ungael)	Spider (Ungael)@15330818	-
+place	6218	Along the River Lum south of Varrock	-1	41	no	yes	yes	3166,3357,0	yes	Duck / Chicken / Undead chicken / Rooster / Seagull / Penguin (monster) / Entrana firebird / Bird / Chompy bird / Terrorbird / Vulture / Oomlie bird / Mounted terrorbird / Baby Roc	Slayer task/Birds@15341657	Ducks along both banks and in the water
+place	6218	Along the River Lum north of Lumbridge	-1	28	no	yes	yes	3230,3264,0 3241,3226,0 3217,3322,0 3225,3283,0	yes	Duck / Chicken / Undead chicken / Rooster / Seagull / Penguin (monster) / Entrana firebird / Bird / Chompy bird / Terrorbird / Vulture / Oomlie bird / Mounted terrorbird / Baby Roc	Slayer task/Birds@15341657	Ducks along both banks and in the water
+place	6218	Corsair Cove	-1	9	no	yes	yes	2564,2855,0	yes	Duck / Chicken / Undead chicken / Rooster / Seagull / Penguin (monster) / Entrana firebird / Bird / Chompy bird / Terrorbird / Vulture / Oomlie bird / Mounted terrorbird / Baby Roc	Slayer task/Birds@15341657	Seagulls
+place	6218	Port Sarim	-1	10	no	yes	yes	3028,3235,0 3029,3203,0 3049,3202,0	yes	Duck / Chicken / Undead chicken / Rooster / Seagull / Penguin (monster) / Entrana firebird / Bird / Chompy bird / Terrorbird / Vulture / Oomlie bird / Mounted terrorbird / Baby Roc	Slayer task/Birds@15341657	Seagulls
+place	6218	Port Piscarilius	-1	7	no	yes	yes	1806,3690,0 1806,3707,0 1835,3688,0	yes	Duck / Chicken / Undead chicken / Rooster / Seagull / Penguin (monster) / Entrana firebird / Bird / Chompy bird / Terrorbird / Vulture / Oomlie bird / Mounted terrorbird / Baby Roc	Slayer task/Birds@15341657	Seagulls
+place	6219	Lumbridge cow field	-1	21	no	yes	yes	3255,3278,0	yes	Cow	Slayer task/Cows@15364603	New players often train here. Brutus is located in the north-east corner of the pen.
+place	6219	Lumbridge cow field (north)	-1	36	no	yes	yes	3177,3333,0	yes	Cow	Slayer task/Cows@15364603	New players often train here.
+place	6219	Fred's farm	-1	17	no	yes	yes	3204,3293,0	yes	Cow	Slayer task/Cows@15364603	New players often train here.
+place	6219	Crafting Guild	-1	10	no	yes	yes	2925,3282,0	yes	Cow	Slayer task/Cows@15364603	-
+place	6219	South Falador Farm	-1	7	yes	yes	yes	3033,3305,0	yes	Cow	Slayer task/Cows@15364603	-
+place	6219	Ortus Farm	-1	22	no	yes	yes	1607,3092,0 1573,3117,0	yes	Buffalo	Slayer task/Cows@15364603	-
+place	6219	Alice's farm	-1	4	no	yes	yes	3616,3525,0	yes	Undead cow	Slayer task/Cows@15364603	-
+place	6219	North of Hosidius Town Square	-1	3	?	?	?	1754,3637,0	yes	Cow calf	Cow calf@15364592	-
+place	6219	Kebos Lowlands - Keith's farm	-1	1	?	?	?	1309,3714,0	yes	Cow calf	Cow calf@15364592	-
+place	6219	Kebos Lowlands - Gordon's farm	-1	1	?	?	?	1257,3691,0	yes	Cow calf	Cow calf@15364592	-
+place	6219	South-west Isle of Souls	-1	1	?	?	?	2152,2803,0	yes	Cow calf	Cow calf@15364592	-
+place	6220	Al Kharid Mine	-1	9 Scorpions (level 14)	no	yes	yes	3298,3299,0	yes	Scorpion	Slayer task/Scorpions@15316864	-
+place	6220	Ardougne Zoo	-1	3 Scorpions (level 14), 4 Pit scorpions	no	yes	yes	2601,3266,0	yes	Scorpion	Slayer task/Scorpions@15316864	*In an enclosure.
+place	6220	Dwarven Mine	-1	13 Scorpions (level 14), 2 King Scorpions	no	no	yes	3047,9784,0	yes	Scorpion	Slayer task/Scorpions@15316864	-
+place	6220	Stonecutter Outpost temple, East of Colossal Wyrm Remains	-1	11 Scorpions (level 14)	yes	yes	yes	1708,2941,0	yes	Scorpion	Slayer task/Scorpions@15316864	-
+place	6220	Scorpion Pit	-1	7 Scorpions (level 14)	yes	yes	yes	3239,3942,0	yes	Scorpion	Slayer task/Scorpions@15316864	*In the Wilderness.
+place	6220	Scorpion Pit (Cave)	-1	Scorpia, 27 Scorpia's offsprings	yes	?	?	3233,10341,0	yes	Scorpia	Slayer task/Scorpions@15316864	*In the Wilderness. With a cannon, a scorpion task can be completed in less than a minute as there are many spawns with low hitpoints.
+place	6220	Near the Grave of Scorpius	-1	5	?	?	?	2467,3228,0	yes	Grave scorpion	Grave scorpion@15355227	-
+place	6220	Legends' Guild dungeon	-1	20	?	?	?	2721,9746,0	yes	Pit Scorpion	Pit Scorpion@15199892	-
+place	6220	Near North Brimhaven mine	-1	7	?	?	?	2722,3220,0	yes	Poison Scorpion	Poison Scorpion@15199675	-
+place	6220	Taverley Dungeon	-1	5	?	?	?	2935,9769,0	yes	Poison Scorpion	Poison Scorpion@15199675	-
+place	6221	Silvarea	-1	13	no	yes	yes	3350,3493,0 3387,3483,0	yes	Bat / Giant bat / Albino bat / Death wing	Slayer task/Bats@15333631	-
+place	6221	Slayer Tower entrance	-1	6	no	yes	yes	3429,3522,0	yes	Bat / Giant bat / Albino bat / Death wing	Slayer task/Bats@15333631	-
+place	6221	Haunted Woods	-1	13	no	no	yes	3567,3481,0 3599,3486,0 3611,3499,0 3613,3482,0 3628,3473,0 3598,3509,0 3565,3503,0 3607,3462,0 3587,3471,0 3580,3491,0 3627,3511,0	yes	Bat / Giant bat / Albino bat / Death wing	Slayer task/Bats@15333631	Scattered around fairy ring ALQ.
+place	6221	Graveyard of Heroes	-1	3	no	yes	yes	1480,3559,0	yes	Bat / Giant bat / Albino bat / Death wing	Slayer task/Bats@15333631	-
+place	6221	Abandoned Mine level 1	-1	16	no	yes	yes	3420,9631,0	yes	Bat / Giant bat / Albino bat / Death wing	Slayer task/Bats@15333631	-
+place	6221	Abandoned Mine level 4	-1	8	no	yes	yes	2759,4498,0 2782,4491,0	yes	Bat / Giant bat / Albino bat / Death wing	Slayer task/Bats@15333631	-
+place	6221	Yanille Agility Dungeon north entrance	-1	3	no	yes	yes	2571,9525,0	yes	Bat / Giant bat / Albino bat / Death wing	Slayer task/Bats@15333631	-
+place	6221	Yanille Agility Dungeon south entrance	-1	5	no	yes	yes	2602,9484,0	yes	Bat / Giant bat / Albino bat / Death wing	Slayer task/Bats@15333631	-
+place	6221	Outside Keep Le Faye	-1	3	no	yes	yes	2759,3401,0	yes	Bat / Giant bat / Albino bat / Death wing	Slayer task/Bats@15333631	-
+place	6221	Coal Trucks area	-1	7	no	yes	yes	2586,3473,0	yes	Bat / Giant bat / Albino bat / Death wing	Slayer task/Bats@15333631	-
+place	6221	Legends' Guild basement	-1	5	no	yes	yes	2703,9734,0 2730,9769,0	yes	Bat / Giant bat / Albino bat / Death wing	Slayer task/Bats@15333631	-
+place	6221	Heroes' Guild basement	-1	5	no	yes	yes	2939,9892,0 2889,9907,0	yes	Bat / Giant bat / Albino bat / Death wing	Slayer task/Bats@15333631	-
+place	6221	Temple of Ikov	-1	3	no	yes	yes	2659,9809,0	yes	Bat / Giant bat / Albino bat / Death wing	Slayer task/Bats@15333631	-
+place	6221	Deep Wilderness, west of Mage Arena	-1	7	no	yes	yes	3075,3955,0	yes	Bat / Giant bat / Albino bat / Death wing	Slayer task/Bats@15333631	-
+place	6221	Karamja Volcano dungeon	-1	3	no	yes	yes	2834,9568,0 2856,9575,0	yes	Bat / Giant bat / Albino bat / Death wing	Slayer task/Bats@15333631	-
+place	6221	Taverley Dungeon	-1	9	no	yes	yes	2919,9831,0	yes	Bat / Giant bat / Albino bat / Death wing	Slayer task/Bats@15333631	-
+place	6221	The Underground Pass, part 1	-1	6	no	no	yes	2488,9703,0 2468,9696,0	yes	Bat / Giant bat / Albino bat / Death wing	Slayer task/Bats@15333631	-
+place	6221	The Underground Pass, part 2	-1	5	no	no	yes	2421,9634,0 2373,9630,0	yes	Bat / Giant bat / Albino bat / Death wing	Slayer task/Bats@15333631	-
+place	6221	Chaos Druid Tower dungeon	-1	5	no	yes	yes	2567,9752,0	yes	Bat / Giant bat / Albino bat / Death wing	Slayer task/Bats@15333631	-
+place	6221	Grand Tree mine	-1	4	no	yes	yes	2460,9860,0	yes	Bat / Giant bat / Albino bat / Death wing	Slayer task/Bats@15333631	-
+place	6221	West of Dark Altar, path towards Fairy Ring	-1	4	no	yes	yes	1633,3879,0 1655,3880,0 1675,3877,0	yes	Bat / Giant bat / Albino bat / Death wing	Slayer task/Bats@15333631	2 small bats, 2 giant bats
+place	6221	East of Dark Altar, path towards Soul Altar	-1	4	no	yes	yes	1714,3888,0 1743,3892,0	yes	Bat / Giant bat / Albino bat / Death wing	Slayer task/Bats@15333631	3 small bats, 1 giant bat
+place	6221	South of Dark Altar, path towards Blood Altar	-1	9	no	yes	yes	1673,3861,0 1709,3860,0	yes	Bat / Giant bat / Albino bat / Death wing	Slayer task/Bats@15333631	5 small bats, 4 giant bats
+place	6221	Mount Karuulm (north side)	-1	7	no	yes	yes	1290,3840,0 1325,3843,0	yes	Bat / Giant bat / Albino bat / Death wing	Slayer task/Bats@15333631	-
+place	6221	Mount Karuulm (south-east side)	-1	4	no	yes	yes	1351,3786,0	yes	Bat / Giant bat / Albino bat / Death wing	Slayer task/Bats@15333631	-
+place	6221	North of Hosidius mine/South of Hosidius Plows	-1	3	no	yes	yes	1766,3509,0	yes	Bat / Giant bat / Albino bat / Death wing	Slayer task/Bats@15333631	-
+place	6221	North of Slepe	-1	6	no	yes	yes	3744,3399,0	yes	Bat / Giant bat / Albino bat / Death wing	Slayer task/Bats@15333631	-
+place	6221	Goblin Cave, east of the Fishing Guild	-1	6	no	yes	yes	2606,9825,0	yes	Bat / Giant bat / Albino bat / Death wing	Slayer task/Bats@15333631	-
+place	6221	Mos Le'Harmless Cave	-1	25	no	yes	yes	3779,9430,0 3747,9398,0 3739,9385,0 3761,9405,0 3763,9453,0 3787,9443,0 3809,9459,0 3718,9357,0 3725,9370,0 3821,9417,0 3720,9429,0 3726,9442,0 3801,9415,0 3751,9425,0	yes	Bat / Giant bat / Albino bat / Death wing	Slayer task/Bats@15333631	Scattered throughout the dungeon. Medium length run from the Trouble Brewing grouping teleport and bank chest. Long run from the Mos le'harmless teleport and bank. Also have to deal with cave horrors and jungle horrors.
+place	6221	Shaman Caves	-1	8	no	yes	yes	2800,9301,0	yes	Bat / Giant bat / Albino bat / Death wing	Slayer task/Bats@15333631	Partial completion of Legends' Quest required.
+place	6222	Arandar entrance	-1	4	yes	yes	no	2335,3276,0	yes	Wolves / Dire Wolf	Slayer task/Wolves@14976155	*
+place	6222	Ardougne Zoo	-1	2	no	yes	yes	2614,3281,0	yes	Wolves	Slayer task/Wolves@14976155	*
+place	6222	Feldip Hills	-1	15	no	yes	yes	2610,2961,0 2487,2924,0 2500,2959,0	yes	Wolves / Big Wolf	Slayer task/Wolves@14976155	*
+place	6222	Path between Seers' Village and Rellekka	-1	1	yes	yes	no	2647,3584,0	yes	Wolves	Slayer task/Wolves@14976155	*
+place	6222	South of Forthos Dungeon, near the saltpetre mines	-1	4	yes	yes	no	1665,3553,0	yes	Wolves	Slayer task/Wolves@14976155	*
+place	6222	South of Rellekka	-1	6	no	yes	no	2647,3584,0 2630,3631,0	yes	Wolves	Slayer task/Wolves@14976155	*
+place	6222	South of West Ardougne	-1	6	no	yes	no	2470,3272,0	yes	Wolves	Slayer task/Wolves@14976155	*
+place	6222	Stronghold of Security first level	-1	16	yes	yes	yes	1889,5217,0 1872,5233,0 1889,5191,0	yes	Wolves	Slayer task/Wolves@14976155	*
+place	6222	West of Sinclair Mansion	-1	4	no	yes	no	2717,3569,0 2680,3585,0	yes	Wolves	Slayer task/Wolves@14976155	*
+place	6222	West of the Outpost	-1	5	yes	yes	no	2439,3335,0	yes	Wolves	Slayer task/Wolves@14976155	*
+place	6222	White Wolf Mountain	-1	6	yes	yes	yes	2840,3497,0 2872,3445,0 2842,3450,0	yes	Wolves / Big Wolf / White wolves	Slayer task/Wolves@14976155	*
+place	6222	Wilderness, south-east of the Deserted Keep	-1	4	yes	yes	no	3229,3917,0 2994,3921,0	yes	Wolves / White wolves	Slayer task/Wolves@14976155	*
+place	6222	Kharidian Desert	-1	55	?	?	?	3250,3057,0 3237,2968,0 3196,3063,0 3223,3011,0 3250,3126,0 3150,3044,0 3267,3068,0 3287,3065,0 3283,3084,0 3310,3070,0 3323,3094,0 3172,3009,0 3197,3012,0 3198,3040,0 3217,3124,0 3283,3108,0 3226,3060,0 3233,3075,0 3266,3008,0 3320,3054,0 3322,3011,0 3322,3032,0 3215,3092,0 3223,3035,0	yes	Desert Wolf	Desert Wolf@15232050	-
+place	6222	Necropolis	-1	2	?	?	?	3297,2713,0	yes	Desert Wolf	Desert Wolf@15232050	-
+place	6222	Trollweiss Mountain	-1	7	?	?	?	2764,3858,0 2800,3859,0	yes	Ice wolf	Ice wolf@15199493	-
+place	6222	Settlement Ruins	-1	4	?	?	?	1585,3893,0	yes	Ice wolf	Ice wolf@15199493	-
+place	6222	Weiss	-1	5	?	?	?	2846,3924,0	yes	Ice wolf	Ice wolf@15199493	-
+place	6222	Ice Path	-1	25	?	?	?	2895,3740,0	yes	Ice wolf	Ice wolf@15199493	-
+place	6222	Outside God Wars Dungeon	-1	4	?	?	?	2928,3763,0	yes	Ice wolf	Ice wolf@15199493	-
+place	6222	Kharazi Jungle	-1	16	?	?	?	2918,2927,0 2775,2913,0 2941,2887,0 2801,2899,0 2813,2917,0 2823,2895,0 2827,2924,0 2893,2893,0 2915,2906,0 2887,2929,0 2789,2932,0 2842,2899,0 2861,2907,0	yes	Jungle Wolf	Jungle Wolf@15199942	-
+place	6223	Alice's farm west of the Ectofuntus	-1	10	no	yes	yes	3622,3527,0	yes	Undead chicken / Undead cow	Slayer task/Zombies@15327782	Requires completion of Priest in Peril.
+place	6223	Ape Atoll Dungeon	-1	30	yes	yes	no	2779,9119,0 2752,9144,0 2799,9112,0 2777,9144,0 2719,9147,0 2694,9115,0 2697,9130,0 2698,9145,0 2714,9095,0	yes	Monkey Zombie	Slayer task/Zombies@15327782	Requires partial completion of Monkey Madness I.
+place	6223	Ardougne Sewers	-1	3	no	yes	yes	2676,9684,0	yes	Zombie	Slayer task/Zombies@15327782	-
+place	6223	Braindeath Island	-1	18	no	yes	yes	2152,5073,0	yes	Zombie pirate (Braindeath Island) / Zombie swab	Slayer task/Zombies@15327782	Requires partial completion of Rum Deal.
+place	6223	Chaos Temple (Wilderness)	-1	34	yes	yes	no	3237,3607,0	yes	Zombie pirate	Slayer task/Zombies@15327782	Populated by numerous Elder Chaos druids.
+place	6223	Draynor Sewers	-1	7	no	yes	no	3122,9658,0 3088,9672,0	yes	Zombie	Slayer task/Zombies@15327782	-
+place	6223	Edgeville Dungeon	-1	10	no	yes	no	3146,9892,0 3124,9861,0	yes	Zombie	Slayer task/Zombies@15327782	-
+place	6223	Edgeville Dungeon mine	-1	4	no	yes	yes	3124,9861,0	yes	Zombie	Slayer task/Zombies@15327782	Some level 42 Hobgoblins roam the area nearby.
+place	6223	Forthos Dungeon	-1	18	no	no	no	1808,9964,0 1847,9939,0 1799,9937,0	yes	Undead Druid	Slayer task/Zombies@15327782	Watch out for the nearby Red dragons.
+place	6223	Glarial's Tomb	-1	5	no	no	no	2540,9843,0 2540,9823,0	yes	Zombie	Slayer task/Zombies@15327782	Requires partial completion of Waterfall Quest. No weapons, armour, or runes can be brought here.
+place	6223	Harmony Island	-1	17	no	yes	yes	3815,2844,0 3820,2840,1	yes	Sorebones	Slayer task/Zombies@15327782	Requires partial completion of The Great Brain Robbery.
+place	6223	Harmony Island ship	-1	3	no	yes	no	3815,2844,0 3820,2840,1	yes	Sorebones	Slayer task/Zombies@15327782	Requires partial completion of The Great Brain Robbery.
+place	6223	Harmony Island Underground	-1	11	no	yes	no	3815,2844,0 3820,2840,1	yes	Sorebones	Slayer task/Zombies@15327782	Requires partial completion of The Great Brain Robbery.
+place	6223	Jiggig	-1	7	yes	no	no	2467,3049,0 2482,3046,0 2449,9434,0 2465,9454,2 2462,9431,2 2436,9465,2 2450,9460,2 2484,9392,2 2487,9455,2	yes	Zogre	Slayer task/Zombies@15327782	Be careful to not become diseased. They take 75% less damage from everything except Brutal arrows and Crumble Undead.
+place	6223	Jiggig Dungeon	-1	27	no	no	yes	2449,9434,0 2465,9454,2 2462,9431,2 2436,9465,2 2450,9460,2 2484,9392,2 2487,9455,2	yes	Zogre	Slayer task/Zombies@15327782	Be careful to not become diseased. They take 75% less damage from everything except Brutal arrows and Crumble Undead.
+place	6223	Melzar's Maze	-1	7	no	yes	yes	2931,3249,0	yes	Zombie rat	Slayer task/Zombies@15327782	Zombie rats are found on the ground floor.
+place	6223	Temple of Marimbo Dungeon	-1	41	no	yes	no	2785,9200,0	yes	Monkey Zombie	Slayer task/Zombies@15327782	Requires partial completion of Monkey Madness I.
+place	6223	Tomb of Rashiliyia (during the Shilo Village quest)	-1	19	no	yes	no	2911,9476,0 2903,9508,0 2937,9491,0 2915,9529,0	yes	Undead one	Slayer task/Zombies@15327782	Some of the Undead ones are skeletal.
+place	6223	Tree Gnome Village dungeon	-1	3	no	yes	no	2541,9569,0 2605,4449,0	yes	Zombie	Slayer task/Zombies@15327782	-
+place	6223	Ungael	-1	1	yes	no	no	2268,4061,0	yes	Vorkath	Slayer task/Zombies@15327782	Vorkath is weaker during the quest, with a combat level of 392.
+place	6223	Varrock Sewers	-1	6	yes	yes	yes	3243,9893,0 3259,9891,0 3226,9903,0	yes	Zombie	Slayer task/Zombies@15327782	-
+place	6223	West Ardougne Cemetery	-1	5	no	yes	yes	2499,3286,0	yes	Zombie	Slayer task/Zombies@15327782	Requires partial completion of Plague City.
+place	6224	Ape Atoll Dungeon	-1	?	yes	yes	no	2714,9135,0 2736,9121,0 2745,9102,0 2704,9109,0	yes	Skeleton (Ape Atoll)	Slayer task/Skeletons@15346469	-
+place	6224	Barrows	-1	?	no	no	no	3554,9713,0	yes	Skeleton (Barrows)	Slayer task/Skeletons@15346469	-
+place	6224	Catacombs of Kourend	-1	6	yes	no	no	1636,10046,0	yes	Skeleton / Skeleton (Tarn's Lair) / Skeleton (mage) / Skeleton (Barrows) / Skeleton (Shayzien Crypts) / Skeleton (Melzar's Maze) / Skeleton (Ape Atoll) / Skeleton (Draynor Manor) / Skogre / Skeleton Mage / Calvar'ion / Vet'ion	Slayer task/Skeletons@15346469	*Bones can be buried to restore one Prayer point, which can help save on Prayer restoration especially with a Bonecrusher. *Killing Skeletons here also gives access to Ancient shards and Dark totem pieces as bonus drops.
+place	6224	Digsite Dungeon	-1	10	no	yes	yes	3376,9751,0 3376,9815,0	yes	Skeleton	Slayer task/Skeletons@15346469	Requires partial completion of The Digsite (and its pre-requisites) to access the dungeon
+place	6224	Draynor Manor	-1	1	no	no	no	3110,3367,0	yes	Skeleton (Draynor Manor)	Slayer task/Skeletons@15346469	-
+place	6224	Draynor Sewers	-1	4	no	yes	no	3115,9674,0	yes	Skeleton	Slayer task/Skeletons@15346469	-
+place	6224	Edgeville Dungeon	-1	19, 7 in wild	no	yes	yes	3141,9873,0 3095,9899,0 3128,9909,0 3108,9954,0	yes	Skeleton	Slayer task/Skeletons@15346469	*Killing skeletons in the northern part of the Edgeville dungeon represents a high risk for those who decide to do their slayer task there because it is a pk zone * Skeletons in the mine can be safespotted from behind the gate east of the mine
+place	6224	Jiggig	-1	11	yes	no	no	2468,3046,0	yes	Skogre	Slayer task/Skeletons@15346469	Brutal arrows work best against Skogres.
+place	6224	Jiggig Dungeon	-1	36	no	no	yes	2465,9454,2 2471,9422,2 2436,9465,2 2450,9460,2	yes	Zogre	Slayer task/Skeletons@15346469	Brutal arrows work best against Skogres.
+place	6224	Melzar's Maze	-1	6	no	yes	no	2928,3253,2	yes	Skeleton (Melzar's Maze)	Slayer task/Skeletons@15346469	-
+place	6224	Shayzien Crypts	-1	?	yes	yes	no	1507,9937,3 1491,9957,3 1516,9957,3 1483,9943,3 1502,9956,2 1496,9958,1 1504,9930,1	yes	Skeleton (Shayzien Crypts)	Slayer task/Skeletons@15346469	-
+place	6224	Taverley Dungeon	-1	?	no	yes	no	2885,9823,0	yes	Skeleton	Slayer task/Skeletons@15346469	-
+place	6224	Tarn's Lair	-1	?	yes	no	no	3185,4560,0 3182,4577,0 3143,4595,0 3159,4577,0 3158,4552,0 3194,4599,1 3152,4569,1 3174,4566,1 3195,4577,1 3158,4589,1 3156,4567,2	yes	Skeleton (Tarn's Lair) / Skeleton (mage)	Slayer task/Skeletons@15346469	-
+place	6224	Tarn's Lair, Abandoned Mine	-1	?	yes	no	no	3185,4560,0 3182,4577,0 3143,4595,0 3159,4577,0 3158,4552,0 3194,4599,1 3152,4569,1 3174,4566,1 3195,4577,1 3158,4589,1 3156,4567,2	yes	Skeleton (Tarn's Lair) / Skeleton (mage)	Slayer task/Skeletons@15346469	-
+place	6224	Varrock Sewers	-1	7	yes	yes	no	3210,9908,0 3251,9916,0 3274,9913,0	yes	Skeleton	Slayer task/Skeletons@15346469	-
+place	6224	Waterfall Dungeon	-1	7	no	yes	no	2588,9883,0	yes	Skeleton / Skeleton Mage	Slayer task/Skeletons@15346469	-
+place	6224	Wilderness	-1	?	yes	yes	no	3108,9954,0 3018,3592,0 2998,10350,0 3081,3551,0 3106,3548,0 3072,3531,0 3137,3798,0 3179,3786,0 3252,3737,0 2982,3947,0	yes	Skeleton	Slayer task/Skeletons@15346469	Multicombat area and high Risk Player Killing makes this a very dangerous location.
+place	6224	Shilo Village Entrance	-1	9	?	?	?	2872,2954,0	yes	Undead one	Undead one@15375554	-
+place	6224	Ah Za Rhoon	-1	38	?	?	?	2930,9294,0 2886,9293,0 2892,9312,0 2901,9355,0	yes	Undead one	Undead one@15375554	-
+place	6224	Rashiliyia's Tomb	-1	19	?	?	?	2911,9476,0 2903,9508,0 2937,9491,0 2915,9529,0	yes	Undead one	Undead one@15375554	-
+place	6225	Catacombs of Kourend	-1	17	yes	no	yes	1690,10063,0 1663,10023,0	yes	Ghost / Revenants / Forgotten Soul / Tortured soul / Death wing	Slayer task/Ghosts@15250974	The ghosts are split into two chambers, with about equal amounts of ghosts.
+place	6225	Crumbling Tower	-1	10	no	yes	yes	2132,2996,0	yes	Ghost / Revenants / Forgotten Soul / Tortured soul / Death wing	Slayer task/Ghosts@15250974	Good drop table compared to most ghosts, especially for its combat level.
+place	6225	Death Altar	-1	17	no	no	no	2192,4852,0 2206,4824,0	yes	Ghost / Revenants / Forgotten Soul / Tortured soul / Death wing	Slayer task/Ghosts@15250974	Completion of Mourning's End Part II required.
+place	6225	Draynor Manor (floor 1)	-1	5	no	yes	yes	3101,3356,1 3123,3356,1	yes	Ghost / Revenants / Forgotten Soul / Tortured soul / Death wing	Slayer task/Ghosts@15250974	Three ghosts are in one room, while the other two are in different rooms.
+place	6225	Grave of Scorpius	-1	6	no	yes	yes	2468,3221,0	yes	Ghost / Revenants / Forgotten Soul / Tortured soul / Death wing	Slayer task/Ghosts@15250974	-
+place	6225	Melzar's Maze (floor 1)	-1	5	no	yes	no	2927,3251,1	yes	Ghost / Revenants / Forgotten Soul / Tortured soul / Death wing	Slayer task/Ghosts@15250974	Partial completion of Dragon Slayer I required.
+place	6225	Mynydd	-1	5	no	yes	no	2167,3429,0	yes	Ghost / Revenants / Forgotten Soul / Tortured soul / Death wing	Slayer task/Ghosts@15250974	Be wary of high level Dire Wolves roaming the area.
+place	6225	North-east of dense essence mine	-1	5	no	yes	no	1826,3864,0 1817,3887,0 1774,3896,0 1790,3892,0	yes	Ghost / Revenants / Forgotten Soul / Tortured soul / Death wing	Slayer task/Ghosts@15250974	The ghosts are spread out on the path leading to the Soul Altar.
+place	6225	North-east of Chaos Temple (Wilderness)	-1	6	yes	yes	yes	3282,3662,0	yes	Ghost / Revenants / Forgotten Soul / Tortured soul / Death wing	Slayer task/Ghosts@15250974	Four ghosts inhabit the area of Larran's small chest.
+place	6225	North-west of Ferox Enclave	-1	5	no	yes	no	3097,3700,0	yes	Ghost / Revenants / Forgotten Soul / Tortured soul / Death wing	Slayer task/Ghosts@15250974	This location is in the Wilderness; don't take anything you don't want to lose.
+place	6225	Outside Ectofuntus	-1	6	no	yes	yes	3666,3529,0	yes	Ghost / Revenants / Forgotten Soul / Tortured soul / Death wing	Slayer task/Ghosts@15250974	Completion of Priest in Peril required.
+place	6225	Stronghold of Security: Sepulchre of Death	-1	31	no	yes	no	2315,5236,0 2353,5197,0	yes	Ghost / Revenants / Forgotten Soul / Tortured soul / Death wing	Slayer task/Ghosts@15250974	This area contains many high level ghosts and Ankou.
+place	6225	Taverley Dungeon	-1	14	no	yes	no	2912,9820,0 2905,9851,0 2938,9836,0	yes	Ghost / Revenants / Forgotten Soul / Tortured soul / Death wing	Slayer task/Ghosts@15250974	-
+place	6225	Temple in The Golem	-1	5	no	yes	no	2712,4898,0 2730,4907,0 2731,4893,0	yes	Ghost / Revenants / Forgotten Soul / Tortured soul / Death wing	Slayer task/Ghosts@15250974	The ghosts here are spaced quite far apart.
+place	6225	The Forgotten Cemetery	-1	6	no	yes	yes	2962,3755,0 2990,3755,0	yes	Ghost / Revenants / Forgotten Soul / Tortured soul / Death wing	Slayer task/Ghosts@15250974	This area is in the Wilderness, and is also littered with Ankou.
+place	6225	Revenant Caves	-1	30	no	no	yes	3212,10196,0 3197,10070,0 3221,10065,0 3169,10158,0 3184,10151,0 3248,10152,0 3240,10096,0 3179,10201,0 3249,10175,0 3152,10112,0 3169,10115,0 3216,10128,0 3230,10133,0 3207,10093,0 3221,10095,0 3200,10166,0 3214,10164,0 3209,10216,0 3228,10221,0 3230,10201,0 3244,10198,0	yes	Ghost / Revenants / Forgotten Soul / Tortured soul / Death wing	Slayer task/Ghosts@15250974	This area is in the Wilderness.
+place	6225	Varrock Sewers	-1	3	yes	yes	no	3241,9913,0	yes	Ghost / Revenants / Forgotten Soul / Tortured soul / Death wing	Slayer task/Ghosts@15250974	-
+place	6225	Shaman Caves	-1	8	no	yes	yes	2800,9301,0	yes	Ghost / Revenants / Forgotten Soul / Tortured soul / Death wing	Slayer task/Ghosts@15250974	Partial completion of Legends' Quest required.
+place	6225	West Ardougne	-1	2	no	yes	yes	2501,3289,0	yes	Ghost / Revenants / Forgotten Soul / Tortured soul / Death wing	Slayer task/Ghosts@15250974	Partial completion of Plague City required.
+place	6225	West of Port Phasmatys	-1	2	no	yes	yes	3647,3473,0 3649,3503,0	yes	Ghost / Revenants / Forgotten Soul / Tortured soul / Death wing	Slayer task/Ghosts@15250974	Completion of Priest in Peril required.
+place	6226	Ardougne Zoo	-1	2	no	yes	yes	2632,3273,0	yes	Bear Cub / Black bear / Callisto / Artio / Grizzly bear / Grizzly bear cub / Grizzly bear (Escape Caves)	Slayer task/Bears@15250961	The bears are located in a closed-off area only reachable using ranged or magic.
+place	6226	East of Varrock Palace, accessible via Varrock Sewers	-1	1	no	yes	yes	3230,3500,0	yes	Bear Cub / Black bear / Callisto / Artio / Grizzly bear / Grizzly bear cub / Grizzly bear (Escape Caves)	Slayer task/Bears@15250961	It is in a similar area as the Ardougne Zoo bears, but the Varrock Sewers grant access for melee attacks.
+place	6226	Entrana	-1	1	no	yes	yes	2809,3376,0	yes	Bear Cub / Black bear / Callisto / Artio / Grizzly bear / Grizzly bear cub / Grizzly bear (Escape Caves)	Slayer task/Bears@15250961	No weapons or armour can be brought to Entrana.
+place	6226	Fremennik Province - woods outside of Rellekka	-1	10	no	yes	yes	2691,3612,0 2721,3643,0	yes	Bear Cub / Black bear / Callisto / Artio / Grizzly bear / Grizzly bear cub / Grizzly bear (Escape Caves)	Slayer task/Bears@15250961	There are two clumps of four bear cubs in the area and 2 grizzly bears.
+place	6226	Gnome Maze	-1	1	no	yes	yes	2501,3159,0	yes	Bear Cub / Black bear / Callisto / Artio / Grizzly bear / Grizzly bear cub / Grizzly bear (Escape Caves)	Slayer task/Bears@15250961	Be wary of higher level monsters in the maze.
+place	6226	Great Kourend - north of Land's End	-1	3	no	yes	yes	1503,3448,0	yes	Bear Cub / Black bear / Callisto / Artio / Grizzly bear / Grizzly bear cub / Grizzly bear (Escape Caves)	Slayer task/Bears@15250961	-
+place	6226	Great Kourend - Farming Guild	-1	4	no	yes	yes	1216,3680,0 1319,3710,0	yes	Bear Cub / Black bear / Callisto / Artio / Grizzly bear / Grizzly bear cub / Grizzly bear (Escape Caves)	Slayer task/Bears@15250961	-
+place	6226	Isafdar	-1	6	no	yes	yes	2215,3171,0 2199,3222,0	yes	Bear Cub / Black bear / Callisto / Artio / Grizzly bear / Grizzly bear cub / Grizzly bear (Escape Caves)	Slayer task/Bears@15250961	Requires partial completion of Regicide.
+place	6226	Kebos Lowlands - south of Mount Quidamortem	-1	9	no	yes	yes	1232,3468,0 1253,3474,0 1290,3487,0	yes	Bear Cub / Black bear / Callisto / Artio / Grizzly bear / Grizzly bear cub / Grizzly bear (Escape Caves)	Slayer task/Bears@15250961	Be wary of poisonous Lizardmen.
+place	6226	North-east of Ardougne	-1	9	no	yes	yes	2708,3336,0	yes	Bear Cub / Black bear / Callisto / Artio / Grizzly bear / Grizzly bear cub / Grizzly bear (Escape Caves)	Slayer task/Bears@15250961	-
+place	6226	North-east of the Observatory	-1	2	no	yes	yes	2460,3200,0 2478,3200,0	yes	Bear Cub / Black bear / Callisto / Artio / Grizzly bear / Grizzly bear cub / Grizzly bear (Escape Caves)	Slayer task/Bears@15250961	-
+place	6226	North-east of Tyras Camp (instanced)	-1	2	no	yes	yes	2343,4579,0	yes	Bear Cub / Black bear / Callisto / Artio / Grizzly bear / Grizzly bear cub / Grizzly bear (Escape Caves)	Slayer task/Bears@15250961	Requires partial completion of Song of the Elves.
+place	6226	North-west of Dark Warriors' Fortress	-1	2	no	yes	yes	2988,3671,0 3001,3674,0	yes	Bear Cub / Black bear / Callisto / Artio / Grizzly bear / Grizzly bear cub / Grizzly bear (Escape Caves)	Slayer task/Bears@15250961	This location is in the Wilderness.
+place	6226	Outside of the Mind Altar	-1	4	no	yes	yes	2967,3480,0 2979,3501,0 2966,3456,0	yes	Bear Cub / Black bear / Callisto / Artio / Grizzly bear / Grizzly bear cub / Grizzly bear (Escape Caves)	Slayer task/Bears@15250961	-
+place	6226	Prifddinas (outside the city)	-1	4	no	yes	yes	3223,5974,0	no	Bear Cub / Black bear / Callisto / Artio / Grizzly bear / Grizzly bear cub / Grizzly bear (Escape Caves)	Slayer task/Bears@15250961	Requires partial completion of Regicide.
+place	6226	South of Prifddinas (instanced)	-1	4	no	yes	yes	3223,5974,0	no	Bear Cub / Black bear / Callisto / Artio / Grizzly bear / Grizzly bear cub / Grizzly bear (Escape Caves)	Slayer task/Bears@15250961	Requires partial completion of Song of the Elves.
+place	6226	South of the Demonic Ruins (Callisto's Den)	-1	1	yes	yes	yes	3292,3848,0	yes	Bear Cub / Black bear / Callisto / Artio / Grizzly bear / Grizzly bear cub / Grizzly bear (Escape Caves)	Slayer task/Bears@15250961	Callisto is only recommended for high level players.
+place	6226	South-east of Dark Warriors' Fortress	-1	3	no	yes	no	3078,3601,0	yes	Bear Cub / Black bear / Callisto / Artio / Grizzly bear / Grizzly bear cub / Grizzly bear (Escape Caves)	Slayer task/Bears@15250961	This location is in the Wilderness.
+place	6226	South-east of Gu'Tanoth	-1	1	no	yes	yes	2606,3008,0	yes	Bear Cub / Black bear / Callisto / Artio / Grizzly bear / Grizzly bear cub / Grizzly bear (Escape Caves)	Slayer task/Bears@15250961	-
+place	6226	West of Tree Gnome Village	-1	2	no	yes	yes	2477,3143,0	yes	Bear Cub / Black bear / Callisto / Artio / Grizzly bear / Grizzly bear cub / Grizzly bear (Escape Caves)	Slayer task/Bears@15250961	-
+place	6226	South-west of Tree Gnome Stronghold	-1	4	no	yes	yes	2412,3378,0 2387,3376,0	yes	Bear Cub / Black bear / Callisto / Artio / Grizzly bear / Grizzly bear cub / Grizzly bear (Escape Caves)	Slayer task/Bears@15250961	-
+place	6226	Varrock south-east mine	-1	1	no	yes	yes	3296,3347,0	yes	Bear Cub / Black bear / Callisto / Artio / Grizzly bear / Grizzly bear cub / Grizzly bear (Escape Caves)	Slayer task/Bears@15250961	-
+place	6226	West of Lletya	-1	3	no	yes	yes	2293,3156,0	yes	Bear Cub / Black bear / Callisto / Artio / Grizzly bear / Grizzly bear cub / Grizzly bear (Escape Caves)	Slayer task/Bears@15250961	Requires partial completion of Regicide.
+place	6226	West of Lletya (during Song of the Elves)	-1	3	no	yes	yes	2741,6100,0	yes	Bear Cub / Black bear / Callisto / Artio / Grizzly bear / Grizzly bear cub / Grizzly bear (Escape Caves)	Slayer task/Bears@15250961	Requires partial completion of Song of the Elves.
+place	6226	West of the Graveyard of Shadows	-1	10	no	yes	yes	3125,3693,0 3103,3660,0	yes	Bear Cub / Black bear / Callisto / Artio / Grizzly bear / Grizzly bear cub / Grizzly bear (Escape Caves)	Slayer task/Bears@15250961	This location is in the Wilderness.
+place	6227	Lava Maze	-1	4	no	yes	?	3094,3849,0 3110,3854,0 3104,3875,0	yes	Hill Giant	Slayer task/Hill giants@15272947	*In the Wilderness.
+place	6227	Giant Pit (South of Chasm of Fire)	-1	12	no	yes	yes	1444,3613,0	yes	Hill Giant	Slayer task/Hill giants@15272947	*South of Fairy Ring code DJR
+place	6227	Gnome Maze	-1	3	no	?	?	2545,3144,0 2507,3149,0	yes	Hill Giant	Slayer task/Hill giants@15272947	-
+place	6227	North of the Observatory	-1	6	no	?	?	2439,3212,0	yes	Hill Giant	Slayer task/Hill giants@15272947	-
+place	6227	South-west of Tree Gnome Stronghold	-1	6	no	yes	yes	2371,3398,0	yes	Hill Giant	Slayer task/Hill giants@15272947	-
+place	6227	Bone Yard Hunter area	-1	2	yes	?	?	3307,3669,0 3300,3649,0	yes	Hill Giant	Slayer task/Hill giants@15272947	*In the Wilderness.
+place	6227	Edgeville Dungeon	-1	12	no	yes	yes	3111,9841,0	yes	Hill Giant	Slayer task/Hill giants@15272947	-
+place	6227	Taverley Dungeon	-1	5	no	yes	?	2907,9735,0	yes	Hill Giant	Slayer task/Hill giants@15272947	-
+place	6227	Deep Wilderness Dungeon	-1	6	no	yes	yes	3045,10311,0	yes	Hill Giant	Slayer task/Hill giants@15272947	*In the Wilderness.
+place	6227	Catacombs of Kourend	-1	13 (Hill Giant), 6 (Cyclops)	yes	no	yes	1662,10070,0 1647,10023,0	yes	Hill Giant	Slayer task/Hill giants@15272947	-
+place	6227	Giants' Plateau	-1	8	no	yes	yes	3376,3150,0	yes	Hill Giant (Giants' Plateau)	Slayer task/Hill giants@15272947	-
+place	6227	Warriors' Guild floor 2	-1	12	no	no	?	2858,3550,2	yes	Cyclops	Slayer task/Hill giants@15272947	*Requires access to the Warriors' Guild. *Players must attack with melee. *100 Warrior guild tokens are required to enter and 10 are deducted every minute.
+place	6227	Warriors' Guild (basement)	-1	23	no	no	yes	2927,9964,0	yes	Cyclops	Slayer task/Hill giants@15272947	*Requires access to the Warriors' Guild and showing a rune defender to Lorelai. *Players must attack with melee. *100 Warrior guild tokens are required to enter and 10 are deducted every minute.
+place	6227	Ardougne Zoo	-1	1	no	yes	yes	2620,3275,0	yes	Cyclops	Slayer task/Hill giants@15272947	*In an enclosure.
+place	6227	God Wars Dungeon (Bandos' Stronghold)	-1	13	yes	no	yes	2840,5325,2 2847,5346,2	yes	Cyclops	Slayer task/Hill giants@15272947	*Requires level 70 Strength and a hammer or dragon warhammer (and a rope the first time). They and nearby monsters are aggressive unless the player wear Bandos-aligned equipment. Zamorak-aligned equipment will protect from aggressive Zamorakians within Bandos' Stronghold
+place	6227	Giants' Den	-1	8	no	yes	yes	1436,9883,0	yes	Hill Giant	Slayer task/Hill giants@15272947	-
+place	6227	Avium Savannah	-1	6	yes	yes	yes	1620,2964,0	yes	Hill Giant	Slayer task/Hill giants@15272947	*North-west of Wyrm agility arena.
+place	6228	Asgarnian Ice Dungeon	-1	9	?	yes	yes	3061,9573,0 2962,9564,0	yes	Ice giant	Slayer task/Ice giants@15369843	* Ice giants to the east are in a single-way combat zone. Players can be interrupted by nearby ice warriors if below 104 combat. * Ice giants to the west are in a multicombat area, with no other monsters nearby to interrupt training.
+place	6228	Settlement Ruins	-1	5	yes	no	yes	1554,3889,0	yes	Ice giant	Slayer task/Ice giants@15369843	* Ice giants in this area are in a multicombat area, but many ice warriors and ice spiders are nearby, who will be aggressive to players below level 123 combat. *Very far from a bank.
+place	6228	White Wolf Mountain	-1	4	?	yes	yes	2811,3506,0	yes	Ice giant	Slayer task/Ice giants@15369843	* Requires 50 Mining to access. * Very far from a bank.
+place	6228	Ice Queen's Lair	-1	7	no	yes	yes	2890,9950,0	yes	Ice giant	Slayer task/Ice giants@15369843	* Requires 50 Mining to access. * Very far from a bank.
+place	6228	Ruins of Tapoyauik	-1	14	no	no	yes	1594,9651,0	yes	Ice giant	Slayer task/Ice giants@15369843	* Requires completion of The Heart of Darkness to access.
+place	6228	Wilderness Slayer Cave	-1	14	yes	yes	yes	3342,10056,0	yes	Ice giant	Slayer task/Ice giants@15369843	* Contains the slightly stronger level 67 ice giant. * Entirely multicombat area. * Has access to the Wilderness Slayer Cave drop table. * Popular player killing spot - do not bring items you are unwilling to lose.
+place	6228	Frozen Waste Plateau	-1	9	no	yes	yes	2947,3921,0 2955,3945,0 2978,3956,0 2954,3894,0	yes	Ice giant	Slayer task/Ice giants@15369843	*Contains normal ice giants. *Somewhat traversed spot - do not bring items you are unwilling to lose.
+place	6229	Brimhaven Dungeon	5	8 (on floor 1), 5 (on ground floor)	no	yes	yes	2635,9562,2 2659,9481,0 2658,9501,0	yes	Fire giant	Slayer task/Fire giants@15327832	*Requires a woodcutting axe in order to access. *Requires a payment of 875 coins or a one-time deposit of 1,000,000 coins to Saniboch in order to enter the dungeon. **While a cheaper cost of 5,000 trading sticks to his sister Banisoch can be used, it is further away and forces the players to traverse through aggressive dragons, and the axe is still needed regardless without 56 Agility.
+place	6229	Charred Dungeon	-1	6	yes	yes	yes	2636,8886,0	yes	Fire giant	Slayer task/Fire giants@15327832	*Requires level 60 Sailing to access.
+place	6229	Stronghold Slayer Cave	2	12	no	yes	yes	2400,9777,0	yes	Fire giant	Slayer task/Fire giants@15327832	*Requires a Slayer task. *Groups of 3 fire giants each separated by a safespot.
+place	6229	Deep Wilderness Dungeon	-1	5	no	yes	yes	3047,10344,0	yes	Fire giant	Slayer task/Fire giants@15327832	*There are several tiles along the western side of the lava pool where a cannon can be placed. *There is a safespot in the south-eastern tunnel, near the Monk of Zamorak.
+place	6229	Catacombs of Kourend	1	12	yes	no	yes	1629,10056,0	yes	Fire giant	Slayer task/Fire giants@15327832	*Higher level variants which drop Ancient shards and Dark totem pieces.
+place	6229	Giants' Den	48	8	no	yes	yes	1455,9902,0	yes	Fire giant	Slayer task/Fire giants@15327832	*Higher level variants which drop Ancient shards and Dark totem pieces.
+place	6229	Karuulm Slayer Dungeon	3	13	no	yes	yes	1281,10205,2	yes	Fire giant	Slayer task/Fire giants@15327832	* Set up a cannon in the middle of the room and stand in the entrance hallway for a safespot. This allows the cannon to fire rapidly even though it's a single combat area. Stamina pots are recommended for this method to reload the cannon. * Requires boots of stone, boots of brimstone, or granite boots if the Elite Kourend & Kebos Diary is not completed.
+place	6229	Smoke Dungeon	-1	6	no	yes	yes	3306,9400,0 3294,9375,0 3252,9359,0	yes	Fire giant	Slayer task/Fire giants@15327832	* Requires wearing a Facemask, Slayer Helmet, or Gas mask to avoid taking damage from the dungeon's smoke effect. * The northern wall of the entrance can be used as a safespot, but only against the Fire Giant to the north-west.
+place	6229	Waterfall Dungeon	8	11	no	yes	yes	2575,9891,0	yes	Fire giant	Slayer task/Fire giants@15327832	*There is a safespot next to the single door in the western room. *Cannon can AoE Fire Giants by placing it in the middle and running to the safespot(s). *Requires completion of the Waterfall Quest and a Rope
+place	6229	Isle of Souls Dungeon	47	8	no	yes	yes	2119,9327,0	yes	Fire giant	Slayer task/Fire giants@15327832	* Cannon can AoE Fire Giants by placing it in the middle and running to the safespot at the hall entrance. Stamina potions recommended.
+place	6230	Kourend Woodland	-1	?	?	?	?	1516,3501,0	yes	Moss giant	Slayer task/Moss giants@15250972	-
+place	6230	Moss Giant Island, west of Brimhaven (10 Agility required)	-1	?	?	?	?	2699,3212,0	yes	Moss giant	Slayer task/Moss giants@15250972	-
+place	6230	Wilderness Pond	-1	?	?	?	?	3145,3812,0	yes	Moss giant	Slayer task/Moss giants@15250972	-
+place	6230	Crandor	-1	?	?	?	?	2831,3243,0	yes	Moss giant	Slayer task/Moss giants@15250972	-
+place	6230	Pirates' Cove	-1	?	?	?	?	2201,3812,0	yes	Moss giant	Slayer task/Moss giants@15250972	-
+place	6230	West of Fishing Guild	-1	?	?	?	?	2556,3406,0	yes	Moss giant	Slayer task/Moss giants@15250972	-
+place	6230	Brimhaven Dungeon	-1	?	?	?	?	2647,9487,0 2682,9573,0 2673,9592,0 2659,9548,0 2640,9583,0 2654,9587,0	yes	Moss giant	Slayer task/Moss giants@15250972	-
+place	6230	Varrock Sewers	-1	?	?	?	?	3158,9895,0	yes	Moss giant	Slayer task/Moss giants@15250972	-
+place	6230	Catacombs of Kourend	-1	?	?	?	?	1690,10036,0 1658,10014,0 1638,10017,0	yes	Moss giant	Slayer task/Moss giants@15250972	-
+place	6230	Giants' Den	-1	?	?	?	?	1424,9864,0 1454,9866,0	yes	Moss giant	Slayer task/Moss giants@15250972	-
+place	6230	Isle of Souls	-1	?	?	?	?	2226,2819,0	yes	Moss giant	Slayer task/Moss giants@15250972	-
+place	6230	North east of Prifddinas	-1	?	?	?	?	2301,3381,0	yes	Moss giant	Slayer task/Moss giants@15250972	-
+place	6230	West of Ralos' Rise	-1	?	?	?	?	1396,3115,0	yes	Moss giant	Slayer task/Moss giants@15250972	-
+place	6230	Laguna Aurorae	-1	?	?	?	?	1242,2800,0 1219,2765,0 1193,2784,0 1180,2765,0	yes	Moss giant	Slayer task/Moss giants@15250972	-
+place	6230	Tonali Cavern - Southern Chamber (floor 0)	-1	?	?	?	?	1284,9391,0	yes	Moss giant	Slayer task/Moss giants@15250972	-
+place	6230	Tonali Cavern - Southern Chamber (floor 1)	-1	?	?	?	?	1323,9404,1	yes	Moss giant	Slayer task/Moss giants@15250972	-
+place	6230	Iorwerth Dungeon	-1	?	?	?	?	3247,12464,0	yes	Moss Giant (Iorwerth Dungeon)	Slayer task/Moss giants@15250972	-
+place	6230	Bryophyta's Lair (Varrock Sewers)	-1	?	?	?	?	3220,9933,0	yes	Bryophyta	Slayer task/Moss giants@15250972	-
+place	6231	Enchanted Valley	-1	1	no	no	no	3041,4509,0	yes	River troll / Thrower Troll / Thrower troll (Trollheim) / Mountain troll / Troll spectator / Twig / Berry / Ice troll runt / Ice troll male / Ice troll female / Pee Hat / Kraka / Dad / Ice troll grunt / Stick / Rock (Troll) / Troll general / Arrg / Ice troll / Ice Troll King	Slayer task/Trolls@15370558	*Summon a River troll above your combat level if you start fishing *Fairy ring
+place	6231	Northern Jatizso and Neitiznot	25	15 female, 14 male, 4 grunt, 19 runt	yes	yes	yes	2409,10223,0 2378,10216,0	yes	Ice troll runt / Ice troll male / Ice troll female	Slayer task/Trolls@15370558	* Better drops than mountain trolls * Ice troll females use ranged attacks
+place	6231	Keldagrim (Entrance tunnel)	23	7	no	yes	yes	2777,10142,0 1236,3520,0	yes	River troll / Thrower Troll / Thrower troll (Trollheim) / Mountain troll / Troll spectator / Twig / Berry / Ice troll runt / Ice troll male / Ice troll female / Pee Hat / Kraka / Dad / Ice troll grunt / Stick / Rock (Troll) / Troll general / Arrg / Ice troll / Ice Troll King	Slayer task/Trolls@15370558	*Narrow passage makes cannon placement difficult *Rocks at the sides of the passage can be used to safespot *Location only contains level 69 melee trolls
+place	6231	South of Mount Quidamortem (North-east location)	24	7	yes	yes	yes	1242,3519,0	yes	River troll / Thrower Troll / Thrower troll (Trollheim) / Mountain troll / Troll spectator / Twig / Berry / Ice troll runt / Ice troll male / Ice troll female / Pee Hat / Kraka / Dad / Ice troll grunt / Stick / Rock (Troll) / Troll general / Arrg / Ice troll / Ice Troll King	Slayer task/Trolls@15370558	*More open than the troll location to the south-west, so luring multiple trolls is easier. *Rocks can be used to safespot. *Closer to a bank than most Mountain Trolls.
+place	6231	South of Mount Quidamortem (South-west location)	24	7	yes	yes	yes	1225,3493,0	yes	River troll / Thrower Troll / Thrower troll (Trollheim) / Mountain troll / Troll spectator / Twig / Berry / Ice troll runt / Ice troll male / Ice troll female / Pee Hat / Kraka / Dad / Ice troll grunt / Stick / Rock (Troll) / Troll general / Arrg / Ice troll / Ice Troll King	Slayer task/Trolls@15370558	*High number of obstacles makes safespotting easier.
+place	6231	Death Plateau	21	15	no	yes	yes	2867,3595,0	yes	River troll / Thrower Troll / Thrower troll (Trollheim) / Mountain troll / Troll spectator / Twig / Berry / Ice troll runt / Ice troll male / Ice troll female / Pee Hat / Kraka / Dad / Ice troll grunt / Stick / Rock (Troll) / Troll general / Arrg / Ice troll / Ice Troll King	Slayer task/Trolls@15370558	*Protect from Missiles is highly recommended while running through the canyon leading up to the plateau * One of the faster places to get to by teleporting to Burthorpe (games necklace or combat bracelet) *Shooting through the troll buildings consisting of rocks is possible making safespotting easier.
+place	6231	Troll Stronghold (location) (Outside)	22	8	no	yes	yes	2847,3676,0	yes	River troll / Thrower Troll / Thrower troll (Trollheim) / Mountain troll / Troll spectator / Twig / Berry / Ice troll runt / Ice troll male / Ice troll female / Pee Hat / Kraka / Dad / Ice troll grunt / Stick / Rock (Troll) / Troll general / Arrg / Ice troll / Ice Troll King	Slayer task/Trolls@15370558	* Dwarf multicannon and a Bonecrusher necklace allows for effectively zero Prayer potion usage while using Protect from Melee.
+place	6231	Wyrmscraig Cavern	56	7	no	no	yes	2587,8590,0	yes	River troll / Thrower Troll / Thrower troll (Trollheim) / Mountain troll / Troll spectator / Twig / Berry / Ice troll runt / Ice troll male / Ice troll female / Pee Hat / Kraka / Dad / Ice troll grunt / Stick / Rock (Troll) / Troll general / Arrg / Ice troll / Ice Troll King	Slayer task/Trolls@15370558	-
+place	6232	Southern Frozen Waste Plateau	-1	?	?	?	?	2952,3874,0	yes	Ice warrior	Slayer task@15373557	-
+place	6232	Northern Frozen Waste Plateau	-1	?	?	?	?	2956,3930,0	yes	Ice warrior	Slayer task@15373557	-
+place	6232	Asgarnian Ice Dungeon	-1	?	?	?	?	3053,9576,0	yes	Ice warrior	Slayer task@15373557	-
+place	6232	White Wolf Mountain	-1	?	?	?	?	2847,3514,0	yes	Ice warrior	Slayer task@15373557	-
+place	6232	Ice Queen's Lair	-1	?	?	?	?	2844,9944,0 2867,9951,0 2822,9901,0 2838,9917,0	yes	Ice warrior	Slayer task@15373557	-
+place	6232	Ruins of Tapoyauik - middle level	-1	?	?	?	?	1720,9632,1 1708,9650,1	yes	Ice warrior	Slayer task@15373557	-
+place	6232	Ruins of Tapoyauik - lower level	-1	?	?	?	?	1678,9653,0	yes	Ice warrior	Slayer task@15373557	-
+place	6232	Iceberg	-1	?	?	?	?	2644,10424,0	yes	Icelord	Slayer task@15373557	-
+place	6233	Chaos Druid Tower Dungeon	-1	7	no	yes	yes	2585,9738,0	yes	Ogre	Slayer task/Ogres@15320380	This location is fairly unpopulated.
+place	6233	Clock Tower Dungeon	-1	3	no	yes	yes	2585,9608,0	yes	Ogre	Slayer task/Ogres@15320380	-
+place	6233	Combat Training Camp	-1	8	no	yes	yes	2526,3373,0	yes	Ogre	Slayer task/Ogres@15320380	Requires completion of Biohazard.
+place	6233	Corsair Cove Dungeon	-1	32	no	yes	yes	2015,8980,1 1964,9034,1 1971,9073,1	yes	Ogress Shaman	Slayer task/Ogres@15320380	The entrance is a commonly used safespot, so expect to not use it. Ogress shamans offer a unique cosmetic drop.
+place	6233	Feldip Hills	-1	18	no	yes	yes	2585,2977,0 2504,2965,0 2504,2984,0 2551,2955,0 2609,2990,0 2520,2973,0 2533,2977,0	yes	Ogre	Slayer task/Ogres@15320380	The ogres in this area are fairly spread out.
+place	6233	Gnome Maze	-1	1	no	yes	yes	2554,3192,0	yes	Ogre	Slayer task/Ogres@15320380	-
+place	6233	God Wars Dungeon	-1	3	yes	yes	no	2867,5313,2 2878,5332,2	yes	Ogre	Slayer task/Ogres@15320380	As this is a multicombat area, other monsters will attack you.
+place	6233	Gu'Tanoth	-1	18	no	yes	yes	2526,3039,0 2513,3026,0 2571,3027,0 2567,3046,0 2538,3013,0	yes	Ogre	Slayer task/Ogres@15320380	The ogres in this area are secluded in many areas.
+place	6233	Jiggig	-1	11	yes	no	yes	2468,3046,0	yes	Skogre	Slayer task/Ogres@15320380	Brutal arrows work best against zogres and skogres.
+place	6233	Jiggig Dungeon	-1	36	no	no	yes	2465,9454,2 2471,9422,2 2436,9465,2 2450,9460,2	yes	Zogre	Slayer task/Ogres@15320380	Brutal arrows work best against zogres and skogres.
+place	6233	Mudskipper Point	-1	3	no	yes	yes	2995,3107,0	yes	Mogre	Slayer task/Ogres@15320380	Fishing explosives are required to engage in combat with mogres.
+place	6233	Underground Pass (dungeon)	-1	2	no	yes	no	2387,9685,0	yes	Ogre	Slayer task/Ogres@15320380	Requires completion of Plague City.
+place	6233	West of Yanille	-1	14	no	yes	yes	2503,3095,0 2504,3133,0	yes	Ogre	Slayer task/Ogres@15320380	-
+place	6233	Wilderness God Wars Dungeon	-1	1	yes	yes	no	3054,10136,0	yes	Ogre	Slayer task/Ogres@15320380	As this is a multicombat area and in the Wilderness, other monsters and players will attack you.
+place	6233	Witchaven Dungeon	-1	6	no	yes	yes	2723,9707,0 2719,9668,0	yes	Ogre	Slayer task/Ogres@15320380	-
+place	6234	Bandit Camp mine	-1	26	no	yes	yes	3088,3758,0	yes	Hobgoblin	Slayer task/Hobgoblins@15251007	Found inside the Wilderness
+place	6234	Peninsula north-east of the Hosidius vinery	-1	22	no	yes	no	1835,3621,0 1808,3627,0	yes	Hobgoblin	Slayer task/Hobgoblins@15251007	-
+place	6234	God Wars Dungeon	-1	11	yes	no	no	2878,5319,2 2854,5313,2 2869,5344,2	yes	Hobgoblin	Slayer task/Hobgoblins@15251007	-
+place	6234	Peninsula West of the Crafting Guild	-1	10	no	yes	yes	2909,3282,0	yes	Hobgoblin	Slayer task/Hobgoblins@15251007	Safespotting requires standing in the guild's cow field, or using cornered edges along the peninsula
+place	6234	Outpost	-1	8	no	yes	no	2448,3329,0 2445,3359,0	yes	Hobgoblin	Slayer task/Hobgoblins@15251007	-
+place	6234	Asgarnian Ice Dungeon	-1	7	no	yes	no	3010,9593,0	yes	Hobgoblin	Slayer task/Hobgoblins@15251007	-
+place	6234	Edgeville Dungeon	-1	5	no	yes	yes	3122,9874,0	yes	Hobgoblin	Slayer task/Hobgoblins@15251007	Safespot between the rockslide and the fire remains by the campfire
+place	6235	Hosidius marketplace	-1	3 Guard dogs	yes	yes	yes	1760,3596,0 1778,3597,0	yes	Jackal / Temple guardian / Guard dog / Wild dog / Shadow hound / Reanimated dog	Slayer task/Dogs@15341658	*Bakery stalls and Fruit stalls nearby to recover health. Dogs will attack if they catch you stealing.
+place	6235	West of Nardah	-1	7 Jackals	no	yes	yes	3383,2908,0 3378,2933,0	yes	Jackal / Temple guardian / Guard dog / Wild dog / Shadow hound / Reanimated dog	Slayer task/Dogs@15341658	*Requires some protection from the desert heat.
+place	6235	Central Brimhaven Dungeon	-1	8 Wild dogs	no	yes	yes	2662,9517,0	yes	Jackal / Temple guardian / Guard dog / Wild dog / Shadow hound / Reanimated dog	Slayer task/Dogs@15341658	*Requires an axe and paid access to Brimhaven Dungeon.
+place	6235	Handelmort Mansion in East Ardougne	-1	4 Guard dogs	no	yes	yes	2641,3315,0 2624,3319,0	yes	Jackal / Temple guardian / Guard dog / Wild dog / Shadow hound / Reanimated dog	Slayer task/Dogs@15341658	-
+place	6236	North of Mort Myre Swamp	-1	?	?	?	?	3430,3462,0	yes	Ghoul	Slayer task@15373557	-
+place	6236	South of the Slayer Tower	-1	?	?	?	?	3414,3512,0	yes	Ghoul	Slayer task@15373557	-
+place	6237	Wilderness (West of Dark Warriors' Fortress)	-1	3	no	yes	no	2982,3618,0	yes	Green dragon	Slayer task/Green dragons@15341655	* In the Wilderness.
+place	6237	Wilderness (South of Venenatis)	-1	11	no	yes	yes	3339,3694,0	yes	Green dragon	Slayer task/Green dragons@15341655	* In the Wilderness. Largest concentration of green dragons.
+place	6237	Wilderness (North of Graveyard of Shadows)	-1	5	?	?	?	3140,3700,0 3158,3708,0	yes	Green dragon	Slayer task/Green dragons@15341655	* In the Wilderness. Close to Ferox Enclave.
+place	6237	Wilderness (South of Lava Maze)	-1	5	?	yes	?	3078,3810,0 3107,3812,0	yes	Green dragon	Slayer task/Green dragons@15341655	* In the Wilderness.
+place	6237	Wilderness Slayer Cave	-1	6	yes	yes	yes	3415,10068,0 3396,10119,0	yes	Green dragon	Slayer task/Green dragons@15341655	* Only places where the level-88 variant is found. In the Wilderness.
+place	6238	Catacombs of Kourend	1	2 Brutals	no	no	yes	1629,10071,0	yes	Baby blue dragon / Blue dragon / Brutal blue dragon / Vorkath	Slayer task/Blue dragons@15319394	* Higher profit from slaying. * Can drop ancient shards and Dark Totems parts.
+place	6238	Corsair Cove Dungeon, (Myths' Guild Dungeon)	27	5 Adults, 3 Babies	no	yes	yes	1928,8973,1 1897,9001,1	yes	Baby blue dragon / Blue dragon / Brutal blue dragon / Vorkath	Slayer task/Blue dragons@15319394	*Requires completion of Dragon Slayer II.
+place	6238	Dragon Nest	-1	5 Adults 2 Babies	no	yes	yes	1239,9491,0	yes	Baby blue dragon / Blue dragon / Brutal blue dragon / Vorkath	Slayer task/Blue dragons@15319394	* Close to bank in Tal Teklan * Shortcut available with level 40 Agility
+place	6238	Heroes' Guild (basement)	-1	1 Adult	no	yes	yes	2908,9905,0	yes	Baby blue dragon / Blue dragon / Brutal blue dragon / Vorkath	Slayer task/Blue dragons@15319394	* Requires completion of Heroes' Quest.
+place	6238	Isle of Souls Dungeon	47	4 Adults, 3 Babies	no	yes	yes	2126,9303,0	yes	Baby blue dragon / Blue dragon / Brutal blue dragon / Vorkath	Slayer task/Blue dragons@15319394	-
+place	6238	Ogre Enclave	34	6 Adults	no	yes	yes	2590,9461,0 2592,9431,0 2609,9459,0 2568,9437,0	yes	Baby blue dragon / Blue dragon / Brutal blue dragon / Vorkath	Slayer task/Blue dragons@15319394	* Requires completion of Watchtower. * Easily bank by using a Ring of dueling to teleport to Castle Wars and running east back to Gu'Tanoth * The Dwarf multicannon will also target lower-level monsters, including level 1 spiders and level 22 skeletons.
+place	6238	Taverley Dungeon	6	9 Adults, 12 Babies	no	yes	yes	2911,9787,0	yes	Baby blue dragon / Blue dragon / Brutal blue dragon / Vorkath	Slayer task/Blue dragons@15319394	* Requires dusty key or level 70 Agility. * A ring of dueling and the completion of Enlightened Journey allow for fast banking at Castle Wars, followed by a balloon ride right back to Taverley.
+place	6238	Taverley Dungeon (upper level)	6	12 Adults	no	yes	yes	2922,9809,1 2891,9810,1 2951,9814,1	yes	Baby blue dragon / Blue dragon / Brutal blue dragon / Vorkath	Slayer task/Blue dragons@15319394	* Blue dragons can only be killed here while on a Slayer task. * Requires level 70 Agility for a shortcut or a dusty key
+place	6238	Ruins of Tapoyauik	51	7 Adults 7 Babies, 5 Brutals	no	no	yes	1610,9608,0 1581,9614,0 1652,9608,0	yes	Baby blue dragon / Blue dragon / Brutal blue dragon / Vorkath	Slayer task/Blue dragons@15319394	* Can be accessed after completing The Heart of Darkness. * Can drop frozen tears. * Very fast accessibility with a charged Pendant of Ates. * Nearby moonlight moths provide unlimited prayer with 75 Hunter, a butterfly jar, and butterfly net (85 Hunter to catch barehanded).
+place	6238	Ungael	-1	1 Vorkath	no	no	no	2268,4061,0	yes	Baby blue dragon / Blue dragon / Brutal blue dragon / Vorkath	Slayer task/Blue dragons@15319394	* Fought once during Dragon Slayer II, and afterwards requires completion of the quest. * For more information on fighting Vorkath, see Vorkath/Strategies.
+place	6239	Brimhaven Dungeon	5	16	no	yes	yes	2714,9526,0	yes	Red dragon	Slayer task/Red dragons@15250964	* Completing Karamja Elite Diary causes red dragonhides to be noted. *There is a safespot next to the pipe agility shortcut to the black demons.
+place	6239	Charred Dungeon	-1	4	yes	yes	yes	2668,8868,0	yes	Red dragon	Slayer task/Red dragons@15250964	* Requires level 60 Sailing to access. * Black Dragons and Baby Black Dragons are also in the same large room.
+place	6239	Corsair Cove Dungeon	27	3	no	yes	yes	1911,9002,1	yes	Red dragon	Slayer task/Red dragons@15250964	*Requires Completion of Dragon Slayer II
+place	6239	Forthos Dungeon	41	6	no	no	yes	1821,9929,0	yes	Red dragon	Slayer task/Red dragons@15250964	*There is a safespot next to the fire and stalagmite near the strange floor agility shortcut. *After unlocking the Sacred Bone Burner, bone drops can be sacrificed there for bonus XP. *The nearby altar can be used to sustain Prayer Points indefinitely. *A Needle and Thread (or Costume needle) can be brought to craft hides tanned with Eodan for Crafting XP.
+place	6239	Brimhaven Dungeon (2)	5	12	no	yes	no	2711,9516,0	yes	Baby red dragon	Slayer task/Red dragons@15250964	*
+place	6239	Corsair Cove Dungeon (2)	27	2	no	yes	yes	1889,8995,1	yes	Baby red dragon	Slayer task/Red dragons@15250964	*Requires Completion of Dragon Slayer II
+place	6239	Forthos Dungeon (2)	41	5	no	no	no	1818,9931,0	yes	Baby red dragon	Slayer task/Red dragons@15250964	*
+place	6239	Catacombs of Kourend	1	3	no	no	no	1616,10077,0	yes	Brutal red dragon	Slayer task/Red dragons@15250964	*
+place	6240	Taverley Dungeon	6	2	no	yes	yes	2829,9826,0	yes	Black dragon	Slayer task/Black dragons@15360884	* Safespot is achieved by using the ladder as a blockade
+place	6240	Taverley Dungeon (upper level)	6	12 Adult dragons, 5 Baby dragons	no	yes	yes	2777,9826,1 2796,9841,1 2799,9818,1	yes	Black dragon	Slayer task/Black dragons@15360884	* Black dragons can only be killed here while on a Slayer task.
+place	6240	Mynydd	-1	1	no	yes	yes	2155,3427,0	yes	Black dragon	Slayer task/Black dragons@15360884	* Requires completion of Song of the Elves.
+place	6240	Charred Dungeon	-1	5 Adult dragons, 7 Baby dragons	yes	yes	yes	2647,8863,0	yes	Black dragon	Slayer task/Black dragons@15360884	* Requires level 60 Sailing to access. * Red Dragons are in the same large room.
+place	6240	Lava Maze Dungeon	-1	2	no	yes	yes	3048,10266,0	yes	Black dragon	Slayer task/Black dragons@15360884	* In the Wilderness. * Ideally bring or use some form of poison protection as the dungeon has poison spiders - especially relevant when using a cannon.
+place	6240	Evil Chicken's Lair	37	4 Adult dragons, 1 Baby dragon	no	yes	yes	2454,4370,0	yes	Black dragon	Slayer task/Black dragons@15360884	* Requires partial completion of Recipe for Disaster/Freeing Sir Amik Varze as well as a raw chicken to access (and a rope to access the baby black dragons). The baby dragon can also be safespotted.
+place	6240	Wilderness Slayer Cave	-1	3	yes	yes	yes	3361,10159,0	yes	Black dragon	Slayer task/Black dragons@15360884	* Only places where the level 247 variant is found. In the Wilderness.
+place	6240	Corsair Cove Dungeon	-1	2 Adult dragons, 1 Baby dragon	no	yes	yes	1942,8967,1	yes	Black dragon	Slayer task/Black dragons@15360884	*Requires completion of Dragon Slayer II.
+place	6240	King Black Dragon Lair	-1	1 King Black Dragon	yes	no	no	2269,4697,0	yes	King Black Dragon	Slayer task/Black dragons@15360884	*Can only be accessed through a lever in the Wilderness. The arena itself is NOT considered part of the Wilderness. *For more information on fighting the King Black Dragon, see King Black Dragon/Strategies.
+place	6240	Catacombs of Kourend	1	4 Brutal dragons	no	no	no	1617,10091,0	yes	Brutal black dragon	Slayer task/Black dragons@15360884	*Brutal black dragons. Requires level 77 Slayer.
+place	6240	Corsair Cove Dungeon/Myths' Guild (basement)	27	?	?	?	?	1888,9003,1 1942,8967,1	yes	Baby black dragon / Black dragon	Slayer task/Black dragons@15360884	-
+place	6241	Lava Maze	-1	2	no	yes	yes	3091,3861,0	yes	Lesser demon	Slayer task/Lesser demon@15344163	* Slash weapon or knife needed * Level 40-45 wilderness
+place	6241	Demonic Ruins	-1	2	yes	yes	yes	3311,3845,0 3324,3856,0	yes	Lesser demon	Slayer task/Lesser demon@15344163	Level 41 wilderness
+place	6241	King Black Dragon Lair	-1	4	yes	yes	yes	3014,3848,0	yes	Lesser demon	Slayer task/Lesser demon@15344163	Level 42 wilderness
+place	6241	Crandor	-1	2	no	yes	yes	2832,3278,0	yes	Lesser demon	Slayer task/Lesser demon@15344163	-
+place	6241	Cage on the top floor of Kourend Castle	-1	1	no	no	yes	1618,3667,2	yes	Lesser demon	Slayer task/Lesser demon@15344163	Prayer altar and bank are nearby. Ranged, Magic or a halberd is required.
+place	6241	Cage on the top floor of Wizards' Tower	-1	1	no	yes	yes	3109,3159,2	yes	Lesser demon	Slayer task/Lesser demon@15344163	-
+place	6241	Councillor Hughes' house in Kingstown	-1	1	no	yes	yes	1680,3678,2	yes	Lesser demon	Slayer task/Lesser demon@15344163	-
+place	6241	Crandor and Karamja Dungeon	-1	11	no	yes	yes	2838,9610,0 2836,9558,0	yes	Lesser demon	Slayer task/Lesser demon@15344163	-
+place	6241	Sisterhood Sanctuary	-1	9	no	yes	yes	3845,9777,1 3846,9741,1	yes	Lesser demon	Slayer task/Lesser demon@15344163	-
+place	6241	Taverley dungeon	-1	5	no	yes	yes	2931,9798,0	yes	Lesser demon	Slayer task/Lesser demon@15344163	-
+place	6241	Wilderness Slayer Cave	-1	7	yes	yes	yes	3337,10134,0	yes	Lesser demon	Slayer task/Lesser demon@15344163	Level 27 wilderness
+place	6241	Chasm of Fire	-1	9	no	yes	yes	1437,10081,2	yes	Lesser demon	Slayer task/Lesser demon@15344163	Has a chance of dropping various contracts if the player has spoken to Yama after A Kingdom Divided, which may be sold for profit.
+place	6241	Catacombs of Kourend	-1	8	yes	no	yes	1716,10067,0	yes	Lesser demon	Slayer task/Lesser demon@15344163	Drops ancient shard and dark totem pieces
+place	6241	Temple of Ikov	-1	3	yes	yes	yes	2632,9874,0	yes	Lesser demon	Slayer task/Lesser demon@15344163	Requires shiny key and partial completion of Temple of Ikov
+place	6241	Viyeldi caves	-1	3	yes	yes	yes	2413,4681,0	yes	Lesser demon	Slayer task/Lesser demon@15344163	Requires a pickaxe, a lockpick, an unpowered orb, runes to cast an enchantment spell, an axe, a machete, and partial completion of Legends' Quest. A shortcut can be used to bypass these item requirements, but requires 96 Agility.
+place	6241	Isle of Souls Dungeon	-1	4	no	yes	yes	2152,9332,0	yes	Lesser demon	Slayer task/Lesser demon@15344163	-
+place	6241	Charred Dungeon	-1	6	yes	yes	no	2631,8836,0	yes	Lesser demon	Slayer task/Lesser demon@15344163	Requires level 60 Sailing to access.
+place	6242	Brimhaven Dungeon	5	7	no	yes	yes	2633,9491,2	yes	Greater demon	Slayer task/Greater demons@15270275	* Axe needed * 875 entry for each time, a one-time fee of 1,000,000 or alternate entry of one-off fee of 5000 trading sticks * Demon spawns are fairly far apart, while cannonable it is not an ideal spot for clearing tasks unless assigned by Konar.
+place	6242	Chasm of Fire	4	16	no	yes	yes	1439,10088,1	yes	Greater demon	Slayer task/Greater demons@15270275	* Easily accessible through Fairy Ring DJR * Has a chance of dropping various contracts if the player has spoken to Yama after A Kingdom Divided
+place	6242	Catacombs of Kourend	1	10|13	yes	no	yes	1691,10096,0	yes	Greater demon	Slayer task/Greater demons@15270275	* Drops ancient shard and dark totem pieces
+place	6242	Entrana Dungeon	-1	2|2	no	yes	yes	2861,9747,0	yes	Greater demon	Slayer task/Greater demons@15270275	* Due to not being able to take weapons and armour to Entrana, it is not advisable to complete a Slayer Task there
+place	6242	Lava Maze Dungeon	-1	3|3	no	yes	yes	3028,10250,0	yes	Greater demon	Slayer task/Greater demons@15270275	* As the other wilderness areas are multicombat, one may elect to do their slayer task here. Highly recommended to have 82 Agility if completing tasks here.
+place	6242	Demonic Ruins	-1	4|4	yes	yes	yes	3282,3880,0 3287,3894,0 3304,3886,0 3296,3872,0	yes	Greater demon	Slayer task/Greater demons@15270275	* Prayer points regenerate over time at the Demonic Ruins - however, due to it being deep in the Wilderness, multicombat, and a popular teleport destination, it is very unsafe to do your task here.
+place	6242	Ogre Enclave	-1	5|5	no	yes	yes	2586,9458,0 2615,9423,0	yes	Greater demon	Slayer task/Greater demons@15270275	* Most of the Greater Demons in this location are behind a cage, requiring either a halberd or other ranged methods
+place	6242	Isle of Souls Dungeon	47	7|7	no	yes	yes	2165,9333,0	yes	Greater demon	Slayer task/Greater demons@15270275	* The safespot is behind the two rocks on the eastern side of the inner wall, about 6 tiles south of the demonic symbols. * Fairly compact area, though not as consistent as the Chasm of Fire for cannon tasks. A lesser demon may also interrupt the player.
+place	6242	Karuulm Slayer Dungeon	3	9|9	no	yes	yes	1278,10207,1	yes	Greater demon	Slayer task/Greater demons@15270275	* The safespot is by the entrance to the greater demon room. If you stay one tile away from the room, the greater demon won't be able to reach you.
+place	6242	Wilderness Slayer Cave	-1	X|10	yes	yes	yes	3428,10151,0	yes	Greater demon	Slayer task/Greater demons@15270275	* Level 28 wilderness - fast experience if used with Viggora's chainmace (before acquiring Arclight or Emberlight), one of the only areas that is both cannonable and multicombat.
+place	6242	Ancient Guthixian Temple	-1	26	?	?	?	4136,4372,0 4117,4385,0 4149,4430,0 4083,4373,0 4041,4385,0 4141,4464,0 4112,4466,0 4040,4419,0 4038,4449,0 4071,4426,0	yes	Tormented Demon	Tormented Demon@15337983	-
+place	6243	Brimhaven Dungeon	5	4	no	yes	yes	2703,9483,0	yes	Black demon	Slayer task/Black demons@15296848	*Safespot near agility pipe allows you to cannon 2-3 of the 4 demons
+place	6243	Catacombs of Kourend	1	4	yes	no	yes	1718,10086,0	yes	Black demon	Slayer task/Black demons@15296848	*Killing Black demons here also gives access to Ancient shards and Dark totem pieces as bonus drops.
+place	6243	Charred Dungeon	4	3	yes	yes	yes	2696,8885,0	yes	Black demon	Slayer task/Black demons@15296848	*Requires level 60 Sailing to access.
+place	6243	Chasm of Fire (Bottom level)	4	17	no	yes	yes	1434,10072,0	yes	Black demon	Slayer task/Black demons@15296848	*Safespot by stalagmites on the far north, toward the centre of the map *Players can also safespot in the centre of the bottom level, by the Voice of Yama
+place	6243	Crash Site Cavern	-1	27	yes	no	no	2073,5645,0 2072,5673,0 2119,5660,0	yes	Demonic gorilla	Slayer task/Black demons@15296848	*Demonic Gorillas, an upgraded version of Black Demons. *Requires completion of Monkey Madness II
+place	6243	Edgeville Dungeon	-1	3	no	yes	yes	3088,9961,0	yes	Black demon	Slayer task/Black demons@15296848	*Located in level 5 Wilderness
+place	6243	Taverley Dungeon	6	24	no	yes	yes	2853,9786,0	yes	Black demon	Slayer task/Black demons@15296848	* Safespot by the two stalagmites in SW corner, there is a safespot in a crevice in the north-east corner as well, great for cannon multi combat. Requires Dusty Key or 70 Agility. *
+place	6243	Wilderness Slayer Cave	-1	4	yes	yes	yes	3359,10114,0	yes	Black demon	Slayer task/Black demons@15296848	*Multicombat area and high-risk player killing makes this a very dangerous location.
+place	6244	Buccaneers' Laboratory	-1	5	yes	yes	no	2081,10073,0	yes	Hellhound / Skeleton Hellhound (Vet'ion) / Greater Skeleton Hellhound (Vet'ion) / Skeleton Hellhound (Calvar'ion) / Greater Skeleton Hellhound (Calvar'ion) / Cerberus	Slayer task/Hellhounds@15357324	*Requires 76 Sailing to access the Island. *The Rowboat can be used to travel to Buccaneers' Haven from Pirates' Cove. * Since this area is multi-combat you're able to place and use the dwarf multicannon.
+place	6244	Catacombs of Kourend	1	9	yes	no	yes	1643,10063,0	yes	Hellhound / Skeleton Hellhound (Vet'ion) / Greater Skeleton Hellhound (Vet'ion) / Skeleton Hellhound (Calvar'ion) / Greater Skeleton Hellhound (Calvar'ion) / Cerberus	Slayer task/Hellhounds@15357324	* Killing Hellhounds here also gives access to Ancient shards and Dark totem pieces as bonus drops.
+place	6244	Charred Dungeon	-1	5	yes	yes	no	2629,8864,0	yes	Hellhound	Slayer task/Hellhounds@15357324	* Requires 60 Sailing to access. Discouraged due to few spawns.
+place	6244	God Wars Dungeon	-1	5	yes	no	yes	2881,5324,2 2837,5335,2 2892,5302,2 2915,5345,2	yes	Hellhound / Skeleton Hellhound (Vet'ion) / Greater Skeleton Hellhound (Vet'ion) / Skeleton Hellhound (Calvar'ion) / Greater Skeleton Hellhound (Calvar'ion) / Cerberus	Slayer task/Hellhounds@15357324	* Hellhounds are considered Zamorak followers. * It is recommended to wear God-aligned items to avoid getting attacked by multiple monsters. * Highly discouraged due to generally far and sparse spawns.
+place	6244	Karuulm Slayer Dungeon	3	12	no	yes	yes	1340,10198,2	yes	Hellhound / Skeleton Hellhound (Vet'ion) / Greater Skeleton Hellhound (Vet'ion) / Skeleton Hellhound (Calvar'ion) / Greater Skeleton Hellhound (Calvar'ion) / Cerberus	Slayer task/Hellhounds@15357324	* Players who haven't completed the Elite Kourend & Kebos Diary must wear the boots of stone, boots of brimstone or granite boots to protect themselves from the extreme heat of the dungeon floor.
+place	6244	Stronghold Slayer Dungeon	2	13	no	yes	yes	2426,9782,0	yes	Hellhound / Skeleton Hellhound (Vet'ion) / Greater Skeleton Hellhound (Vet'ion) / Skeleton Hellhound (Calvar'ion) / Greater Skeleton Hellhound (Calvar'ion) / Cerberus	Slayer task/Hellhounds@15357324	-
+place	6244	Taverley Dungeon	6	13	no	yes	yes	2861,9837,0	yes	Hellhound / Skeleton Hellhound (Vet'ion) / Greater Skeleton Hellhound (Vet'ion) / Skeleton Hellhound (Calvar'ion) / Greater Skeleton Hellhound (Calvar'ion) / Cerberus	Slayer task/Hellhounds@15357324	* 80 Agility (boostable at 75 with summer pie) is highly recommended.
+place	6244	Witchaven Dungeon	7	8	no	yes	yes	2740,9688,0	yes	Hellhound / Skeleton Hellhound (Vet'ion) / Greater Skeleton Hellhound (Vet'ion) / Skeleton Hellhound (Calvar'ion) / Greater Skeleton Hellhound (Calvar'ion) / Cerberus	Slayer task/Hellhounds@15357324	* Long distance from a bank or convenient teleport makes it less recommended than other dungeons. * A short puzzle is required to access the Hellhounds area for the first time.
+place	6244	Wilderness (Level 49-55), near the Resource Area	-1	6	no	yes	yes	3176,3950,0 3180,3917,0	yes	Hellhound / Skeleton Hellhound (Vet'ion) / Greater Skeleton Hellhound (Vet'ion) / Skeleton Hellhound (Calvar'ion) / Greater Skeleton Hellhound (Calvar'ion) / Cerberus	Slayer task/Hellhounds@15357324	* High danger of Player killing due to high traffic and high Wilderness level * Lever provides easy access to the Edgeville bank.
+place	6244	Wilderness (Level 18-22), Wilderness Slayer Cave	-1	9	yes	yes	yes	3445,10085,0	yes	Hellhound / Skeleton Hellhound (Vet'ion) / Greater Skeleton Hellhound (Vet'ion) / Skeleton Hellhound (Calvar'ion) / Greater Skeleton Hellhound (Calvar'ion) / Cerberus	Slayer task/Hellhounds@15357324	* Multicombat area in the Wilderness, fast experience if using Wilderness weapons
+place	6245	Legends' Guild Dungeon	-1	?	?	?	?	2703,9770,0	yes	Shadow warrior	Slayer task@15373557	-
+place	6246	God Wars Dungeon	-1	?	?	?	?	2836,5349,2 2858,5315,2 2880,5321,2 2884,5295,2 2835,5286,2 2909,5297,2 2848,5277,2 2912,5353,2 2916,5269,0 2919,5293,1	yes	Werewolf	Slayer task@15373557	-
+place	6246	Wilderness God Wars Dungeon	-1	?	?	?	?	3045,10139,0	yes	Werewolf	Slayer task@15373557	-
+place	6247	Burgh de Rott	-1	6 Feral Vampyre, 15 Vampyre Juvinates	no	yes	yes	3460,3231,0	yes	Feral Vampyre	Slayer task/Vampyres@15373747	*Requires completion of In Aid of the Myreque.
+place	6247	Darkmeyer	44	6 Vampyre Juvinates, 8 Vyrewatch, 19 Vyrewatch Sentinels	no	no	no	3655,3368,0 3644,3340,0 3605,3360,0	yes	Vampyre Juvinate	Slayer task/Vampyres@15373747	*Requires starting Sins of the Father. *Only location where the highly profitable Vyrewatch Sentinels can be found. *The area west of the Arboretum is especially convenient due to the nearby altar, bank and being close to the Drakan's Medallion's teleport destination. *Prior to completing the third fight against Lowerniel Drakan in The Blood Moon Rises, bank tellers will not service the player without a disguise; the bank chest at the Hallowed Sepulchre lobby can be used instead.
+place	6247	God Wars Dungeon	-1	13 Feral Vampyre	yes	yes	yes	2918,5280,1 2829,5330,2 2862,5292,2 2853,5327,2 2888,5320,2 2878,5286,2 2854,5347,2	yes	Feral Vampyre	Slayer task/Vampyres@15373747	*Feral Vampyres are followers of Zamorak, and will be aggressive to the player unless they wear a Zamorak item. *Not recommended as the area is not convenient to access, requires the player to wear items affiliated to the gods, and the spawns are spread out. *One of the few locations containing vampyres not locked behind Priest in Peril.
+place	6247	Haunted Woods	-1	19 Feral Vampyres	no	yes	yes	3614,3431,0 3630,3430,0 3617,3477,0 3638,3472,0 3631,3499,0 3595,3491,0 3593,3458,0 3618,3514,0	yes	Feral Vampyre	Slayer task/Vampyres@15373747	*Requires completing Priest in Peril. *The feral vampyres here are always aggressive to the player. *The nearby leeches can drain stats and do not appear on the minimap. *Feral vampyres will spawn if the player is followed by a small spider *The fairy ring alq is located in the middle of the Haunted Woods, making it a convenient location for players looking to collect vampyre dust.
+place	6247	Meiyerditch	-1	4 Vampyre Juvinates, 61 Vyrewatch	no	no	no	3624,3322,0 3600,3245,0 3626,3245,0 3630,3279,0 3593,3208,0 3606,3217,0 3626,3224,0 3629,3190,0 3597,3193,0 3631,3305,0	yes	Vyrewatch	Slayer task/Vampyres@15373747	*Requires starting Darkness of Hallowvale.
+place	6247	Slepe	45	10 Vyrewatch	no	no	yes	3728,3374,0	yes	Vyrewatch	Slayer task/Vampyres@15373747	*Recommended the player completes A Taste of Hope for access to Drakan's medallion.
+place	6247	Wilderness God Wars Dungeon	-1	2 Feral Vampyres	yes	yes	yes	3036,10141,0	yes	Feral Vampyre	Slayer task/Vampyres@15373747	*Requires either 60 strength or 60 agility to access. *Most of the dungeon is below level 30 wilderness, so players should bring an emergency teleport. *Feral Vampyres are followers of Zamorak, and will be aggressive to the player unless they wear a Zamorak item.
+place	6247	Crombwick Manor	-1	3	?	?	?	3731,3358,0	yes	Vampyre Juvenile	Vampyre Juvenile@15305880	-
+place	6248	Catacombs of Kourend	1	14 Dagannoth	yes	no	yes	1666,9997,0	yes	Dagannoth	Slayer task/Dagannoth@15352280	* The dagannoth are located in the southern section of the Catacombs of Kourend.
+place	6248	Jormungand's Prison	43	62 Dagannoth	yes	yes	yes	2420,10422,0	yes	Dagannoth	Slayer task/Dagannoth@15352280	* Only accessible after completing The Fremennik Exiles. *Common location for cannoning dagannoth. *Dagannoth here only use melee attacks making prayer easier to use.
+place	6248	Lighthouse Dungeon	14	22 Dagannoth	yes	yes	no	2522,10023,0	yes	Dagannoth	Slayer task/Dagannoth@15352280	* Usually busy with players using a dwarf cannon. *Can offer some of the fastest slayer experience in the game.
+place	6248	Waterbirth Island Dungeon	15	93 Dagannoth 3 Dagannoth Kings	yes	yes	?	2486,10141,0 1895,4368,0 2911,4451,0 2911,4387,0 1866,4401,1 1848,4361,1 1848,4390,1 1822,4394,2 1846,4373,2 1863,4380,2 1830,4378,3	yes	Dagannoth (Waterbirth Island) / Dagannoth spawn / Dagannoth fledgeling / Dagannoth Prime	Slayer task/Dagannoth@15352280	* The dagannoth here are much stronger than variants found elsewhere. * The entrance is not multicombat. Reaching the multicombat zone requires a pet rock or Humphrey dumphrey, and a ranged weapon or another player to assist you. See the main article for the dungeon for more information. * Reaching the Dagannoth Kings requires extra preparation. * A skeleton can be used to safespot immediately north-east of the dungeon entrance, but only after NPC aggression expires.
+place	6249	Fremennik Slayer Dungeon	26	22	no	no	yes	2721,10003,0	yes	Turoth / Spiked Turoth	Slayer task/Turoth@15341656	-
+place	6250	Dorgesh-Kaan South Dungeon	-1	5	no	yes	yes	2712,5215,0	yes	Cave crawler	Slayer task/Cave crawlers@15372681	-
+place	6250	Fremennik Slayer Dungeon	-1	8	no	no	yes	2787,9996,0	yes	Cave crawler	Slayer task/Cave crawlers@15372681	-
+place	6250	Lumbridge Swamp Caves	-1	3	no	yes	yes	3189,9574,0	yes	Cave crawler	Slayer task/Cave crawlers@15372681	* A light source such as a bullseye lantern or the Fire of Eternal Light is recommended.
+place	6250	Ruins of Tapoyauik	-1	7	yes	no	yes	1672,9611,2	yes	Cave crawler	Slayer task/Cave crawlers@15372681	* Icy variants. * Drops moon key halves and Frozen tears
+place	6251	Slayer Tower (floor 0)	-1	8	no	no	yes	3433,3552,0	yes	Banshee / Screaming banshee / Twisted Banshee / Screaming twisted banshee	Slayer task/Banshees@15330527	* Safespot is possible 2 squares south of the torch at the south side of the stairs with banshees being east of the stairs.
+place	6251	Catacombs of Kourend	-1	6	yes	no	yes	1620,9992,0	yes	Banshee / Screaming banshee / Twisted Banshee / Screaming twisted banshee	Slayer task/Banshees@15330527	* Safespot is possible in the path from Ankou to Banshees and on the 3x1 bridge in the Banshee area.
+place	6252	Meiyerditch Laboratories	-1	10	yes	yes	yes	3617,9759,0	yes	Crawling Hand	Slayer task/Crawling Hands@15373469	-
+place	6252	Slayer Tower (floor 0)	-1	24	no	no	yes	3424,3558,0	yes	Crawling Hand	Slayer task/Crawling Hands@15373469	-
+place	6253	Slayer Tower (floor 1)	-1	?	?	?	?	3440,3564,1	yes	Infernal Mage	Slayer task@15373557	-
+place	6254	Slayer Tower (floor 1)	9	14	no	no	yes	3428,3543,1	yes	Aberrant spectre / Abhorrent spectre / Deviant spectre / Repugnant spectre	Slayer task/Aberrant spectres@15360072	* Can be safespotted by using the walls, brick piles, and/or suits of armour to block movement. * Must keep a distance of 6 tiles to avoid their attack range. * Can provide increased Slayer experience per kill based on level of completion of the Morytania Diary.
+place	6254	Stronghold Slayer Cave	2	13	no	yes	no	2458,9780,0	yes	Aberrant spectre / Abhorrent spectre / Deviant spectre / Repugnant spectre	Slayer task/Aberrant spectres@15360072	*Can be safespotted after the NPC aggression timer has run out.
+place	6254	Catacombs of Kourend	1	12	yes	no	yes	1651,9989,0 1609,10011,0	yes	Aberrant spectre / Abhorrent spectre / Deviant spectre / Repugnant spectre	Slayer task/Aberrant spectres@15360072	*Can be safespotted from north of the deviant spectre spawns located in the west of the Catacombs. *
+place	6254	Deepfin Mine	-1	7	no	yes	yes	2057,9208,0	yes	Aberrant spectre / Abhorrent spectre / Deviant spectre / Repugnant spectre	Slayer task/Aberrant spectres@15360072	*Can be safespotted from the eastern side, near the standing torch.
+place	6255	Abyssal Area	38	13	no	no	no	3036,4905,0 3046,4887,0	yes	Abyssal demon	Slayer task/Abyssal demons@15355993	Not efficient due to the presence of other aggressive abyssal creatures and distant spawns, apart from Konar quo Maten tasks. Ensouled heads dropped by the demons at this location can be reanimated for slightly faster task progression.
+place	6255	Catacombs of Kourend	1	13	yes	no	no	1674,10056,0 1675,10091,0	yes	Abyssal demon	Slayer task/Abyssal demons@15355993	Multi-combat area allows for barraging in primary rooms and AFK in both primary and secondary rooms.
+place	6255	Slayer Tower (floor 2)	9	14	no	no	no	3415,3569,2	yes	Abyssal demon	Slayer task/Abyssal demons@15355993	It is very far to reach without 71 Agility; recommended to use basement instead for slayer purposes.
+place	6255	Slayer Tower (Basement)	9	14	no	no	yes	3436,9964,3	yes	Abyssal demon	Slayer task/Abyssal demons@15355993	Task only. Safespot requires Teleport anchoring scroll permanent unlock.
+place	6255	Wilderness Slayer Cave	-1	8	yes	yes	no	3343,10163,0	yes	Abyssal demon	Slayer task/Abyssal demons@15355993	Level 29-32 Wilderness and task only. Includes chance to drop blighted items and items from Justine's Last Man Standing rewards shop.
+place	6256	Fremennik Slayer Dungeon	26	8 Basilisks	no	no	yes	2742,10008,0	yes	Basilisk / Monstrous basilisk / Basilisk Knight / Basilisk Sentinel / The Jormungand	Slayer task/Basilisks@15341651	-
+place	6256	Jormungand's Prison eastern rooms	43	12 Basilisks	no	no	yes	2475,10403,0	yes	Basilisk / Monstrous basilisk / Basilisk Knight / Basilisk Sentinel / The Jormungand	Slayer task/Basilisks@15341651	Only accessible after completion of The Fremennik Exiles.
+place	6256	Jormungand's Prison southern rooms	43	20 Basilisk Knights	no	no	yes	2421,10384,0 2453,10384,0	yes	Basilisk / Monstrous basilisk / Basilisk Knight / Basilisk Sentinel / The Jormungand	Slayer task/Basilisks@15341651	Only accessible after completion of The Fremennik Exiles.
+place	6257	Fremennik Slayer Cave (AJR)	-1	?	?	?	?	2791,10036,0	yes	Cockatrice	Slayer task@15373557	-
+place	6257	Neypotzli - Earthbound Cavern	-1	?	?	?	?	1359,9687,0	yes	Moonlight Cockatrice	Slayer task@15373557	-
+place	6258	Fremennik Slayer Dungeon	26	14	no	no	yes	2701,9996,0 2705,9969,0	yes	Kurask / King kurask	Slayer task/Kurask@15373542	*5 kurask in main dungeon, while 9 more can be found in a task-only section overseen by Jelly. *Very large area compared to other dungeons.
+place	6258	Iorwerth Dungeon	42	14	no	no	yes	3254,12382,0 3219,12368,0	yes	Kurask / King kurask	Slayer task/Kurask@15373542	*Kurask here have a chance of dropping crystal shards on death. This drop is guaranteed from king kurask.
+place	6258	Kurask Lair	-1	8	no	no	yes	1181,9196,0	yes	Kurask / King kurask	Slayer task/Kurask@15373542	*Kurasks are clumped tighter in this dungeon. *Requires 58 Sailing to dock on Laguna Aurorae for the first time. Docking is not required once the spirit tree on the island has been spoken to; it is significantly closer to the lair than the docking point.
+place	6259	Slayer Tower (top floor)	9	8	no	no	yes	3439,3542,2	yes	Gargoyle / Marble gargoyle / Dawn / Dusk	Slayer task/Gargoyles@15373395	* Running through the floors of the Slayer Tower takes the player past many other dangerous monsters, most notably banshees and aberrant spectres which will lower the player's stats without proper protection.
+place	6259	Slayer Tower (basement)	9	12	no	no	yes	3432,9937,3	yes	Gargoyle / Marble gargoyle / Dawn / Dusk	Slayer task/Gargoyles@15373395	* Gargoyles can only be killed here while on a Slayer task.
+place	6259	Slayer Tower (roof)	9	2	yes	no	no	1697,4575,0	yes	Gargoyle / Marble gargoyle / Dawn / Dusk	Slayer task/Gargoyles@15373395	* Only available after receiving a brittle key drop from regular gargoyles. The roof serves as a boss arena for the Grotesque Guardians. * For more information on fighting the Grotesque Guardians, see Grotesque Guardians/Strategies.
+place	6260	Fremennik Slayer Cave (ajr)	-1	13	no	no	yes	2761,10003,0	yes	Pyrefiend / Flaming pyrelord / Pyrelord / Infernal pyrelord	Slayer task/Pyrefiends@15366444	-
+place	6260	God Wars Dungeon	-1	4	yes	no	no	2863,5307,2 2864,5280,2	yes	Pyrefiend / Flaming pyrelord / Pyrelord / Infernal pyrelord	Slayer task/Pyrefiends@15366444	* Requires partial completion of Troll Stronghold. * Requires either 60 Strength or 60 Agility. * It is highly recommended to bring god-related protection to prevent monster aggression in the area. * A rope is required on the first visit.
+place	6260	Isle of Souls (bjp)	-1	10 Fiends, 3 Lords	no	yes	yes	2255,2961,0	yes	Pyrefiend / Flaming pyrelord / Pyrelord / Infernal pyrelord	Slayer task/Pyrefiends@15366444	* Closest pyrefiends to a teleport.
+place	6260	Sisterhood Sanctuary	-1	21 Fiends, 6 Lords	no	yes	no	3874,9766,1	yes	Pyrefiend / Flaming pyrelord / Pyrelord / Infernal pyrelord	Slayer task/Pyrefiends@15366444	* Priest in Peril for access to Morytania
+place	6260	Smoke Dungeon	-1	23	no	yes	no	3253,9363,0 3279,9377,0 3298,9379,0 3302,9350,0 3302,9398,0 3316,9352,0 3318,9403,0	yes	Pyrefiend / Flaming pyrelord / Pyrelord / Infernal pyrelord	Slayer task/Pyrefiends@15366444	* Must have started Desert Treasure I. * Players must wear a facemask, Slayer helmet, Slayer helmet (i) or Gas mask to protect from the smoke in this area.
+place	6260	Wilderness God Wars Dungeon	-1	2	yes	no	no	3039,10133,0	yes	Pyrefiend / Flaming pyrelord / Pyrelord / Infernal pyrelord	Slayer task/Pyrefiends@15366444	* Area is in the wilderness, you can be attacked by other players here. * Requires either 60 Strength or 60 Agility to enter. * It is highly recommended to bring god-related protection to prevent monster aggression in the area. * Chance to receive an Ecumenical key when killing monsters in this area.
+place	6261	Buccaneers' Laboratory	-1	?	yes	yes	yes	2092,10096,0	yes	Bloodveld / Insatiable Bloodveld / Mutated Bloodveld / Insatiable mutated Bloodveld / Reanimated bloodveld	Slayer task/Bloodveld@15344399	* Requires 76 Sailing to access the island. * The rowboat can be used to travel to Buccaneers' Haven from Pirates' Cove. * Since this area is multi-combat it is the best place to use a dwarf multicannon providing the highest Slayer experience per hour for this task. * The drops will cover the use of the dwarf multicannon. * A bank chest can be built on the island.
+place	6261	Catacombs of Kourend	1	?	yes	no	yes	1631,10032,0 1678,10073,0 1691,10016,0	yes	Bloodveld / Insatiable Bloodveld / Mutated Bloodveld / Insatiable mutated Bloodveld / Reanimated bloodveld	Slayer task/Bloodveld@15344399	* There are three groups of mutated bloodvelds, in the north-east, south-east, and south-west. * The north-east location has the biggest cluster (seven) of mutated bloodvelds. It is an ideal area for using a goading potion. * The south-east location has five and is also suitable for goading potions. * The south-west location has six, but it is polluted by wandering possessed pickaxes. However, players can use the south-west path to the hill giants as a safespot. When attacking from the safespot (see ), try and attack Bloodvelds to the east of the safespot so they aggro and then get stuck on the corner, allowing for easier AFK killing * Monsters here have access to the Catacombs drop table, with superior variants always dropping a piece of the dark totem.
+place	6261	Iorwerth Dungeon	42	?	no	yes	yes	3239,12433,0	yes	Bloodveld / Insatiable Bloodveld / Mutated Bloodveld / Insatiable mutated Bloodveld / Reanimated bloodveld	Slayer task/Bloodveld@15344399	* The mutated bloodveld section of the cave is split into two sections, both of which contain 6 bloodvelds and a safespot. * This section is very close to the entrance of the cave, meaning it is easy to leave and come back. * There is a 1/24 chance of receiving 3-5 crystal shards
+place	6261	God Wars Dungeon	10	?	yes	no	yes	2886,5323,2 2886,5359,2 2928,5356,2 2845,5283,2 2873,5299,2 2854,5355,2 2862,5336,2	yes	Bloodveld / Insatiable Bloodveld / Mutated Bloodveld / Insatiable mutated Bloodveld / Reanimated bloodveld	Slayer task/Bloodveld@15344399	* Both a Saradomin item and Zamorak item are required to use this safespot. * Rope (to access the dungeon itself for the first time) - Two more ropes will be needed if venturing into Saradomin's Encampment on the first visit. * The superior version will not spawn in this location.
+place	6261	Meiyerditch Laboratories	46	?	yes	yes	yes	3572,9741,0 3594,9742,0	yes	Bloodveld / Insatiable Bloodveld / Mutated Bloodveld / Insatiable mutated Bloodveld / Reanimated bloodveld	Slayer task/Bloodveld@15344399	* Since this area is multi-combat it is the best place to use a dwarf multicannon providing the highest Slayer experience per hour for this task. * The drops will cover the use of the dwarf multicannon. * This location is somewhat hard to reach unless using the abyss shortcut to the blood altar which carries very significant risk
+place	6261	Slayer Tower (floor 1)	9	?	no	no	yes	3417,3565,1	yes	Bloodveld / Insatiable Bloodveld / Mutated Bloodveld / Insatiable mutated Bloodveld / Reanimated bloodveld	Slayer task/Bloodveld@15344399	* The Morytania Achievement Diary offers up to 10% increased experience at this location
+place	6261	Slayer Tower (basement)	9	?	no	no	yes	3412,9935,3	yes	Bloodveld / Insatiable Bloodveld / Mutated Bloodveld / Insatiable mutated Bloodveld / Reanimated bloodveld	Slayer task/Bloodveld@15344399	* The Slayer ring can be used to teleport to the main entrance of the tower. * Fairy ring code CKS lands you in the west of Canifis, just south of the tower. * Since this area is only accessible to those on a Slayer task, it may be less busy.
+place	6261	Stronghold Slayer Cave	2	?	no	yes	yes	2453,9822,0 2485,9822,0	yes	Bloodveld / Insatiable Bloodveld / Mutated Bloodveld / Insatiable mutated Bloodveld / Reanimated bloodveld	Slayer task/Bloodveld@15344399	* Use a Slayer ring to teleport directly to the entrance by Nieve. * Use the Spirit tree to the Tree Gnome Stronghold and run south-west. * Use the necklace of passage to Teleport to 'Outpost' and then run north-east.
+place	6261	Wilderness God Wars Dungeon	10	?	yes	no	yes	3036,10139,0	yes	Bloodveld / Insatiable Bloodveld / Mutated Bloodveld / Insatiable mutated Bloodveld / Reanimated bloodveld	Slayer task/Bloodveld@15344399	* Using the Agility shortcut from Trollheim puts you much closer than running directly from Edgeville, but requires 64 Agility. * All monsters in the dungeon are aggressive to any player unless they have equipped at least one item that is devoted to their god. * The superior version will not spawn in this location.
+place	6262	Catacombs of Kourend	1	13	yes	no	yes	1713,10020,0	yes	Dust devil / Choke devil	Slayer task/Dust devils@15359366	*Multicombat area, dust devils here have access to the Catacombs of Kourend drop table.
+place	6262	Wilderness Slayer Cave	-1	9	yes	yes	yes	3439,10123,0	yes	Dust devil / Choke devil	Slayer task/Dust devils@15359366	*Multicombat area that additionally allows the use of a dwarf multicannon. *Located in levels 25-28 Wilderness; do not bring items you are unwilling to lose.
+place	6262	Smoke Dungeon	20	44	yes	?	yes	3184,9368,0 3229,9375,0 3245,9349,0 3259,9372,0 3261,9399,0	yes	Dust devil / Choke devil	Slayer task/Dust devils@15359366	*A multicombat, task only area can be found to the west, guarded by Dusty Aliv. He will not allow a dwarf multicannon in the area. The remaining locations are single-way combat and allow for a cannon.
+place	6263	Fremennik Slayer Dungeon	26	10	no	no	yes	2704,10028,0	yes	Jelly	Slayer task/Jellies@15347496	* Safespotting is possible by firing over the corner of the rocks in the west side of the room. * Safespotting is possible by firing over the rocks in the south side of the room near the entrance to the Turoths.
+place	6263	Catacombs of Kourend	1	18	yes	no	yes	1687,9998,0 1721,10050,0	yes	Warped Jelly	Slayer task/Jellies@15347496	*Safespotting is possible by firing over corners.
+place	6263	Wilderness Slayer Cave	-1	9	yes	yes	yes	3430,10104,0	yes	Jelly	Slayer task/Jellies@15347496	*Safespotting is possible by firing over corners.
+place	6263	Ruins of Tapoyauik	51	10	no	no	yes	1654,9654,0	yes	Chilled Jelly	Slayer task/Jellies@15347496	* Moonlight moths spawn in the dungeon, allowing players to save on prayer pots. * Can be safespotted by standing behind the smaller icicles found throughout their chamber.
+place	6263	Grimstone Dungeon	-1	10	no	no	yes	2900,10445,0 2921,10480,0	yes	Chilled Jelly	Slayer task/Jellies@15347496	* Can be safespotted between the two icicles to the west using Ranged or Magic.
+place	6264	Dorgesh-Kaan South Dungeon (ajq)	-1	?	?	?	?	2729,5223,0	yes	Rockslug	Slayer task@15373557	-
+place	6264	Fremennik Slayer Dungeon (ajr)	-1	?	?	?	?	2798,10018,0	yes	Rockslug	Slayer task@15373557	-
+place	6264	Lumbridge Swamp Caves	-1	?	?	?	?	3225,9577,0	yes	Rockslug	Slayer task@15373557	-
+place	6264	Tonali Cavern	-1	?	?	?	?	1322,9380,1	yes	Rockslug	Slayer task@15373557	-
+place	6264	Ynysdail Cavern	-1	?	?	?	?	2262,9905,0	yes	Rockslug	Slayer task@15373557	-
+place	6265	Slayer Tower (top floor)	9	11	no	no	yes	3443,3570,0	yes	Nechryael	Slayer task/Nechryael@15359113	-
+place	6265	Slayer Tower (basement)	9	12	no	no	yes	3413,9965,3	yes	Nechryael	Slayer task/Nechryael@15359113	*Can only be killed on a slayer task.
+place	6265	Catacombs of Kourend	1	14	yes	no	no	1704,10081,0	yes	Greater Nechryael	Slayer task/Nechryael@15359113	*Easily accessible with a portal attuned to Great Kourend or with a Xeric's Talisman.
+place	6265	Wilderness Slayer Cave	-1	8	yes	yes	no	3337,10107,0	yes	Greater Nechryael	Slayer task/Nechryael@15359113	*Can only be killed on a slayer task. *Dangerous multicombat area, popular with player-killers. Do not bring items that you are unwilling to lose.
+place	6265	Iorwerth Dungeon	42	16	no	yes	no	3223,12421,0 3225,12455,0	yes	Greater Nechryael	Slayer task/Nechryael@15359113	*Quickly accessed with a teleport crystal. *Requires completion of Song of the Elves.
+place	6265	Charred Dungeon	-1	11	yes	yes	yes	2700,8850,0 2713,8881,0	yes	Nechryael	Slayer task/Nechryael@15359113	*Requires level 60 Sailing to access.
+place	6266	Kalphite Lair	11	13 Workers, 7 Soldiers, 4 Guardians, 1 Queen	yes	yes	yes	3495,9501,2 3472,9516,2 3497,9476,2 3495,9489,0 3496,9502,0 3474,9496,0	yes	Kalphite Worker / Kalphite Soldier / Kalphite Guardian / Kalphite Queen	Slayer task/Kalphites@15344284	* All variants are found here, including the Kalphite Queen. * Two of the kalphite guardians spawn on the first floor, and two on the second floor with the Kalphite queen. These spawn slowly compared to those found in Kalphite Cave. * A rope needs to be used to access the lair if the player has not completed the Hard Desert Diary. A second rope is needed to access the Queen's lair.
+place	6266	Kalphite Cave	12	18 Workers, 20 Soldiers, 5 Guardians	yes	yes	yes	3278,9517,0 3316,9502,0 3279,9485,0	yes	Kalphite Worker / Kalphite Soldier / Kalphite Guardian / Kalphite Queen	Slayer task/Kalphites@15344284	* Slayer task-exclusive area containing the 3 normal varieties of kalphites.
+place	6267	Edgeville Dungeon (Wilderness)	-1	11	no	yes	yes	3123,9988,0	yes	Earth warrior	Slayer task/Earth warriors@15251008	*This area can only be accessed via the monkey bars, requiring level 15 Agility.
+place	6268	Zanaris	-1	?	?	?	?	2381,4425,0	yes	Otherworldly being	Slayer task@15373557	-
+place	6269	Iorwerth Camp	-1	6 Archers, 6 Warriors	no	yes	yes	2200,3249,0	yes	Iorwerth Archer / Elf Archer / Iorwerth Warrior / Elf Warrior / Mourner / Guard (Prifddinas) / Reanimated elf	Slayer task/Elves@15357159	* Both Iorwerth Archers and Iorwerth Warriors are found at the Iorwerth Camp. * Iorwerth Warriors can be safespotted using the stools spread throughout the camp. Make sure there is at least two tiles inbetween you and the target, since their halberds have a melee range of two tiles.
+place	6269	Iorwerth Dungeon	-1	13	no	yes	yes	3187,12407,0	yes	Iorwerth Archer / Elf Archer / Iorwerth Warrior / Elf Warrior / Mourner / Guard (Prifddinas) / Reanimated elf	Slayer task/Elves@15357159	* Requires completion of Song of the Elves. * Only contains Iorwerth Warriors. *Use the spaces around fabric panels in the west of the room to trap the warriors north/south of the player.
+place	6269	Lletya	-1	1 Archer, 2 Warriors	no	yes	yes	2329,3170,0 2345,3175,0	yes	Iorwerth Archer / Elf Archer / Iorwerth Warrior / Elf Warrior / Mourner / Guard (Prifddinas) / Reanimated elf	Slayer task/Elves@15357159	* Both Elf Archers and Elf Warriors are found around Lletya. * Use the bench near the entrance to safe spot Elf Warriors. You can also use the poles in the village to trap the warrior. * Use the wall closest to Arianwyn facing North for the Melee Elf.
+place	6269	Lletya (upstairs)	-1	1 Archer	no	yes	no	2336,3167,1	yes	Iorwerth Archer / Elf Archer / Iorwerth Warrior / Elf Warrior / Mourner / Guard (Prifddinas) / Reanimated elf	Slayer task/Elves@15357159	-
+place	6269	Mourner Headquarters (downstairs)	-1	4	no	no	yes	2041,4638,0	yes	Iorwerth Archer / Elf Archer / Iorwerth Warrior / Elf Warrior / Mourner / Guard (Prifddinas) / Reanimated elf	Slayer task/Elves@15357159	* Only available after starting Mourning's End Part I and until the Ardougne Revolution during Song of the Elves. * Mourner Gear must be equipped at all times to access this area unless you have completed Mourning's End Part II, after which you can use the Dark Beast teleport of the Slayer ring
+place	6269	Prifddinas South Gate	-1	2	no	yes	yes	3261,6026,0	yes	Iorwerth Archer / Elf Archer / Iorwerth Warrior / Elf Warrior / Mourner / Guard (Prifddinas) / Reanimated elf	Slayer task/Elves@15357159	* Both are safespottable by attacking one from outside their wander radius and pushing them against the gate.
+place	6269	Prifddinas East Gate	-1	2	no	yes	yes	3318,6082,0	yes	Iorwerth Archer / Elf Archer / Iorwerth Warrior / Elf Warrior / Mourner / Guard (Prifddinas) / Reanimated elf	Slayer task/Elves@15357159	* Close to a bank. * The south guard is safespottable by attacking from outside their wander radius and pushing them against the gate.
+place	6269	Prifddinas North Gate	-1	2	no	yes	yes	3261,6133,0	yes	Iorwerth Archer / Elf Archer / Iorwerth Warrior / Elf Warrior / Mourner / Guard (Prifddinas) / Reanimated elf	Slayer task/Elves@15357159	* Close to a bank, altar, and Spirit tree. * Both are safespottable by luring one into the trees by Iwan and then attacking from the south outside their wander radius.
+place	6269	Prifddinas West Gate	-1	2	no	yes	yes	3210,6082,0	yes	Iorwerth Archer / Elf Archer / Iorwerth Warrior / Elf Warrior / Mourner / Guard (Prifddinas) / Reanimated elf	Slayer task/Elves@15357159	* Close to a house portal. * The north guard is safespottable by attacking from outside their wander radius and pushing them against the gate.
+place	6269	Tower of Voices floor 0	-1	4	no	yes	yes	3263,6099,0 3248,6082,0 3281,6082,0 3264,6066,0	yes	Iorwerth Archer / Elf Archer / Iorwerth Warrior / Elf Warrior / Mourner / Guard (Prifddinas) / Reanimated elf	Slayer task/Elves@15357159	* One is found at each entrance to the tower.
+place	6269	Tower of Voices floor 1	-1	8	no	yes	no	3252,6071,2 3233,6052,2 3294,6113,2 3294,6052,2 3276,6070,2 3233,6113,2 3275,6094,2 3252,6094,2	yes	Iorwerth Archer / Elf Archer / Iorwerth Warrior / Elf Warrior / Mourner / Guard (Prifddinas) / Reanimated elf	Slayer task/Elves@15357159	* Found on the walkways between the towers of Prifddinas. * Great distances between each.
+place	6269	Prifddinas market place	-1	3	no	yes	yes	3275,6098,0	yes	Iorwerth Archer / Elf Archer / Iorwerth Warrior / Elf Warrior / Mourner / Guard (Prifddinas) / Reanimated elf	Slayer task/Elves@15357159	* Safespottable by shooting over Glenda or spice stall bush.
+place	6270	Deep Wilderness Dungeon	-1	4	no	yes	yes	3034,10310,0	yes	Dwarf / Guard (dwarf) / Black Guard / Dwarf gang member / Chaos dwarf / Black Guard Berserker	Slayer task/Dwarves@15373748	* Wilderness
+place	6270	Dwarven Mine	-1	39	no	no	yes	2967,9813,0 3017,9819,0 3048,9823,0	yes	Dwarf / Guard (dwarf) / Black Guard / Dwarf gang member / Chaos dwarf / Black Guard Berserker	Slayer task/Dwarves@15373748	* 36 Dwarves, all Dwarf gang members
+place	6270	Dwarven Mine entrance (Ice Mountain)	-1	3	no	no	yes	3018,3456,0	yes	Dwarf / Guard (dwarf) / Black Guard / Dwarf gang member / Chaos dwarf / Black Guard Berserker	Slayer task/Dwarves@15373748	*
+place	6270	Ice Mountain	-1	18	no	no	yes	3016,3448,0	yes	Dwarf / Guard (dwarf) / Black Guard / Dwarf gang member / Chaos dwarf / Black Guard Berserker	Slayer task/Dwarves@15373748	* Dwarves and Black Guard
+place	6270	Falador Mining Guild (floor 1)	-1	2	no	yes	yes	3010,3341,1	yes	Dwarf / Guard (dwarf) / Black Guard / Dwarf gang member / Chaos dwarf / Black Guard Berserker	Slayer task/Dwarves@15373748	*
+place	6270	Falador near the Mining Guild ladders	-1	3	no	no	yes	3012,3337,0 3025,3347,0	yes	Dwarf / Guard (dwarf) / Black Guard / Dwarf gang member / Chaos dwarf / Black Guard Berserker	Slayer task/Dwarves@15373748	*
+place	6270	Keldagrim (upstairs in the building west of the bank)	-1	1	no	yes	yes	2827,10212,1	yes	Dwarf / Guard (dwarf) / Black Guard / Dwarf gang member / Chaos dwarf / Black Guard Berserker	Slayer task/Dwarves@15373748	* Black Guard Beserker
+place	6270	Keldagrim	-1	17	no	yes	yes	2822,10212,0 2826,10152,0 2847,10190,0 2866,10126,0 2854,10164,0 2891,10199,0 2890,10224,0	yes	Dwarf / Guard (dwarf) / Black Guard / Dwarf gang member / Chaos dwarf / Black Guard Berserker	Slayer task/Dwarves@15373748	* Dwarves and Black Guard
+place	6270	Lovakengj	-1	21	yes	yes	yes	1527,3831,0 1520,3810,0 1487,3810,0 1537,3721,0 1480,3767,0 1506,3760,0 1554,3796,0 1485,3832,0	yes	Dwarf / Guard (dwarf) / Black Guard / Dwarf gang member / Chaos dwarf / Black Guard Berserker	Slayer task/Dwarves@15373748	* South from Xeric's Inferno. * Look for the furnace building.
+place	6270	Lovakengj (floor 1 Buildings)	-1	8	yes	yes	yes	1429,3796,1 1507,3755,1 1511,3768,1 1555,3785,1 1517,3834,1 1444,3784,1	yes	Dwarf / Guard (dwarf) / Black Guard / Dwarf gang member / Chaos dwarf / Black Guard Berserker	Slayer task/Dwarves@15373748	*
+place	6270	North of Wilderness Bandit Camp	-1	4	no	yes	yes	3019,3760,0	yes	Dwarf / Guard (dwarf) / Black Guard / Dwarf gang member / Chaos dwarf / Black Guard Berserker	Slayer task/Dwarves@15373748	* Wilderness * Chaos druids
+place	6270	South-east of Lava Dragon Isle	-1	3	no	yes	yes	3241,3788,0	yes	Dwarf / Guard (dwarf) / Black Guard / Dwarf gang member / Chaos dwarf / Black Guard Berserker	Slayer task/Dwarves@15373748	* Wilderness * Chaos druids
+place	6270	South of Yanille	-1	4	no	yes	yes	2605,3057,0	yes	Dwarf / Guard (dwarf) / Black Guard / Dwarf gang member / Chaos dwarf / Black Guard Berserker	Slayer task/Dwarves@15373748	*
+place	6270	South of Coal Trucks	-1	4	no	yes	yes	2560,3456,0 2554,3472,0	yes	Dwarf / Guard (dwarf) / Black Guard / Dwarf gang member / Chaos dwarf / Black Guard Berserker	Slayer task/Dwarves@15373748	*
+place	6270	Taverley Dungeon	-1	8	no	yes	yes	2932,9784,0 2922,9757,0 2930,9699,0	yes	Dwarf / Guard (dwarf) / Black Guard / Dwarf gang member / Chaos dwarf / Black Guard Berserker	Slayer task/Dwarves@15373748	* Dwarves and Chaos Druids
+place	6270	White Wolf Mountain tunnels	-1	8	no	yes	yes	2862,9877,0	yes	Dwarf / Guard (dwarf) / Black Guard / Dwarf gang member / Chaos dwarf / Black Guard Berserker	Slayer task/Dwarves@15373748	*
+place	6271	Brimhaven Dungeon (task only area)	-1	5 bronze, 9 iron, 9 steel	no	yes	no	2666,9452,0	yes	Iron dragon	Slayer task/Metal dragons@15332692	* An axe is needed if entering via the north entrance, requiring Woodcutting 10. A blessed axe will not work. * 875 coins entry for each time, a one-time fee of 1,000,000 coins or alternate entry of one-off fee of 5000 trading sticks. * Fairy ring code CKR and then north to the dungeon. * Completion of the Elite Karamja Diary allows for players to toggle noted bar drops by talking to Pirate Jackie the Fruit in Brimhaven.
+place	6271	Brimhaven Dungeon	-1	3 bronze, 13 iron, 4 steel	no	yes	no	2724,9435,0 2714,9460,0	yes	Iron dragon	Slayer task/Metal dragons@15332692	* An axe is needed if entering via the north entrance, requiring Woodcutting 10. A blessed axe will not work. * 875 coins entry for each time, a one-time fee of 1,000,000 coins or alternate entry of one-off fee of 5000 trading sticks. * Fairy ring code CKR and then north to the dungeon. * Completion of the Elite Karamja Diary allows for players to toggle noted bar drops by talking to Pirate Jackie the Fruit in Brimhaven.
+place	6271	Catacombs of Kourend	-1	5 bronze, 2 iron, 2 steel	yes	no	no	1655,10085,0	yes	Iron dragon	Slayer task/Metal dragons@15332692	* Monsters in the Catacombs of Kourend are stronger than their normal counterparts. * Drops ancient shards and dark totem pieces. * The fastest way to the main entrance is through Xeric's talisman with the "Xeric's Heart" function, which teleports the player outside the statue of King Rada I, or the Kourend Castle Teleport spell, which requires the completion of the Client of Kourend quest to use.
+place	6271	Isle of Souls Dungeon	-1	3 iron	no	yes	no	2153,9290,0	yes	Iron dragon	Slayer task/Metal dragons@15332692	-
+place	6271	Ancient Cavern (upper level)	-1	7 mithril	no	no	no	1762,5338,1 1780,5339,1 1781,5356,1	yes	Mithril dragon	Slayer task/Metal dragons@15332692	* The cavern can only be accessed after the player has completed the first part of Barbarian Firemaking, requiring Firemaking 35. * To quickly reach the dragons, teleport to the Barbarian Outpost and run south.
+place	6271	Lithkren Vault	-1	5 adamant, 5 rune	no	yes	no	1547,5073,0 1581,5072,0	yes	Adamant dragon / Rune dragon	Slayer task/Metal dragons@15332692	* Only accessible after the completion of Dragon Slayer II.
+place	6272	Brimhaven Dungeon	-1	?	?	?	?	2724,9435,0 2714,9460,0	yes	Iron dragon	Slayer task@15373557	-
+place	6272	Brimhaven Dungeon (Task only area)	-1	?	?	?	?	2666,9452,0	yes	Iron dragon	Slayer task@15373557	-
+place	6272	Catacombs of Kourend	-1	?	?	?	?	1655,10085,0	yes	Iron dragon	Slayer task@15373557	-
+place	6272	Isle of Souls Dungeon	-1	?	?	?	?	2153,9290,0	yes	Iron dragon	Slayer task@15373557	-
+place	6273	Brimhaven Dungeon	-1	?	?	?	?	2712,9435,0 2723,9458,0 2726,9445,0	yes	Steel dragon	Slayer task@15373557	-
+place	6273	Brimhaven Dungeon (Task only area)	-1	?	?	?	?	2646,9424,0	yes	Steel dragon	Slayer task@15373557	-
+place	6273	Catacombs of Kourend	-1	?	?	?	?	1607,10057,0	yes	Steel dragon	Slayer task@15373557	-
+place	6274	Lumbridge Swamp Caves	-1	?	?	?	?	3160,9546,0 3161,9573,0 3197,9553,0 3197,9571,0 3214,9559,0 3215,9587,0	yes	Wall beast	Slayer task/Wall beast@15274316	-
+place	6275	Dorgesh-Kaan South Dungeon (ajq)	-1	?	?	?	?	2698,5236,0 2728,5236,0	yes	Cave slime	Slayer task@15373557	-
+place	6275	Lumbridge Swamp Caves	-1	?	?	?	?	3150,9555,0 3164,9591,0 3181,9546,0 3207,9554,0 3210,9570,0 3246,9573,0	yes	Cave slime	Slayer task@15373557	-
+place	6276	Dorgesh-Kaan South Dungeon	-1	?	?	?	?	2712,5233,0 2747,5217,0 2697,5221,0 2738,5193,0	yes	Cave bug	Slayer task@15373557	-
+place	6276	Lumbridge Swamp Caves	-1	?	?	?	?	3152,9576,0 3156,9558,0 3178,9558,0 3220,9575,0	yes	Cave bug	Slayer task@15373557	-
+place	6277	Sepulchre of Death in Stronghold of Security	-1	4	no	yes	yes	2357,5213,0	yes	Shade	Slayer task/Shades@15355228	Can be safespotted using a skeleton found on the eastern side in the middle northern part of the room
+place	6277	Catacombs of Kourend	-1	6	yes	no	yes	1605,10032,0	yes	Shade	Slayer task/Shades@15355228	Can be safespotted by using a corner in the area just south of the Steel Dragons. Shades can also get caught on several corner tiles found within their area, allowing for an effective safespot while avoiding the Steel Dragons.
+place	6277	Mort'ton	-1	25	no	yes	yes	3493,3293,0	yes	Loar Shade	Slayer task/Shades@15355228	Easiest and fastest to kill. Priest in Peril is required to access Mort'ton. Cannon placement is limited, but it is possible to set one up along the eastern boundary of Mort'ton.
+place	6277	Shade Catacombs	-1	12 Phrin, 16 Riyl, 29 Asyn, 8 Fiyr, 11 Urium	no	yes	yes	3486,9698,0	yes	Urium Shade	Slayer task/Shades@15355228	Keys required to access certain parts of dungeon (see Shade Catacombs)
+place	6278	Along the River Elid	-1	?	?	?	?	3352,2934,0 3301,2920,0 3268,2854,0	yes	Crocodile	Slayer task@15373557	-
+place	6278	Near the Ruins of Unkah	-1	?	?	?	?	3190,2825,0	yes	Crocodile	Slayer task@15373557	-
+place	6278	Near the Ruins of Ullek	-1	?	?	?	?	3421,2772,0	yes	Crocodile	Slayer task@15373557	-
+place	6279	Iorwerth Dungeon	42	10	no	yes	no	3161,12422,0 3226,12393,0	yes	Dark beast	Slayer task/Dark beast@15357079	* Dark beasts killed here have a chance to drop crystal shards
+place	6279	Mourner Tunnels	28	19	no	yes	no	1995,4650,0 2028,4660,0	yes	Dark beast	Slayer task/Dark beast@15357079	* Easily accessed with a Slayer ring (eternal)
+place	6280	Chaos Druid Tower Dungeon	-1	7	no	yes	yes	2585,9738,0	yes	Ogre	Slayer task/Ogres@15320380	This location is fairly unpopulated.
+place	6280	Clock Tower Dungeon	-1	3	no	yes	yes	2585,9608,0	yes	Ogre	Slayer task/Ogres@15320380	-
+place	6280	Combat Training Camp	-1	8	no	yes	yes	2526,3373,0	yes	Ogre	Slayer task/Ogres@15320380	Requires completion of Biohazard.
+place	6280	Corsair Cove Dungeon	-1	32	no	yes	yes	2015,8980,1 1964,9034,1 1971,9073,1	yes	Ogress Shaman	Slayer task/Ogres@15320380	The entrance is a commonly used safespot, so expect to not use it. Ogress shamans offer a unique cosmetic drop.
+place	6280	Feldip Hills	-1	18	no	yes	yes	2585,2977,0 2504,2965,0 2504,2984,0 2551,2955,0 2609,2990,0 2520,2973,0 2533,2977,0	yes	Ogre	Slayer task/Ogres@15320380	The ogres in this area are fairly spread out.
+place	6280	Gnome Maze	-1	1	no	yes	yes	2554,3192,0	yes	Ogre	Slayer task/Ogres@15320380	-
+place	6280	God Wars Dungeon	-1	3	yes	yes	no	2867,5313,2 2878,5332,2	yes	Ogre	Slayer task/Ogres@15320380	As this is a multicombat area, other monsters will attack you.
+place	6280	Gu'Tanoth	-1	18	no	yes	yes	2526,3039,0 2513,3026,0 2571,3027,0 2567,3046,0 2538,3013,0	yes	Ogre	Slayer task/Ogres@15320380	The ogres in this area are secluded in many areas.
+place	6280	Jiggig	-1	11	yes	no	yes	2468,3046,0	yes	Skogre	Slayer task/Ogres@15320380	Brutal arrows work best against zogres and skogres.
+place	6280	Jiggig Dungeon	-1	36	no	no	yes	2465,9454,2 2471,9422,2 2436,9465,2 2450,9460,2	yes	Zogre	Slayer task/Ogres@15320380	Brutal arrows work best against zogres and skogres.
+place	6280	Mudskipper Point	-1	3	no	yes	yes	2995,3107,0	yes	Mogre	Slayer task/Ogres@15320380	Fishing explosives are required to engage in combat with mogres.
+place	6280	Underground Pass (dungeon)	-1	2	no	yes	no	2387,9685,0	yes	Ogre	Slayer task/Ogres@15320380	Requires completion of Plague City.
+place	6280	West of Yanille	-1	14	no	yes	yes	2503,3095,0 2504,3133,0	yes	Ogre	Slayer task/Ogres@15320380	-
+place	6280	Wilderness God Wars Dungeon	-1	1	yes	yes	no	3054,10136,0	yes	Ogre	Slayer task/Ogres@15320380	As this is a multicombat area and in the Wilderness, other monsters and players will attack you.
+place	6280	Witchaven Dungeon	-1	6	no	yes	yes	2723,9707,0 2719,9668,0	yes	Ogre	Slayer task/Ogres@15320380	-
+place	6281	Kharidian Desert, north of Nardah ()	-1	31 Small, 7 Regular, 5 Giant	no	yes	yes	3414,3032,0 3424,3059,0 3443,3012,0 3443,3033,0 3386,3065,0 3384,3015,0	yes	Small Lizard / Desert Lizard / Lizard / Sulphur Lizard / Grimy Lizard	Slayer task/Lizards@15116877	*Ice coolers required, waterskins recommended.
+place	6281	Karuulm Slayer Dungeon (floor 1)	-1	?	no	yes	yes	1336,10182,1	yes	Small Lizard / Desert Lizard / Lizard / Sulphur Lizard / Grimy Lizard	Slayer task/Lizards@15116877	*Unless the elite Kourend & Kebos Diary has been completed, players must wear boots of stone, boots of brimstone, or granite boots to protect themselves from the extreme heat of the dungeon floor. **Granite boots have a melee Strength bonus, while boots of brimstone have Magic and Ranged accuracy bonuses. *Can be safespotted by standing by the corner of the entrance to their room. A cannon placed nearby can easily draw the lizards in.
+place	6281	Neypotzli - Streambound Cavern	-1	7 Grimy	no	yes	no	1494,9712,0	yes	Small Lizard / Desert Lizard / Lizard / Sulphur Lizard / Grimy Lizard	Slayer task/Lizards@15116877	* Easy access to free food and prayer/combat potions in the form of cooked bream/cooked moss lizard and moonlight potions, respectively.
+place	6282	Braindeath Island	-1	?	?	?	?	2146,5098,0	yes	Fever spider	Slayer task@15373557	-
+place	6283	North-east of Tai Bwo Wannai (dkp)	-1	?	?	?	?	2870,3112,0	yes	Harpie bug swarm	Slayer task@15373557	-
+place	6283	East of the Colossal Wyrm Remains	-1	?	?	?	?	1690,2907,0	yes	Harpie bug swarm	Slayer task@15373557	-
+place	6284	Miscellania and Etceteria dungeon	-1	?	?	?	?	2597,10275,0	yes	Sea snake hatchling / Sea snake young	Slayer task/Sea snakes@15124331	-
+place	6285	Asgarnian Ice Dungeon (AIQ)	33	?	?	?	?	3033,9554,0 3070,9566,0	yes	Skeletal Wyvern	Slayer task@15373557	-
+place	6286	Killerwatt plane	-1	?	?	?	?	2656,5210,2	yes	Killerwatt	Slayer task@15373557	-
+place	6287	East of the furnace in Zanaris	36	5	no	yes	no	2412,4470,0	yes	Zygomite	Slayer task/Zygomites@15161085	-
+place	6287	Zanaris near the Cosmic Altar	36	5	no	yes	yes	2419,4374,0	yes	Zygomite	Slayer task/Zygomites@15161085	-
+place	6287	Mushroom Forest on Fossil Island	32	27	no	yes	yes	3689,3857,0	yes	Ancient Zygomite	Slayer task/Zygomites@15161085	-
+place	6287	Stalker Den	-1	9	yes	yes	yes	1311,9790,0	yes	Ancient Zygomite	Slayer task/Zygomites@15161085	-
+place	6288	Ice Mountain	-1	10	no	yes	yes	3005,3480,0	yes	Icefiend	Slayer task/Icefiends@15336183	* Dwarf multicannon can only be placed on the westernmost tiles of the mountain
+place	6288	Ruins of Tapoyauik	-1	15	yes	no	yes	1690,9644,0	yes	Icefiend	Slayer task/Icefiends@15336183	* One of the fastest methods of obtaining moon key halves * Also drops Frozen tears
+place	6288	Ralos' Rise	-1	5	yes	yes	yes	1449,3209,0	yes	Icefiend	Slayer task/Icefiends@15336183	-
+place	6288	Mons Gratia	-1	5	no	yes	yes	1437,3260,0	yes	Icefiend	Slayer task/Icefiends@15336183	-
+place	6288	God Wars Dungeon	-1	5	yes	no	yes	2875,5296,2 2854,5304,2 2887,5312,2 2917,5274,0	yes	Icefiend	Slayer task/Icefiends@15336183	* Only safespottable by wearing the appropriate God equipment
+place	6288	Wilderness God Wars Dungeon	-1	2	yes	no	yes	3038,10130,0	yes	Icefiend	Slayer task/Icefiends@15336183	* Only safespottable by wearing the appropriate God equipment
+place	6289	Stronghold of Security: Vault of War	-1	?	?	?	?	1867,5188,0 1875,5218,0 1894,5243,0 1899,5198,0	yes	Minotaur	Slayer task@15373557	-
+place	6290	Stronghold of Security: Catacomb of Famine	-1	?	?	?	?	2032,5231,0 2041,5190,0 2006,5202,0 1989,5239,0	yes	Flesh Crawler	Slayer task@15373557	-
+place	6291	Stronghold of Security: Pit of Pestilence	-1	?	?	?	?	2148,5253,0 2161,5281,0 2166,5303,0 2120,5299,0	yes	Catablepon	Slayer task@15373557	-
+place	6292	Catacombs of Kourend	1	10	yes	no	no	1643,9996,0	yes	Ankou / Dark Ankou	Slayer task/Ankou@15372802	* Burying bones here returns Prayer points, so using a bonecrusher can help keep Prayer topped up during the task.
+place	6292	Stronghold of Security: Sepulchre of Death	31	32	no	yes	yes	2322,5227,0 2326,5201,0 2359,5241,0	yes	Ankou / Dark Ankou	Slayer task/Ankou@15372802	* This safespot can be found in the south-west room, by standing on the south side of the south-easternmost skeleton.
+place	6292	Stronghold Slayer Cave	2	8	no	yes	no	2475,9798,0	yes	Ankou / Dark Ankou	Slayer task/Ankou@15372802	* May be a crowded area due to its ease of access and allowance of a cannon.
+place	6292	Wilderness Slayer Cave	-1	16	yes	yes	no	3364,10074,0	yes	Ankou / Dark Ankou	Slayer task/Ankou@15372802	* Expect to see Pkers, lower your risk, and bring a one-click, 30 Wilderness teleport, such as a Royal seed pod.
+place	6292	The Forgotten Cemetery	-1	21	no	yes	yes	2977,3748,0	yes	Ankou / Dark Ankou	Slayer task/Ankou@15372802	* A safespot is located behind the south-west coffin, on the square between the bone spawns.
+place	6293	Mos Le'Harmless Cave	-1	70	no	yes	yes	3779,9438,0 3732,9390,0 3754,9385,0 3729,9349,0	yes	Cave horror	Slayer task/Cave horrors@15341650	-
+place	6294	Mos Le'Harmless	-1	?	?	?	?	3728,3021,0 3773,3042,0 3786,3037,0 3657,3010,0 3733,2957,0 3723,2986,0	yes	Jungle horror	Slayer task@15373557	-
+place	6295	North Lunar Isle	-1	16	yes	yes	yes	2133,3942,0	yes	Suqah	Slayer task/Suqah@15345834	-
+place	6295	South-east Lunar Isle	-1	4	yes	yes	yes	2132,3871,0 2141,3856,0 2120,3856,0	yes	Suqah	Slayer task/Suqah@15345834	Three Suqah close by in the south-west of the island only attack with melee
+place	6295	South-west Lunar Isle	-1	6	no	yes	yes	2106,3866,0 2070,3878,0	yes	Suqah (single-way combat)	Slayer task/Suqah@15345834	-
+place	6296	Brine Rat Cavern	35	7	no	yes	yes	2705,10133,0	yes	Brine rat	Slayer task/Brine rats@15372644	* Requires partial completion of Olaf's Quest to access the cavern. * A spade is required to access the cavern.
+place	6297	Sophanem Dungeon (cavern level)	-1	27 locust riders, 18 scarab mages	yes	yes	no	2400,4256,0	yes	Locust rider	Slayer task/Scabarites@15250975	-
+place	6297	Sophanem Dungeon (maze level)	-1	2 locust riders, 10 scarab mages	yes	no	no	2144,4392,2 2156,4357,2 2124,4404,2 2125,4388,2 2127,4370,2 2149,4411,2	yes	Locust rider	Slayer task/Scabarites@15250975	-
+place	6297	Uzer Mastaba	-1	19 small scarabs	no	no	no	3888,4721,0 3869,4687,0	yes	Small scarab	Slayer task/Scabarites@15250975	-
+place	6297	Scabaras Dungeon	-1	11	?	?	?	3408,9273,0 3412,9235,0 3412,9259,0 3433,9239,0 3435,9257,0 3436,9274,0 3437,9223,0	yes	Scarab Mage	Scarab Mage@15281960	-
+place	6298	Tarn's Lair	-1	?	?	?	?	3146,4648,0	yes	Terror dog	Slayer task@15373557	-
+place	6299	Dorgesh-Kaan South Dungeon	-1	10	no	yes	yes	2704,5215,0 2712,5193,0 2727,5234,0 2740,5209,0	yes	Molanisk	Slayer task/Molanisks@15358990	Entry to the dungeon requires completion of the Death to the Dorgeshuun quest.
+place	6300	Ancient Cavern	30	16	no	no	yes	1752,5351,0	yes	Waterfiend	Slayer task/Waterfiends@15364708	*Quickly accessible with a games necklace to Barbarian Assault *Because the waterfiend attack range is only 4 tiles, it is possible to safespot them by attacking across the river using Ranged or Magic or waiting out the aggression timer on the western side of the river and using the stalagmite across the river to the north-west. **It is possible to wait out the 10 min aggression timer by following these steps: # Running all the way to the safe spot by the pillar (see image below). # Running back up the stairs to the platform you land on when you jump into the whirlpool and waiting out the agression timer there. # Running back to the safespot.
+place	6300	Kraken Cove	13	15	no	no	no	2255,9989,0 2285,9988,0	yes	Waterfiend	Slayer task/Waterfiends@15364708	*Quickly access with fairy ring *Task Only
+place	6300	Iorwerth Dungeon	42	20	no	yes	no	3163,12454,0 3187,12451,0 3179,12475,0	yes	Waterfiend	Slayer task/Waterfiends@15364708	*Quickly accessed with a teleport crystal *Requires completion of Song of the Elves *Can drop crystal shards, slightly increasing profit
+place	6301	God Wars Dungeon	-1	30	yes	no	yes	2888,5295,2 2910,5299,2 2847,5340,2 2937,5351,2 2848,5274,2 2919,5289,1 2915,5267,0	yes	Spiritual ranger	Slayer task/Spiritual creatures@15287407	*Main (Armadyl, Bandos, Saradomin, Zamorak) variants.
+place	6301	God Wars Dungeon (2)	-1	9	yes	no	yes	2873,5218,0	yes	Spiritual ranger	Slayer task/Spiritual creatures@15287407	*Ancient Prison (Zaros) variant.
+place	6301	Wilderness God Wars Dungeon	-1	12	yes	no	yes	3024,10120,0 3045,10142,0	yes	Spiritual ranger	Slayer task/Spiritual creatures@15287407	*Main (Armadyl, Bandos, Saradomin, Zamorak) variants. *Located in moderate (level 28-32 Wilderness), do not bring items you are unwilling to lose
+place	6301	God Wars Dungeon (3)	-1	44	yes	no	yes	2896,5292,2 2842,5345,2 2827,5334,2 2844,5328,2 2890,5356,2 2918,5344,2 2837,5288,2 2858,5263,2 2921,5290,1 2913,5267,0	yes	Spiritual warrior	Slayer task/Spiritual creatures@15287407	*Main (Armadyl, Bandos, Saradomin, Zamorak) variants.
+place	6301	God Wars Dungeon (4)	-1	9	yes	no	yes	2873,5204,0	yes	Spiritual warrior	Slayer task/Spiritual creatures@15287407	*Ancient Prison (Zaros) variant.
+place	6301	Wilderness God Wars Dungeon (2)	-1	11	yes	no	yes	3022,10122,0 3039,10138,0	yes	Spiritual warrior	Slayer task/Spiritual creatures@15287407	*Main (Armadyl, Bandos, Saradomin, Zamorak) variants. *Located in moderate (level 28-32 Wilderness), do not bring items you are unwilling to lose
+place	6301	God Wars Dungeon (5)	-1	40	yes	no	yes	2897,5287,2 2848,5342,2 2830,5315,2 2887,5357,2 2902,5361,2 2919,5360,2 2924,5340,2 2830,5284,2 2837,5265,2 2854,5273,2 2867,5266,2 2924,5286,1 2910,5267,0	yes	Spiritual mage	Slayer task/Spiritual creatures@15287407	*Main (Armadyl, Bandos, Saradomin, Zamorak) variants.
+place	6301	God Wars Dungeon (6)	-1	5	yes	no	yes	2880,5213,0	yes	Spiritual mage	Slayer task/Spiritual creatures@15287407	*Ancient Prison (Zaros) variant.
+place	6301	Wilderness God Wars Dungeon (3)	-1	12	yes	no	yes	3040,10136,0	yes	Spiritual mage	Slayer task/Spiritual creatures@15287407	*Main (Armadyl, Bandos, Saradomin, Zamorak) variants. *Located in moderate (level 28-32 Wilderness), do not bring items you are unwilling to lose
+place	6302	Shayziens' Wall	-1	16	yes	no	no	1375,3567,0 1373,3526,0 1381,3503,0 1396,3496,0	yes	Lizardman	Slayer task/Lizardmen@15250962	-
+place	6302	Lizardman Canyon, west side	16	4	yes	yes	no	1447,3698,0	yes	Lizardman	Slayer task/Lizardmen@15250962	-
+place	6302	Lizardman Canyon, east side	16	34	yes	yes	no	1501,3702,0	yes	Lizardman	Slayer task/Lizardmen@15250962	-
+place	6302	Lizardman Settlement	18	4	no	no	no	1315,3543,0	yes	Lizardman	Slayer task/Lizardmen@15250962	-
+place	6302	Kebos Swamp	39	7	no	no	no	1285,3599,0 1292,3616,0 1294,3632,0 1314,3633,0	yes	Lizardman	Slayer task/Lizardmen@15250962	-
+place	6302	Battlefront	40	24	no	no	no	1355,3708,0	yes	Lizardman	Slayer task/Lizardmen@15250962	-
+place	6302	Molch	17	6	no	no	no	1285,3664,0 1318,3674,0	yes	Lizardman	Slayer task/Lizardmen@15250962	-
+place	6302	Shayziens' Wall (2)	-1	6	yes	no	no	1369,3527,0 1385,3502,0 1380,3574,0	yes	Lizardman brute	Slayer task/Lizardmen@15250962	-
+place	6302	Lizardman Canyon	16	28	yes	yes	no	1448,3701,0 1505,3706,0	yes	Lizardman brute	Slayer task/Lizardmen@15250962	-
+place	6302	Lizardman Settlement (2)	18	5	no	no	no	1317,3562,0 1340,3541,0	yes	Lizardman brute	Slayer task/Lizardmen@15250962	-
+place	6302	Kebos Swamp (2)	39	3	no	no	no	1318,3632,0 1298,3630,0	yes	Lizardman brute	Slayer task/Lizardmen@15250962	-
+place	6302	Battlefront (2)	40	14	no	no	no	1366,3713,0	yes	Lizardman brute	Slayer task/Lizardmen@15250962	-
+place	6302	Molch (2)	17	7	no	no	no	1329,3688,0 1282,3664,0	yes	Lizardman brute	Slayer task/Lizardmen@15250962	-
+place	6302	South of Xeric's Shrine	-1	5	no	no	no	1323,3596,0	yes	Lizardman brute	Slayer task/Lizardmen@15250962	-
+place	6302	Lizardman Canyon, west side (2)	16	3	yes	yes	no	1434,3711,0	yes	Lizardman shaman	Slayer task/Lizardmen@15250962	-
+place	6302	Lizardman Caves, underneath Lizardman Settlement	18	8	no	no	no	1286,9958,0 1324,9954,0	yes	Lizardman shaman	Slayer task/Lizardmen@15250962	*Slayer task only
+place	6302	Lizardman Temple, beneath Molch	17	6	no	no	no	1290,10098,0 1312,10094,0 1327,10094,0	yes	Lizardman shaman	Slayer task/Lizardmen@15250962	-
+place	6303	Magic axe hut (23 Thieving and lockpick required)	-1	?	?	?	?	3191,3959,0	yes	Magic axe	Slayer task@15373557	-
+place	6303	Taverley Dungeon	-1	?	?	?	?	2957,9780,0	yes	Magic axe	Slayer task@15373557	-
+place	6303	Catacombs of Kourend	-1	?	?	?	?	1649,10017,0 1639,10033,0	yes	Magic axe	Slayer task@15373557	-
+place	6304	Kraken Cove	13	?	?	?	?	2272,10007,0 2275,10031,0	yes	Cave kraken / Kraken	Slayer task/Cave krakens@15332650	-
+place	6305	Brimhaven Dungeon (task only area)	-1	5 bronze, 9 iron, 9 steel	no	yes	no	2666,9452,0	yes	Iron dragon	Slayer task/Metal dragons@15332692	* An axe is needed if entering via the north entrance, requiring Woodcutting 10. A blessed axe will not work. * 875 coins entry for each time, a one-time fee of 1,000,000 coins or alternate entry of one-off fee of 5000 trading sticks. * Fairy ring code CKR and then north to the dungeon. * Completion of the Elite Karamja Diary allows for players to toggle noted bar drops by talking to Pirate Jackie the Fruit in Brimhaven.
+place	6305	Brimhaven Dungeon	-1	3 bronze, 13 iron, 4 steel	no	yes	no	2724,9435,0 2714,9460,0	yes	Iron dragon	Slayer task/Metal dragons@15332692	* An axe is needed if entering via the north entrance, requiring Woodcutting 10. A blessed axe will not work. * 875 coins entry for each time, a one-time fee of 1,000,000 coins or alternate entry of one-off fee of 5000 trading sticks. * Fairy ring code CKR and then north to the dungeon. * Completion of the Elite Karamja Diary allows for players to toggle noted bar drops by talking to Pirate Jackie the Fruit in Brimhaven.
+place	6305	Catacombs of Kourend	-1	5 bronze, 2 iron, 2 steel	yes	no	no	1655,10085,0	yes	Iron dragon	Slayer task/Metal dragons@15332692	* Monsters in the Catacombs of Kourend are stronger than their normal counterparts. * Drops ancient shards and dark totem pieces. * The fastest way to the main entrance is through Xeric's talisman with the "Xeric's Heart" function, which teleports the player outside the statue of King Rada I, or the Kourend Castle Teleport spell, which requires the completion of the Client of Kourend quest to use.
+place	6305	Isle of Souls Dungeon	-1	3 iron	no	yes	no	2153,9290,0	yes	Iron dragon	Slayer task/Metal dragons@15332692	-
+place	6305	Ancient Cavern (upper level)	-1	7 mithril	no	no	no	1762,5338,1 1780,5339,1 1781,5356,1	yes	Mithril dragon	Slayer task/Metal dragons@15332692	* The cavern can only be accessed after the player has completed the first part of Barbarian Firemaking, requiring Firemaking 35. * To quickly reach the dragons, teleport to the Barbarian Outpost and run south.
+place	6305	Lithkren Vault	-1	5 adamant, 5 rune	no	yes	no	1547,5073,0 1581,5072,0	yes	Adamant dragon / Rune dragon	Slayer task/Metal dragons@15332692	* Only accessible after the completion of Dragon Slayer II.
+place	6306	God Wars Dungeon	10	36	yes	no	no	2855,5283,2	yes	Aviansie / Kree'arra / Flight Kilisa / Wingman Skree / Flockleader Geerin	Slayer task/Aviansie@15299787	*Aviansie are considered Armadylean followers.
+place	6306	Wilderness God Wars Dungeon	10	8	yes	no	no	3025,10152,0	yes	Aviansie / Kree'arra / Flight Kilisa / Wingman Skree / Flockleader Geerin	Slayer task/Aviansie@15299787	*Multicombat area and player killing in this area makes it a very dangerous location.
+place	6307	Smoke Devil Dungeon	19	36 Smoke devils, 1 Thermonuclear Smoke Devil	yes	yes	no	2391,9443,0	yes	Smoke devil	Slayer task/Smoke devils@15354583	*Only location. The area is task-only; 30 smoke devils in main room, 6 in room with boss variant. *For more information on fighting the Thermonuclear smoke devil, see Thermonuclear smoke devil/Strategies.
+place	6308	Mor Ul Rek	-1	?	?	?	?	2485,5134,0 2445,5169,0	yes	TzHaar-Hur / TzHaar-Mej (monster) / TzHaar-Ket	Slayer task/TzHaar@15374167	-
+place	6308	Mor Ul Rek (Ranged)	-1	?	?	?	?	2437,5128,0 2523,5149,0 2506,5134,0 2519,5125,0 2497,5093,0 2515,5083,0 2457,5158,0 2470,5165,0 2487,5171,0 2521,5162,0 2543,5132,0 2455,5116,0 2528,5097,0	yes	TzHaar-Xil	Slayer task/TzHaar@15374167	-
+place	6308	Mor Ul Rek (Melee)	-1	?	?	?	?	2436,5171,0 2450,5147,0 2480,5132,0 2500,5160,0 2474,5086,0 2508,5139,0 2529,5133,0 2510,5108,0 2527,5099,0 2455,5116,0	yes	TzHaar-Xil	Slayer task/TzHaar@15374167	-
+place	6312	South-east of Ferox Enclave	-1	?	?	?	?	3171,3594,0	yes	Mammoth	Slayer task@15373557	-
+place	6313	Rogues' Castle (floor 0)	-1	?	?	?	?	3285,3933,0	yes	Rogue	Slayer task@15373557	-
+place	6313	Rogues' Castle (floor 1)	-1	?	?	?	?	3288,3931,1	yes	Rogue	Slayer task@15373557	-
+place	6313	Rogues' Castle (floor 2)	-1	?	?	?	?	3283,3936,2 3290,3931,0	yes	Rogue	Slayer task@15373557	-
+place	6313	Rogues' Castle (floor 3)	-1	?	?	?	?	3281,3934,3	yes	Rogue	Slayer task@15373557	-
+place	6313	South-west of Mage Arena	-1	?	?	?	?	3076,3916,0	yes	Rogue	Slayer task@15373557	-
+place	6314	East of Chaos Temple (Wilderness)	-1	?	?	?	?	3299,3586,0 3305,3614,0 3306,3631,0	yes	Ent	Slayer task@15373557	-
+place	6314	North of Chaos Temple (Wilderness)	-1	?	?	?	?	3211,3690,0 3202,3669,0 3231,3702,0 3223,3671,0	yes	Ent	Slayer task@15373557	-
+place	6314	Woodcutting Guild Ent Dungeon	-1	?	?	?	?	1571,9883,0 1590,9863,0	yes	Ent	Slayer task@15373557	-
+place	6315	Bandit Camp (Wilderness)	-1	16	yes	yes	no	3032,3695,0 3038,3662,0	yes	Bandit	Slayer task/Bandits@15372765	This location is well populated.
+place	6315	Wilderness Slayer Cave	-1	1	yes	yes	no	3430,10070,0	yes	Bandit	Slayer task/Bandits@15372765	Not recommended.
+place	6316	Dark Warriors' Fortress	-1	?	?	?	?	3028,3632,0	yes	Dark warrior	Slayer task@15373557	-
+place	6316	Dark Warriors' Fortress (floor 1)	-1	?	?	?	?	3029,3637,1	yes	Dark warrior	Slayer task@15373557	-
+place	6316	South of Shayzien	-1	?	?	?	?	1478,3534,0	yes	Dark warrior	Slayer task@15373557	-
+place	6316	Woods between Lovakengj and Arceuus	-1	?	?	?	?	1593,3759,0	yes	Dark warrior	Slayer task@15373557	-
+place	6317	Lava Dragon Isle	-1	?	?	?	?	3213,3819,0 3205,3834,0 3190,3834,0 3187,3812,0	yes	Lava dragon	Slayer task@15373557	-
+place	6318	Wyvern Cave, east of Museum Camp	32	* 4 Spitting Wyvern * 4 Taloned Wyvern * 4 Long-tailed Wyvern * 2 Ancient Wyvern	no	no	no	3746,3779,0	yes	Spitting Wyvern / Taloned Wyvern / Long-tailed Wyvern / Ancient Wyvern	Slayer task/Fossil Island wyverns@15365203	-
+place	6318	Task-only Wyvern Cave, inside the Mushroom Forest	32	* 4 Spitting Wyvern * 4 Taloned Wyvern * 4 Long-tailed Wyvern * 3 Ancient Wyvern	no	no	no	3676,3856,0	yes	Spitting Wyvern / Taloned Wyvern / Long-tailed Wyvern / Ancient Wyvern	Slayer task/Fossil Island wyverns@15365203	* Requires a Fossil Island Wyverns slayer task
+place	6319	Revenant Caves	-1	?	?	?	?	3212,10196,0 3197,10070,0 3169,10158,0 3184,10151,0 3248,10152,0 3152,10112,0 3169,10115,0 3179,10201,0 3216,10128,0 3230,10133,0 3207,10093,0 3221,10095,0	yes	Revenant imp / Revenant pyrefiend / Revenant demon / Revenant ork	Slayer task@15373557	-
+place	6319	Revenant Cave	-1	?	?	?	?	3221,10065,0 3240,10096,0 3167,10195,0 3240,10160,0 3249,10175,0 3200,10166,0 3214,10164,0 3209,10216,0 3228,10221,0 3230,10201,0 3244,10198,0	yes	Revenant goblin / Revenant hobgoblin / Revenant cyclops / Revenant hellhound / Revenant dark beast / Revenant knight / Revenant dragon	Slayer task@15373557	-
+place	6320	Lithkren Vault	-1	?	?	?	?	1547,5073,0	yes	Adamant dragon	Slayer task@15373557	-
+place	6321	Lithkren Vault	-1	?	?	?	?	1581,5072,0	yes	Rune dragon	Slayer task@15373557	-
+place	6322	Brimhaven Dungeon (task only area)	5	5 bronze, 9 iron, 9 steel	no	yes	no	2666,9452,0	yes	Iron dragon	Slayer task/Metal dragons@15332692	* An axe is needed if entering via the north entrance, requiring Woodcutting 10. A blessed axe will not work. * 875 coins entry for each time, a one-time fee of 1,000,000 coins or alternate entry of one-off fee of 5000 trading sticks. * Fairy ring code CKR and then north to the dungeon. * Completion of the Elite Karamja Diary allows for players to toggle noted bar drops by talking to Pirate Jackie the Fruit in Brimhaven.
+place	6322	Brimhaven Dungeon	5	3 bronze, 13 iron, 4 steel	no	yes	no	2724,9435,0 2714,9460,0	yes	Iron dragon	Slayer task/Metal dragons@15332692	* An axe is needed if entering via the north entrance, requiring Woodcutting 10. A blessed axe will not work. * 875 coins entry for each time, a one-time fee of 1,000,000 coins or alternate entry of one-off fee of 5000 trading sticks. * Fairy ring code CKR and then north to the dungeon. * Completion of the Elite Karamja Diary allows for players to toggle noted bar drops by talking to Pirate Jackie the Fruit in Brimhaven.
+place	6322	Catacombs of Kourend	1	5 bronze, 2 iron, 2 steel	yes	no	no	1655,10085,0	yes	Iron dragon	Slayer task/Metal dragons@15332692	* Monsters in the Catacombs of Kourend are stronger than their normal counterparts. * Drops ancient shards and dark totem pieces. * The fastest way to the main entrance is through Xeric's talisman with the "Xeric's Heart" function, which teleports the player outside the statue of King Rada I, or the Kourend Castle Teleport spell, which requires the completion of the Client of Kourend quest to use.
+place	6322	Isle of Souls Dungeon	47	3 iron	no	yes	no	2153,9290,0	yes	Iron dragon	Slayer task/Metal dragons@15332692	-
+place	6322	Ancient Cavern (upper level)	-1	7 mithril	no	no	no	1762,5338,1 1780,5339,1 1781,5356,1	yes	Mithril dragon	Slayer task/Metal dragons@15332692	* The cavern can only be accessed after the player has completed the first part of Barbarian Firemaking, requiring Firemaking 35. * To quickly reach the dragons, teleport to the Barbarian Outpost and run south.
+place	6322	Lithkren Vault	29	5 adamant, 5 rune	no	yes	no	1547,5073,0 1581,5072,0	yes	Adamant dragon / Rune dragon	Slayer task/Metal dragons@15332692	* Only accessible after the completion of Dragon Slayer II.
+place	6323	Chaos Druid Tower	-1	?	?	?	?	2561,3357,0	yes	Chaos druid	Slayer task@15373557	-
+place	6323	Top of Slepe Church	-1	?	?	?	?	3738,3314,3	yes	Chaos druid	Slayer task@15373557	-
+place	6323	Edgeville Dungeon (Wilderness)	-1	?	?	?	?	3111,9936,0	yes	Chaos druid	Slayer task@15373557	-
+place	6323	Taverley Dungeon	-1	?	?	?	?	2932,9852,0	yes	Chaos druid	Slayer task@15373557	-
+place	6323	Yanille Agility Dungeon	-1	?	?	?	?	2614,9483,0 2614,9521,0	yes	Chaos druid	Slayer task@15373557	-
+place	6323	Chaos Temple (Wilderness)	-1	?	?	?	?	3239,3613,0	yes	Elder Chaos druid	Slayer task@15373557	-
+place	6324	Karuulm Slayer Dungeon	3	16 Wyrms	no	no	yes	1270,10186,0 1259,10154,0	yes	Wyrm	Slayer task/Wyrms@15372412	* Seven of the wyrms are in a task-only area just south of the main batch of nine wyrms. * Wyrms may be safespotted with Ranged in the task-only area; see image below.
+place	6324	Neypotzli	50	6 Wyrmlings	no	yes	yes	1367,9698,0	yes	Wyrmling	Slayer task/Wyrms@15372412	* Have half the Hitpoints and Defence of normal wyrms, making them faster to kill. * Easy access to free supplies in the form of cooked bream/cooked moss lizards and moonlight potions. * Only drops wyrmling bones.
+place	6324	Wyrmscraig	56	6 Wyrmlings	yes	yes	yes	2603,2200,0	yes	Wyrmling	Slayer task/Wyrms@15372412	*Requires partial completion of Fallen From Grace to access.
+place	6324	Wyrmscraig Cavern	56	5 Wyrms	no	yes	?	2614,8619,0	yes	Wyrm	Slayer task/Wyrms@15372412	*Requires partial completion of Fallen From Grace to access.
+place	6324	Wyrmscraig Cavern (2)	56	3 Lava strykewyrm	no	no	yes	2598,8583,0	yes	Lava Strykewyrm	Slayer task/Wyrms@15372412	* Requires partial completion of Fallen From Grace to access.
+place	6324	Charred Dungeon	54	12 Lava strykewyrm	no	no	yes	2719,8863,0 2733,8884,0	yes	Lava Strykewyrm	Slayer task/Wyrms@15372412	* Requires 60 Sailing to dock at Charred Island for access to the dungeon.
+place	6325	Karuulm Slayer Dungeon	3	?	?	?	?	1349,10236,1 1310,10239,1	yes	Drake	Slayer task/Drakes@15369249	-
+place	6326	Karuulm Slayer Dungeon	3	17	no	yes	no	1310,10235,0 1309,10266,0 1324,10267,0	yes	Hydra	Slayer task/Hydras@15317930	*Boots of brimstone or boots of stone are required to prevent constant damage from the dungeon floor unless the Elite Kourend & Kebos Diary is completed.
+place	6326	Karuulm Slayer Dungeon (Alchemical Hydra room)	3	1	no	no	no	1364,10265,0	yes	Alchemical Hydra	Slayer task/Hydras@15317930	* Boots of brimstone or boots of stone are required to prevent constant damage from the dungeon floor unless the Elite Kourend & Kebos Diary is completed. * The Alchemical Hydra can only be killed while on a Hydra task. * For more information on fighting the Alchemical Hydra, see Alchemical Hydra/Strategies.
+place	6327	Forthos Dungeon	-1	?	?	?	?	1838,9958,0	yes	Temple spider	Slayer task@15373557	-
+place	6328	Forthos Dungeon	-1	?	?	?	?	1808,9964,0 1847,9939,0 1799,9937,0	yes	Undead druid	Slayer task@15373557	-
+place	6329	Karuulm Slayer Dungeon (floor 1)	-1	?	?	?	?	1336,10182,1	yes	Sulphur lizard	Slayer task@15373557	-
+place	6330	Catacombs of Kourend	-1	?	?	?	?	1617,10091,0	yes	Brutal black dragon	Slayer task@15373557	-
+place	6332	Avium Savannah - southern coast	-1	?	?	?	?	1610,2896,0	yes	Sand crab	Slayer task@15373557	-
+place	6332	Crabclaw Caves	-1	?	?	?	?	1675,9826,0	yes	Sand crab	Slayer task@15373557	-
+place	6332	Crabclaw Isle	-1	?	?	?	?	1766,3427,0	yes	Sand crab	Slayer task@15373557	-
+place	6332	East of the Hosidius vinery	-1	?	?	?	?	1868,3555,0	yes	Sand crab	Slayer task@15373557	-
+place	6332	Hosidius - southern coast	-1	?	?	?	?	1831,3460,0 1764,3468,0 1690,3479,0	yes	Sand crab	Slayer task@15373557	-
+place	6332	Isle of Souls	-1	?	?	?	?	2278,2792,0	yes	Sand crab	Slayer task@15373557	-
+place	6332	Outer Fortis	-1	?	?	?	?	1794,3054,0	yes	Sand crab	Slayer task@15373557	-
+place	6332	Tear of the Soul	-1	?	?	?	?	2325,2777,0	yes	Sand crab	Slayer task@15373557	-
+place	6332	Wintumber Island	-1	?	?	?	?	2071,2603,0	yes	Sand crab	Slayer task@15373557	-
+place	6333	Mogre Camp	-1	?	?	?	?	2979,9525,0 2978,9518,1	yes	Crab	Slayer task/Crabs@15375313	-
+place	6333	Mushroom Forest	-1	?	?	?	?	3806,3755,0 3658,3875,0 3714,3881,0 3732,3848,0	yes	Ammonite Crab	Slayer task/Crabs@15375313	-
+place	6333	Fossil Island Volcano	-1	?	?	?	?	3806,3755,0	yes	Ammonite Crab	Slayer task/Crabs@15375313	-
+place	6333	Wyvern Cave - northern cave	-1	?	?	?	?	3603,10295,0 3637,10265,0	yes	Ammonite Crab	Slayer task/Crabs@15375313	-
+place	6333	Ruins of Tapoyauik bottom floor	-1	?	?	?	?	1704,9626,0	yes	Frost Crab	Slayer task/Crabs@15375313	-
+place	6333	Ruins of Tapoyauik middle floor	-1	?	?	?	?	1718,9610,1	yes	Frost Crab	Slayer task/Crabs@15375313	-
+place	6333	Catacombs of Kourend	-1	?	?	?	?	1711,9995,0	yes	King Sand Crab	Slayer task/Crabs@15375313	-
+place	6333	Crabclaw Caves	-1	?	?	?	?	1678,9823,0 1713,9840,0	yes	King Sand Crab / Sand Crab	Slayer task/Crabs@15375313	-
+place	6333	North of Rellekka	-1	?	?	?	?	2687,3724,0	yes	Rock Crab	Slayer task/Crabs@15375313	-
+place	6333	Waterbirth Island	-1	?	?	?	?	2529,3740,0 2521,3756,0 2531,3721,0	yes	Rock Crab	Slayer task/Crabs@15375313	-
+place	6333	West of Mount Quidamortem	-1	?	?	?	?	1203,3546,0	yes	Rock Crab	Slayer task/Crabs@15375313	-
+place	6333	Waterbirth Island Dungeon	-1	?	?	?	?	2456,10161,0	yes	Rock Crab	Slayer task/Crabs@15375313	-
+place	6333	Brine Rat Cavern	-1	?	?	?	?	2748,10166,0 2739,10153,0 2706,10159,0	yes	Rock Crab	Slayer task/Crabs@15375313	-
+place	6333	Charred Island	-1	?	?	?	?	2650,2411,0	yes	Rock Crab	Slayer task/Crabs@15375313	-
+place	6333	Waterbirth Island Dungeon sublevel 1	-1	?	?	?	?	2526,10163,0	yes	Giant Rock Crab	Slayer task/Crabs@15375313	-
+place	6333	Waterbirth Island Dungeon sublevel 2	-1	?	?	?	?	1810,4363,2	yes	Giant Rock Crab	Slayer task/Crabs@15375313	-
+place	6333	Waterbirth Island Dungeon sublevel 3	-1	?	?	?	?	1836,4403,3	yes	Giant Rock Crab	Slayer task/Crabs@15375313	-
+place	6333	Waterbirth Island Dungeon sublevel 5	-1	?	?	?	?	1879,4375,0 1905,4361,0	yes	Giant Rock Crab	Slayer task/Crabs@15375313	-
+place	6333	Tonali Cavern	-1	?	?	?	?	1324,9392,0	yes	Giant Rock Crab	Slayer task/Crabs@15375313	-
+place	6333	Avium Savannah - southern coast	-1	?	?	?	?	1610,2896,0	yes	Sand Crab	Slayer task/Crabs@15375313	-
+place	6333	Crabclaw Isle	-1	?	?	?	?	1766,3427,0	yes	Sand Crab	Slayer task/Crabs@15375313	-
+place	6333	East of the Hosidius vinery	-1	?	?	?	?	1868,3555,0	yes	Sand Crab	Slayer task/Crabs@15375313	-
+place	6333	Hosidius - southern coast	-1	?	?	?	?	1831,3460,0 1764,3468,0 1690,3479,0	yes	Sand Crab	Slayer task/Crabs@15375313	-
+place	6333	Isle of Souls	-1	?	?	?	?	2278,2792,0	yes	Sand Crab	Slayer task/Crabs@15375313	-
+place	6333	Outer Fortis	-1	?	?	?	?	1794,3054,0	yes	Sand Crab	Slayer task/Crabs@15375313	-
+place	6333	Tear of the Soul	-1	?	?	?	?	2325,2777,0	yes	Sand Crab	Slayer task/Crabs@15375313	-
+place	6333	Wintumber Island	-1	?	?	?	?	2071,2603,0	yes	Sand Crab	Slayer task/Crabs@15375313	-
+place	6333	Haunted Woods	-1	?	?	?	?	3690,3444,0 3637,3424,0 3594,3422,0 3594,3450,0	yes	Swamp Crab	Slayer task/Crabs@15375313	-
+place	6333	Slepe	-1	?	?	?	?	3752,3358,0	yes	Swamp Crab	Slayer task/Crabs@15375313	-
+place	6334	North-east of Bone Yard (Wilderness)	-1	?	?	?	?	3313,3769,0	yes	Black Knight	Slayer task@15373557	-
+place	6334	South of Draynor Village Bank	-1	?	?	?	?	3101,3220,0	yes	Black Knight	Slayer task@15373557	-
+place	6334	North of Varrock	-1	?	?	?	?	3226,3515,0	yes	Black Knight	Slayer task@15373557	-
+place	6334	Jolly Boar Inn	-1	?	?	?	?	3277,3505,0	yes	Black Knight	Slayer task@15373557	-
+place	6334	Black Knights' Fortress (floor 0)	-1	?	?	?	?	3027,3512,0	yes	Black Knight	Slayer task@15373557	-
+place	6334	Lava Maze (Wilderness)	-1	?	?	?	?	3042,3856,0	yes	Black Knight	Slayer task@15373557	-
+place	6334	Black Knights' Fortress (floor 1)	-1	?	?	?	?	3023,3512,1	yes	Black Knight	Slayer task@15373557	-
+place	6334	Black Knights' Fortress (floor 2)	-1	?	?	?	?	3023,3514,2	yes	Black Knight	Slayer task@15373557	-
+place	6334	Taverley Dungeon	-1	?	?	?	?	2905,9692,0 2939,9812,0	yes	Black Knight	Slayer task@15373557	-
+place	6335	Pirates' Hideout	-1	12	no	yes	no	3041,3953,0	yes	Pirate	Slayer task/Pirate@14972749	Requires a lockpick to enter
+place	6335	Chaos Temple (Wilderness)	-1	34	yes	yes	no	3237,3607,0	yes	Zombie pirate	Slayer task/Pirate@14972749	-
+place	6336	Sourhog Cave	-1	?	?	?	?	3173,9688,0	yes	Sourhog	Slayer task@15373557	-
+place	6337	Poison Waste Dungeon - main level tortoises	49	14	yes	yes	yes	1479,4317,1 1494,4323,1 1360,4235,1 1479,4249,1 1514,4253,1 1505,4282,1	yes	Warped Tortoise	Slayer task/Warped creatures@15360080	-
+place	6337	Poison Waste Dungeon - lower level tortoises	49	3	yes	yes	yes	1352,4235,0 1526,4249,0	yes	Warped Tortoise	Slayer task/Warped creatures@15360080	-
+place	6337	Poison Waste Dungeon - main level terrorbirds	49	33	yes	yes	?	1495,4264,1 1497,4335,1 1519,4302,1 1505,4232,1	yes	Warped Terrorbird	Slayer task/Warped creatures@15360080	-
+place	6337	Poison Waste Dungeon - lower level terrorbirds	49	3	yes	yes	?	1491,4279,0	yes	Warped Terrorbird	Slayer task/Warped creatures@15360080	-
+place	6338	Neypotzli	50	14	no	yes	yes	1355,9563,0 1375,9560,0	yes	Sulphur Nagua	Slayer task/Lesser Nagua@15343878	*Supplies can be made freely here, preventing the need to bring your own supplies.
+place	6338	Ruins of Tapoyauik	51	11 (normal), 1 boss	no	no	no	1638,9630,0	yes	Frost Nagua	Slayer task/Lesser Nagua@15343878	*Supplies cannot be made here, but moonlight moths can be found inside and captured to restore prayer. *Players can kill Amoxliatl as an alternative to frost Nagua for better profit.
+place	6338	Tonali Cavern - Southern Cavern (middle floor)	-1	8	?	?	?	1291,9415,1	yes	Earthen Nagua	Earthen Nagua@15355034	-
+place	6338	Tonali Cavern - Southern Cavern (bottom floor)	-1	9	?	?	?	1295,9370,0 1333,9378,0	yes	Earthen Nagua	Earthen Nagua@15355034	-
+place	6338	Tonali Cavern - Sun Chamber	-1	8	?	?	?	1326,9443,1	yes	Earthen Nagua	Earthen Nagua@15355034	-
+place	6339	Morytania Spider Cave main room	-1	22	yes	yes	no	3665,9826,0	yes	Araxyte	Slayer task/Araxytes@15371593	-
+place	6339	Morytania Spider Cave south-eastern room	-1	9	yes	yes	yes	3695,9821,0	yes	Araxyte	Slayer task/Araxytes@15371593	Safespots found along the eastern wall and south-eastern corner of the room
+place	6339	Morytania Spider Cave eastern room	-1	12	yes	yes	no	3700,9838,0	yes	Araxyte	Slayer task/Araxytes@15371593	-
+place	6339	Morytania Spider Cave northern room	-1	12	no	yes	yes	3679,9859,0	yes	Araxyte	Slayer task/Araxytes@15371593	Safespots have less reliable line of sight to araxytes than in the multicombat room; found in the easternmost corner of the room
+place	6339	Araxxor boss lair	-1	1	yes	no	no	3630,9813,0	yes	Araxyte	Slayer task/Araxytes@15371593	Araxxor's minions also spawn here; killing these awards experience but does not count towards the kill count on the slayer task
+place	6340	Stalker Den (single-combat)	-1	?	?	?	?	1324,9735,0 1333,9753,0 1297,9821,0 1329,9806,0	yes	Juvenile custodian stalker / Mature custodian stalker / Elder custodian stalker	Slayer task/Custodian stalker@15372314	-
+place	6340	Stalker Den (multicombat)	-1	?	?	?	?	1253,9741,0 1263,9767,0	yes	Juvenile custodian stalker / Mature custodian stalker / Elder custodian stalker	Slayer task/Custodian stalker@15372314	-
+place	7201	Apsul Hunting Ground	-1	7 Venators	no	no	no	2583,7760,0	yes	Venator	Slayer task/Venators@15327318	*More venator spawns are closer to the altar.
+place	7201	Virer Hunting Ground	-1	12 Venators	no	no	no	2511,7748,0	yes	Venator	Slayer task/Venators@15327318	*More venators are found here and is less crowded, however many spawns are further away from the altar.
+place	9414	Western gryphon dungeon	-1	18 gryphons	yes	yes	yes	3110,8871,0	yes	Gryphon	Slayer task/Gryphons@15341628	The south part of the dungeon is multicombat, the rest is single-way combat. Multicombat area is well suited for use of a Dwarf multicannon.
+place	9414	Eastern gryphon dungeon	-1	18 gryphons	yes	yes	yes	3233,8859,0	yes	Gryphon	Slayer task/Gryphons@15341628	Task-only. The south-west part of the dungeon is multicombat, the rest is single-way combat. The multicombat area features a centrally placed skeleton, which blocks line of sight to part of this section of the cave for cannons and other ranged attacks.
+place	9414	Shellbane Gryphon Cave	-1	1 shellbane gryphon	no	no	no	3179,8876,0	yes	Shellbane gryphon	Slayer task/Gryphons@15341628	Task-only boss.
+place	9415	Ynysdail Cavern	-1	?	?	?	?	2255,9846,0 2281,9867,0	yes	Aquanite	Slayer task/Aquanites@15354865	-
+place	9416	Grimstone Dungeon (DLP)	-1	?	?	?	?	2862,10458,0 2900,10465,0	yes	Frost dragon	Frost dragon@15357143	-
+icon	545	15291
+icon	6155	15293
+icon	6157	15292
+icon	6159	15294
+icon	6161	15288
+icon	6163	15295
+icon	6165	15298
+icon	6167	15296
+icon	6169	15307
+icon	6171	15306
+icon	6173	15308
+icon	6175	15286
+icon	6177	16476
+icon	6179	18275
+icon	6181	15310
+icon	6183	15302
+icon	6185	15683
+icon	6187	15300
+icon	6189	15299
+icon	6191	15313
+icon	6193	15312
+icon	6195	21751
+icon	6197	21993
+icon	6199	22747
+icon	6201	23496
+icon	6203	27591
+icon	6205	28249
+icon	6207	28251
+icon	6209	28247
+icon	6211	28253
+icon	6213	29837
+icon	6214	13450
+icon	6215	13447
+icon	6216	17197
+icon	6217	8135
+icon	6218	15439
+icon	6219	18163
+icon	6220	13459
+icon	6221	20875
+icon	6222	14299
+icon	6223	18162
+icon	6224	8131
+icon	6225	16918
+icon	6226	13462
+icon	6227	13474
+icon	6228	30625
+icon	6229	30623
+icon	6230	22375
+icon	6231	8136
+icon	6232	15887
+icon	6233	13477
+icon	6234	8133
+icon	6235	8132
+icon	6236	18162
+icon	6237	15994
+icon	6238	15995
+icon	6239	8134
+icon	6240	15997
+icon	6241	20022
+icon	6242	20025
+icon	6243	20028
+icon	6244	8137
+icon	6245	14150
+icon	6246	16502
+icon	6247	1549
+icon	6248	8141
+icon	6249	4143
+icon	6250	4134
+icon	6251	4135
+icon	6252	4133
+icon	6253	4140
+icon	6254	4144
+icon	6255	4149
+icon	6256	4139
+icon	6257	4137
+icon	6258	4146
+icon	6259	4147
+icon	6260	4138
+icon	6261	4141
+icon	6262	4145
+icon	6263	4142
+icon	6264	4136
+icon	6265	4148
+icon	6266	8139
+icon	6267	15851
+icon	6268	16480
+icon	6269	6105
+icon	6270	17819
+icon	6271	8142
+icon	6272	8142
+icon	6273	8142
+icon	6274	4519
+icon	6275	4520
+icon	6276	4521
+icon	6277	19279
+icon	6278	15369
+icon	6279	6637
+icon	6280	6661
+icon	6281	6695
+icon	6282	6709
+icon	6283	7050
+icon	6284	17360
+icon	6285	6811
+icon	6286	7160
+icon	6287	7420
+icon	6288	16472
+icon	6289	13456
+icon	6290	13459
+icon	6291	18688
+icon	6292	20097
+icon	6293	8900
+icon	6294	13486
+icon	6295	16697
+icon	6296	11047
+icon	6297	16168
+icon	6298	10591
+icon	6299	10997
+icon	6300	13696
+icon	6301	18361
+icon	6302	18464
+icon	6303	14714
+icon	6304	3272
+icon	6305	8142
+icon	6306	13504
+icon	6307	5349
+icon	6308	13498
+icon	6309	22319
+icon	6310	15311
+icon	6312	10516
+icon	6313	18427
+icon	6314	8174
+icon	6315	4625
+icon	6316	14143
+icon	6317	18276
+icon	6318	21507
+icon	6319	21816
+icon	6320	8142
+icon	6321	8142
+icon	6322	8142
+icon	6323	20597
+icon	6324	23040
+icon	6325	23041
+icon	6326	23042
+icon	6332	17396
+icon	6333	17396
+icon	6334	14150
+icon	6335	8950
+icon	6336	24944
+icon	6338	28823
+icon	6339	29789
+icon	6340	30994
+icon	7201	33826
+icon	9405	31287
+icon	9414	32884
+icon	9415	32885
+icon	9416	31731
+icon	16939	33643
+loot	area	Catacombs of Kourend	19677 19679 19681 19683	Ghosts don't drop the totem pieces.
+loot	master	8	23083	Only while on a task from Konar.
+loot	master	7	23490	Only while on a task from Krystilia; more often in the Wilderness Slayer Cave.
+loot	place	6215:God Wars Dungeon	11832 11834 11836 11818 11820 11822	From Sergeant Strongstack.
+loot	place	6216:Brine Rat Cavern (dks)	11037	From Brine rat.
+loot	place	6223:Forthos Dungeon	23522	From Undead Druid.
+loot	place	6227:Lava Maze	20754	From Hill Giant.
+loot	place	6227:Giant Pit (South of Chasm of Fire)	20754	From Hill Giant.
+loot	place	6227:Gnome Maze	20754	From Hill Giant.
+loot	place	6227:North of the Observatory	20754	From Hill Giant.
+loot	place	6227:South-west of Tree Gnome Stronghold	20754	From Hill Giant.
+loot	place	6227:Bone Yard Hunter area	20754	From Hill Giant.
+loot	place	6227:Edgeville Dungeon	20754	From Hill Giant.
+loot	place	6227:Taverley Dungeon	20754	From Hill Giant.
+loot	place	6227:Deep Wilderness Dungeon	20754	From Hill Giant.
+loot	place	6227:Catacombs of Kourend	20754	From Hill Giant.
+loot	place	6227:Giants' Plateau	20754	From Hill Giant.
+loot	place	6227:Warriors' Guild floor 2	8844 8845 8846 8847 8848 8849 8850 12954	From Cyclops.
+loot	place	6227:Warriors' Guild (basement)	8844 8845 8846 8847 8848 8849 8850 12954	From Cyclops.
+loot	place	6227:Ardougne Zoo	8844 8845 8846 8847 8848 8849 8850 12954	From Cyclops.
+loot	place	6227:God Wars Dungeon (Bandos' Stronghold)	8844 8845 8846 8847 8848 8849 8850 12954	From Cyclops.
+loot	place	6227:Giants' Den	20754	From Hill Giant.
+loot	place	6227:Avium Savannah	20754	From Hill Giant.
+loot	place	6228:Ruins of Tapoyauik	29895	From Ice giant.
+loot	place	6232:Ruins of Tapoyauik - middle level	29895	From Ice warrior.
+loot	place	6232:Ruins of Tapoyauik - lower level	29895	From Ice warrior.
+loot	place	6233:Corsair Cove Dungeon	21838	From Ogress Shaman.
+loot	place	6233:Mudskipper Point	6665 6666	From Mogre.
+loot	place	6238:Catacombs of Kourend	11286	From Brutal blue dragon.
+loot	place	6238:Ruins of Tapoyauik	29895	From Blue dragon, Baby blue dragon, Brutal blue dragon.
+loot	place	6238:Ruins of Tapoyauik	11286	From Brutal blue dragon.
+loot	place	6239:Catacombs of Kourend	11286	From Brutal red dragon.
+loot	place	6240:Catacombs of Kourend	1249	From Brutal black dragon.
+loot	place	6242:Ancient Guthixian Temple	29574 29580 29684	From Tormented Demon.
+loot	place	6243:Crash Site Cavern	19529 19592 19601 19586 19589 19610	From Demonic gorilla.
+loot	place	6247:Darkmeyer	24777	From Vyrewatch Sentinel.
+loot	place	6250:Ruins of Tapoyauik	29895	From Cave crawler.
+loot	place	6256:Jormungand's Prison southern rooms	24268	From Basilisk Knight.
+loot	place	6263:Ruins of Tapoyauik	29895	From Chilled jelly.
+loot	place	6263:Grimstone Dungeon	29895	From Chilled jelly.
+loot	place	6271:Ancient Cavern (upper level)	11335 11338 11341	From Mithril dragon.
+loot	place	6271:Lithkren Vault	21918	From Adamant dragon, Rune dragon.
+loot	place	6271:Lithkren Vault	22100	From Adamant dragon.
+loot	place	6271:Lithkren Vault	22103	From Rune dragon.
+loot	place	6280:Corsair Cove Dungeon	21838	From Ogress Shaman.
+loot	place	6280:Mudskipper Point	6665 6666	From Mogre.
+loot	place	6288:Ruins of Tapoyauik	29895	From Icefiend.
+loot	place	6301:God Wars Dungeon (5)	11840	From Spiritual mage.
+loot	place	6301:God Wars Dungeon (6)	11840	From Spiritual mage.
+loot	place	6301:Wilderness God Wars Dungeon (3)	11840	From Spiritual mage.
+loot	place	6302:Shayziens' Wall (2)	13392	From Lizardman brute.
+loot	place	6302:Lizardman Canyon	13392	From Lizardman brute.
+loot	place	6302:Lizardman Settlement (2)	13392	From Lizardman brute.
+loot	place	6302:Kebos Swamp (2)	13392	From Lizardman brute.
+loot	place	6302:Battlefront (2)	13392	From Lizardman brute.
+loot	place	6302:Molch (2)	13392	From Lizardman brute.
+loot	place	6302:South of Xeric's Shrine	13392	From Lizardman brute.
+loot	place	6302:Lizardman Canyon, west side (2)	13392 13576	From Lizardman shaman.
+loot	place	6302:Lizardman Caves, underneath Lizardman Settlement	13392 13576	From Lizardman shaman.
+loot	place	6302:Lizardman Temple, beneath Molch	13392 13576	From Lizardman shaman.
+loot	place	6305:Ancient Cavern (upper level)	11335 11338 11341	From Mithril dragon.
+loot	place	6305:Lithkren Vault	21918	From Adamant dragon, Rune dragon.
+loot	place	6305:Lithkren Vault	22100	From Adamant dragon.
+loot	place	6305:Lithkren Vault	22103	From Rune dragon.
+loot	place	6308:Mor Ul Rek	6526	From TzHaar-Mej.
+loot	place	6308:Mor Ul Rek	6528 6524 21298 21301 21304	From TzHaar-Ket.
+loot	place	6308:Mor Ul Rek (Ranged)	6522 6523 6525	From TzHaar-Xil.
+loot	place	6308:Mor Ul Rek (Melee)	6522 6523 6525	From TzHaar-Xil.
+loot	place	6322:Ancient Cavern (upper level)	11335 11338 11341	From Mithril dragon.
+loot	place	6322:Lithkren Vault	21918	From Adamant dragon, Rune dragon.
+loot	place	6322:Lithkren Vault	22100	From Adamant dragon.
+loot	place	6322:Lithkren Vault	22103	From Rune dragon.
+loot	place	6323:Chaos Temple (Wilderness)	20595 20520 20517	From Elder Chaos druid.
+loot	place	6324:Karuulm Slayer Dungeon	21009 21028 22804 20849	From Wyrm.
+loot	place	6324:Wyrmscraig Cavern	21009 21028 22804 20849	From Wyrm.
+loot	place	6324:Wyrmscraig Cavern (2)	31996	From Lava Strykewyrm.
+loot	place	6324:Charred Dungeon	31996	From Lava Strykewyrm.
+loot	place	6333:Mogre Camp	7536 7538	From Crab.
+loot	place	6333:Ruins of Tapoyauik bottom floor	29895	From Frost Crab.
+loot	place	6333:Ruins of Tapoyauik middle floor	29895	From Frost Crab.
+loot	place	6338:Neypotzli	29084	From Sulphur Nagua.
+loot	place	6338:Ruins of Tapoyauik	29895 29892 29889	From Frost Nagua.
+loot	place	6338:Tonali Cavern - Southern Cavern (middle floor)	30957	From Earthen Nagua.
+loot	place	6338:Tonali Cavern - Southern Cavern (bottom floor)	30957	From Earthen Nagua.
+loot	place	6338:Tonali Cavern - Sun Chamber	30957	From Earthen Nagua.

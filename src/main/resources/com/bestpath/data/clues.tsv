@@ -1,0 +1,1004 @@
+# Best Path plugin data, format 1: clue steps.
+# From data/clues/clue-steps.tsv (cache 2740) with data/clues/clue-overrides.tsv (owner's corrections, needs) and, for kill steps, data/wiki/clue-kill-spawns.tsv
+# (OSRS Wiki, CC BY-NC-SA 3.0; pages in the wiki column).
+key	type	tier	target	items	targets	stash	text	description	wiki	needs	note	action	stashVarbit	stashPlace	keyNpc	keyNpcName	keyItem
+anagram-1499	anagram	beginner	npc		3315,3163,0		An Earl	Ranael, at the Al Kharid skirt shop.				talk Ranael					
+anagram-1500	anagram	beginner	npc		3195,3404,0		Carpet Ahoy	The Apothecary in south-west Varrock.				talk Apothecary					
+anagram-1501	anagram	beginner	npc		3102,9570,0		Char Game Disorder	Wizards' Tower basement.				talk Archmage Sedridor					
+anagram-1502	anagram	beginner	npc		2951,3450,0		I Cord	North of Falador.				talk Doric					
+anagram-1503	anagram	beginner	npc		3026,3246,0		In Bar	Port Sarim battleaxe shop.				talk Brian					
+anagram-1504	anagram	beginner	npc		3110,3330,0		Rain Cove	Outside Draynor Manor.				talk Veronica					
+anagram-1505	anagram	beginner	npc		3151,3412,0		Rug Deter	West of Varrock, south of the Cooks' Guild.				talk Gertrude					
+anagram-1506	anagram	beginner	npc		2944,3381,0		Sir Share Red	Western Falador.				talk Hairdresser					
+anagram-1507	anagram	beginner	npc		3080,3250,0		Taunt Roof	Draynor Village market.				talk Fortunato					
+anagram-1508	anagram	medium	npc	12057,12058	3217,3434,0		A BAKER	The fur trader in Varrock square.				talk Baraek					
+anagram-1509	anagram	medium	npc	3613	2858,3577,0		A BAS	In the cave near Death Plateau west of Burthorpe.				talk Saba					
+anagram-1510	anagram	medium	npc	12061,12062	3026,3216,0		A BASIC ANTI POT	Port Sarim.				talk Captain Tobias					
+anagram-1511	anagram	medium	npc	3616	3359,3276,0		AHA JAR	The hospital of the Emir's arena.				talk Jaraah					
+anagram-1512	anagram	medium	npc	19758,19759	1814,3851,0		A HEART	Soul Altar.				talk Aretha					
+anagram-1513	anagram	medium	npc	7280,7281	2715,3302,0		ARC O LINE	North Witchaven next to the row boat. After the Sea Slug quest, she is found wandering the coast.				talk Caroline					
+anagram-1514	anagram	medium	npc	19746,19747	3242,3207,0		AREA CHEF TREK	In Lumbridge church.				talk Father Aereck					
+anagram-1515	anagram	medium	npc	2851,2852	3013,3501,0		ARE COL	The peak of Ice Mountain west of Edgeville.				talk Oracle					
+anagram-1516	anagram	medium	npc	19750,19751	3209,3392,0		ARMCHAIR THE PELT	Next to the south entrance of Varrock.				talk Charlie the Tramp					
+anagram-1517	anagram	medium	npc	3612	2407,9816,0		BAIL TRIMS	In the south-western cave in Tree Gnome Stronghold.				talk Brimstail					
+anagram-1518	anagram	medium	npc	23133,23134	2553,2868,0		CALAMARI MADE MUD	Near a spa in Corsair Cove.				talk Madame Caldarium					
+anagram-1519	anagram	medium	npc	23131,23132	1841,3803,0		CLASH ION	North of the fishing shop in Port Piscarilius.				talk Nicholas					
+anagram-1520	anagram	medium	npc	7274,7275	2658,3670,0		DT RUN B	Inside the main hall in Rellekka.				talk Brundt the Chieftain					
+anagram-1521	anagram	medium	npc	2845,2846	2613,3269,0		EEK ZERO OP	Ardougne Zoo.				talk Zoo keeper					
+anagram-1522	anagram	medium	npc	2847	3233,3423,0		EL OW	Varrock archery store.				talk Lowe					
+anagram-1523	anagram	medium	npc	12055,12056	2501,3487,0		GOBLETS ODD TOES	South of the Barbarian Outpost, in Otto's Grotto.				talk Otto Godblessed					
+anagram-1524	anagram	medium	npc	2857	2541,3170,0		GOBLIN KERN	Near the Spirit Tree in Tree Gnome Village.				talk King Bolren					
+anagram-1525	anagram	medium	npc	7276,7277	2790,3066,0		GOT A BOY	Centre of Tai Bwo Wannai.				talk Gabooty					
+anagram-1526	anagram	medium	npc	2858	2938,3152,0		HALT US	In the Banana plantation on Musa Point.				talk Luthas					
+anagram-1527	anagram	medium	npc	12071,12072	2900,3565,1		HEORIC	Top floor of Burthorpe Castle.				talk Eohric					
+anagram-1528	anagram	medium	npc	7278,7279	2541,3305,0		HICK JET	Town square of West Ardougne.				talk Jethick					
+anagram-1529	anagram	medium	npc	19742,19743	1639,3812,0		HIS PHOR	Arceuus Library.				talk Horphis					
+anagram-1530	anagram	medium	npc	19756,19757	1737,3557,0		I AM SIR	The allotment patch in Hosidius.				talk Marisi					
+anagram-1531	anagram	medium	npc	3618	2630,2997,0		ICY FE	Rantz's cave, east of Feldip Hills.				talk Fycie					
+anagram-1532	anagram	medium	npc	19736,19737	2609,3116,0		I DOOM ICON INN	Nightmare Zone.				talk Dominic Onion					
+anagram-1533	anagram	medium	npc	12059,12060	2432,3423,0		I EVEN	The slayer cave in Tree Gnome Stronghold.				talk Nieve					
+anagram-1534	anagram	medium	npc	12069,12070	2760,3496,0		KAY SIR	The courtyard in Camelot Castle.				talk Sir Kay					
+anagram-1535	anagram	medium	npc	7284,7285	3220,3476,0		LARK IN DOG	Ground floor of Varrock Palace.				talk King Roald					
+anagram-1536	anagram	medium	npc	12065,12066	2957,3370,0		LEAKEY	Rising Sun Inn in Falador.				talk Kaylee					
+anagram-1537	anagram	medium	npc	19738,19739	1805,3566,0		LOW LAG	Vinery in Hosidius.				talk Gallow					
+anagram-1538	anagram	medium	npc	3611	2461,3382,0		ME IF	The gates of Tree Gnome Stronghold.				talk Femi					
+anagram-1539	anagram	medium	npc	7282,7283	2566,3332,0		NOD MED	North-western house in East Ardougne.				talk Edmond					
+anagram-1540	anagram	medium	npc	2843,2844	3208,3213,0		OK CO	Talk to the Cook in Lumbridge Castle.				talk Cook					
+anagram-1541	anagram	medium	npc	19734,19735	1504,3632,0		PACINNG A TAIE	In the Shayzien Encampment.				talk Captain Ginea					
+anagram-1542	anagram	medium	npc	19752,19753	2744,3444,0		PEAK REFLEX	Flax field south of Seers' Village.				talk Flax keeper					
+anagram-1543	anagram	medium	npc	2856	3047,3376,0		PEATY PERT	Falador Party Room.				talk Party Pete					
+anagram-1544	anagram	medium	npc	19754,19755	2977,3343,0		QUE SIR	The courtyard of the White Knights' Castle.				talk Squire					
+anagram-1545	anagram	medium	npc	2849,2850	3273,3181,0		R AK MI	Al Kharid kebab shop.				talk Karim					
+anagram-1546	anagram	medium	npc	12063,12064	2940,3223,0		RATAI	Rimmington bush patch.				talk Taria					
+anagram-1547	anagram	medium	npc	19740,19741	1761,3850,0		R SLICER	Arceuus essence mine.				talk Clerris					
+anagram-1548	anagram	medium	npc	19748,19749	2919,3574,0		SAND NUT	Burthorpe smithy.				talk Dunstan					
+anagram-1549	anagram	medium	npc	19744,19745	1822,3739,0		TAMED ROCKS	North-east of Port Piscarilius general store.				talk Dockmaster					
+anagram-1550	anagram	medium	npc	12067,12068	2822,3442,0		THICKNO	Hickton's Archery Emporium in Catherby.				talk Hickton					
+anagram-1551	anagram	medium	npc	25784,25785	1551,3565,0		UESNKRL NRIEDDO	The Cloak and Stagger in Shayzien.				talk Drunken soldier					
+anagram-1553	anagram	hard	npc	19894	2783,3861,0		Baker Climb	On Trollweiss Mountain.				talk Brambickle					
+anagram-1554	anagram	hard	npc	19886	3238,3220,0		Blue Grim Guided	East of Lumbridge Castle.				talk Lumbridge Guide					
+anagram-1555	anagram	hard	npc	7270,7271	2529,3162,1		By Look	In the Tree Gnome Village general store.				talk Bolkoy					
+anagram-1556	anagram	hard	npc	7268,7269	2395,3486,0		C On Game Hoc	Near the Gnome Ball course in Tree Gnome Stronghold.				talk Gnome Coach					
+anagram-1557	anagram	hard	npc	12566,12567	3061,3377,0		Copper Ore Crypts	Motherlode Mine, beneath Falador				talk Prospector Percy					
+anagram-1558	anagram	hard	npc	24493	3821,9778,2		Darn Drake	Upstairs in the Sisterhood Sanctuary.				talk Daer Krand					
+anagram-1559	anagram	hard	npc	19888,19889	3039,4835,0		Dekagram	Centre of the inner ring of the Abyss.				talk Dark Mage					
+anagram-1560	anagram	hard	npc	12576,12577	3230,3230,0		Do Say More	East of Lumbridge Castle.				talk Doomsayer					
+anagram-1561	anagram	hard	npc	12568,12569	3564,3288,0		Dragons Lament	The Barrows in Morytania.				talk Strange Old Man					
+anagram-1562	anagram	hard	npc	19890	2913,10221,0		Dr Warden Funk	North-east Keldagrim.				talk Drunken Dwarf					
+anagram-1563	anagram	hard	npc	12574,12575	2606,3211,0		Motherboard	Monastery south of Ardougne.				talk Brother Omad					
+anagram-1564	anagram	hard	npc	19896	1688,3540,0		My Mangle Lal	Hosidius spirit tree patch.				talk Lammy Langle					
+anagram-1565	anagram	hard	npc	7272,7273	2807,3191,0		O Birdz A Zany En Pc	Near Brimhaven Agility Arena.				talk Cap'n Izzy No-Beard					
+anagram-1566	anagram	hard	npc	19892,19893	3681,2963,0		Quit Horrible Tyrant	Mos Le'Harmless or Harmony Island.				talk Brother Tranquility					
+anagram-1567	anagram	hard	npc	12570,12571	3044,4969,1		Rat Mat Within	Rogues' Den.				talk Martin Thwait					
+anagram-1568	anagram	hard	npc	12572,12573	3088,3253,0		Slide Woman	Draynor Village.				talk Wise Old Man					
+anagram-1569	anagram	hard	npc	19882,19883	3079,9892,0		Veil Veda	Basement of the house west of Edgeville bank.				talk Evil Dave					
+anagram-1570	anagram	hard	loc	19884,19885	2802,2765,0		Woo An Egg Kiwi	In the building south of the Ape Atoll Teleport				search Awowogei					
+anagram-1571	anagram	elite	npc	19793	1719,3723,0		At Herg	In the Arceuus General Store.				talk Regath					
+anagram-1572	anagram	elite	npc	12132	2150,3866,0		Career In Moon	Astral Altar on Lunar Isle.				talk Oneiromancer					
+anagram-1573	anagram	elite	npc	12138	3462,3557,0		Cool Nerd	East of the Slayer Tower.				talk Old crone					
+anagram-1574	anagram	elite	npc	12134	3182,3946,0		Dr Hitman	Outside the Wilderness Resource Area.				talk Mandrith					
+anagram-1575	anagram	elite	npc	19792	2447,3418,1		Ladder Memo Guv	Southern Tree Gnome Stronghold Bank.				talk Guard Vemmeldo					
+anagram-1576	anagram	elite	npc	12136	3300,3231,0		Machete Clam	The gates of the Emir's arena.				talk Cam the Camel					
+anagram-1577	anagram	elite	npc	12133	2736,5351,1		Majors Lava Bads Air	The mid level of north-east Dorgesh-Kaan.				talk Ambassador Alvijar					
+anagram-1578	anagram	elite	npc	12135	2326,3177,0		No Owner	In Lletya.		quest Mourning's End Part I		talk Oronwen					
+anagram-1579	anagram	elite	npc	19794	1511,3619,0		Our Own Needs	Infirmary in the Shayzien Encampment.				talk Nurse Wooned					
+anagram-1580	anagram	elite	npc	19795	2351,3801,0		Snakes So I Sail	In Neitiznot.				talk Lisse Isaakson					
+anagram-1581	anagram	elite	npc	12137	2660,3654,0		Unleash Night Mist	In Rellekka.				talk Sigli the Huntsman					
+anagram-1582	anagram	elite	npc	21524	3718,3811,0;3580,3974,0		Cirr Jad	In Fossil Island camp.				talk Jardric					
+anagram-1583	anagram	master	npc		2872,3934,0		A Elf Knows	Weiss.				talk Snowflake					
+anagram-1584	anagram	master	npc		1529,3566,0		Brucie Catnap	Great Kourend.				talk Captain Bruce					
+anagram-1585	anagram	master	npc		2209,3056,0		Car If Ices	Zul-Andra, on the dock near Priestess Zul-Gwenwynig.				talk Sacrifice					
+anagram-1586	anagram	master	npc		3284,3943,0		Ded War	Inside Rogues' Castle.				talk Edward					
+anagram-1587	anagram	master	npc		3182,3946,0		Dim Tharn	Outside the Wilderness Resource Area.				talk Mandrith					
+anagram-1588	anagram	master	npc		2803,2744,0		Duo Plug	Graveyard on Ape Atoll, south of Awowogei's throne room.				talk Dugopul					
+anagram-1589	anagram	master	npc		2512,10256,0		Forlun	Miscellania and Etceteria Dungeon.				talk Runolf					
+anagram-1590	anagram	master	npc		2592,4324,0		Im N Zezim	The impling inside Puro-Puro.				talk Immenizz					
+anagram-1591	anagram	master	npc		3508,3237,0		Mal in Tau	East of the Burgh de Rott entrance, in town.				talk Luminata					
+anagram-1592	anagram	master	npc		3606,3209,0		Mold La Ran	Meiyerditch.				talk Old Man Ral					
+anagram-1593	anagram	master	npc		2726,3368,0;2724,3378,0		Mus Kil Reader	Legends' Guild.				talk Radimus Erkle					
+anagram-1594	anagram	master	npc		2454,2853,1		Rip Maul	Myths' Guild.				talk Primula					
+anagram-1595	anagram	master	npc		2335,3162,0		Rue Go	Lletya.				talk Goreu					
+anagram-1596	anagram	master	npc		1649,3498,0		Slam Duster Grail	Woodcutting Guild in Hosidius.				talk Guildmaster Lars					
+anagram-1597	anagram	master	npc		3389,2877,0		Ten Wigs On	Between Nardah and the Agility Pyramid.				talk Wingstone					
+anagram-1598	anagram	master	npc		1503,3553,0		Twenty Cure Iron	Graveyard of Heroes in Shayzien.				talk New Recruit Tony					
+anagram-2299	anagram	quest	coord	23816	2242,3269,0		DEAD ROASTING UPSHIFTS	Prifddinas south gates.		item 952		dig					
+anagram-3498	anagram	medium	npc	28907	1742,2977,0		LAME T	At the Stonecutter Outpost.				talk Metla					
+anagram-5175	anagram	medium	npc	30933,30934	1212,3119,0		CUTE HI	In Tal Teklan.				talk Teicuh					
+anagram-7041	anagram	medium	npc	31274	3143,2423,0		NOT RAG	In the Summer Shore.				talk Elder Torgan					
+map-2223	map	beginner	coord		3167,3360,0			Near the tree west of the Champions' Guild.		item 952		dig					
+map-2224	map	beginner	coord		3290,3373,0			South-east Varrock mine.		item 952		dig					
+map-2225	map	beginner	coord		3092,3226,0			South of Draynor Village bank, by the fishing spot.		item 952		dig					
+map-2226	map	beginner	coord		3043,3398,0			At the standing stones north of Falador.		item 952		dig					
+map-2227	map	beginner	coord		3109,3153,0			Directly behind the Wizards' Tower.		item 952		dig					
+map-2228	map	easy	coord	12179	3300,3291,0			Al Kharid mine.		item 952		dig					
+map-2229	map	easy	coord	2713	3166,3361,0			West of the Champions' Guild.		item 952		dig					
+map-2230	map	easy	coord	2716	3290,3373,0			South-east Varrock mine.		item 952		dig					
+map-2231	map	easy	coord	2719	3043,3398,0			At the standing stones north of Falador.		item 952		dig					
+map-2232	map	easy	coord	3516	2612,3482,0			Brother Galahad's house, West of McGrubor's Wood.		item 952		dig					
+map-2233	map	easy	coord	3518	3109,3153,0			Directly behind the Wizards' Tower.		item 952		dig					
+map-2234	map	easy	coord	7236	2970,3415,0			North of Falador.		item 952		dig					
+map-2235	map	medium	coord	2827	3092,3226,0			South of Draynor Village bank, by the fishing spot.		item 952		dig					
+map-2236	map	medium	coord	3596	2907,3295,0			West of the Crafting Guild.		item 952		dig					
+map-2237	map	medium	loc	3598	2658,3488,0			The crate in McGrubor's Wood. Fairy ring ALS				search Crate					
+map-2238	map	medium	coord	3599	2650,3231,0			North of the Tower of Life. Fairy ring (DJP).		item 952		dig					
+map-2239	map	medium	loc	3601	2565,3248,0			The crate west of the Clock Tower.				search Crate					
+map-2240	map	medium	coord	3602	2924,3209,0			Behind the Chemist's house in Rimmington.		item 952		dig					
+map-2241	map	medium	coord	7286	2536,3865,0			Miscellania. Fairy ring (CIP).		item 952		dig					
+map-2242	map	medium	coord	7288	3434,3266,0			Mort Myre Swamp, west of Mort'ton. Fairy ring (BIP).		item 952		dig					
+map-2243	map	medium	coord	7290	2454,3230,0			At the entrance to the Ourania Cave.		item 952		dig					
+map-2244	map	medium	coord	7292	2578,3597,0			South-east of the Lighthouse. Fairy ring (ALP).		item 952		dig					
+map-2245	map	medium	coord	7294	2667,3562,0			Between Seers' Village and Rellekka. South-west of Fairy ring (CJR).		item 952		dig					
+map-2246	map	medium	coord	2829	2702,3429,0			To the east of the Ranging guild.		item 952		dig					
+map-2247	map	hard	loc	2722	3309,3503,0			A crate in the Lumber Yard, north-east of Varrock.				search Crate					
+map-2248	map	hard	coord	3520	2616,3077,0			Yanille anvils, south of the bank.		item 952		dig					
+map-2249	map	hard	coord	3522	2488,3308,0			In the western section of West Ardougne.		item 952		dig					
+map-2250	map	hard	loc	3524	2457,3182,0			In a crate by the stairs to the Observatory Dungeon.				search Crate					
+map-2251	map	hard	loc	3525	3026,3628,0			In a crate at the Dark Warriors' Fortress in level 14 Wilderness.				search Crate					
+map-2252	map	hard	coord	7239	3021,3912,0			South-east of the Wilderness Agility Course in level 50 Wilderness.		item 952		dig					
+map-2253	map	hard	coord	7241	2722,3338,0			South of the Legends' Guild. Fairy ring (BLR).		item 952		dig					
+map-2254	map	elite	coord	12130	2449,3130,0			South-west of Tree Gnome Village.		item 952		dig					
+map-2255	map	elite	coord	19782	2953,9523,1			In the Mogre Camp, near Port Khazard.		item 21723; item 21722; item 952		dig					
+map-2256	map	elite	coord	19783	2202,3062,0			Zul-Andra. Fairy ring (BJS).		item 952		dig					
+map-2257	map	elite	coord	19784	1815,3852,0			At the Soul Altar, north-east of the Arceuus essence mine.		item 952		dig					
+map-2258	map	elite	coord	19785	3538,3208,0			East of Burgh de Rott.		item 952		dig					
+map-2259	map	elite	loc	19786	2703,2716,0			The crate in south-western Ape Atoll				search Crate					
+map-2303	map	quest	coord	23068	3202,3212,0			Behind Lumbridge Castle, just outside the kitchen door.		item 952		dig					
+map-2304	map	quest	coord	23815	2202,3062,0			In Zul-Andra		item 952		dig					
+cipher-2262	cipher	quest	coord	23070	3077,3260,0		ESBZOPS QJH QFO	Draynor Village pig pen.		item 952		dig					
+cipher-2263	cipher	medium	npc	19768,19769	3354,2974,0		BMJ UIF LFCBC TFMMFS	Pollnivneach.				talk Ali the Kebab seller					
+cipher-2264	cipher	medium	npc	19772,19773	3440,9895,0		GUHCHO	Paterdomus.				talk Drezel					
+cipher-2265	cipher	medium	npc	19770,19771	3227,3227,0		HQNM LZM STSNQ	Outside Lumbridge Castle.				talk Ironman tutor					
+cipher-2266	cipher	medium	npc	19766,19767	1845,3754,0		ECRVCKP MJCNGF	Large eastern building in Port Piscarilius.				talk Captain Khaled					
+cipher-2267	cipher	medium	npc	19764,19765	3112,3162,1		XJABSE USBJCPSO	First floor of Wizards Tower.				talk Wizard Traiborn					
+cipher-2268	cipher	medium	npc	19762,19763	1625,3802,0		QSPGFTTPS HSBDLMFCPOF	Ground floor of Arceuus Library.				talk Professor Gracklebone					
+cipher-2269	cipher	hard	npc	19904,19905	3224,3112,0		ZHLUG ROG PDQ	Kalphite Lair entrance.				talk Weird Old Man					
+cipher-2270	cipher	hard	npc	19898,19899	2289,3144,0;3230,6061,0		OVEXON	Outside Lletya.				talk Eluned					
+cipher-2271	cipher	hard	npc	19906,19907	2634,4682,1		VTYR APCNTGLW	First floor in the Fisher Realm.				talk King Percival					
+cipher-2272	cipher	hard	npc	19900,19901	2501,3487,0		UZZU MUJHRKYYKJ	South of the Barbarian Outpost, in Otto's Grotto.				talk Otto Godblessed					
+cipher-2273	cipher	hard	npc	19908,19909	2446,4428,0		HCKTA IQFHCVJGT	Zanaris throne room.				talk Fairy Godfather					
+cipher-2274	cipher	hard	npc	19902	3680,3537,0		ZSBKDO ZODO	Dock north-east of the Ectofuntus.				talk Pirate Pete					
+cipher-2275	cipher	hard	npc	19910	2347,4435,0		GBJSZ RVFFO	Fairy Resistance Hideout.				talk Fairy Queen					
+cipher-2276	cipher	hard	npc	23172	2541,3548,0		IWPPLQTP	Barbarian Outpost agility course.				talk Gunnjorn					
+cipher-2277	cipher	hard	npc	23170	2329,3689,0		BSOPME MZETQPS	Piscatoris Fishing Colony general store.				talk Arnold Lydspor					
+cipher-3510	cipher	hard	npc	28916	1558,3046,2		BXJA UNJMNA YRCAR	At the top of the Hunter Guild.				talk Soar Leader Pitri					
+cipher-5183	cipher	hard	npc	30929,30930	1376,3037,0		YAROYGR	In Kastori.				talk Sulisal					
+coordinate-1923	coordinate	medium	coord	2809	2479,3158,0		00.05S 01.13E	South-west of Tree Gnome Village.		item 952		dig					
+coordinate-1924	coordinate	medium	coord	3588	2887,3154,0		00.13S 13.58E	West of Banana plantation on Karamja.		item 952		dig					
+coordinate-1925	coordinate	medium	coord	3590	2743,3151,0		00.18S 09.28E	Entrance of Brimhaven dungeon.		item 952		dig					
+coordinate-1926	coordinate	medium	coord	7313	3184,3150,0		00.20S 23.15E	South of Lumbridge Swamp.		item 952		dig					
+coordinate-1927	coordinate	medium	coord	2823	3217,3177,0		00.30N 24.16E	East of Lumbridge Swamp.		item 952		dig					
+coordinate-1928	coordinate	medium	coord	2819	3007,3144,0		00.31S 17.43E	Near the Asgarnian Ice Dungeon. Fairy ring (AIQ).		item 952		dig					
+coordinate-1929	coordinate	medium	coord	7309	2896,3119,0		01.18S 14.15E	Near Karambwan fishing spot. Fairy ring (DKP).		item 952		dig					
+coordinate-1930	coordinate	medium	coord	2805	2697,3207,0		01.26N 08.01E	Moss Giant Island, west of Brimhaven.		item 952		dig					
+coordinate-1931	coordinate	medium	coord	2803	2679,3110,0		01.35S 07.28E	North of Hazelmere's house. Fairy ring (CLS).		item 952		dig					
+coordinate-1932	coordinate	medium	coord	12035	3510,3074,0		02.43S 33.26E	East of Uzer. Fairy ring (DLQ).		item 952		dig					
+coordinate-1933	coordinate	medium	coord	2801	3160,3251,0		02.48N 22.30E	West of the H.A.M. Hideout.		item 952		dig					
+coordinate-1934	coordinate	medium	coord	2813	2643,3252,0		02.50N 06.20E	Between Ardougne Zoo and the Tower of Life. Fairy ring (DJP).		item 952		dig					
+coordinate-1935	coordinate	medium	coord	12041	2322,3061,0		03.07S 03.41W	South-west of Castle wars. Fairy ring (BKP).		item 952		dig					
+coordinate-1936	coordinate	medium	coord	7317	2875,3046,0		03.35S 13.35E	North of the Nature Altar. Fairy ring (CKR).		item 952		dig					
+coordinate-1937	coordinate	medium	coord	2817	2849,3033,0		04.00S 12.46E	West of the Nature Altar. Fairy ring (CKR).		item 952		dig					
+coordinate-1938	coordinate	medium	coord	2815	2848,3296,0		04.13N 12.45E	North of Crandor island.		item 952		dig					
+coordinate-1939	coordinate	medium	coord	7307	2583,2990,0		05.20S 04.28E	South-east of Gu'Thanoth. Fairy ring (AKS).		item 952		dig					
+coordinate-1940	coordinate	medium	coord	2825	3179,3344,0		05.43N 23.05E	In the cow pen north of the Lumbridge windmill.		item 952		dig					
+coordinate-1941	coordinate	medium	coord	2807	2383,3370,0		06.31N 01.46W	West of the Outpost.		item 952		dig					
+coordinate-1942	coordinate	medium	coord	12051	3312,3375,0		06.41N 27.15E	North-west of the Exam Centre, on the hill.		item 952		dig					
+coordinate-1943	coordinate	medium	coord	12043	3121,3384,0		06.58N 21.16E	North-east of Draynor Manor, near River Lum.		item 952		dig					
+coordinate-1944	coordinate	medium	coord	3584	3430,3388,0		07.05N 30.56E	West of Mort Myre Swamp (BKR).		item 952		dig					
+coordinate-1945	coordinate	medium	coord	2821	2920,3403,0		07.33N 15.00E	South-east of Taverley, near Lady of the Lake.		item 952		dig					
+coordinate-1946	coordinate	medium	coord	12033	2594,2899,0		08.11S 04.48E	South-east of Feldip Hills, by the crimson swifts (AKS).		item 952		dig					
+coordinate-1947	coordinate	medium	coord	3592	2387,3435,0		08.33N 01.39W	West of Tree Gnome Stronghold, near the pen containing terrorbirds.		item 952		dig					
+coordinate-1948	coordinate	medium	coord	2811	2512,3467,0		09.33N 02.15E	Baxtorian Falls (Bring rope).		item 952		dig					
+coordinate-1949	coordinate	medium	coord	12045	2381,3468,0		09.35N 01.50W	West of Tree Gnome Stronghold, north of the pen with terrorbirds.		item 952		dig					
+coordinate-1950	coordinate	medium	coord	7311	3005,3475,0		09.48N 17.39E	Ice Mountain, west of Edgeville Monastery.		item 952		dig					
+coordinate-1951	coordinate	medium	coord	12049	2585,3505,0		10.45N 04.31E	By the shore line north of the Coal Trucks.		item 952		dig					
+coordinate-1952	coordinate	medium	coord	3582	3443,3515,0		11.03N 31.20E	South of Slayer Tower (CKS).		item 952		dig					
+coordinate-1953	coordinate	medium	coord	3594	2416,3516,0		11.05N 00.45W	Tree Gnome Stronghold, west of Grand Tree, near swamp.		item 952		dig					
+coordinate-1954	coordinate	medium	coord	12053	3429,3523,0		11.18N 30.54E	South of Slayer Tower (CKS).		item 952		dig					
+coordinate-1955	coordinate	medium	coord	12047	2363,3531,0		11.33N 02.24W	North-east of Eagles' Peak (AKQ).		item 952		dig					
+coordinate-1956	coordinate	medium	coord	3586	2919,3535,0		11.41N 14.58E	East of Burthorpe pub.		item 952		dig					
+coordinate-1957	coordinate	medium	coord	12037	3548,3560,0		12.28N 34.37E	Inside Fenkenstrain's Castle.		item 952		dig					
+coordinate-1958	coordinate	medium	coord	19774	1476,3566,0		12.39N 30.07W	Graveyard of Heroes in west Shayzien.		item 952		dig					
+coordinate-1959	coordinate	medium	coord	7315	2735,3638,0		14.54N 09.13E	East of Rellekka, north-west of Golden Apple Tree (AJR).		item 952		dig					
+coordinate-1960	coordinate	medium	coord	12039	2681,3653,0		15.22N 07.31E	Rellekka, in the garden of the south-east house.		item 952		dig					
+coordinate-1961	coordinate	medium	coord	7305	2537,3881,0		22.30N 03.01E	Miscellania (CIP).		item 952		dig					
+coordinate-1962	coordinate	medium	coord	23136	2828,3234,0		02.16N 12.07E	Southern coast of Crandor.		item 952		dig					
+coordinate-1963	coordinate	medium	coord	23135	1247,3726,0		17.39N 37.16W	Just inside the Farming Guild.		item 952		dig					
+coordinate-1964	coordinate	medium	coord	23137	3764,3900,0		23.01N 41.33E	On the small island north-east of Fossil Island's mushroom forest.		item 952		dig					
+coordinate-1965	coordinate	hard	coord	3560	2209,3161,0		00.00N 07.13W	North-east of Tyras Camp (BJS if 76 Agility).		item 952		dig					
+coordinate-1966	coordinate	hard	coord	3562	2181,3206,0		01.24N 08.05W	South of Iorwerth Camp.		item 952		dig					
+coordinate-1967	coordinate	hard	coord	12554	3081,3209,0		01.30N 20.01E	Small Island (CLP).		item 952		dig					
+coordinate-1968	coordinate	hard	coord	3554	3399,3246,0		02.39N 29.58E	Behind the Emir's arena.		item 952		dig					
+coordinate-1969	coordinate	hard	coord	12558	2699,3251,0		02.48N 08.05E	Little island (AIR).		item 952		dig					
+coordinate-1970	coordinate	hard	coord	19844	3546,3251,0		02.48N 34.33E	North-east of Burgh de Rott.		item 952		dig					
+coordinate-1971	coordinate	hard	coord	12562	3544,3255,0		02.56N 34.30E	North-east of Burgh de Rott.		item 952		dig					
+coordinate-1972	coordinate	hard	coord	12560	2841,3267,0		03.18N 12.31E	Crandor island.		item 952		dig					
+coordinate-1973	coordinate	hard	coord	3552	3168,3041,0		03.45S 22.45E	Bedabin Camp.		item 952		dig					
+coordinate-1974	coordinate	hard	coord	3546	2542,3031,0		04.03S 03.11E	Gu'Tanoth, may require 20gp.		item 952		dig					
+coordinate-1975	coordinate	hard	coord	3548	2581,3030,0		04.05S 04.24E	Gu'Tanoth island, enter cave north-west of Feldip Hills (AKS).		item 952		dig					
+coordinate-1976	coordinate	hard	coord	3538	2961,3024,0		04.16S 16.16E	Ship yard (DKP).		item 952		dig					
+coordinate-1977	coordinate	hard	coord	7256	2339,3311,0		04.41N 03.09W	East of Prifddinas on Arandar mountain pass.		item 952		dig					
+coordinate-1978	coordinate	hard	coord	3542	3440,3341,0		05.37N 31.15E	Nature Spirit's grotto (BIP).		item 952		dig					
+coordinate-1979	coordinate	hard	coord	3530	2763,2974,0		05.50S 10.05E	Cairn Isle, west of Shilo Village (CKR).		item 952		dig					
+coordinate-1980	coordinate	hard	coord	7258	3138,2969,0		06.00S 21.48E	West of Bandit Camp in Kharidian Desert.		item 952		dig					
+coordinate-1981	coordinate	hard	coord	3540	2924,2963,0		06.11S 15.07E	On the southern part of eastern Karamja.		item 952		dig					
+coordinate-1982	coordinate	hard	coord	3534	2838,2914,0		07.43S 12.26E	Kharazi Jungle, near water pool (CKR).		item 952		dig					
+coordinate-1983	coordinate	hard	coord	3544	3441,3419,0		08.03N 31.16E	Mort Myre Swamp (BKR).		item 952		dig					
+coordinate-1984	coordinate	hard	coord	3536	2950,2902,0		08.05S 15.56E	South-east of Kharazi Jungle.		item 952		dig					
+coordinate-1985	coordinate	hard	coord	3532	2775,2891,0		08.26S 10.28E	South-west of Kharazi Jungle.		item 952		dig					
+coordinate-1986	coordinate	hard	coord	7262	3113,3602,0		13.46N 21.01E	Wilderness. South-west of Ferox Enclave (level 11).		item 952		dig					
+coordinate-1987	coordinate	hard	coord	3526	2892,3675,0		16.03N 14.07E	On the summit of Trollheim.		item 952		dig					
+coordinate-1988	coordinate	hard	coord	2743	3168,3677,0		16.07N 22.45E	Wilderness. Graveyard of Shadows.		item 952		dig					
+coordinate-1989	coordinate	hard	coord	3528	2853,3690,0		16.31N 12.54E	Entrance to the troll Stronghold.		item 952		dig					
+coordinate-1990	coordinate	hard	coord	7264	3305,3692,0		16.35N 27.01E	Wilderness. West of eastern green dragon.		item 952		dig					
+coordinate-1991	coordinate	hard	coord	2745	3055,3696,0		16.43N 19.13E	Wilderness. Bandit Camp.		item 952		dig					
+coordinate-1992	coordinate	hard	coord	12564	3302,3696,0		16.43N 26.56E	Wilderness. West of eastern green dragon.		item 952		dig					
+coordinate-1993	coordinate	hard	coord	19840	1479,3699,0		16.48N 30.01W	Lizardman Canyon (DJR).		item 952		dig					
+coordinate-1994	coordinate	hard	coord	7266	2712,3732,0		17.50N 08.30E	North-east of Rellekka (DKS).		item 952		dig					
+coordinate-1995	coordinate	hard	coord	7260	2970,3749,0		18.22N 16.33E	Wilderness. Forgotten Cemetery.		item 952		dig					
+coordinate-1996	coordinate	hard	coord	3556	3094,3764,0		18.50N 20.26E	Wilderness. Mining site north of Bandit Camp.		item 952		dig					
+coordinate-1997	coordinate	hard	coord	2747	3311,3769,0		19.00N 27.13E	Wilderness. North of Venenatis.		item 952		dig					
+coordinate-1998	coordinate	hard	coord	19842	1460,3782,0		19.24N 30.37W	Lovakengj, near burning man.		item 952		dig					
+coordinate-1999	coordinate	hard	coord	2741	3244,3792,0		19.43N 25.07E	Wilderness. South-east of Lava Dragon Isle by some Chaos Dwarves.		item 952		dig					
+coordinate-2000	coordinate	hard	coord	2733	3140,3804,0		20.05N 21.52E	North of the Wilderness black chinchompa hunting area.		item 952		dig					
+coordinate-2001	coordinate	hard	coord	2735	2946,3819,0		20.33N 15.48E	Wilderness. Chaos Temple (level 38).		item 952		dig					
+coordinate-2002	coordinate	hard	coord	21526	3771,3825,0		20.45N 41.35E	Fossil Island. East of Museum Camp.		item 952		dig					
+coordinate-2003	coordinate	hard	coord	2737	3013,3846,0		21.24N 17.54E	Wilderness. West of Lava Maze, before KBD's lair.		item 952		dig					
+coordinate-2004	coordinate	hard	coord	2723	3058,3884,0		22.35N 19.18E	Wilderness. Near runite ore north of Lava Maze.		item 952		dig					
+coordinate-2005	coordinate	hard	coord	2731	3290,3889,0		22.45N 26.33E	Wilderness. Demonic Ruins.		item 952		dig					
+coordinate-2006	coordinate	hard	coord	21527	3765,3899,0		23.00N 41.33E	Small Island north of Fossil Island.		item 952		dig					
+coordinate-2007	coordinate	hard	coord	12556	2505,3899,0		23.03N 02.01E	Small Island north-west of Miscellania (AJS).		item 952		dig					
+coordinate-2008	coordinate	hard	coord	3558	3285,3942,0		24.24N 26.24E	Wilderness. Rogues' Castle.		item 952		dig					
+coordinate-2009	coordinate	hard	coord	2727	3159,3959,0		24.56N 22.28E	Wilderness. North of Deserted Keep, west of Resource Area.		item 952		dig					
+coordinate-2010	coordinate	hard	coord	2739	3039,3960,0		24.58N 18.43E	Wilderness. Pirates' Hideout.		item 952		dig					
+coordinate-2011	coordinate	hard	coord	2725	2987,3963,0		25.03N 17.05E	Wilderness. West of Wilderness Agility Course.		item 952		dig					
+coordinate-2012	coordinate	hard	coord	2729	3189,3963,0		25.03N 23.24E	Wilderness. North of Resource Area, near magic axe hut.		item 952		dig					
+coordinate-2013	coordinate	hard	coord	23167	2341,3697,0		16.45N 03.05W	North-east of the Piscatoris Fishing Colony bank.		item 952		dig					
+coordinate-2014	coordinate	hard	coord	23168	3143,3774,0		19.09N 21.58E	In level 32 Wilderness, in the black chinchompa hunting area.		item 952		dig					
+coordinate-2015	coordinate	hard	coord	23169	2970,3913,0		23.30N 16.33E	Frozen Waste Plateau, south-west of Wilderness Agility Course.		item 952		dig					
+coordinate-2017	coordinate	hard	coord	25790	1409,3483,0		10.03N 32.13W	South of Shayziens' Wall.		item 952		dig					
+coordinate-2018	coordinate	elite	coord	12089	2357,3151,0		00.18S 02.35W	Lletya.		item 952		dig					
+coordinate-2019	coordinate	elite	coord	12091	3587,3180,0		00.35N 35.50E	South-western Meiyerditch Walls.		item 952		dig					
+coordinate-2020	coordinate	elite	coord	12110	2820,3078,0		02.35S 11.52E	Tai Bwo Wannai. Hardwood Grove. 100 Trading sticks or elite Karamja diary completion is needed to enter.		item 952		dig					
+coordinate-2021	coordinate	elite	coord	12086	3811,3060,0		03.09S 42.50E	Small island north-east of Mos Le'Harmless.		item 952		dig					
+coordinate-2022	coordinate	elite	coord	12111	2180,3282,0		03.46N 08.07W	North of Iorwerth Camp.		item 952		dig					
+coordinate-2023	coordinate	elite	coord	12107	2870,2997,0		05.07S 13.26E	North-east corner in Shilo Village.		item 952		dig					
+coordinate-2024	coordinate	elite	coord	12100	3302,2988,0		05.24S 26.56E	On top of a cliff to the west of Pollnivneach.		item 952		dig					
+coordinate-2025	coordinate	elite	coord	12098	2511,2980,0		05.39S 02.13E	Just south of Gu'Tanoth, west of gnome glider.		item 952		dig					
+coordinate-2026	coordinate	elite	coord	12102	2732,3372,0		06.35N 09.07E	Legends' Guild.		item 952		dig					
+coordinate-2027	coordinate	elite	coord	12103	3573,3425,0		08.15N 35.24E	North of Dessous's tomb from Desert Treasure I.		item 552; item 4278 x25; item 952		dig					
+coordinate-2028	coordinate	elite	coord	12088	3828,2848,0		09.46S 43.22E	East of Harmony Island.		item 952		dig					
+coordinate-2029	coordinate	elite	coord	12099	3225,2838,0		10.05S 24.31E	South of Desert Treasure I pyramid.		item 952		dig					
+coordinate-2030	coordinate	elite	coord	19813	1773,3510,0		10.54N 20.50W	Ruins north of the Hosidius mine.		item 952		dig					
+coordinate-2031	coordinate	elite	coord	12085	3822,3562,0		12.31N 43.11E	North-east of Dragontooth Island.		item 952		dig					
+coordinate-2032	coordinate	elite	coord	12108	3603,3564,0		12.35N 36.20E	North of the wrecked ship, outside of Port Phasmatys.		item 952		dig					
+coordinate-2033	coordinate	elite	coord	12106	2936,2721,0		13.45S 15.30E	Eastern shore of Crash Island.		item 952		dig					
+coordinate-2034	coordinate	elite	coord	12096	2697,2705,0		14.15S 08.01E	South-west of Ape Atoll.		item 952		dig					
+coordinate-2035	coordinate	elite	coord	12104	2778,3678,0		16.09N 10.33E	Mountain Camp.		item 952		dig					
+coordinate-2036	coordinate	elite	coord	12090	2827,3740,0		18.05N 12.05E	West of the entrance to the Ice Path, where the Troll child resides.		item 952		dig					
+coordinate-2037	coordinate	elite	coord	12094	2359,3799,0		19.56N 02.31W	Neitiznot.		item 952		dig					
+coordinate-2038	coordinate	elite	coord	12105	2194,3807,0		20.11N 07.41W	Pirates' Cove.		item 952		dig					
+coordinate-2039	coordinate	elite	coord	12087	2700,3808,0		20.13N 08.07E	North-western part of the Trollweiss and Rellekka Hunter area (DKS).		item 952		dig					
+coordinate-2040	coordinate	elite	coord	12109	3215,3835,0		21.03N 24.13E	Wilderness. Lava Dragon Isle.		item 952		dig					
+coordinate-2041	coordinate	elite	coord	12101	3369,3894,0		22.54N 29.01E	Wilderness. Fountain of Rune.		item 952		dig					
+coordinate-2042	coordinate	elite	coord	12092	2065,3923,0		23.48N 11.43W	Outside the western wall on Lunar Isle.		item 952		dig					
+coordinate-2043	coordinate	elite	coord	12095	3188,3933,0		24.07N 23.22E	Wilderness. Resource Area.		item 952		dig					
+coordinate-2044	coordinate	elite	coord	12097	3043,3940,0		24.20N 18.50E	Wilderness. South of Pirates' Hideout.		item 952		dig					
+coordinate-2045	coordinate	elite	coord	12093	3380,3963,0		25.03N 29.22E	Wilderness. North of Volcano.		item 952		dig					
+coordinate-2046	coordinate	elite	coord	23146	3051,3736,0		17.58N 19.05E	East of the Wilderness Obelisk in 28 Wilderness.		item 952		dig					
+coordinate-2047	coordinate	elite	coord	23148	2316,3814,0		20.24N 03.52W	West of Neitiznot, near the bridge.		item 952		dig					
+coordinate-2048	coordinate	elite	coord	23147	2872,3937,0		24.15N 13.30E	Weiss.		item 952		dig					
+coordinate-2049	coordinate	elite	coord	24253	2484,4016,0		26.43N 01.22E	North-east corner of the Island of Stone.		item 952		dig					
+coordinate-2050	coordinate	elite	coord	23770	3246,6083,0		05.18N 06.48W	Prifddinas, west of the Tower of Voices.		item 952		dig					
+coordinate-2051	coordinate	elite	coord	22000	3560,3987,0		25.48N 35.00E	Lithkren. Digsite pendant teleport if unlocked, otherwise take rowboat from west of Mushroom Meadow Mushtree.		item 952		dig					
+coordinate-2052	coordinate	elite	coord	25499	2318,2954,0		06.28S 03.48W	North-east corner of the Isle of Souls.		item 952		dig					
+coordinate-2053	coordinate	elite	coord	25498	2094,2889,0		08.30S 10.48W	West side of the Isle of Souls.		item 952		dig					
+coordinate-2054	coordinate	elite	coord	25787	1451,3509,0		10.52N 30.54W	Ruins of Morra.		item 952		dig					
+coordinate-2055	coordinate	elite	coord	26944	3318,2706,0		14.13S 27.26E	The Necropolis, South-East of Sophanem.		item 952		dig					
+coordinate-2056	coordinate	master	coord		2178,3209,0		01.30N 08.11W	South of Iorwerth Camp.		item 952		dig					
+coordinate-2057	coordinate	master	coord		2155,3100,0		01.54S 08.54W	South of Port Tyras (BJS if 76 Agility).		item 952		dig					
+coordinate-2058	coordinate	master	coord		2217,3092,0		02.09S 06.58W	Poison Waste island (DLR).		item 952		dig					
+coordinate-2059	coordinate	master	coord		3830,3060,0		03.09S 43.26E	Small island located north-east of Mos Le'Harmless.		item 952		dig					
+coordinate-2060	coordinate	master	coord		2834,3271,0		03.26N 12.18E	Crandor island.		item 952		dig					
+coordinate-2061	coordinate	master	coord		2732,3284,0		03.50N 09.07E	Witchaven.		item 952		dig					
+coordinate-2062	coordinate	master	coord		3622,3320,0		04.58N 36.56E	Meiyerditch. Outside mine.		item 952		dig					
+coordinate-2063	coordinate	master	coord		2303,3328,0		05.13N 04.16W	East of Prifddinas.		item 952		dig					
+coordinate-2064	coordinate	master	coord		3570,3405,0		07.37N 35.18E	North of Dessous's tomb from Desert Treasure I.		item 952		dig					
+coordinate-2065	coordinate	master	coord		2840,3423,0		08.11N 12.30E	Water Obelisk Island.		item 952		dig					
+coordinate-2066	coordinate	master	coord		3604,3564,0		12.35N 36.22E	North of the wrecked ship, outside of Port Phasmatys (ALQ).		item 952		dig					
+coordinate-2067	coordinate	master	coord		3085,3569,0		12.45N 20.09E	Wilderness. Obelisk of Air.		item 952		dig					
+coordinate-2068	coordinate	master	coord		2934,2727,0		13.33S 15.26E	Eastern shore of Crash Island.		item 952		dig					
+coordinate-2069	coordinate	master	coord		1451,3695,0		16.41N 30.54W	West side of Lizardman Canyon with Lizardman shaman.		item 952		dig					
+coordinate-2070	coordinate	master	coord		2538,3739,0		18.03N 03.03E	Waterbirth Island. Bring a pet rock and rune thrownaxe.		item 952		dig					
+coordinate-2071	coordinate	master	coord		1248,3751,0		18.26N 37.15W	In the north wing of the Farming Guild.		item 952		dig					
+coordinate-2072	coordinate	master	coord		1698,3792,0		19.43N 23.11W	Arceuus church.		item 952		dig					
+coordinate-2073	coordinate	master	coord		2951,3820,0		20.35N 15.58E	Wilderness. Chaos Temple (level 38).		item 952		dig					
+coordinate-2074	coordinate	master	coord		2202,3825,0		20.45N 07.26W	Pirates' Cove, between Lunar Isle and Rellekka.		item 952		dig					
+coordinate-2075	coordinate	master	coord		1761,3853,0		21.37N 21.13W	Arceuus essence mine (CIS).		item 952		dig					
+coordinate-2076	coordinate	master	coord		2090,3863,0		21.56N 10.56W	South of Lunar Isle, west of the Astral Altar.		item 952		dig					
+coordinate-2077	coordinate	master	coord		1442,3878,0		22.24N 31.11W	Northern area of the Lovakengj Sulphur Mine. Facemask or Slayer Helmet recommended.		item 952		dig					
+coordinate-2078	coordinate	master	coord		3380,3929,0		24.00N 29.22E	Wilderness. Near Volcano.		item 952		dig					
+coordinate-2079	coordinate	master	coord		3188,3939,0		24.18N 23.22E	Wilderness. Resource Area.		item 952		dig					
+coordinate-2080	coordinate	master	coord		3304,3941,0		24.22N 27.00E	Wilderness. East of Rogues' Castle.		item 952		dig					
+coordinate-2081	coordinate	master	coord		3028,3928,0		23.58N 18.22E	Wilderness. South-east of Agility Training Area.		item 952		dig					
+coordinate-2082	coordinate	master	coord		1769,3418,0		08.01N 20.58W	Crabclaw Isle.		item 952		dig					
+coordinate-2083	coordinate	master	coord	3550	3288,2982,0		05.35S 26.30E	North-west of the Smoke Dungeon entrance.		item 952		dig					
+coordinate-2301	coordinate	quest	coord	23814	2225,3133,0		00.52S 06.43W	South of the yew trees east of Tyras Camp.		item 952		dig					
+coordinate-3505	coordinate	medium	coord	28909	1659,3111,0		1.33S 24.24W	West of the Bazaar in Civitas illa Fortis		item 952		dig					
+coordinate-3506	coordinate	elite	coord	28912	1557,3183,0		0.42N 27.35W	North of Ortus Farm		item 952		dig					
+coordinate-3697	coordinate	elite	coord	29855	1571,3245,0		02.37N 27.09W	On the summit of the Proudspire		item 952		dig					
+coordinate-5171	coordinate	hard	coord	30931	1321,3323,0		5.03N 34.58W	South of Custodia Pass		item 952		dig					
+coordinate-7042	coordinate	medium	coord	31275	3183,2453,0		22.07S 23.13E	Centre of the Great Conch		item 952		dig					
+coordinate-7043	coordinate	hard	coord	31273	1193,2774,0		12.05S 38.58W	On Laguna Aurorae		item 952		dig					
+coordinate-7044	coordinate	elite	coord	31271	2081,3184,0		0.43N 11.13W	On Lledrith Island		item 952		dig					
+cryptic-1233	cryptic	beginner	npc		3221,3218,0		Always walking around the castle grounds and somehow knows everyone's age.	Talk to Hans walking around Lumbridge Castle.				talk Hans					
+cryptic-1234	cryptic	beginner	npc		3208,3213,0		In the place Duke Horacio calls home, talk to a man with a hat dropped by goblins.	Talk to the Cook in Lumbridge Castle.				talk Cook					
+cryptic-1235	cryptic	beginner	npc		3097,3432,2		In a village of barbarians, I am the one who guards the village from up high.	Talk to Hunding atop the tower on the east side of Barbarian Village.				talk Hunding					
+cryptic-1236	cryptic	beginner	npc		3209,3390,0		Talk to Charlie the Tramp in Varrock.	Talk to Charlie the Tramp by the southern entrance to Varrock. He will give you a task.				talk Charlie the Tramp					
+cryptic-1237	cryptic	beginner	npc		3303,3123,0		Near the open desert I reside, to get past me you must abide. Go forward if you dare, for when you pass me, you'll be sweating by your hair.	Talk to Shantay at the Shantay Pass south of Al Kharid.				talk Shantay					
+cryptic-1238	cryptic	beginner	npc		3213,3495,0		Buried beneath the ground, who knows where it's found. Lucky for you, a man called Reldo may have a clue.	In Varrock Palace library.				talk Reldo					
+cryptic-1239	cryptic	easy	npc	2696	3045,3256,0		Talk to the bartender of the Rusty Anchor in Port Sarim.	The Rusty Anchor is located in the north of Port Sarim.				talk Bartender					
+cryptic-1240	cryptic	easy	npc	12186	3038,3292,0		Speak to Sarah at Falador farm.	Talk to Sarah at Falador farm, north of Port Sarim.				talk Sarah					
+cryptic-1241	cryptic	easy	npc	2702	2760,3496,0		Speak to Sir Kay in Camelot Castle.	The courtyard in Camelot Castle.				talk Sir Kay					
+cryptic-1242	cryptic	easy	npc	2686	3226,3399,0		Speak to the bartender of the Blue Moon Inn in Varrock.	Talk to the bartender in Blue Moon Inn in Varrock.				talk Bartender					
+cryptic-1243	cryptic	easy	npc	19820	1734,3576,0		I wouldn't wear this jean on my legs.	Talk to father Jean in the Hosidius church.				talk Father Jean					
+cryptic-1244	cryptic	easy	npc	3496	3026,3216,0		One of the sailors in Port Sarim is your next destination.	Port Sarim.				talk Captain Tobias					
+cryptic-1245	cryptic	easy	npc	12173	3079,3493,0		Talk to the mother of a basement dwelling son.	Evil Dave's mother, Doris, is located in the house west of Edgeville bank.				talk Doris					
+cryptic-1246	cryptic	easy	npc	2697	3098,3258,0		Speak to Ned in Draynor Village.	Ned is found north of the Draynor bank.				talk Ned					
+cryptic-1247	cryptic	easy	npc	2681	3221,3218,0		Speak to Hans to solve the clue.	Talk to Hans walking around Lumbridge Castle.				talk Hans					
+cryptic-1248	cryptic	easy	npc	12187	2979,3435,0		Speak to Rusty north of Falador.	Rusty can be found north-east of Falador on the way to the Mind Altar.				talk Rusty					
+cryptic-1249	cryptic	easy	npc	12182	2983,3337,1		Talk to Ambassador Spanfipple in the White Knights Castle.	Ambassador Spanfipple can be found roaming on the first floor of the White Knights Castle.				talk Ambassador Spanfipple					
+cryptic-1250	cryptic	easy	npc	12169	3046,3383,1		Talk to a party-goer in Falador.	Lucy is the bartender on the first floor of the Falador party room.				talk Lucy					
+cryptic-1251	cryptic	easy	npc	3513	2736,3578,0		Speak to the staff of Sinclair mansion.	Sinclair Mansion. Fairy ring (CJR).				talk Louisa					
+cryptic-1252	cryptic	easy	npc	19816	3147,9914,0		I wonder how many bronze swords he has handed out.	In Edgeville Dungeon.				talk Vannaka					
+cryptic-1253	cryptic	easy	npc	12190	2924,3405,0		Speak to The Lady of the Lake.	Lake south of Taverley.				talk The Lady of the Lake					
+cryptic-1254	cryptic	easy	npc	12184	2898,3428,0		Speak to Jatix in Taverley.	Taverley.				talk Jatix					
+cryptic-1255	cryptic	easy	npc	2699	2884,3450,0		Speak to Gaius in Taverley.	Taverley.				talk Gaius					
+cryptic-1256	cryptic	easy	npc	12183	2944,3381,0		Talk to the barber in the Falador barber shop.	Western Falador.				talk Hairdresser					
+cryptic-1257	cryptic	easy	npc	3514	3366,3222,0		Someone watching the fights in the Emir's Arena is your next destination.	The upper floor of the Emir's arena.				talk Jeed					
+cryptic-1258	cryptic	easy	npc	2701	2803,3430,0		Speak to Arhein in Catherby.	Near Catherby bank.				talk Arhein					
+cryptic-1259	cryptic	easy	npc	2698	2951,3450,0		Speak to Doric, who lives north of Falador.	North of Falador.				talk Doric					
+cryptic-1260	cryptic	easy	npc	19828	2488,3409,1		Talk to Ermin.	The tree house south-east of the Gnome Agility Course.				talk Ermin					
+cryptic-1261	cryptic	easy	npc	19817	3195,3404,0		Strength potions with red spiders' eggs? He is quite a herbalist.	The Apothecary in south-west Varrock.				talk Apothecary					
+cryptic-1262	cryptic	easy	npc	12181	2975,3383,0		Talk to Cassie in Falador.	Near the northern Falador gate.				talk Cassie					
+cryptic-1263	cryptic	easy	npc	19830	3230,3230,0		Talk to the Doomsayer.	East of Lumbridge Castle.				talk Doomsayer					
+cryptic-1264	cryptic	easy	npc	19819	2945,3335,0		Surrounded by white walls and gems.	The Falador gem store.				talk Herquin					
+cryptic-1265	cryptic	easy	npc	19824	3019,3232,0		The hand ain't listening.	North of the Port Sarim fishing shop.				talk The Face					
+cryptic-1266	cryptic	easy	npc	2693	2977,3343,0		Talk to the Squire in the White Knights' castle in Falador.	The courtyard of the White Knights' Castle.				talk Squire					
+cryptic-1267	cryptic	easy	npc	19821	1836,3786,0		Thanks, Grandma!	North-east corner of Port Piscarilius.				talk Tynan					
+cryptic-1268	cryptic	easy	npc	19823	3088,3357,0		Belladonna, my dear. If only I had gloves, then I could hold you at last.	Draynor Manor's grounds.				talk Tool Leprechaun					
+cryptic-1269	cryptic	easy	npc	19825	1703,3524,0		Salty peter.	In Hosidius, north-east of the Woodcutting Guild.				talk Konoo					
+cryptic-1270	cryptic	easy	npc	2683	3287,3190,0		Talk to Zeke in Al Kharid.	Al Kharid scimitar shop.				talk Zeke					
+cryptic-1271	cryptic	easy	npc	2684	3276,3191,0		Speak to Ellis in Al Kharid.	Al Kharid Tannery.				talk Ellis					
+cryptic-1272	cryptic	easy	npc	19822	2932,3212,0		I would make a chemistry joke, but I'm afraid I wouldn't get a reaction.	The Chemist in Rimmington.				talk Chemist					
+cryptic-1273	cryptic	easy	npc	23162	3098,3268,0		Talk to Morgan in his house at Draynor Village.	Northern Draynor Village.				talk Morgan					
+cryptic-1274	cryptic	easy	npc	23161	1821,3690,0		Talk to Charles at Port Piscarilius.	Near Veos' ship in Port Piscarilius.				talk Charles					
+cryptic-1275	cryptic	easy	npc	23164	3283,3329,0		Talk to Ali the Leaflet Dropper north of the Al Kharid mine.	North of the Al Kharid mine.				talk Ali the Leaflet Dropper					
+cryptic-1276	cryptic	easy	npc	23166	3230,3401,0		Talk to the cook in the Blue Moon Inn in Varrock.	The Blue Moon Inn in Varrock.				talk Cook					
+cryptic-1277	cryptic	easy	npc	23163	2972,3312,0		Talk to Wayne at Wayne's Chains in Falador.	South of the White Knights' Castle.				talk Wayne					
+cryptic-1278	cryptic	easy	npc	23165	2930,3536,0		Talk to the Slayer Master in Burthorpe.	East of the Toad and Chicken inn in Burthorpe.				talk Turael					
+cryptic-1279	cryptic	easy	loc	3506	2636,3453,0		Search for a crate in a building in Hemenster.	House north-west of the Ranging Guild. West of Grandpa Jack.				search Crate					
+cryptic-1280	cryptic	easy	loc	12192	3013,3179,0		Search the bucket in the Port Sarim jail.	Reveal yourself as an outlaw to Shantay to be sent to Port Sarim jail, then search a bucket within the cells.				search Bucket					
+cryptic-1281	cryptic	easy	loc	12176	3187,9825,0		Search the crates in a bank in Varrock.	Search in the basement of the West Varrock bank.				search Crate					
+cryptic-1282	cryptic	easy	loc	12167	3113,3159,0		Search a bookcase in the Wizards tower.	The bookcase on the ground floor of the Wizards' Tower. Fairy ring DIS.				search Bookcase					
+cryptic-1283	cryptic	easy	loc	3509	2699,3470,0		Search for a crate on the ground floor of a house in Seers' Village.	Search inside Phantuwti Fanstuwi Farsight's house, south of the pub in Seers' Village.				search Crate					
+cryptic-1284	cryptic	easy	loc	3504	2660,3149,0		Search the crate near the southern general store in Port Khazard.	Search by the southern Khazard General Store in Port Khazard.				search Crate					
+cryptic-1285	cryptic	easy	loc	2707	2617,3347,0		Search the crates in the shed just north of East Ardougne.	The crates in the shed north of the northern Ardougne bank.				search Crate					
+cryptic-1286	cryptic	easy	loc	12185	2913,3536,0		Search the crate in the Toad and Chicken pub.	The Toad and Chicken pub is in Burthorpe.				search Crate					
+cryptic-1287	cryptic	easy	loc	3495	3016,3205,1		Search chests found in the upstairs of shops in Port Sarim.	Search the chest on the east wall upstairs in Wydin's Food Store in Port Sarim.				search Closed chest					
+cryptic-1288	cryptic	easy	loc	2712	3029,3355,0		Look in the ground floor crates of houses in Falador.	The house east of the eastern bank in Falador.				search Crates					
+cryptic-1289	cryptic	easy	loc	3502	3106,3369,2		Search the crates in Draynor Manor.	Top floor of the Draynor Manor.				search Crate					
+cryptic-1290	cryptic	easy	loc	2709	3226,3452,0		Search the crates near a cart in Varrock.	South east of Varrock Palace, south of the tree farming patch.				search Crate					
+cryptic-1291	cryptic	easy	loc	2685	3203,3384,0		Search the boxes in the house near the south entrance to Varrock.	The first house on the left when entering Varrock from the southern entrance.				search Boxes					
+cryptic-1292	cryptic	easy	loc	7238	3509,3497,0		Search the crates in Canifis.	Search inside Rufus' Meat Emporium in Canifis.				search Crate					
+cryptic-1293	cryptic	easy	loc	12178	3035,9849,0		Search the crates in the Dwarven mine.	Search the crate in the room east of the Ice Mountain ladder entrance in Drogo's Mining Emporium in the Dwarven Mine.				search Crate					
+cryptic-1294	cryptic	easy	loc	2711	2612,3304,1		A crate found in the tower of a church is your next location.	Climb the ladder and search the crates on the first floor in the Church in Ardougne.				search Crate					
+cryptic-1295	cryptic	easy	loc	12168	3087,3261,0		Search a wardrobe in Draynor.	Go to Aggie's house in Draynor Village and search the wardrobe in northern wall.				search Wardrobe					
+cryptic-1296	cryptic	easy	loc	3515	3224,3492,0		Search for a crate in Varrock Castle.	Search the crate in the corner of the kitchen in Varrock Castle.				search Crate					
+cryptic-1297	cryptic	easy	loc	2690	3073,3430,0		Search the crates in the Barbarian Village helmet shop.	Peksa's Helmet Shop in Barbarian Village.				search Crates					
+cryptic-1298	cryptic	easy	loc	2692	2955,3390,0		Search the boxes of Falador's general store.	Falador general store.				search Crates					
+cryptic-1299	cryptic	easy	loc	3494	2970,3214,1		Search through some drawers in the upstairs of a house in Rimmington.	On the first floor of the house north of Hetty the Witch's house in Rimmington.				search Drawers					
+cryptic-1300	cryptic	easy	loc	2678	3228,3212,1		Search the crate in the left-hand tower of Lumbridge Castle.	Located on the first floor of the southern tower at the Lumbridge Castle entrance.				search Crate					
+cryptic-1301	cryptic	easy	loc	12174	3090,3476,0		Search the Coffin in Edgeville.	Search the coffin located by the Edgeville Wilderness teleport lever.				search Coffin					
+cryptic-1302	cryptic	easy	loc	3491	2598,3105,0		Search the crates in a house in Yanille that has a piano.	The house is located north-west of the bank in Yanille.				search Crate					
+cryptic-1303	cryptic	easy	loc	2695	3012,3222,0		Search the crates in the Port Sarim Fishing shop.	Search the crates, by the door, in Gerrant's Fishy Business in Port Sarim.				search Crate					
+cryptic-1304	cryptic	easy	loc	2679	3245,3245,0		Search the boxes in the goblin house near Lumbridge.	Goblin house on the eastern side of the river outside of Lumbridge.				search Boxes					
+cryptic-1305	cryptic	easy	loc	2694	2969,3311,0		Search the drawers in Falador's chain mail shop.	Wayne's Chains - Chainmail Specialist store at the southern Falador walls.				search Drawers					
+cryptic-1306	cryptic	easy	loc	12175	3345,3378,0		Search the bush at the digsite centre.	The bush is on the east side of the first pathway towards the digsite from the Exam Centre.				search Bush					
+cryptic-1307	cryptic	easy	loc	12177	3054,3484,0		Search the bookcase in the monastery.	Search the south-eastern bookcase at Edgeville Monastery.				search Bookcase					
+cryptic-1308	cryptic	easy	loc	3508	2716,3471,1		Search upstairs in the houses of Seers' Village for some drawers.	Located in the house with the spinning wheel. South of the Seers' Village bank.				search Drawers					
+cryptic-1309	cryptic	easy	loc	12172	3085,3429,0		Search the chest in Barbarian Village.	The chest located in the house with a spinning wheel in Barbarian Village.				search Closed chest					
+cryptic-1310	cryptic	easy	loc	12191	2914,3433,0		Search the crates in the outhouse of the long building in Taverley.	Located in the small building attached by a fence to the main building in Taverley. Climb over the stile.				search Crate					
+cryptic-1311	cryptic	easy	loc	3497	3041,3364,1		Search through chests found in the upstairs of houses in eastern Falador.	The house is located south-west of the Falador Party Room. There are two chests in the room, search the northern chest.				search Closed chest					
+cryptic-1312	cryptic	easy	loc	12166	3146,3177,0		Search a bookcase in Lumbridge Swamp.	Located in Father Urhney's house in Lumbridge Swamp.				search Bookcase					
+cryptic-1313	cryptic	easy	loc	3501	3308,3206,0		Search the boxes in one of the tents in Al Kharid.	Search the boxes in the tent east of the Al Kharid Silk trader.				search Boxes					
+cryptic-1314	cryptic	easy	loc	3505	2653,3320,0		Search the drawers on the ground floor of a building facing Ardougne's market.	Inside Noella's house north of the East Ardougne market.				search Drawers					
+cryptic-1315	cryptic	easy	loc	2691	2971,3386,1		Search the drawers upstairs in Falador's shield shop.	Cassie's Shield Shop at the northern Falador entrance.				search Drawers					
+cryptic-1316	cryptic	easy	loc	2708	3206,3419,1		Search the drawers above Varrock's shops.	Located upstairs in Thessalia's Fine Clothes shop in Varrock.				search Drawers					
+cryptic-1317	cryptic	easy	loc	2689	3156,3406,0		Search the drawers in one of Gertrude's bedrooms.	Kanel's bedroom (south-eastern room), in Gertrude's house south of the Cooking Guild.				search Drawers					
+cryptic-1318	cryptic	easy	loc	12188	3024,3259,0		Search the drawers in the house next to the Port Sarim mage shop.	House east of Betty's Mage shop in Port Sarim. Contains a cooking sink.				search Drawers					
+cryptic-1319	cryptic	easy	loc	3500	2894,3418,0		Search through some drawers found in Taverley's houses.	The south-eastern most house in Taverley, south of Jatix's Herblore Shop.				search Drawers					
+cryptic-1320	cryptic	easy	loc	3503	2885,3540,0		Search the tents in the Imperial Guard camp in Burthorpe for some boxes.	Search in the tents in the north-west corner of the soldiers' camp in Burthorpe.				search Boxes					
+cryptic-1321	cryptic	easy	loc	3492	2570,3085,0		Search the drawers in the ground floor of a shop in Yanille.	Search the drawers in Yanille's hunting shop.				search Drawers					
+cryptic-1322	cryptic	easy	loc	3490	2929,3570,0		Search the drawers of houses in Burthorpe.	Inside Hild's house in the north-east corner of Burthorpe.				search Drawers					
+cryptic-1323	cryptic	easy	loc	2704	2645,3338,0		Search the crates in the guard house of the northern gate of East Ardougne.	The guard house north-west of the East Ardougne market.				search Crate					
+cryptic-1324	cryptic	easy	loc	3498	3039,3342,0		Search the drawers downstairs of houses in the eastern part of Falador.	House is located east of the eastern Falador bank and south of the fountain.				search Drawers					
+cryptic-1325	cryptic	easy	loc	2710	2574,3326,1		Search the drawers found upstairs in East Ardougne's houses.	Upstairs of the pub north of the Ardougne Castle.				search Drawers					
+cryptic-1326	cryptic	easy	loc	3512	3097,3277,0		Search the drawers in a house in Draynor Village.	The drawer is located in the northernmost house in Draynor Village.				search Drawers					
+cryptic-1327	cryptic	easy	loc	3499	2886,3449,0		Search the boxes in a shop in Taverley.	The box inside Gaius' Two Handed Shop in Taverley.				search Boxes					
+cryptic-1328	cryptic	easy	loc	2677	3209,3218,1		Search the chest in the Duke of Lumbridge's bedroom.	The Duke's room is on the first floor in Lumbridge Castle.				search Closed chest					
+cryptic-1329	cryptic	easy	loc	2680	3301,3169,1		Search the chests upstairs in Al Kharid Palace.	The chest is located, in the north-east corner, on the first floor of the Al Kharid Palace.				search Closed chest					
+cryptic-1330	cryptic	easy	loc	2705	2654,3299,0		Search the boxes just outside the Armour shop in East Ardougne.	Outside Zenesha's Plate Mail Body Shop in East Ardougne.				search Boxes					
+cryptic-1331	cryptic	easy	loc	19818	1746,3490,0		Monk's residence in the far west. See robe storage device.	Search the drawers in the south tent of the monk's camp on the southern coast of Hosidius.				search Drawers					
+cryptic-1332	cryptic	easy	loc	2700	2825,3442,0		Search the drawers in Catherby's Archery shop.	Hickton's Archery Emporium in Catherby.				search Drawers					
+cryptic-1333	cryptic	easy	loc	2703	2748,3495,2		Search the chest in the left-hand tower of Camelot Castle.	Located on the second floor of the western tower of Camelot.				search Closed chest					
+cryptic-1334	cryptic	easy	loc	2706	2615,3291,0		Search the crates in East Ardougne's general store.	Located south of the Ardougne church.				search Crate					
+cryptic-1335	cryptic	easy	loc	12189	2978,3239,0		Search the wheelbarrow in Rimmington mine.	The Rimmington mining site is located north of Rimmington.				search Wheelbarrow					
+cryptic-1336	cryptic	easy	loc	2688	3228,3433,0		Search the crates in Horvik's armoury.	Horvik's in Varrock.				search Crate					
+cryptic-1337	cryptic	easy	loc	3507	2809,3451,1		Search the drawers in the upstairs of a house in Catherby.	Perdu's house in Catherby.				search Drawers					
+cryptic-1338	cryptic	easy	loc	2682	3289,3202,0		Search the crates in the most north-western house in Al Kharid.	Search the crates in the house, marked with a cooking range icon, south-east of the gem stall in Al Kharid.				search Crate					
+cryptic-1339	cryptic	easy	loc	3493	3000,9798,0		Search the chests in the Dwarven Mine.	The chest is on the western wall, where Hura's Crossbow Shop is, in the Dwarven Mine.				search Closed chest					
+cryptic-1340	cryptic	easy	loc	19829	1683,3616,0		Search the open crate found in the Hosidius kitchens.	The kitchens are north-west of the town in Hosidius.				search Crates					
+cryptic-1341	cryptic	easy	loc	2687	3250,3420,1		Search the drawers, upstairs in the bank to the East of Varrock.	Search the drawers upstairs in Varrock east bank.				search Drawers					
+cryptic-1342	cryptic	easy	loc	23151	3185,3274,0		Search the chest in Fred the Farmer's bedroom.	Search the chest by Fred the Farmer's bed in his house north-west of Lumbridge.				search Open chest					
+cryptic-1343	cryptic	easy	loc	23150	3149,3177,0		Search the eastern bookcase in Father Urhney's house.	Father Urhney's house is found in the western end of the Lumbridge Swamp.				search Bookcase					
+cryptic-1344	cryptic	easy	loc	23153	2946,3207,0		Search the crate in Rommiks crafting shop in Rimmington.	The crates in Rommik's Crafty Supplies in Rimmington.				search Crate					
+cryptic-1345	cryptic	easy	loc	23152	3228,3433,0		Search the single crate in Horvik's smithy in Varrock.	Horvik's Smithy is found north-east of of Varrock Square.				search Crate					
+cryptic-1346	cryptic	easy	loc	23154	2955,3390,0		Search the crates in Falador General store.	Falador general store.				search Crates					
+cryptic-1347	cryptic	easy	loc	23149	2915,3452,0		Search the boxes next to a chest that needs a crystal key.	The Crystal chest can be found in the house directly south of the Witch's house in Taverley.				search Boxes					
+cryptic-1348	cryptic	easy	loc	25789	1799,3613,0		Search the crates in the fruit store just east of the Hosidius town centre.	Search the crates in the back room of the Hosidius fruit store.				search Crates					
+cryptic-1349	cryptic	easy	coord	12170	3040,3399,0		Dig between some ominous stones in Falador.	Three standing stones inside a walled area. East of the northern Falador gate.		item 952		dig					
+cryptic-1350	cryptic	easy	coord	3510	2458,3504,0		Dig near some giant mushrooms, behind the Grand Tree.	Near the red mushrooms north-west of the Grand Tree.		item 952		dig					
+cryptic-1351	cryptic	easy	coord	19814	3221,3219,0		Dig where only the skilled, the wealthy, or the brave can choose not to visit again.	Lumbridge castle courtyard.		item 952		dig					
+cryptic-1352	cryptic	easy	coord	19826	1639,3673,0		Dig in the centre of a great kingdom of 5 cities.	In front of the large statue in the centre of Great Kourend.		item 952		dig					
+cryptic-1353	cryptic	easy	coord	22001	2529,2838,0		Dig under Ithoi's cabin.	Ithoi's cabin in Corsair Cove.		item 952		dig					
+cryptic-1354	cryptic	easy	coord	25788	1418,3591,0		Dig by the Giant's Den entrance, looking out over Lake Molch.	South-east of Lake Molch in Zeah, outside the cave entrance.		item 952		dig					
+cryptic-1356	cryptic	medium	npc	2853,2854	2386,3487,0		Speak to a referee.	Gnome ball field in the Gnome Stronghold.				talk Gnome ball referee					
+cryptic-1357	cryptic	medium	npc	3614	3444,3461,0		Speak to Ulizius.	Near the gate into Mort Myre Swamp. Fairy ring (CKS).				talk Ulizius					
+cryptic-1358	cryptic	medium	npc	2855	2743,3578,1		Speak to Donovan, the Family Handyman.	First floor of Sinclair Mansion, north of Seers' Village.				talk Donovan the Family Handyman					
+cryptic-1359	cryptic	medium	npc	3617	2791,3183,0		Speak to Kangai Mau.	The Shrimp and Parrot in Brimhaven.				talk Kangai Mau					
+cryptic-1360	cryptic	medium	npc	2848	2779,3211,0		Speak to Hajedy.	South of the Brimhaven docks.				talk Hajedy					
+cryptic-1361	cryptic	medium	npc	3615	3494,3474,0		Speak to Roavar.	Talk to Roavar in the Canifis tavern.				talk Roavar					
+cryptic-1362	cryptic	medium	loc	3610	2614,3204,0		Find a crate close to the monks that like to paaarty!	The crate is in the east side of the Ardougne monastery, near Brother Omad.				search Crate					
+cryptic-1363	cryptic	medium	loc	3609	3498,3507,0		A town with a different sort of night-life is your destination. Search for some crates in one of the houses.	Search the crate inside of the clothes shop in Canifis.				search Crate					
+cryptic-1364	cryptic	medium	loc	3604	2800,3074,0		In a village made of bamboo, look for some crates under one of the houses.	Search the crate by the house at the northern point of the broken jungle fence in Tai Bwo Wannai.				search Crate					
+cryptic-1365	cryptic	medium	loc	7303	3289,3022,0		This crate is mine, all mine, even if it is in the middle of the desert.	Center of desert Mining Camp. Search the crates. Requires the metal key from Tourist Trap to enter.				search Crate					
+cryptic-1366	cryptic	medium	loc	7300	2764,3273,0		Try not to step on any aquatic nasties while searching this crate.	Search the crate in Bailey's house on the Fishing Platform.				search Crate					
+cryptic-1367	cryptic	medium	loc	7304	2671,3437,0		This crate holds a better reward than a broken arrow.	Inside the Ranging Guild. Search the crate behind the northern most building.				search Crate					
+cryptic-1368	cryptic	medium	loc	25783	1718,3626,0		Search the basket of apples in an orchard, south of the unknown grave surrounded by white roses.	Search the middle apple basket in the apple orchard north of Hosidius.				search Apple basket					
+cryptic-1369	cryptic	hard	npc	19854,19855	2570,3250,0		He knows just how easy it is to lose track of time.	Brother Kojo in the Clock Tower.				talk Brother Kojo					
+cryptic-1370	cryptic	hard	npc	19846,19847	2527,3891,0		Come have a cip with this great soot covered denizen.	Talk to Miner Magnus on Miscellania, east of the fairy ring CIP.				talk Miner Magnus					
+cryptic-1371	cryptic	hard	loc	19858,19859	2544,3170,0		I have many arms but legs, I have just one. I have little family but my seed you can grow on, I am not dead, yet I am but a spirit, and my power, on your quests, you will earn the right to free it.	Spirit Tree in Tree Gnome Village				search Spirit tree					
+cryptic-1372	cryptic	hard	npc	2794	3068,3516,0		The keeper of Melzars... Spare? Skeleton? Anar?	In Edgeville.				talk Oziach					
+cryptic-1373	cryptic	hard	npc	3575	2490,3488,1		Citric cellar.	In the Grand Tree.				talk Heckel Funch					
+cryptic-1374	cryptic	hard	npc	2792	3221,3218,0		Snah? I feel all confused, like one of those cakes...	Talk to Hans walking around Lumbridge Castle.				talk Hans					
+cryptic-1375	cryptic	hard	npc	12578	2745,3151,0		Gold I see, yet gold I require. Give me 875 if death you desire.	Near Brimhaven Dungeon.				talk Saniboch					
+cryptic-1376	cryptic	hard	npc	3568	3376,3284,0		Identify the back of this over-acting brother. (He's a long way from home.)	At the altar in the Emir's arena.				talk Hamid					
+cryptic-1377	cryptic	hard	npc	3570	2847,3499,0		This aviator is at the peak of his profession.	At the top of White Wolf Mountain.				talk Captain Bleemadge					
+cryptic-1378	cryptic	hard	npc	19853	3143,3445,0		In the city where merchants are said to have lived, talk to a man with a splendid cape, but a hat dropped by goblins.	In Varrock Cooks' Guild.				talk Head chef					
+cryptic-1379	cryptic	hard	npc	19852	2204,3050,0		The mother of the reptilian sacrifice.	Near the sacrificial boat at Zul-Andra.				talk Zul-Cheray					
+cryptic-1380	cryptic	hard	npc	12581	2860,3431,0		I watch the sea. I watch you fish. I watch your tree.	In Catherby fruit tree patch.				talk Ellena					
+cryptic-1381	cryptic	hard	npc	3577	2476,3428,0		'Small shoe.' Often found with rod on mushroom.	In Tree Gnome Stronghold agility area.				talk Gnome trainer					
+cryptic-1382	cryptic	hard	npc	12587	1934,4427,3		The King's magic shouldn't be wasted by me.	In Jalsavrah Pyramid.				talk Guardian mummy					
+cryptic-1383	cryptic	hard	npc	12584	2983,3338,2		Surviving.	The 2nd. floor of Falador castle.				talk Sir Vyvin					
+cryptic-1384	cryptic	hard	npc	2797	3221,3435,0		My name is like a tree, yet it is spelt with a 'g'. Come see the fur which is right near me.	Near Varrock square's fur merchant.				talk Wilough					
+cryptic-1385	cryptic	hard	npc	2778	3014,3222,0		If a man carried my burden, he would break his back. I am not rich, but leave silver in my track. Speak to the keeper of my trail.	In Port Sarim fish shop.				talk Gerrant					
+cryptic-1386	cryptic	hard	npc	3566	3362,3341,0		Often sought out by scholars of histories past, find me where words of wisdom speak volumes.	In the digsite exam centre.				talk Examiner					
+cryptic-1387	cryptic	hard	npc	2799	2957,3511,0		Generally speaking, his nose was very bent.	In the Goblin Village.				talk General Bentnoze					
+cryptic-1388	cryptic	hard	npc	2796	3205,3474,0		Surprising? I bet he is...	In Varrock Palace.				talk Sir Prysin					
+cryptic-1389	cryptic	hard	npc	19856	2336,3799,0		Leader of the Yak City.	In Neitiznot.				talk Mawnis Burowgar					
+cryptic-1390	cryptic	hard	npc	19857	3103,3163,2		The magic of 4 colours, an early experience you could learn. The large beast caged up top, rages, as his demised kin's loot now returns.	The top of the Wizard's Tower.				talk Wizard Mizgog					
+cryptic-1391	cryptic	hard	npc	2793	3058,3487,0		'A bag belt only?', he asked his balding brothers.	In Edgeville Monastery.				talk Abbot Langley					
+cryptic-1392	cryptic	hard	npc	3564	2186,3148,0		A general who sets a 'shining' example.	In Tyras Camp.				talk General Hining					
+cryptic-1393	cryptic	hard	loc	2782	3213,3216,1		My home is grey, and made of stone; A castle with a search for a meal. Hidden in some drawers I am, across from a wooden wheel.	Open the drawers inside the room with the spinning wheel on the first floor of Lumbridge Castle.				search Drawers					
+cryptic-1394	cryptic	hard	loc	7253	3478,3091,0		His head might be hollow, but the crates nearby are filled with surprises.	Search the crates near the Clay golem in the ruins of Uzer.				search Crate					
+cryptic-1395	cryptic	hard	loc	2785	3166,3309,2		Four blades I have, yet draw no blood; Still I turn my prey to powder. If you are brave, come search my roof; It is there my blades are louder.	Lumbridge windmill, search the crates on the top floor.				search Crate					
+cryptic-1396	cryptic	hard	loc	7249	3096,9572,0		Probably filled with books on magic.	Search the bookcase in the basement of the Wizards' Tower. Fairy ring (DIS).				search Bookcase					
+cryptic-1397	cryptic	hard	loc	7254	2672,3416,0		If you look closely enough, it seems that the archers have lost more than their needles.	Search the haystack by the south corner of the Ranging Guild.				search Haystack					
+cryptic-1398	cryptic	hard	loc	3573	2523,3493,1		A great view - watch the rapidly drying hides get splashed. Check the box you are sitting on.	Almera's House north of Baxtorian Falls, search boxes on the first floor.				search Boxes					
+cryptic-1399	cryptic	hard	loc	3579	2818,3351,0		When no weapons are at hand, then is the time to reflect. In Saradomin's name, redemption draws closer...	On Entrana, search the southern drawer in the house with the cooking range.				search Drawers					
+cryptic-1400	cryptic	hard	loc	3574	2576,3464,0		Must be full of railings.	Search the boxes near the broken Dwarf Cannon, north-west of the Fishing Guild.				search Boxes					
+cryptic-1401	cryptic	hard	loc	3572	2702,3409,1		Read 'How to breed scorpions.' By O.W.Thathurt.	Search the northern bookcase on the first floor of the Sorcerer's Tower.				search Bookcase					
+cryptic-1402	cryptic	hard	loc	7251	3041,9820,0		It seems to have reached the end of the line, and it's still empty.	Search the carts in the northern part of the Dwarven Mine.				search Mine cart					
+cryptic-1403	cryptic	hard	loc	7252	2576,9583,0		When you get tired of fighting, go deep, deep down until you need an antidote.	Search the crate by the stairs leading up from the poison spiders in Yanille Agility dungeon.				search Crate					
+cryptic-1404	cryptic	hard	loc	7248	3178,2987,0		The cheapest water for miles around, but they react badly to religious icons.	Search the crates in the General Store tent in the Desert Bandit Camp.				search Crate					
+cryptic-1405	cryptic	hard	loc	7247	2833,2992,0		This village has a problem with cartloads of the undead. Try checking the bookcase to find an answer.	Search the bookcase by the doorway of the building just south east of the Shilo Village Gem Mine.				search Bookcase					
+cryptic-1406	cryptic	hard	loc	2773	3219,9617,0		You will need to under-cook to solve this one.	Search the crate in the Lumbridge basement.				search Crate					
+cryptic-1407	cryptic	hard	loc	7250	2723,9891,0		You have all of the elements available to solve this clue. Fortunately you do not have to go as far as to stand in a draft.	Search the crate, west of the Air Elementals, inside the Elemental Workshop.				search Crate					
+cryptic-1408	cryptic	hard	loc	7255	2561,3323,0		Try not to let yourself be dazzled when you search these drawers.	Search the western drawers in Jimmy Dazzler's home near the East Ardougne Rat Pits.				search Drawers					
+cryptic-1409	cryptic	hard	coord	2783	2598,3267,0		The beasts to my east snap claws and tails, The rest to my west can slide and eat fish. The force to my north will jump and they'll wail, Come dig by my fire and make a wish.	Ardougne Zoo, between the penguins and the scorpions.		item 952		dig					
+cryptic-1410	cryptic	hard	coord	2774	3089,3468,0		Come to the evil ledge, Yew know yew want to. Try not to get stung.	In Edgeville, just east of the Southern Yew tree.		item 952		dig					
+cryptic-1411	cryptic	hard	coord	12590	3081,3421,0		THEY'RE EVERYWHERE!!!! But they were here first. Dig for treasure where the ground is rich with ore.	Barbarian Village, next to the Stronghold of Security.		item 952		dig					
+cryptic-1412	cryptic	hard	coord	7245	3488,3289,0		Covered in shadows, the centre of the circle is where you will find the answer.	The centre of Mort'ton, where the roads intersect.		item 952		dig					
+cryptic-1413	cryptic	hard	coord	2786	3174,3663,0		I lie lonely and forgotten in mid wilderness, where the dead rise from their beds. Feel free to quarrel and wind me up, and dig while you shoot their heads.	The Graveyard of Shadows in level 18 Wilderness.		item 952		dig					
+cryptic-1414	cryptic	hard	coord	3580	2832,9586,0		Mine was the strangest birth under the sun. I left the crimson sack, yet life had not begun. Entered the world, and yet was seen by none.	Near the red spiders inside Karamja volcano.		item 952		dig					
+cryptic-1415	cryptic	hard	coord	7243	2591,3879,0		And so on, and so on, and so on. Walking from the land of many unimportant things leads to a choice of paths.	In front of the castle on Etcetaria.		item 952		dig					
+cryptic-1416	cryptic	hard	coord	19848	3195,3357,0		Dig where 4 siblings and I all live with our evil overlord.	The chicken pen inside the Champions' Guild.		item 952		dig					
+cryptic-1417	cryptic	hard	coord	2788	3170,3885,0		46 is my number. My body is the colour of burnt orange and crawls among those with eight. Three mouths I have, yet I cannot eat. My blinking blue eye hides my grave.	On the spider covered hill north-west of Lava Dragon Isle.		item 952		dig					
+cryptic-1418	cryptic	hard	coord	2776	3191,9825,0		I am a token of the greatest love. I have no beginning or end. My eye is red, I can fit like a glove. Go to the place where it's money they lend, And dig by the gate to be my friend.	Near the gate in the basement of the West Varrock bank.		item 952		dig					
+cryptic-1419	cryptic	hard	coord	19850	3547,3183,0		Rotting next to a ditch. Dig next to the fish.	Near a fishing spot on the south-east side of Burgh de Rott.		item 952		dig					
+cryptic-1420	cryptic	hard	coord	19860	3388,3152,0		Where the best are commemorated, and a celebratory cup, not just for beer.	Near the clan cup trophy south-west of Citharede Abbey.		item 952		dig					
+cryptic-1421	cryptic	hard	coord	2780	3085,3255,0		Aggie I see. Lonely and southern I feel. I am neither inside nor outside the house, yet no home would be complete without me. The treasure lies beneath me!	Outside Aggie's house in Draynor Village.		item 952		dig					
+cryptic-1422	cryptic	hard	coord	2790	3161,9904,0		My giant guardians below the market streets would be fans of rock and roll, if only they could grab hold of it. Dig near my green bubbles!	Among moss giants under Varrock sewers.		item 952		dig					
+cryptic-1423	cryptic	hard	coord	23045	1179,3626,0		The effects of this fire are magnified.	Ket'sal K'uk in western Kebos Swamp.		item 952		dig					
+cryptic-1424	cryptic	hard	coord	25791	1820,9935,0		Dig in the lair of red wings, within the temple of the Sun and Moon.	Among the red dragons in Forthos Dungeon.		item 952		dig					
+cryptic-1425	cryptic	hard	coord	26566	3572,4372,0		The Big High War God left his mark on this place.	In Yu'biusk. Fairy ring (BLQ).		item 952		dig					
+cryptic-1426	cryptic	elite	npc	12113,12114,12115,12116,12117,12118,12119,12120,12121,12122,12123,12124,12125,12126,12127	2733,3415,0		Show this to Sherlock.	Near Sorcerer's tower in Seers' Village.				talk Sherlock					
+cryptic-1427	cryptic	elite	npc	12151	3242,3207,0		A reck you say; let's pray there aren't any ghosts.	In Lumbridge church.				talk Father Aereck					
+cryptic-1428	cryptic	elite	npc	12152	2799,3438,0		I burn between heroes and legends.	Candle shop in Catherby.				talk Candle maker					
+cryptic-1429	cryptic	elite	npc	12155	3499,3503,0		His bark is worse than his bite.	Canifis's Barkers' Haberdashery.				talk Barker					
+cryptic-1430	cryptic	elite	npc	12147	3147,9914,0		You were 3 and I was the 6th. Come speak to me.	In Edgeville Dungeon.				talk Vannaka					
+cryptic-1431	cryptic	elite	npc	12144	2845,3539,2		I am the one who watches the giants. The giants in turn watch me. I watch with two while they watch with one. Come seek where I may be.	The top floor of the Warriors' Guild.				talk Kamfreena					
+cryptic-1432	cryptic	elite	npc	12159	3026,3378,0		Speak to a Wyse man.	In Falador Park.				talk Wyson the gardener					
+cryptic-1433	cryptic	elite	npc	12157	2609,3116,0		'See you in your dreams' said the vegetable man.	Nightmare Zone.				talk Dominic Onion					
+cryptic-1434	cryptic	elite	npc	12154	2635,3310,0		Dobson is my last name, and with gardening I seek fame.	Handelmort Mansion in East Ardougne.				talk Horacio					
+cryptic-1435	cryptic	elite	npc	12149	3203,3424,0		Varrock is where I reside, not the land of the dead, but I am so old, I should be there instead. Let's hope your reward is as good as it says, just 1 gold one and you can have it read.	Varrock main square.				talk Aris					
+cryptic-1436	cryptic	elite	npc	19808	2759,2775,0		With a name like that, you'd expect a little more than just a few scimitars.	On Ape Atoll.				talk Daga					
+cryptic-1437	cryptic	elite	npc	19811	2638,2656,0		You must be 100 to play with me.	Void Knights island enclave.				talk Squire (Veteran)					
+cryptic-1438	cryptic	elite	npc	12140	2333,3165,0		Has no one told you it is rude to ask a lady her age?	In Lletya.				talk Mawrth					
+cryptic-1439	cryptic	elite	npc	12153	3371,9320,0		I live in a deserted crack collecting soles.	The cave west of Nardah Rug merchant.		item light source		talk Genie					
+cryptic-1440	cryptic	elite	loc	12156	2922,3484,0		A Guthixian ring lies between two peaks. Search the stones and you'll find what you seek.	Search the stones several steps west of the Guthixian stone circle in Taverley.				search Stones					
+cryptic-1441	cryptic	elite	loc	12145	2707,3488,2		Even the seers say this clue goes right over their heads.	Search the crate on the Seers Agility Course in Seers Village				search Crate					
+cryptic-1442	cryptic	elite	coord	12146	3410,3324,0		Right on the blessed border, cursed by the evil ones. On the spot inaccessible by both; I will be waiting. The bugs' imminent possession holds the answer.	Fairy ring (BIP).		item 952		dig					
+cryptic-1443	cryptic	elite	coord	12141	2780,3783,0		Green is the colour of my death as the winter-guise, I swoop towards the ground.	Where Trollweiss grows on Trollweiss Mountain.		item 25282; item 952		dig					
+cryptic-1444	cryptic	elite	coord	12150	3049,4839,0		Dig where the forces of Zamorak and Saradomin collide.	The law rift in the Abyss.		item 952		dig					
+cryptic-1445	cryptic	elite	coord	12148	2867,3546,0		W marks the spot.	The middle of the Warriors' Guild entrance hall.		item 952		dig					
+cryptic-1446	cryptic	elite	coord	19809	1910,4367,0		A ring of water surrounds 4 powerful rings, dig above the ladder located there.	The ladder to the Dagannoth Kings in the Waterbirth Island Dungeon.		item 3695; item 805; item 952		dig					
+cryptic-1447	cryptic	elite	coord	19810	3139,4554,0		Dig under Razorlor's toad batta.	In Tarn's Lair under the toad batta.		item 952		dig					
+cryptic-1448	cryptic	elite	coord	12142	2523,3739,0		Three rule below and three sit at top. Come dig at my entrance.	The entrance to the Waterbirth Island Dungeon.		item 952		dig					
+cryptic-1449	cryptic	elite	coord	12158	3307,9505,0		Desert insects is what I see. Taking care of them was my responsibility. Your solution is found by digging near me.	The Kalphite area, near Shantay Pass.		item 952		dig					
+cryptic-1450	cryptic	elite	coord	12143	2342,3677,0		The beasts retreat, for their Queen is gone; the song of this town still plays on. Dig near the birthplace of a blade, be careful not to melt your spade.	The furnace in Piscatoris Fishing Colony.		item 952		dig					
+cryptic-1451	cryptic	elite	coord	21525	3816,3810,0		Does one really need a fire to stay warm here?	Near the Volcanic Mine entrance on Fossil Island.		item 952		dig					
+cryptic-1452	cryptic	elite	coord	23144	3183,3941,0		More resources than I can handle, but in a very dangerous area. Can't wait to strike gold!	The Wilderness Resource Area.		item 952		dig					
+cryptic-1453	cryptic	elite	coord	23145	2221,3091,0		Observing someone in a swamp, under the telescope lies treasure.	On Broken Handz's island in the poison wastes, fairy ring (DLR).		item 952		dig					
+cryptic-1454	cryptic	elite	kill	19802	1651,9989,0;1609,10011,0;2055,9209,0;3428,3543,1;2458,9780,0		You'll have to plug your nose if you use this source of herbs.	Kill an Aberrant or Deviant spectre.	Deviant spectre@15360075,Aberrant spectre@15371564			kill Deviant spectre					
+cryptic-1455	cryptic	elite	kill	19805	1643,9996,0;2056,9173,0;2977,3748,0;2322,5227,0;2326,5201,0;2359,5241,0;3361,10076,0		Ghostly bones.	Kill an Ankou.	Ankou@15361256			kill Ankou					
+cryptic-1456	cryptic	elite	kill	19798	1752,5351,0;1624,5351,0;3163,12454,0;3187,12451,0;3179,12475,0		Let's hope you don't meet a watery death when you encounter this fiend.	Kill a waterfiend.	Waterfiend@15292679			kill Waterfiend					
+cryptic-1457	cryptic	elite	kill	19800	2742,10008,0;2467,10398,0;2421,10384,0		Reflection is the weakness for these eyes of evil.	Kill a basilisk.	Basilisk@15338302,Basilisk Knight@15340714			kill Basilisk Youngling					
+cryptic-1458	cryptic	elite	kill	19806	1766,5344,0		Surround my bones in fire, ontop the wooden pyre. Finally lay me to rest, before my one last test.	Kill a confused/lost barbarian to receive mangled bones. Construct and burn a pyre ship. Kill the ferocious barbarian spirit that spawns to receive a clue casket.			Kill the barbarian spirit here	kill Ferocious barbarian spirit					
+cryptic-1459	cryptic	elite	kill	19796	2687,3724,0;2529,3740,0;2521,3756,0;2531,3721,0;1204,3557,0;2456,10161,0;2748,10166,0;2739,10153,0;2706,10159,0;2650,2411,0		You might have to turn over a few stones to progress.	Kill a rock crab.	Rock Crab@15351395			kill Rock Crab					
+cryptic-1460	cryptic	elite	kill	19801	2886,5323,2;2886,5359,2;2928,5356,2;2845,5283,2;2873,5299,2;2854,5355,2;2862,5336,2;3572,9741,0;3594,9742,0;3417,3565,1;3036,10139,0;2092,10096,0;1631,10032,0;1678,10073,0;1691,10016,0;3239,12433,0		You'll get licked.	Kill a Bloodveld.	Bloodveld@15357608,Mutated Bloodveld@15338397			kill Bloodveld					
+cryptic-1461	cryptic	elite	kill	19803	2855,5283,2;3025,10152,0		You will have to fly high where a sword cannot help you.	Kill an Aviansie.	Aviansie@15332856			kill Aviansie					
+cryptic-1462	cryptic	elite	kill	19799	3339,3694,0;2982,3618,0;3140,3700,0;3158,3708,0;3078,3810,0;3107,3812,0;3415,10068,0;3396,10119,0;1939,8991,1;1771,5340,0		Mix yellow with blue and add heat, make sure you bring protection.	Kill a green or brutal green dragon.	Green dragon@15360668,Brutal green dragon@15216701			kill Green dragon					
+cryptic-1463	cryptic	elite	kill	19804	3347,2927,0;3301,2920,0;3268,2854,0;3190,2825,0;3421,2772,0		In a while...	Kill a crocodile.	Crocodile@15361203			kill Crocodile					
+cryptic-1464	cryptic	elite	kill	19797	3176,3950,0;3180,3917,0;2740,9688,0;2861,9837,0;1643,10063,0;2629,8864,0;1340,10198,2;2078,10070,0;2881,5324,2;2837,5335,2;2892,5302,2;2915,5345,2;3440,10085,0		A demon's best friend holds the next step of this clue.	Kill a hellhound.	Hellhound@15351778			kill Cerberus					
+cryptic-1465	cryptic	master	npc		2689,3550,0		Falo the bard wants to see you.	Between Seers' Village and Rellekka. Fairy ring (CJR).				talk Falo the Bard					
+cryptic-1466	cryptic	master	npc		1310,1251,0		My life was spared but these voices remain, now guarding these iron gates is my bane.	In Cerberus' Lair.				talk Key Master					
+cryptic-1467	cryptic	master	npc		3186,3936,0		One of several rhyming brothers, in business attire with an obsession for paper work.	in the Wilderness Resource Area.				talk Piles					
+cryptic-1468	cryptic	master	npc		3673,3492,0		Robin wishes to see your finest ranged equipment.	In Port Phasmatys' inn.				talk Robin					
+cryptic-1469	cryptic	master	npc		3058,3487,0		Anger Abbot Langley.	In the Edgeville Monastery.				talk Abbot Langley					
+cryptic-1470	cryptic	master	npc		1646,3631,0		This place sure is a mess.	In the Hosidius mess hall.				talk Ewesey					
+cryptic-1471	cryptic	master	npc		1863,4639,0		A dwarf, approaching death, but very much in the light.	Near the Death Altar, at the Temple of Light.				talk Thorgel					
+cryptic-1472	cryptic	master	npc		3260,3385,0		Where safe to speak, the man who offers the pouch of smallest size wishes to see your alignment.	South of Varrock rune shop.		item 10374/2657/12638/24170/13334/21782/22189/8494/8712/24288/24419/20595 worn; item 2414/21795/24250/10450/13333/21780/24233 worn; item 10474/10456/1724 worn; item 11808/20374/11824/11889/22978/2417/24417/22542/22545/27657/27660/22552/22555/27785/27788/27662/27665/27676/27679/23334/10444/11892/11791/12902/12904/22296/24144/6764/8680/33035/33036 worn; item 24420/20517/10460/10370/2653/1035/24291 worn; item 23194/2659/26498/3841/3842/22157/8744/8776 worn; item 24421/20520/10468/10372/2655/3478/1033/24294 worn; item 10368 worn; item 19936 worn; item 20223 worn		talk Mage of Zamorak					
+cryptic-1473	cryptic	master	npc		1486,3834,0		She's small but can build both literally and figuratively.	Near the blast mine in Lovakengj.				talk Lovada					
+cryptic-1474	cryptic	master	npc		3042,3236,0		Anger those who adhere to Saradomin's edicts to prevent travel.	Port Sarim Docks.				talk Monk of Entrana					
+cryptic-1475	cryptic	master	npc		2878,3546,0		The doorman of the Warriors' Guild wishes to be impressed by how strong your equipment is.	Near the Warriors' Guild.				talk Ghommal					
+cryptic-1476	cryptic	master	npc		1633,3808,0		Shhhh!	Ground floor of Arceuus Library.				talk Logosia					
+cryptic-1477	cryptic	master	npc		2682,3325,0		A chisel and hammer reside in his home, strange for one of magic. Impress him with your magical equipment.	Wizard Cromperty, NE corner of East Ardougne.				talk Wizard Cromperty					
+cryptic-1478	cryptic	master	npc		2982,3336,2		Hopefully this set of armour will help you to keep surviving.	In the White Knight's Castle.		item 6617 worn; item 6625 worn		talk Sir Vyvin					
+cryptic-1479	cryptic	master	npc		1633,3825,2		Darkness wanders around me, but fills my mind with knowledge.	Top floor of Arceuus Library.				talk Biblia					
+cryptic-1480	cryptic	master	coord		3043,4974,1		Fiendish cooks probably won't dig the dirty dishes.	Within the Rogues' Den.		item 952		dig					
+cryptic-1481	cryptic	master	coord		3297,3890,0		Pentagrams and demons, burnt bones and remains, I wonder what the blood contains.	To the east of the Demonic Ruins.		item 952		dig					
+cryptic-1482	cryptic	master	coord		1756,4940,0		Under a giant robotic bird that cannot fly.	By the southern exhibits of Varrock Museum's basement.		item 952		dig					
+cryptic-1483	cryptic	master	coord		3045,10265,0		Great demons, dragons and spiders protect this blue rock, beneath which, you may find what you seek.	Near the runite rock in the Lava Maze Dungeon.		item 952		dig					
+cryptic-1484	cryptic	master	coord		3055,10338,0		Faint sounds of 'Arr', fire giants found deep, the eastern tip of a lake, are the rewards you could reap.	Among the fire giants in the Deep Wilderness Dungeon.		item 952		dig					
+cryptic-1485	cryptic	master	coord		2410,4714,0		If you're feeling brave, dig beneath the dragon's eye.	The mossy rock inside Viyeldi caves.		item 952		dig					
+cryptic-1486	cryptic	master	coord		2874,3757,0		Dig in front of the icy arena where 1 of 4 was fought.	North of Trollheim, where you fought Kamil from Desert Treasure I.		item 952		dig					
+cryptic-1487	cryptic	master	coord		2744,5116,0		The far north eastern corner where 1 of 4 was defeated, the shadows still linger.	North-east corner of the Shadow Dungeon.		item 4657/28327/28329; item 952		dig					
+cryptic-1488	cryptic	master	coord		2914,5300,1		I lie beneath the first descent to the holy encampment.	Saradomin's encampment within the God Wars Dungeon.		item 952		dig					
+cryptic-1489	cryptic	master	coord		2857,2966,0		South of a river in a town surrounded by the undead, what lies beneath the furnace?	Shilo Village furnace.		item 952		dig					
+cryptic-1490	cryptic	master	coord		2671,10396,0		2 musical birds. Dig in front of the spinning light.	Ping and Pong's room inside the Iceberg.		item 952		dig					
+cryptic-1491	cryptic	master	coord		3069,3935,0		Guthix left his mark in a fiery lake, dig at the tip of it.	The lava lake west of the Mage Arena.		item 952		dig					
+cryptic-1492	cryptic	master	coord		2927,3761,0		A massive battle rages beneath so be careful when you dig by the large broken crossbow.	North-east of the God Wars Dungeon entrance.		item 952		dig					
+cryptic-1493	cryptic	master	coord		3303,6092,0		Elvish onions.	The Prifddinas allotments onion patch.		item 952		dig					
+cryptic-1494	cryptic	master	loc		3251,9516,2		Here, there are tears, but nobody is crying. Speak to the guardian and show off your alignment to balance.	In the Lumbridge swamp caves.		item 10382/10454/2673/26473/26475/26477/12639/24171/11663/24183/11664/24184/11665/24185/13336/21786/22169/8474/8692 worn; item 2413/21793/24249/10448/13335/21784/24234 worn; item 10472/11666/11667/11668/11669/11670/11671/11672/11673 worn; item 2416/23330/10442/8841/24181/24144/6760/8660 worn; item 10462/10378/2669/26463/26469/8839/24177/13072/24178 worn; item 23188/2675/26488/3843/3844/22137/8724/8756 worn; item 10466/10380/2671/3480/26465/26471/8840/24179/13073/24180 worn; item 10376/26467/8842/24182 worn; item 19927 worn; item 20226 worn		search <col=ffff00>Juna</col>					
+cryptic-1495	cryptic	master	npc		3293,3933,1;3448,3549,1;3119,9996,0		Come brave adventurer, your sense is on fire. If you talk to me, it's an old god you desire.	In the eastern tower of the Rogue's Castle.		item 4657/28327/28329 worn; item 552/4250/13113/13114/13115 worn		talk Mysterious ghost					
+cryptic-1496	cryptic	master	npc		2437,3347,0		Buried beneath the ground, who knows where it's found. Lucky for you, a man called Jorral may have a clue.	Near Tree Gnome stronghold gates.				talk Jorral					
+cryptic-1497	cryptic	master	npc		1645,3573,0		Buried beneath the ground, who knows where it's found. Lucky for you, a man called Watson may have a clue.	West of Forthos Ruin.				talk Watson					
+cryptic-2278	cryptic	medium	key	2835	2611,3324,1		In a town where thieves steal from stalls, search for some drawers in the upstairs of a house near the bank.	Kill any Guard located around East Ardougne for a medium key. Then search the drawers in the upstairs hallway of Jerico's house, which is the house with pigeon cages located south of the northern East Ardougne bank.		item 2836		key Drawers			2661,3306,0	Guard	2836
+cryptic-2279	cryptic	medium	key	7296	3353,3332,0		The dead, red dragon watches over this chest. He must really dig the view.	Search the chest underneath the Red Dragon's head in the Exam Centre. Kill a MALE Barbarian in Barbarian Village or Barbarian Outpost to receive the key.		item 7297		key Closed chest			3082,3419,0	Barbarian	7297
+cryptic-2280	cryptic	medium	key	2839	2593,3108,1		In a town where wizards are known to gather, search upstairs in a large house to the north.	Search the chest upstairs in the house north of Yanille Wizards' Guild. Kill a man for the key.		item 2840		key Closed chest			2594,3105,0	Man	2840
+cryptic-2281	cryptic	medium	key	7301	3116,9562,0		Probably filled with wizards socks.	Search the drawers in the basement of the Wizard's Tower south of Draynor Village. Kill one of the Wizards for the key. Fairy ring DIS		item 7302		key Drawers			3109,3164,0	Wizard	7302
+cryptic-2282	cryptic	medium	key	2833	2574,3326,1		In a town where the guards are armed with maces, search the upstairs rooms of the Public House.	Search the drawers upstairs in the pub north of Ardougne Castle. Kill a Guard dog at Handelmort Mansion to obtain the key.		item 2834		key Drawers			2635,3313,0	Guard dog	2834
+cryptic-2283	cryptic	medium	key	7298	2512,3641,1		Go to this building to be illuminated, and check the drawers while you are there.	Search the drawers in the first floor of the Lighthouse. Kill a Rellekka marketplace guard to obtain the key.		item 7299		key Drawers			2643,3677,0	Market Guard	7299
+cryptic-2284	cryptic	medium	key	3607	2921,3577,0		Go to the village being attacked by trolls, search the drawers in one of the houses.	Go to Dunstan's house in the north-east corner of Burthorpe. Kill Penda in the Toad and Chicken to obtain the key.		item 3608		key Drawers			2909,3539,0	Penda	3608
+cryptic-2285	cryptic	medium	key	3605	2809,3165,1		Search the upstairs drawers of a house in a village where pirates are known to have a good time.	The house in the south-east corner of Brimhaven, north-east of Davon's Amulet Store. Kill any Pirate located around Brimhaven to obtain the key.		item 3606		key Drawers			2794,3185,0	Pirate	3606
+cryptic-2286	cryptic	medium	key	2837	2709,3478,0		In a town where everyone has perfect vision, seek some locked drawers in a house that sits opposite a workshop.	The Seers' Village house south of the Elemental Workshop entrance. Kill any Chicken to obtain a key.		item 2838		key Drawers			2649,3441,0	Chicken	2838
+cryptic-2287	cryptic	medium	key	19760	1506,3590,2		A graceful man of many colours, his crates must be full of many delights.	Kill any Hill Giant for a medium key. Then search the crate on the top floor of Osten's clothing shop in Shayzien.		item 19761		key Crate			1444,3613,0	Hill Giant	19761
+cryptic-2288	cryptic	medium	key	2831	3256,3487,0		You'll need to look for a town with a central fountain. Look for a locked chest in the town's chapel.	Search the chest by the stairs in the Varrock church. Kill a Monk in Ardougne Monastery to obtain the key.		item 2832		key Closed chest			2615,3209,0	Monk	2832
+cryptic-2289	cryptic	elite	key	19807	2288,4702,0		Scattered coins and gems fill the floor. The chest you seek is in the north east.	Kill the King Black Dragon for a key (elite), and then open the closed chest in the NE corner of the lair.		item 19812		key Closed chest			2273,4695,0	King Black Dragon	19812
+cryptic-2298	cryptic	quest	coord	23067	3230,3209,0		Within the town of Lumbridge lives a man named Bob. He walks out of his door and takes 1 step east, 7 steps north, 5 steps west and 1 step south. Once he arrives, he digs a hole and buries his treasure.	Outside Bob's Axes.		item 952		dig					
+cryptic-3495	cryptic	easy	loc	28913	1560,3048,2		Search the food barrel at the top of the Hunter Guild.	In the Hunter Guild.				search Food pot					
+cryptic-3496	cryptic	medium	npc	28908	1802,9504,0		Are you somewhat entertained?	Inside the Fortis Colosseum.				talk Gloria					
+cryptic-3497	cryptic	elite	npc	28911	1432,9584,1		With drinks and dwarves I make my way, upon my head a glass will stay.	Inside Cam Torum's pub.				talk Funbo					
+cryptic-3597	cryptic	medium	npc	2841,2842	2444,3049,0		Speak to Uglug Nar.	Outside Jiggig, south of Castle Wars.				talk Uglug Nar					
+cryptic-3695	cryptic	easy	coord	29854	1490,3257,0		Dig at a waterfall by the pines in the serpent's shadow.	By the waterfall in Quetzacalli Gorge		item 952		dig					
+cryptic-3696	cryptic	elite	kill	29856	1638,9630,0		Banish a chilling spirit.	Kill a frost nagua.	Frost Nagua@15341239			kill Frost Nagua					
+cryptic-3812	cryptic	easy	coord	29853	1390,2926,0		Dig outside the bank on Aldarin.	Outside the bank on Aldarin		item 952		dig					
+cryptic-5178	cryptic	easy	npc	30928	1367,3367,0		He's been studying unusual tree migrations.	In Auburnvale.				talk Ranulph					
+cryptic-5179	cryptic	medium	loc	30935	1388,3216,0		Search the crate abandoned in the shadow of a mountain's grace.	South of the Auburn Forest.				search Crate					
+cryptic-5180	cryptic	elite	kill	30932	1291,9415,1;1295,9370,0;1333,9378,0		Crush the spirited earth.	Kill an earthen nagua.	Earthen Nagua@15355034			kill Earthen Nagua					
+cryptic-7045	cryptic	hard	coord	31272	2324,2772,0		I sit on the beach and cry for those that have passed on.	On the beach of the Tear of the Soul		item 952		dig					
+cryptic-7046	cryptic	elite	kill	31270	3176,2477,0		Their bane awaits, but don't be going in there without permission.	Kill the shellbane gryphon.			The shellbane gryphon is a boss inside this cave (a solo fight). Wiki: needs 51 Slayer and Troubled Tortugans; bring a tortugan shield; keep the clue in your inventory.	kill Shellbane gryphon					
+emote-2084	emote	beginner	coord		3203,3424,0	3206,3422,0	Blow a raspberry at Aris in her tent. Equip a gold ring and a gold necklace.	Aris' tent.		item 1654 worn; item 1635 worn		emote 19 Raspberry	8254	Aris's tent			
+emote-2085	emote	beginner	coord		3164,3477,0		Bow to Brugsen Bursen at the Grand Exchange.	Next to Brugsen Bursen in the Grand Exchange.				emote 2 Bow					
+emote-2086	emote	beginner	coord		3205,3416,0	3209,3416,0	Cheer at Iffie Nitter. Equip a chef hat and a red cape.	Fine clothes in Varrock.		item 1949 worn; item 1007 worn		emote 7 Cheer	8255	Iffie Nitter in Varrock			
+emote-2087	emote	beginner	coord		3231,3203,0	3233,3200,0	Clap at Bob's Brilliant Axes. Equip a bronze axe and leather boots.	Bob's Axes in Lumbridge.		item 1351 worn; item 1061 worn		emote 20 Clap	8256	Bob's Brilliant Axes in Lumbridge			
+emote-2088	emote	beginner	coord		3300,3314,0		Panic at Al Kharid mine.	Al Kharid mine.				emote 18 Panic					
+emote-2089	emote	beginner	coord		2950,3387,0		Spin at Flynn's Mace Shop.	Flynn's Mace Market in Falador.				emote 14 Spin					
+emote-2090	emote	easy	coord	10216	2607,3282,0	2608,3284,0	Blow a raspberry at the monkey cage in Ardougne Zoo. Equip a studded leather body, bronze platelegs and a normal staff with no orb.	Near the parrots in Ardougne Zoo.		item 1379 worn; item 1133 worn; item 1075 worn		emote 19 Raspberry	5213	Near the parrots in Ardougne Zoo			
+emote-2091	emote	easy	coord	10222	2757,3401,0	2756,3399,0	Blow raspberries outside the entrance to Keep Le Faye. Equip a coif, an iron platebody and leather gloves.	Outside Keep Le Faye.		item 1169 worn; item 1115 worn; item 1059 worn		emote 19 Raspberry	5216	Outside Keep Le Faye			
+emote-2092	emote	easy	coord	10232	3314,3241,0	3316,3242,0	Bow in the office of the Emir's Arena. Equip an iron chain body, leather chaps and coif.	Mubariz's room at the Emir's arena.		item 1169 worn; item 1101 worn; item 1095 worn		emote 2 Bow	5220	Mubariz's room at the Emir's Arena			
+emote-2093	emote	easy	coord	10188	2729,3349,0	2735,3350,0	Bow outside the entrance to the Legends' Guild. Equip iron platelegs, an emerald amulet and an oak longbow.	Outside the Legends' Guild gates.		item 1696 worn; item 845 worn; item 1067 worn		emote 2 Bow	5200	Outside the Legends' Guild gates			
+emote-2094	emote	easy	coord	10210	2924,3478,0	2924,3477,0	Cheer at the Druids' Circle. Equip a blue wizard hat, a bronze two-handed sword and HAM boots.	Taverley stone circle.		item 579 worn; item 1307 worn; item 4310 worn		emote 7 Cheer	5211	Taverley Stone Circle			
+emote-2095	emote	easy	coord	10212	2207,4952,0		Cheer at the games room. Have nothing equipped at all when you do.	Inside the Burthorpe games room.		empty head; empty cape; empty neck; empty weapon; empty body; empty shield; empty legs; empty hands; empty feet; empty ring; empty ammo		emote 7 Cheer					
+emote-2096	emote	easy	coord	10192	3047,3237,0	3050,3237,0	Cheer for the monks at Port Sarim. Equip a coif, steel plateskirt and a sapphire necklace.	Near the Entrana ferry in Port Sarim.		item 1169 worn; item 1656 worn; item 1083 worn		emote 7 Cheer	5202	Near the Entrana ferry in Port Sarim			
+emote-2097	emote	easy	coord	10228	3361,3339,0	3353,3343,0	Clap in the main exam room in the Exam Centre. Equip a white apron, green gnome boots and leather gloves.	Outside the digsite exam centre.		item 1005 worn; item 1059 worn; item 628 worn		emote 20 Clap	5218	Outside the Digsite Exam Centre			
+emote-2098	emote	easy	coord	10182	3113,3196,0	3115,3194,0	Clap on the causeway to the Wizards' Tower. Equip an iron medium helmet, emerald ring and a white apron.	On the bridge to the Misthalin Wizards' Tower.		item 1137 worn; item 1005 worn; item 1639 worn		emote 20 Clap	5197	On the bridge to the Misthalin Wizards' Tower			
+emote-2099	emote	easy	coord	10206	2635,3385,2	2635,3386,2	Clap on the top level of the mill, north of East Ardougne. Equip a blue gnome robe top, HAM robe bottom and an unenchanted tiara.	Upstairs in the Ardougne windmill.		item 5525 worn; item 640 worn; item 4300 worn		emote 20 Clap	5209	Upstairs in the Ardougne windmill			
+emote-2100	emote	easy	coord	10220	2610,3391,0	2608,3393,0	Dance a jig by the entrance to the Fishing Guild. Equip an emerald ring, a sapphire amulet, and a bronze chain body.	Outside the Fishing Guild.		item 1694 worn; item 1103 worn; item 1639 worn		emote 13 Jig	5215	Outside the Fishing Guild			
+emote-2101	emote	easy	coord	10200	3109,3294,0	3111,3289,0	Dance at the crossroads north of Draynor. Equip an iron chain body, a sapphire ring and a longbow.	Crossroads north of Draynor Village.		item 839 worn; item 1101 worn; item 1637 worn		emote 12 Dance	5206	Crossroads north of Draynor Village			
+emote-2102	emote	easy	coord	19831	3165,3467,0	3159,3464,0	Dance at the entrance to the Grand Exchange. Equip a pink skirt, pink robe top and a body tiara.	South of the Grand Exchange.		item 5533 worn; item 636 worn; item 1013 worn		emote 12 Dance	5223	South of the Grand Exchange			
+emote-2103	emote	easy	coord	10208	3045,3376,0	3043,3371,0	Dance in the Party Room. Equip a steel full helmet, steel platebody and an iron plateskirt.	Outside the Falador party room.		item 1157 worn; item 1119 worn; item 1081 worn		emote 12 Dance	5210	Outside the Falador Party Room			
+emote-2104	emote	easy	coord	10180	3203,3169,0	3201,3171,0	Dance in the shack in Lumbridge Swamp. Equip a bronze dagger, iron full helmet and a gold ring.	Near the shed in Lumbridge Swamp.		item 1153 worn; item 1205 worn; item 1635 worn		emote 12 Dance	5196	Near a shed in Lumbridge Swamp			
+emote-2105	emote	easy	coord	19833	3253,3401,0	3252,3404,0	Do a jig in Varrock's rune store. Equip an air tiara and a staff of water.	Aubury's shop in Varrock.		item 5527 worn; item 1383 worn		emote 13 Jig	5224	Aubury's shop in Varrock			
+emote-2106	emote	easy	coord	10194	3299,3289,0	3303,3289,0	Headbang in the mine north of Al Kharid. Equip a desert shirt, leather gloves and leather boots.	Al Kharid mine.		item 1833 worn; item 1059 worn; item 1061 worn		emote 15 Headbang	5203	Al Kharid scorpion mine			
+emote-2107	emote	easy	coord	10214	2759,3445,0	2764,3438,0	Jump for joy at the beehives. Equip a desert shirt, green gnome robe bottoms and a steel axe.	Catherby beehive field.		item 1353 worn; item 1833 worn; item 648 worn		emote 10 Jump for Joy	5212	Catherby beehive field			
+emote-2108	emote	easy	coord	10226	2741,3536,0	2735,3534,0	Laugh at the crossroads south of the Sinclair Mansion. Equip a cowl, a blue wizard robe top and an iron scimitar.	Crossroads south of Sinclair mansion.		item 1167 worn; item 1323 worn; item 577 worn		emote 9 Laugh	5217	Road junction south of Sinclair Mansion			
+emote-2109	emote	easy	coord	10186	3372,3498,0	3373,3498,0	Panic in the Limestone Mine. Equip bronze platelegs, a steel pickaxe and a steel medium helmet.	Limestone mine.		item 1141 worn; item 1269 worn; item 1075 worn		emote 18 Panic	5199	Limestone mine			
+emote-2110	emote	easy	coord	10224	2676,3169,0		Panic on the pier where you catch the Fishing trawler. Have nothing equipped at all when you do.	Port Khazard docks.		empty head; empty cape; empty neck; empty weapon; empty body; empty shield; empty legs; empty hands; empty feet; empty ring; empty ammo		emote 18 Panic					
+emote-2111	emote	easy	coord	10202	2976,3238,0	2976,3239,0	Shrug in the mine near Rimmington. Equip a gold necklace, a gold ring and a bronze spear.	Rimmington mine.		item 1654 worn; item 1237 worn; item 1635 worn		emote 6 Shrug	5207	Rimmington mine			
+emote-2112	emote	easy	coord	10218	2981,3276,0	2981,3278,0	Spin at the crossroads north of Rimmington. Equip a green gnome hat, cream gnome top and leather chaps.	Crossroads north of Rimmington.		item 658 worn; item 642 worn; item 1095 worn		emote 14 Spin	5214	Road junction north of Rimmington			
+emote-2113	emote	easy	coord	10196	3088,3336,0	3089,3331,0	Spin in Draynor Manor by the fountain. Equip an iron platebody, studded leather chaps and a bronze full helmet.	Draynor Manor by the fountain.		item 1155 worn; item 1115 worn; item 1097 worn		emote 14 Spin	5204	Draynor Manor by the fountain			
+emote-2114	emote	easy	coord	12162	3213,3463,0	3211,3456,0	Spin in the Varrock Castle courtyard. Equip a black axe, a coif and a ruby ring.	Outside Varrock Palace courtyard.		item 1169 worn; item 1361 worn; item 1641 worn		emote 14 Spin	5221	Outside Varrock Palace courtyard			
+emote-2115	emote	easy	coord	10198	3159,3298,0	3163,3297,0	Think in middle of the wheat field by the Lumbridge mill. Equip a blue gnome robetop, a turquoise gnome robe bottom and an oak shortbow.	Wheat field near the Lumbridge windmill.		item 843 worn; item 640 worn; item 654 worn		emote 4 Think	5205	Wheat field near the Lumbridge windmill			
+emote-2116	emote	easy	coord	10230	3307,3491,0	3298,3490,0	Wave along the south fence of the Lumber Yard. Equip a hard leather body, leather chaps and a bronze axe.	Near the sawmill operators booth.		item 1351 worn; item 1131 worn; item 1095 worn		emote 5 Wave	5219	Near the Sawmill Operator's booth			
+emote-2117	emote	easy	coord	12164	2945,3335,0	2941,3339,0	Wave in the Falador gem store. Equip a Mithril pickaxe, Black platebody and an Iron Kiteshield.	Near Herquin's shop in Falador.		item 1273 worn; item 1125 worn; item 1191 worn		emote 5 Wave	5222	Near Herquin's shop in Falador			
+emote-2118	emote	easy	coord	10190	2989,3110,0	2988,3111,0	Wave on Mudskipper Point. Equip a black cape, leather chaps and a steel mace.	Mudskipper Point.		item 1019 worn; item 1424 worn; item 1095 worn		emote 5 Wave	5201	Mudskipper Point			
+emote-2119	emote	easy	coord	10184	3083,3253,0	3083,3254,0	Yawn in Draynor marketplace. Equip studded leather chaps, an iron kiteshield and a steel longsword.	Draynor Village market.		item 1295 worn; item 1191 worn; item 1097 worn		emote 11 Yawn	5198	Draynor Village market			
+emote-2120	emote	easy	coord	10204	3209,3492,0	3214,3490,0	Yawn in the Varrock library. Equip a green gnome robe top, HAM robe bottom and an iron warhammer.	Varrock Palace library.		item 1335 worn; item 638 worn; item 4300 worn		emote 11 Yawn	5208	Varrock Palace Library			
+emote-2121	emote	medium	coord	10260	2803,3073,0	2802,3081,0	Beckon in Tai Bwo Wannai. Clap before you talk to me. Equip green dragonhide chaps, a ring of dueling and a mithril medium helmet.	South of the shrine in Tai Bwo Wannai Village.		item 1143 worn; item 1099 worn; item 2552/2554/2556/2558/2560/2562/2564/2566 worn		emote 8 Beckon | 20 Clap	5229	South of the shrine in Tai Bwo Wannai Village			
+emote-2122	emote	medium	coord	10274	3370,3425,0	3370,3420,0	Beckon in the Digsite, near the eastern winch. Bow before you talk to me. Equip a green gnome hat, snakeskin boots and an iron pickaxe.	In the north-east corner of the digsite.		item 658 worn; item 1267 worn; item 6328 worn		emote 8 Beckon | 2 Bow	5236	Digsite			
+emote-2123	emote	medium	coord	19776	1543,3623,0	1541,3631,0	Beckon in the Shayzien Combat Ring. Show your anger before you talk to me. Equip an adamant platebody, adamant full helm and adamant platelegs.	West of the Shayzien combat ring.		item 1161 worn; item 1123 worn; item 1073 worn		emote 8 Beckon | 3 Angry	5245	North of the Shayzien combat ring			
+emote-2124	emote	medium	coord	10264	2552,3556,0	2541,3550,0	Cheer in the Barbarian Agility Arena. Headbang before you talk to me. Equip a steel platebody, maple shortbow and a Wilderness cape.	Barbarian Outpost obstacle course.		item 4315/4317/4319/4321/4323/4325/4327/4329/4331/4333/4335/4337/4339/4341/4343/4345/4347/4349/4351/4353/4355/4357/4359/4361/4363/4365/4367/4369/4371/4373/4375/4377/4379/4381/4383/4385/4387/4389/4391/4393/4395/4397/4399/4401/4403/4405/4407/4409/4411/4413/20211/20214/20217 worn; item 853 worn; item 1119 worn		emote 7 Cheer | 15 Headbang	5231	Barbarian Outpost obstacle course			
+emote-2125	emote	medium	coord	12031	3080,3509,0	3077,3503,0	Cheer in the Edgeville general store. Dance before you talk to me. Equip a brown apron, leather boots and leather gloves.	North of Evil Dave's house in Edgeville.		item 1757 worn; item 1059 worn; item 1061 worn		emote 7 Cheer | 12 Dance	5244	North of Evil Dave's house in Edgeville			
+emote-2126	emote	medium	coord	10272	2527,3375,0	2533,3377,0	Cheer in the Ogre Pen in the Training Camp. Show you are angry before you talk to me. Equip a green dragonhide body and chaps and a steel square shield.	Ogre cage in King Lathas' training camp.		item 1135 worn; item 1177 worn; item 1099 worn		emote 7 Cheer | 3 Angry	5235	Ogre cage in the Ardougne Training Camp			
+emote-2127	emote	medium	coord	12025	2735,3469,0	2731,3475,0	Clap in Seers court house. Spin before you talk to me. Equip an adamant halberd, blue mystic robe bottom and a diamond ring.	Outside the Seer's Village courthouse.		item 3200 worn; item 4093 worn; item 1643 worn		emote 20 Clap | 14 Spin	5241	Outside the Seers' Village courthouse			
+emote-2128	emote	medium	coord	23046	1306,3839,0	1308,3840,0	Clap your hands north of Mount Karuulm Spin before you talk to me. Equip an adamant warhammer, a ring of life and a pair of mithril boots.	North of Mt. Karuulm.		item 1345 worn; item 4127 worn; item 2570 worn		emote 20 Clap | 14 Spin	7970	North of Mount Karuulm			
+emote-2129	emote	medium	coord	10276	2823,3443,0	2825,3441,0	Cry in the Catherby Ranging shop. Bow before you talk to me. Equip blue gnome boots, a hard leather body and an unblessed silver sickle.	Hickton's Archery Emporium.		item 2961 worn; item 1131 worn; item 630 worn		emote 16 Cry | 2 Bow	5237	Hickton's Archery Emporium			
+emote-2130	emote	medium	coord	19780	3128,3245,0	3130,3250,0	Cry in the Draynor Village jail. Jump for joy before you talk to me. Equip an adamant sword, a sapphire amulet and an adamant plateskirt.	Outside Draynor Village jail.		item 1694 worn; item 1287 worn; item 1091 worn		emote 16 Cry | 10 Jump for Joy	5247	Outside Draynor Village jail			
+emote-2131	emote	medium	coord	12027	2852,3429,0	2837,3436,0	Cry on the shore of Catherby beach. Laugh before you talk to me, equip an adamant sq shield, a bone dagger and mithril platebody.	Outside Harry's Fishing Shop in Catherby.		item 8872 worn; item 1121 worn; item 1183 worn		emote 16 Cry | 9 Laugh	5242	Outside Harry's Fishing Shop in Catherby			
+emote-2132	emote	medium	coord	10266	2473,3420,2	2473,3418,2	Cry on top of the western tree in the Gnome Agility Arena. Indicate 'no' before you talk to me. Equip a steel kiteshield, ring of forging and green dragonhide chaps.	Gnome stronghold balancing rope.		item 1193 worn; item 1099 worn; item 2568 worn		emote 16 Cry | 1 No	5232	Gnome Stronghold balancing rope			
+emote-2133	emote	medium	coord	10278	3304,3124,0	3308,3125,0	Dance a jig under Shantay's Awning. Bow before you talk to me. Equip a pointed blue snail helmet, an air staff and a bronze square shield.	Shantay Pass.		item 3343 worn; item 1381 worn; item 1173 worn		emote 13 Jig | 2 Bow	5238	Shantay Pass			
+emote-2134	emote	medium	coord	10254	3492,3488,0	3491,3489,0	Dance in the centre of Canifis. Bow before you talk to me. Equip a green gnome robe top, mithril plate legs and an iron two-handed sword.	Centre of Canifis.		item 1309 worn; item 638 worn; item 1071 worn		emote 12 Dance | 2 Bow	5226	Centre of Canifis			
+emote-2135	emote	medium	coord	12021	3168,9571,0	3167,9570,0	Dance in the dark caves beneath Lumbridge Swamp. Blow a kiss before you talk to me. Equip an air staff, Bronze full helm and an amulet of power.	Lumbridge Swamp caves.		item 1155 worn; item 1731 worn; item 1381 worn; one of (item safe light source | varbit 6533 = 1)		emote 12 Dance | 17 Blow Kiss	5239	Lumbridge Swamp caves			
+emote-2136	emote	medium	coord	12029	2477,5146,0	2479,5146,0	Jump for joy in the TzHaar sword shop. Shrug before you talk to me. Equip a Steel longsword, Blue D'hide body and blue mystic gloves.	TzHaar weapons store.		item 1295 worn; item 2499 worn; item 4095 worn		emote 10 Jump for Joy | 6 Shrug	5243	TzHaar weapons store			
+emote-2137	emote	medium	coord	10268	2610,3092,0	2603,3091,0	Jump for joy in Yanille bank. Dance a jig before you talk to me. Equip a brown apron, adamantite medium helmet and snakeskin chaps.	Outside Yanille bank.		item 1145 worn; item 1757 worn; item 6324 worn		emote 10 Jump for Joy | 13 Jig	5233	Outside Yanille bank			
+emote-2138	emote	medium	coord	10256	3504,3576,0	3500,3575,0	Panic by the mausoleum in Morytania. Wave before you speak to me. Equip a mithril plate skirt, a maple longbow and no boots.	Mausoleum off the Morytania coast.		item 851 worn; item 1085 worn; empty feet		emote 18 Panic | 5 Wave	5227	Mausoleum off the Morytania coast			
+emote-2139	emote	medium	coord	12023	2808,3440,0	2807,3437,0	Shrug in Catherby bank. Yawn before you talk to me. Equip a maple longbow, green d'hide chaps and an iron med helm.	Outside Catherby bank.		item 1137 worn; item 851 worn; item 1099 worn		emote 6 Shrug | 11 Yawn	5240	Outside Catherby bank			
+emote-2140	emote	medium	coord	10258	3105,3420,0	3110,3422,0	Spin on the bridge by the Barbarian Village. Salute before you talk to me. Equip purple gloves, a steel kiteshield and a mithril full helmet.	East of the Barbarian Village bridge.		item 1159 worn; item 1193 worn; item 2942 worn		emote 14 Spin | 21 Salute	5228	East of the Barbarian Village bridge			
+emote-2141	emote	medium	coord	10270	2439,3161,0	2439,3166,0	Think in the centre of the Observatory. Spin before you talk to me. Equip a mithril chain body, green dragonhide chaps and a ruby amulet.	Observatory west of Tree Gnome village.		item 1698 worn; item 1109 worn; item 1099 worn		emote 4 Think | 14 Spin	5234	Observatory			
+emote-2142	emote	medium	coord	10262	2440,3092,0	2444,3093,0	Yawn in the Castle Wars lobby. Shrug before you talk to me. Equip a ruby amulet, a mithril scimitar and a Wilderness cape.	Castle wars bank.		item 4315/4317/4319/4321/4323/4325/4327/4329/4331/4333/4335/4337/4339/4341/4343/4345/4347/4349/4351/4353/4355/4357/4359/4361/4363/4365/4367/4369/4371/4373/4375/4377/4379/4381/4383/4385/4387/4389/4391/4393/4395/4397/4399/4401/4403/4405/4407/4409/4411/4413/20211/20214/20217 worn; item 1698 worn; item 1329 worn		emote 11 Yawn | 6 Shrug	5230	Castle Wars bank			
+emote-2143	emote	medium	coord	19778	1632,3807,0	1642,3809,0	Yawn in the centre of the Arceuus Library. Nod your head before you talk to me. Equip blue dragonhide vambraces, adamant boots and an adamant dagger.	Entrance of the Arceuus library.		item 1211 worn; item 2487 worn; item 4129 worn		emote 11 Yawn | 0 Yes	5246	Entrance of the Arceuus library			
+emote-2144	emote	hard	coord	12544	2954,2933,0	2952,2932,0	Beckon on the east coast of the Kharazi Jungle. Beware of double agents! Equip any vestment stole and a heraldic rune shield.	North-east corner of the Kharazi jungle.		item 10470/10472/10474/12201/12257/12269 worn; item 7336/7342/7348/7354/7360 worn		emote 8 Beckon	5259	North-east corner of the Kharazi Jungle			
+emote-2145	emote	hard	coord	10252	2851,2954,0	2853,2952,0	Blow a kiss between the tables in Shilo Village bank. Beware of double agents! Equip a blue mystic hat, bone spear and rune platebody.	Shilo Village bank.		item 4089 worn; item 5016 worn; item 1127 worn		emote 17 Blow Kiss	5257	Shilo Village bank			
+emote-2146	emote	hard	coord	10236	2588,3419,0	2593,3409,0	Blow a raspberry in the Fishing Guild bank. Beware of double agents! Equip an elemental shield, blue dragonhide chaps and a rune warhammer.	Fishing Guild bank.		item 1347 worn; item 2890 worn; item 2493 worn		emote 19 Raspberry	5250	Fishing Guild bank			
+emote-2147	emote	hard	coord	10238	2511,3641,2	2512,3640,2	Bow at the top of the lighthouse. Beware of double agents! Equip a blue dragonhide body, blue dragonhide vambraces and no jewelry.	Top floor of the lighthouse west of Rellekka.		empty neck; item 2499 worn; item 2487 worn; empty ring		emote 2 Bow	5251	Top floor of the Lighthouse			
+emote-2148	emote	hard	coord	12550	3043,4697,3	3357,2830,0	Cheer at the top of the agility pyramid. Beware of double agents! Equip a blue mystic robe top, and any rune heraldic shield.	Agility pyramid.		item 4091 worn; item 7336/7342/7348/7354/7360 worn		emote 7 Cheer	5262	Agility Pyramid			
+emote-2149	emote	hard	coord	10242	3294,2781,0	3291,2780,0	Dance at the cat-doored pyramid in Sophanem. Beware of double agents! Equip a ring of life, an uncharged amulet of glory and an adamant two-handed sword.	Outside the great pyramid of Sophanem.		item 1704 worn; item 1317 worn; item 2570 worn		emote 12 Dance	5252	Outside the great pyramid of Sophanem			
+emote-2150	emote	hard	coord	12542	3362,3340,0	3356,3333,0	Headbang at the exam centre. Beware of double agents! Equip a mystic fire staff, a diamond bracelet and rune boots.	Inside the digsite exam centre.		item 1401 worn; item 11092 worn; item 4131 worn		emote 15 Headbang	5258	Inside the Digsite Exam Centre			
+emote-2151	emote	hard	coord	12548	2477,3047,0	2478,3048,0	Jig at Jiggig. Beware of double agents! Equip a Rune spear, rune platelegs and any rune heraldic helm.	In the middle of Jiggig.		item 10286/10288/10290/10292/10294 worn; item 1247 worn; item 1079 worn		emote 13 Jig	5261	In the middle of Jiggig			
+emote-2152	emote	hard	coord	10248	2812,3681,0	2810,3677,0	Laugh in Jokul's tent in the Mountain Camp. Beware of double agents! Equip a rune full helmet, blue dragonhide chaps and a fire battlestaff.	Mountain camp goat enclosure.		item 1163 worn; item 1393 worn; item 2493 worn		emote 9 Laugh	5255	Mountain Camp goat enclosure			
+emote-2153	emote	hard	coord	10250	2847,3499,0	2849,3496,0	Panic by the pilot on White Wolf Mountain. Beware of double agents! Equip mithril platelegs, a ring of life and a rune axe.	Gnome glider on White Wolf Mountain.		item 1359 worn; item 1071 worn; item 2570 worn		emote 18 Panic	5256	Gnome Glider on White Wolf Mountain			
+emote-2154	emote	hard	coord	10240	3611,3492,0		Panic in the heart of the Haunted Woods. Beware of double agents! Have no items equipped when you do.	Morytania haunted woods, east of the Fairy ring (ALQ).		empty head; empty cape; empty neck; empty weapon; empty body; empty shield; empty legs; empty hands; empty feet; empty ring; empty ammo		emote 18 Panic					
+emote-2155	emote	hard	coord	12546	3368,3935,0	3368,3930,0	Panic on the Wilderness volcano bridge. Beware of double agents! Equip any headband and crozier.	Volcano in the north-eastern wilderness.		item 2645/2647/2649/12299/12301/12303/12305/12307 worn; item 10440/10442/10444/12199/12263/12275 worn		emote 18 Panic	5260	Volcano in the north-eastern Wilderness			
+emote-2156	emote	hard	coord	10246	2914,3168,0	2909,3169,0	Salute in the banana plantation. Beware of double agents! Equip a diamond ring, amulet of power, and nothing on your chest and legs.	West side of the Karamja banana plantation.		item 1731 worn; empty body; empty legs; item 1643 worn		emote 21 Salute	5254	West side of the Karamja banana plantation			
+emote-2157	emote	hard	coord	12552	1646,3631,0	1646,3632,0	Salute in the centre of the mess hall. Beware of double agents! Equip a rune halberd rune platebody, and an amulet of strength.	Hosidius mess-hall.		item 1725 worn; item 3202 worn; item 1127 worn		emote 21 Salute	5263	Hosidius Mess			
+emote-2158	emote	hard	coord	10234	3241,3672,0	3243,3662,0	Shrug in the woods east of the Level 19 Wilderness Obelisk. Beware of double agents! Equip rune platelegs, an iron platebody and blue dragonhide vambraces.	In the woods east of the Level 19 Wilderness Obelisk.		item 1115 worn; item 1079 worn; item 2487 worn		emote 6 Shrug	5249	Chaos Temple in the south-eastern Wilderness			
+emote-2159	emote	hard	coord	10244	3026,3701,0	3027,3699,0	Yawn in the rogues' general store. Beware of double agents! Equip an adamant square shield, blue dragon vambraces and a rune pickaxe.	Noterazzo's shop in the wilderness.		item 1275 worn; item 1183 worn; item 2487 worn		emote 11 Yawn	5253	Noterazzo's shop in the Wilderness			
+emote-2160	emote	elite	coord	12075	3069,3861,0	3069,3862,0	Blow a kiss in the heart of the lava maze. Equip black dragonhide chaps, a spotted cape and a rolling pin.	Near a ladder in the wilderness lava maze.		item 10073 worn; item 7445 worn; item 2497 worn		emote 17 Blow Kiss	5267	Near a ladder in the Wilderness Lava Maze			
+emote-2161	emote	elite	coord	19789	2728,3377,0	2727,3371,0	Bow on the ground floor of the Legends' Guild. Equip a Cape of Legends, a dragon battleaxe and an amulet of glory.	Outside the Legends' Guild door.		item 1052 worn; item 1704/1706/1708/1710/1712/11976/11978/19707 worn; item 1377/28037 worn		emote 2 Bow	5278	Outside the Legends' Guild door			
+emote-2162	emote	elite	coord	12078	3056,3484,1	3056,3482,0	Bow upstairs in the Edgeville Monastery. Equip a completed prayer book.	South-east corner of the Edgeville monastery.		item 3840/3842/3844/12608/12610/12612/26488/26490/26492/26494/26496/26498 worn		emote 2 Bow	5270	South-east corner of the Monastery			
+emote-2163	emote	elite	coord	12076	2629,5071,0	2629,5070,0	Cheer in the Shadow dungeon. Equip a rune crossbow, climbing boots and any mitre.	Entrance of the cave of Damis.		item 10452/10454/10456/12203/12259/12271 worn; item 9185 worn; item 3105/23413 worn; item 4657/28327/28329		emote 7 Cheer	5268	Entrance of the cave of Damis			
+emote-2164	emote	elite	coord	12079	2782,3273,0	2787,3277,0	Dance on the Fishing Platform. Equip barrows gloves, an amulet of glory and a dragon med helm.	South-east corner of the fishing platform.		item 1149/28057 worn; item 1704/1706/1708/1710/1712/11976/11978/19707 worn; item 7462 worn		emote 12 Dance	5271	South-east corner of the Fishing Platform			
+emote-2165	emote	elite	coord	12080	3421,3537,2	3423,3534,2	Headbang at the top of Slayer Tower. Equip a seercull, a combat bracelet and helm of Neitiznot.	Outside the slayer tower gargoyle room.		item 10828/28070 worn; item 6724 worn; item 11118/11120/11122/11124/11126/11972/11974 worn		emote 15 Headbang	5272	Outside the Slayer Tower gargoyle room			
+emote-2166	emote	elite	coord	19791	2568,3149,0	2571,3150,0	Headbang in the Fight Arena pub. Equip a pirate bandana, a dragonstone necklace and and a magic longbow.	Outside the bar by the Fight Arena.		item 7112/7124/7130/7136/8924/8925/8926/8927 worn; item 1664 worn; item 859 worn		emote 15 Headbang	5280	Outside the bar by the Fight Arena			
+emote-2167	emote	elite	coord	12074	2375,3850,0	2374,3847,0	Jump for joy at the Neitiznot rune rock. Equip Rune boots, a proselyte hauberk and a dragonstone ring.	Near a runite rock in the Fremennik Isles.		item 9674 worn; item 4131 worn; item 1645 worn		emote 10 Jump for Joy	5266	Near a runite rock in the Fremennik Isles			
+emote-2168	emote	elite	coord	12083	1768,5366,1	1764,5367,1	Jump for joy in the Ancient Cavern. Equip a granite shield, splitbark body and any rune heraldic helm.	Entrance of the cavern under the whirlpool.		item 10286/10288/10290/10292/10294 worn; item 3387 worn; item 3122 worn		emote 10 Jump for Joy	5275	Entrance of the cavern under the whirlpool			
+emote-2169	emote	elite	coord	12082	2920,9893,0	2916,9891,0	Laugh by the fountain of heroes. Equip splitbark legs, dragon boots and a Rune longsword.	Fountain of Heroes.		item 1303 worn; item 3389 worn; item 11840/13239/22234/28055/31091/31094/31095/31097 worn		emote 9 Laugh	5274	Fountain of Heroes			
+emote-2170	emote	elite	coord	19790	2666,3304,0	2672,3302,0	Laugh in front of the gem store in Ardougne market. Equip a Castlewars bracelet, a dragonstone amulet and a ring of forging.	Near the gem stall in Ardougne market.		item 1702 worn; item 11079/11081/11083 worn; item 2568 worn		emote 9 Laugh	5279	Near the gem stall in Ardougne market			
+emote-2171	emote	elite	coord	19787	2776,3781,0	2782,3787,0	Panic at the area flowers meet snow. Equip Blue D'hide vambraces, a dragon spear and a rune plateskirt.	Halfway down Trollweiss Mountain.		item 1249/28041 worn; item 1093 worn; item 2487 worn; item 25282		emote 18 Panic	5276	Half-way down Trollweiss Mountain			
+emote-2172	emote	elite	coord	25786	1714,3467,0	1712,3470,0	Salute by the Charcoal Burners. Equip a Farmer's strawhat, Shayzien platebody (5) and Pyromancer robes.	Charcoal burners.		item 13646/13647 worn; item 13381 worn; item 20706 worn		emote 21 Salute	12295	Near the Charcoal Burners			
+emote-2173	emote	elite	coord	12077	2844,3542,0	2844,3537,0	Salute in the Warriors' guild bank. Equip only a black salamander.	Warriors' Guild bank.		empty head; empty cape; empty neck; item 10148 worn; empty body; empty shield; empty legs; empty hands; empty feet; empty ring; empty ammo		emote 21 Salute	5269	Warriors' Guild bank			
+emote-2174	emote	elite	coord	19788	1487,3635,0	1488,3637,0	Shrug in the Shayzien war tent. Equip a blue mystic robe bottom, a rune kiteshield and any bob shirt.	Shayzien war tent.		item 10316/10318/10320/10322/10324 worn; item 1201 worn; item 4093 worn		emote 6 Shrug	5277	Shayzien War Tent			
+emote-2175	emote	elite	coord	12073	2530,3290,0	2527,3294,0	Spin in West Ardougne Church. Equip a dragon spear and red dragonhide chaps.	Chapel in West Ardougne.		item 1249/28041 worn; item 2495 worn		emote 14 Spin	5265	Chapel in West Ardougne			
+emote-2176	emote	elite	coord	12081	2887,3676,0	2886,3676,0	Yawn at the top of Trollheim. Equip a lava battlestaff, black dragonhide vambraces and a mind shield.	On top of Trollheim Mountain.		item 3053/21198 worn; item 9731 worn; item 2491 worn		emote 11 Yawn	5273	On top of Trollheim Mountain			
+emote-2177	emote	master	coord		2211,3427,0	2213,3427,0	Beckon by a collection of crystalline maple trees. Beware of double agents! Equip Bryophyta's staff and a nature tiara.	Crystalline maple trees.		item 5541 worn; item 22368/22370 worn		emote 8 Beckon	8443	North of Prifddinas by several maple trees			
+emote-2178	emote	master	coord		2925,5333,2	2931,5337,2	Blow a kiss outside K'ril Tsutsaroth's chamber. Beware of double agents! Equip a zamorak full helm and the shadow sword.	Outside K'ril Tsutsaroth's room.		item 2657 worn; item 10858 worn		emote 17 Blow Kiss	5296	Outside K'ril Tsutsaroth's room			
+emote-2179	emote	master	coord		2843,3543,0	2845,3545,0	Blow a raspberry in the bank of the Warriors' Guild. Beware of double agents! Equip a dragon battleaxe, a slayer helm of any kind and a dragon defender or avernic defender.	Warriors' Guild bank.		item 11864/11865/19639/19641/19643/19645/19647/19649/21264/21266/21888/21890/23073/23075/24370/24444/25177/25179/25181/25183/25185/25187/25189/25191/25898/25900/25902/25904/25906/25908/25910/25912/25914/26674/26675/26676/26677/26678/26679/26680/26681/26682/26683/26684/29816/29818/29820/29822/33066/33068/33070/33072/33338/33340/33439/33441/33443/33445/33447/33449 worn; item 1377/28037 worn; item 12954/19722/22322/24143/24186/27008/27550/27551/27552/27553 worn		emote 19 Raspberry	5289	Warriors' Guild bank			
+emote-2180	emote	master	coord		2205,3252,0	2198,3257,0	Bow in the Iorwerth Camp. Beware of double agents! Equip a charged crystal bow.	Tent in Lord Iorwerth's encampment.		item 23983/11748/11749/11750/11751/11752/11753/11754/11755/11756/11757/11758/16889/24123/25865/25867/25884/25886/25888/25890/25892/25894/25896/33021 worn		emote 2 Bow	5292	Tent in Lord Iorwerth's encampment			
+emote-2181	emote	master	coord		2852,3349,0	2851,3355,0	Cheer in the Entrana church. Beware of double agents! Equip a full set of black dragonhide armour.	Entrana chapel.		item 2503 worn; item 2497 worn; item 2491 worn		emote 7 Cheer	5290	Entrana Chapel			
+emote-2182	emote	master	coord		3191,3960,0	3186,3958,0	Clap in the magic axe hut. Beware of double agents! Equip only some flared trousers.	Outside the wilderness axe hut.		empty head; empty cape; empty neck; empty weapon; empty body; empty shield; item 10394 worn; empty hands; empty feet; empty ring; empty ammo		emote 20 Clap	5298	Outside the Wilderness axe hut			
+emote-2183	emote	master	coord		2463,5149,0	2466,5150,0	Cry in the TzHaar gem store. Beware of double agents! Equip a fire cape and TokTz-Xil-Ul.	TzHaar gem store.		item 6570/13329/21285/21295/24133/24134/24223/24224 worn; item 6522 worn		emote 16 Cry	5291	TzHaar gem store			
+emote-2184	emote	master	coord		2011,4712,1	2006,4709,1	Dance in Iban's temple. Beware of double agents! Equip Iban's staff, a black mystic top and a black mystic bottom.	Well of Voyage.		item 1409/12658/33330/33332 worn; item 4101 worn; item 4103 worn		emote 12 Dance	5285	Well of Voyage			
+emote-2185	emote	master	coord		2271,4680,0	2286,4680,0	Dance in the King Black Dragon's lair. Beware of double agents! Equip a black dragonhide body, black dragonhide vambraces and a black dragon mask.	King Black Dragon's lair.		item 12524 worn; item 2503 worn; item 2491 worn		emote 12 Dance	5295	King Black Dragon's lair			
+emote-2186	emote	master	coord		3567,3291,0	3547,9690,0	Do a jig at the Barrows chest. Beware of double agents! Equip any full barrows set.	Barrows chest.		item 4708/4860/4856/4857/4858/4859/30445/30543/30519/30525/30531/30537 worn; item 4710/4866/4862/4863/4864/4865/30568/30574/30570/30571/30572/30573 worn; item 4712/4872/4868/4869/4870/4871/30447/30545/30521/30527/30533/30539 worn; item 4714/4878/4874/4875/4876/4877/30449/30547/30523/30529/30535/30541 worn; item 4716/4884/4880/4881/4882/4883 worn; item 4718/4890/4886/4887/4888/4889 worn; item 4720/4896/4892/4893/4894/4895 worn; item 4722/4902/4898/4899/4900/4901 worn; item 4724/4908/4904/4905/4906/4907 worn; item 4726/4914/4910/4911/4912/4913 worn; item 4728/4920/4916/4917/4918/4919 worn; item 4730/4926/4922/4923/4924/4925 worn; item 4732/4932/4928/4929/4930/4931 worn; item 4734/4938/4934/4935/4936/4937 worn; item 4736/4944/4940/4941/4942/4943 worn; item 4738/4950/4946/4947/4948/4949 worn; item 4745/4956/4952/4953/4954/4955 worn; item 4747/4962/4958/4959/4960/4961 worn; item 4749/4968/4964/4965/4966/4967 worn; item 4751/4974/4970/4971/4972/4973 worn; item 4753/4980/4976/4977/4978/4979 worn; item 4755/4986/4982/4983/4984/4985 worn; item 4757/4992/4988/4989/4990/4991 worn; item 4759/4998/4994/4995/4996/4997 worn	Dig with a spade on a brother's mound to enter his crypt. One crypt's sarcophagus leads into the tunnels; the chest room is in the middle of them, and the STASH unit is in the chest room. Digging needs His Faithful Servants started.	emote 13 Jig	5284	Barrows Chest			
+emote-2187	emote	master	coord		2205,4838,0	2210,4842,0	Flap at the Death Altar. Beware of double agents! Equip a death tiara, a legend's cape and any ring of wealth.	Death Altar.		item 5547 worn; item 1052 worn; item 2572/11980/11982/11984/11986/11988/12785/20786/20787/20788/20789/20790 worn		emote 30 Flap	5300	Death Altar			
+emote-2188	emote	master	coord		2956,3505,0	2959,3502,0	Goblin Salute in the Goblin Village. Beware of double agents! Equip a bandos godsword, a bandos cloak and a bandos platebody.	Outside Mudknuckle's hut.		item 12273 worn; item 11804/20370 worn; item 12480 worn		emote 23 Goblin Salute	5293	Outside Mudknuckles' hut			
+emote-2189	emote	master	coord		2199,3056,0	2203,3059,0	Jump for joy in the centre of Zul-Andra. Beware of double agents! Equip a dragon 2h sword, bandos boots and an obsidian cape.	Near the pier in Zul-andra.		item 6568 worn; item 7158/28051 worn; item 11836/21733/26720/28945 worn		emote 10 Jump for Joy	5283	Near the pier in Zul-Andra			
+emote-2190	emote	master	coord		3227,3831,0	3228,3830,0	Panic by the big egg where no one dare goes and the ground is burnt. Beware of double agents! Equip a dragon med helm, a TokTz-Ket-Xil, a brine sabre, rune platebody and an uncharged amulet of glory.	South-east corner of Lava Dragon Isle.		item 1149/28057 worn; item 1704 worn; item 11037 worn; item 1127 worn; item 6524 worn		emote 18 Panic	5282	South-east corner of Lava Dragon Isle			
+emote-2191	emote	master	coord		3088,3254,0	3095,3254,0	Show your anger at the Wise old man. Beware of double agents! Equip an abyssal whip, a legend's cape and some spined chaps.	Behind Miss Schism in Draynor Village.		item 1052 worn; item 4151/12006/12773/12774/26482/26484 worn; item 6135 worn		emote 3 Angry	5301	Behind Miss Schism in Draynor Village			
+emote-2192	emote	master	coord		3230,3478,0	3232,3494,0	Show your anger towards the Statue of Saradomin in Ellamaria's garden. Beware of double agents! Equip a zamorak godsword.	By the bear cage in Varrock Palace gardens.		item 11808/20374 worn		emote 3 Angry	5297	By the bear cage in Varrock Palace gardens			
+emote-2193	emote	master	coord		1663,10045,0	1661,10045,0	Slap your head in the centre of the Kourend catacombs. Beware of double agents! Equip arclight or emberlight along with the amulet of the damned.	Centre of the catacombs of Kourend.		item 12851/12853 worn; item 6400/6402/6404/6406/19675/29589/30305 worn		emote 31 Slap Head	5294	Centre of the Catacombs of Kourend			
+emote-2194	emote	master	coord		1815,3856,0	1810,3855,0	Spin in front of the Soul Altar. Beware of double agents! Equip a dragon pickaxe, helm of neitiznot and a pair of rune boots.	Near the Soul Altar.		item 10828/28070 worn; item 11920/12797/13243/13244/23677/23680/23682/25063/25369/25376/30345/30346/30351 worn; item 4131 worn		emote 14 Spin	5288	Soul Altar			
+emote-2195	emote	master	coord		3030,4522,0	3022,4517,0	Stamp in the Enchanted valley west of the waterfall. Beware of double agents! Equip a dragon axe.	North-western corner of the Enchanted Valley.		item 6739/13241/13242/23673/23675/25066/25371/25378/28217/28220/28223/30347/30348/30352 worn		emote 29 Stamp	5302	North-western corner of the Enchanted Valley			
+emote-2196	emote	master	coord		2930,4717,2	2930,4718,2	Swing a bullroarer at the top of the Watchtower. Beware of double agents! Equip a dragon plateskirt, climbing boots and a dragon chainbody.	Top floor of the Yanille watchtower.		item 716 worn; item 3140/12414/28065 worn; item 4585/12416/28063 worn; item 3105/23413 worn		emote -1 Bull roarer	5299	Top floor of the Yanille Watchtower			
+emote-2197	emote	master	coord		3562,3379,0	3563,3379,0	Wave on the northern wall of Castle Drakan. Beware of double agents! Wear a dragon sq shield, splitbark body and any boater.	Northern wall of Castle Drakan.		item 7319/7321/7323/7325/7327/12309/12311/12313 worn; item 3387 worn; item 1187/12418/28059 worn		emote 5 Wave	5286	Northern wall of Castle Drakan			
+emote-2198	emote	master	coord		1934,4420,3	1951,4431,0	Yawn in the 7th room of Pyramid Plunder. Beware of double agents! Equip a pharaoh sceptre and a full set of menaphite robes.	7th chamber of Jalsavrah.		item 6392 worn; item 26945/26948/26950 worn; item 6394 worn; item 6396/6398 worn; item 6400 worn; item 6402 worn; item 6404/6406 worn	Talk to the Guardian mummy in the lobby to start Pyramid Plunder, then go through the rooms (one tomb door in each room leads on) to room 7, which needs 81 Thieving. The STASH unit is in room 7.	emote 11 Yawn	5287	7th Chamber of Jalsavrah			
+emote-2302	emote	quest	coord	23817	2310,3215,0		Spin outside the western entry to the Underground Pass. Have nothing equipped at all when you do.	Outside the cave entrance to the underground pass in Isfadar.		empty head; empty cape; empty neck; empty weapon; empty body; empty shield; empty legs; empty hands; empty feet; empty ring; empty ammo		emote 14 Spin					
+emote-3507	emote	easy	coord	28914	1712,3163,0	1723,3153,0	Yawn in the Fortis Grand Museum. Equip an emerald necklace, blue skirt and turqoise gnome robe top.	Inside the Fortis Grand Museum		item 1658 worn; item 644 worn; item 1011 worn		emote 11 Yawn	9780	Near the entrance of the Civitas illa Fortis Grand Museum			
+emote-3508	emote	elite	coord	28910	1699,3087,0	1702,3079,0	Bow within the temple in Civitas illa Fortis. Equip any piece of sunfire fanatic armour.	Inside the temple in Civitas illa Fortis		item 28933/28936/28939 worn		emote 2 Bow	9781	Outside the temple in Civitas illa Fortis			
+emote-3509	emote	master	coord		1436,3114,0	1428,3118,0	Salute outside the gates of Cam Torum. Beware of double agents! Equip a full set of Blue Moon equipment.	Outside the gates of Cam Torum		item 29019/29041/29064 worn; item 28988 worn; item 29013/29037/29058 worn; item 29016/29039/29061 worn		emote 21 Salute	9782	South of the gates to Cam Torum			
+emote-3690	emote	medium	coord	29857	1672,3284,0	1668,3287,0	Jump for Joy in the mine near the Twilight Temple. Bow before you talk to me. Equip a maple longbow, a ruby amulet and some steel platelegs.	In the mine near the Twilight Temple		item 1698 worn; item 851 worn; item 1069 worn		emote 10 Jump for Joy | 2 Bow	11415	North of the Twilight Temple			
+emote-3691	emote	medium	coord	29858	1626,3241,0	1629,3239,0	Nod your head where the River Ortus meets the Proudspire. Indicate 'no' before you talk to me. Equip a blue wizard hat, a blue wizard robe and wear nothing on your legs.	Where the River Ortus meets the Proudspire		item 579 worn; item 577 worn; empty legs		emote 0 Yes | 1 No	11416	Where the River Ortus meets the Proudspire			
+emote-3692	emote	hard	coord	29859	1694,3247,0	1693,3243,0	Panic outside the Twilight Temple. Beware of double agents! Equip a rune longsword, rune platebody and a rune plateskirt.	Outside the Twilight Temple		item 1303 worn; item 1127 worn; item 1093 worn		emote 18 Panic	11417	Twilight Temple			
+emote-3693	emote	master	coord		1610,3302,0	1614,3296,0	Think on the western coast of Salvager Overlook. Beware of double agents! Equip a Hueycoatl hide coif and some Hueycoatl hide vambraces.	On the western coast of Salvager Overlook		item 30073 worn; item 30082 worn		emote 4 Think	11030	West side of Salvager Overlook			
+emote-7047	emote	easy	coord	31268	3049,2966,0	3045,2963,0	Dance a jig behind the bar on the Pandemonium. Equip a right eye patch and a bronze scimitar.	Behind the bar at the Pandemonium		item 1025 worn; item 1321 worn		emote 13 Jig	18163	The bar on the Pandemonium			
+emote-7048	emote	elite	coord	31269	2069,2608,0	2072,2608,0	Do the crab dance by the monument on Wintumber Island. Equip a crab helmet and a crab claw.	By the monument on Winumber Island		item 7539 worn; item 7537 worn		emote 55 Crab dance	18164	On Wintumber Island			
+emote-7049	emote	master	coord		1946,4074,0	1952,4074,0	Bow in front of the cave on Brittle Isle. Beware of double agents! Equip a Medallion of the Deep and a rosewood blowpipe.	In front of the cave on Brittle Isle		item 32386 worn; item 31583 worn		emote 2 Bow	18165	On Brittle Isle			
+fairyring-1901	fairyring	hard	coord	19864	2702,3246,0		A I R 2 3 3 1	Near fairy ring (AIR).		item 952		dig					
+fairyring-1902	fairyring	hard	coord	19862	3000,3110,0		A I Q 0 4 4 0	Near fairy ring (AIQ).		item 952		dig					
+fairyring-1903	fairyring	hard	coord	19866	2504,3633,0		A L P 1 1 4 0	Near fairy ring (ALP).		item 952		dig					
+fairyring-1904	fairyring	hard	coord	19872	2439,5132,0		B L P 6 2 0 0	Near fairy ring (BLP).		item 952		dig					
+fairyring-1905	fairyring	hard	coord	19870	2648,4729,0		B J R 1 1 2 3	Near fairy ring (BJR).		item 952		dig					
+fairyring-1906	fairyring	hard	coord	19868	3407,3330,0		B I P 7 0 1 3	Near fairy ring (BIP).		item 952		dig					
+fairyring-1907	fairyring	hard	coord	19880	1630,3868,0		C I S 0 0 0 9	Near fairy ring (CIS).		item 952		dig					
+fairyring-1908	fairyring	hard	coord	19874	2073,4846,0		C K P 0 2 2 4	Near fairy ring (CKP).		item 952		dig					
+fairyring-1909	fairyring	hard	coord	19876	3041,4770,0		D I P 8 5 1 1	Near fairy ring (DIP).		item 952		dig					
+fairyring-1910	fairyring	hard	coord	19878	2747,3720,0		D K S 2 3 1 0	Near fairy ring (DKS).		item 952		dig					
+fairyring-3504	fairyring	hard	coord	28915	1646,3012,0		A J P 3 0 1 5	Near fairy ring (AJP)		item 952		dig					
+falo-1722	falo	master	npc		2689,3550,0		A blood red weapon, a strong curved sword, found on the island of primate lords.	Between Seers' Village and Rellekka. Fairy ring (CJR).		item 4587/20000/28031		talk Falo the Bard					
+falo-1723	falo	master	npc		2689,3550,0		A book that preaches of some great figure, lending strength, might and vigour.	Between Seers' Village and Rellekka. Fairy ring (CJR).		item 3840/3842/3844/12608/12610/12612/26488/26490/26492/26494/26496/26498		talk Falo the Bard					
+falo-1724	falo	master	npc		2689,3550,0		A bow of elven craft was made, it shimmers bright, but will soon fade.	Between Seers' Village and Rellekka. Fairy ring (CJR).		item 23983/24123/23985/25865/25867/25884/25886/25888/25890/25892/25894/25896/33021		talk Falo the Bard					
+falo-1725	falo	master	npc		2689,3550,0		A fiery axe of great inferno, when you use it, you'll wonder where the logs go.	Between Seers' Village and Rellekka. Fairy ring (CJR).		item 13241/25066/30347/13242/25371/30348		talk Falo the Bard					
+falo-1726	falo	master	npc		2689,3550,0		A mark used to increase one's grace, found atop a seer's place.	Between Seers' Village and Rellekka. Fairy ring (CJR).		item 11849		talk Falo the Bard					
+falo-1727	falo	master	npc		2689,3550,0		A molten beast with fiery breath, you acquire these with its death.	Between Seers' Village and Rellekka. Fairy ring (CJR).		item 11943		talk Falo the Bard					
+falo-1728	falo	master	npc		2689,3550,0		A shiny helmet of flight, to obtain this with melee, struggle you might.	Between Seers' Village and Rellekka. Fairy ring (CJR).		item 11826		talk Falo the Bard					
+falo-1729	falo	master	npc		2689,3550,0		A sword held in the other hand, red its colour, Cyclops strength you must withstand.	Between Seers' Village and Rellekka. Fairy ring (CJR).		item 12954/19722/22322/24143/24186/27008/27550/27551/27552/27553		talk Falo the Bard					
+falo-1730	falo	master	npc		2689,3550,0		A token used to kill mythical beasts, in hopes of a blade or just for an xp feast.	Between Seers' Village and Rellekka. Fairy ring (CJR).		item 8851		talk Falo the Bard					
+falo-1731	falo	master	npc		2689,3550,0		Green is my favourite, mature ale I do love, this takes your herblore above.	Between Seers' Village and Rellekka. Fairy ring (CJR).		item 5743		talk Falo the Bard					
+falo-1732	falo	master	npc		2689,3550,0		It can hold down a boat or crush a goat, this object, you see, is quite heavy.	Between Seers' Village and Rellekka. Fairy ring (CJR).		item 10887		talk Falo the Bard					
+falo-1733	falo	master	npc		2689,3550,0		It comes from the ground, underneath the snowy plain. Trolls aplenty, with what looks like a mane.	Between Seers' Village and Rellekka. Fairy ring (CJR).		item 22603		talk Falo the Bard					
+falo-1734	falo	master	npc		2689,3550,0		No attack to wield, only strength is required, made of obsidian, but with no room for a shield.	Between Seers' Village and Rellekka. Fairy ring (CJR).		item 6528/23235		talk Falo the Bard					
+falo-1735	falo	master	npc		2689,3550,0		Penance healers runners and more, obtaining this body often gives much deplore.	Between Seers' Village and Rellekka. Fairy ring (CJR).		item 10551/24175/28067/28069		talk Falo the Bard					
+falo-1736	falo	master	npc		2689,3550,0		Strangely found in a chest, many believe these gloves are the best.	Between Seers' Village and Rellekka. Fairy ring (CJR).		item 7462		talk Falo the Bard					
+falo-1737	falo	master	npc		2689,3550,0		These gloves of white won't help you fight, but aid in cooking, they just might.	Between Seers' Village and Rellekka. Fairy ring (CJR).		item 775		talk Falo the Bard					
+falo-1738	falo	master	npc		2689,3550,0		They come from some time ago, from a land unto the east. Fossilised they have become, this small and gentle beast.	Between Seers' Village and Rellekka. Fairy ring (CJR).		item 21555		talk Falo the Bard					
+falo-1739	falo	master	npc		2689,3550,0		To slay a dragon you must first do, before this chest piece can be put on you.	Between Seers' Village and Rellekka. Fairy ring (CJR).		item 1127		talk Falo the Bard					
+falo-1740	falo	master	npc		2689,3550,0		Vampyres are agile opponents, damaged best with a weapon of many components.	Between Seers' Village and Rellekka. Fairy ring (CJR).		item 7639/7640/7641/7642/7643/7644/7645/7646/7647/7648/22398/24699/33718		talk Falo the Bard					
+falo-7050	falo	master	npc		2689,3550,0		You won't bring me to heel, unless you have a bright red keel.	Between Seers' Village and Rellekka. Fairy ring (CJR).		item 32017		talk Falo the Bard					
+hotcold-685	hotcold	beginner	coord		3096,3379,0			Patch of mushrooms just north-west of Draynor Manor.		item 952		dig					
+hotcold-686	hotcold	beginner	coord		3120,3282,0			Inside the wheat field next to Draynor Village.		item 952		dig					
+hotcold-687	hotcold	beginner	coord		3007,3475,0			Atop Ice Mountain.		item 952		dig					
+hotcold-688	hotcold	beginner	coord		3174,3336,0			Cow field north of Lumbridge.		item 952		dig					
+hotcold-689	hotcold	beginner	coord		3332,3313,0			North-east of Al Kharid Mine.		item 952		dig					
+hotcold-690	hotcold	master	coord		2860,3562,0			North of the Warriors' Guild in Burthorpe.		item 952		dig					
+hotcold-691	hotcold	master	coord		2915,3425,0			East of Jatix's Herblore Shop in Taverley.		item 952		dig					
+hotcold-692	hotcold	master	coord		3033,3438,0			West of Barbarian Village.		item 952		dig					
+hotcold-693	hotcold	master	coord		2972,3486,0			North of Miazrqa's tower, outside Goblin Village.		item 952		dig					
+hotcold-694	hotcold	master	coord		3031,3304,0			In the cow pen north of Sarah's Farming Shop.		item 952		dig					
+hotcold-695	hotcold	master	coord		3030,3364,0			Outside the Falador Party Room.		item 952		dig					
+hotcold-696	hotcold	master	coord		2917,3295,0			Outside the Crafting Guild cow pen.		item 952		dig					
+hotcold-697	hotcold	master	coord		2976,3239,0			In the centre of the Rimmington mine.		item 952		dig					
+hotcold-698	hotcold	master	coord		2987,3110,0			Mudskipper Point, near the starfish in the south-west corner.		item 952		dig					
+hotcold-699	hotcold	master	coord		2910,3615,0			The Troll arena, south of Trollheim.		item 952		dig					
+hotcold-700	hotcold	master	coord		3359,2912,0			West of Nardah genie cave.		item 952		dig					
+hotcold-701	hotcold	master	coord		3279,3263,0			West of Al Kharid mine.		item 952		dig					
+hotcold-702	hotcold	master	coord		3223,2820,0			North of Menaphos gate.		item 952		dig					
+hotcold-703	hotcold	master	coord		3161,3047,0			Bedabin Camp, near the north tent.		item 952		dig					
+hotcold-704	hotcold	master	coord		3432,3105,0			West of Uzer.		item 952		dig					
+hotcold-705	hotcold	master	coord		3288,2976,0			West of Pollnivneach.		item 952		dig					
+hotcold-706	hotcold	master	coord		3345,3293,0			Next to Mage Training Arena.		item 952		dig					
+hotcold-707	hotcold	master	coord		3292,3107,0			South-west of Shantay Pass.		item 952		dig					
+hotcold-708	hotcold	master	coord		3428,2773,0			South-east of the ruins of Ullek.		item 952		dig					
+hotcold-709	hotcold	master	coord		2409,3053,0			West of Jiggig, east of fairy ring (BKP).		item 952		dig					
+hotcold-710	hotcold	master	coord		2586,2897,0			West of the south-easternmost lake in Feldip Hills.		item 952		dig					
+hotcold-711	hotcold	master	coord		2555,2972,0			East of the gnome glider (Lemantolly Undri).		item 952		dig					
+hotcold-712	hotcold	master	coord		2611,2950,0			South of Rantz, west of the empty glass bottles.		item 952		dig					
+hotcold-713	hotcold	master	coord		2486,3007,0			South of Jiggig.		item 952		dig					
+hotcold-714	hotcold	master	coord		2530,2901,0			Outside the red chinchompa hunting ground entrance, south of the Hunting expert's hut.		item 952		dig					
+hotcold-715	hotcold	master	coord		2569,2918,0			South-east of the ?-shaped lake, near the Hunter icon.		item 952		dig					
+hotcold-716	hotcold	master	coord		2451,3112,0			Directly west of the Castle Wars balloon.		item 952		dig					
+hotcold-717	hotcold	master	coord		2800,3669,0			At the Mountain Camp.		item 952		dig					
+hotcold-718	hotcold	master	coord		2720,3784,0			At the Rellekka Hunter area, near the Hunter icon.		item 952		dig					
+hotcold-719	hotcold	master	coord		2711,3689,0			West of the Keldagrim entrance mine.		item 952		dig					
+hotcold-720	hotcold	master	coord		2604,3648,0			Outside the fence in the south-western corner of Rellekka.		item 952		dig					
+hotcold-721	hotcold	master	coord		2585,3601,0			South-east of the Lighthouse.		item 952		dig					
+hotcold-722	hotcold	master	coord		2617,3862,0			South-east of Etceteria's castle.		item 952		dig					
+hotcold-723	hotcold	master	coord		2527,3868,0			Outside Miscellania's courtyard.		item 952		dig					
+hotcold-724	hotcold	master	coord		2374,3850,0			Central Fremennik Isles mine.		item 952		dig					
+hotcold-725	hotcold	master	coord		2313,3850,0			West Fremennik Isles mine.		item 952		dig					
+hotcold-726	hotcold	master	coord		2393,3812,0			West of the Jatizso mine entrance.		item 952		dig					
+hotcold-727	hotcold	master	coord		2211,3817,0			Pirates' Cove.		item 952		dig					
+hotcold-728	hotcold	master	coord		2149,3865,0			Astral Altar.		item 952		dig					
+hotcold-729	hotcold	master	coord		2084,3916,0			Lunar Isle, inside the village.		item 952		dig					
+hotcold-730	hotcold	master	coord		2106,3949,0			Lunar Isle, north of the village.		item 952		dig					
+hotcold-731	hotcold	master	coord		2189,2794,0			Isle of Souls Mine, south of the Soul Wars lobby.		item 952		dig					
+hotcold-732	hotcold	master	coord		2730,3588,0			North-west of the Sinclair Mansion, near the log balance shortcut.		item 952		dig					
+hotcold-733	hotcold	master	coord		2774,3436,0			Catherby, between the bank and the beehives, near small rock formation.		item 952		dig					
+hotcold-734	hotcold	master	coord		2448,3503,0			Grand Tree, just east of the terrorchick gnome enclosure.		item 952		dig					
+hotcold-735	hotcold	master	coord		2732,3485,0			Outside Seers' Village bank.		item 952		dig					
+hotcold-736	hotcold	master	coord		2653,3485,0			McGrubor's Wood.		item 952		dig					
+hotcold-737	hotcold	master	coord		2590,3369,0			South of the Fishing Guild.		item 952		dig					
+hotcold-738	hotcold	master	coord		2707,3306,0			Outside Witchaven, west of Jeb, Holgart, and Caroline.		item 952		dig					
+hotcold-739	hotcold	master	coord		2667,3241,0			Ground floor inside the Necromancer Tower. Easily accessed by using fairy ring code djp.		item 952		dig					
+hotcold-740	hotcold	master	coord		2587,3135,0			South of the Fight Arena, north-west of the Nightmare Zone.		item 952		dig					
+hotcold-741	hotcold	master	coord		2530,3164,0			Tree Gnome Village, near the general store icon.		item 952		dig					
+hotcold-742	hotcold	master	coord		2467,3227,0			Grave of Scorpius.		item 952		dig					
+hotcold-743	hotcold	master	coord		2522,3252,0			Khazard Battlefield, south of Tracker gnome 2.		item 952		dig					
+hotcold-744	hotcold	master	coord		2535,3322,0			West Ardougne, near the staircase outside the Civic Office.		item 952		dig					
+hotcold-745	hotcold	master	coord		2411,3429,0			South-west Tree Gnome Stronghold.		item 952		dig					
+hotcold-746	hotcold	master	coord		2457,3362,0			South of the Tree Gnome Stronghold, north-east of the Outpost.		item 952		dig					
+hotcold-747	hotcold	master	coord		2530,3477,0			South-east of Almera's house on Baxtorian Falls.		item 952		dig					
+hotcold-748	hotcold	master	coord		2540,3548,0			Inside the Barbarian Agility Course. Completion of Alfred Grimhand's Barcrawl is required.		item 952		dig					
+hotcold-749	hotcold	master	coord		2913,3169,0			Musa Point, banana plantation.		item 952		dig					
+hotcold-750	hotcold	master	coord		2782,3215,0			Brimhaven, east of the fruit tree patch.		item 952		dig					
+hotcold-751	hotcold	master	coord		2718,3167,0			West of Brimhaven.		item 952		dig					
+hotcold-752	hotcold	master	coord		2966,2976,0			West of the gnome glider.		item 952		dig					
+hotcold-753	hotcold	master	coord		2904,2925,0			North-eastern part of Kharazi Jungle.		item 952		dig					
+hotcold-754	hotcold	master	coord		2786,2899,0			South-western part of Kharazi Jungle.		item 952		dig					
+hotcold-755	hotcold	master	coord		2909,2737,0			Northern part of Crash Island.		item 952		dig					
+hotcold-756	hotcold	master	coord		3225,3356,0			South of the stone circle near Varrock's entrance.		item 952		dig					
+hotcold-757	hotcold	master	coord		3234,3169,0			Just north-west of the Lumbridge Fishing tutor.		item 952		dig					
+hotcold-758	hotcold	master	coord		3169,3279,0			North of the pond between Lumbridge and Draynor Village.		item 952		dig					
+hotcold-759	hotcold	master	coord		3154,3421,0			North-east of Gertrude's house west of Varrock.		item 952		dig					
+hotcold-760	hotcold	master	coord		3098,3234,0			South of Draynor Village bank.		item 952		dig					
+hotcold-761	hotcold	master	coord		3301,3484,0			South of Lumber Yard, east of Assistant Serf.		item 952		dig					
+hotcold-762	hotcold	master	coord		3546,3252,0			In the north-east area of Burgh de Rott, by the reverse-L-shaped ruins.		item 952		dig					
+hotcold-763	hotcold	master	coord		3604,3326,0			South-western part of Darkmeyer.		item 952		dig					
+hotcold-764	hotcold	master	coord		3611,3485,0			West of Port Phasmatys, south-east of fairy ring.		item 952		dig					
+hotcold-765	hotcold	master	coord		3499,3421,0			Inside The Hollows, south of the bridge which was repaired in a quest.		item 952		dig					
+hotcold-766	hotcold	master	coord		3418,3372,0			Inside the Mort Myre Swamp, north-west of the Nature Grotto.		item 952		dig					
+hotcold-767	hotcold	master	coord		3444,3255,0			At Haunted Mine quest start.		item 952		dig					
+hotcold-768	hotcold	master	coord		3499,3539,0			South of the Morytania Mausoleum.		item 952		dig					
+hotcold-769	hotcold	master	coord		3740,3041,0			Northern area of Mos Le'Harmless, between the lakes.		item 952		dig					
+hotcold-770	hotcold	master	coord		3666,2972,0			Near Mos Le'Harmless southern bar.		item 952		dig					
+hotcold-771	hotcold	master	coord		3811,3569,0			Northern part of Dragontooth Island.		item 952		dig					
+hotcold-772	hotcold	master	coord		3803,3532,0			Southern part of Dragontooth Island.		item 952		dig					
+hotcold-773	hotcold	master	coord		3769,3383,0			North-east of Slepe, near the tents.		item 952		dig					
+hotcold-774	hotcold	master	coord		2297,3529,0			North-west of Eagles' Peak.		item 952		dig					
+hotcold-775	hotcold	master	coord		2334,3685,0			Piscatoris Fishing Colony.		item 952		dig					
+hotcold-776	hotcold	master	coord		2359,3564,0			Eastern part of Piscatoris Hunter area, south-west of the Falconry.		item 952		dig					
+hotcold-777	hotcold	master	coord		2370,3319,0			South-west of the crystal gate to Arandar.		item 952		dig					
+hotcold-778	hotcold	master	coord		2268,3242,0			East of Iorwerth Camp.		item 952		dig					
+hotcold-779	hotcold	master	coord		2177,3282,0			North-west of Iorwerth Camp.		item 952		dig					
+hotcold-780	hotcold	master	coord		2337,3166,0			In Lletya.		item 952		dig					
+hotcold-781	hotcold	master	coord		2206,3158,0			Near Tyras Camp.		item 952		dig					
+hotcold-782	hotcold	master	coord		2196,3057,0			The northern house at Zul-Andra.		item 952		dig					
+hotcold-783	hotcold	master	coord		3173,3556,0			North of the Grand Exchange, level 5 Wilderness.		item 952		dig					
+hotcold-784	hotcold	master	coord		3036,3612,0			South-east of the Dark Warriors' Fortress, level 12 Wilderness.		item 952		dig					
+hotcold-785	hotcold	master	coord		3222,3679,0			East of the Corporeal Beast's lair, level 20 Wilderness.		item 952		dig					
+hotcold-786	hotcold	master	coord		3174,3736,0			Inside the Ruins north of the Graveyard of Shadows, level 27 Wilderness.		item 952		dig					
+hotcold-787	hotcold	master	coord		3377,3737,0			East of Venenatis' nest, level 28 Wilderness.		item 952		dig					
+hotcold-788	hotcold	master	coord		3311,3773,0			North of Venenatis' nest, level 32 Wilderness.		item 952		dig					
+hotcold-789	hotcold	master	coord		3152,3796,0			East of the Wilderness canoe exit, level 35 Wilderness.		item 952		dig					
+hotcold-790	hotcold	master	coord		2974,3814,0			South-east of the Chaos Temple, level 37 Wilderness.		item 952		dig					
+hotcold-791	hotcold	master	coord		3293,3813,0			South of Callisto, level 38 Wilderness.		item 952		dig					
+hotcold-792	hotcold	master	coord		3136,3914,0			South-west of the Deserted Keep, level 49 Wilderness.		item 952		dig					
+hotcold-793	hotcold	master	coord		2981,3944,0			West of the Wilderness Agility Course, level 54 Wilderness.		item 952		dig					
+hotcold-794	hotcold	master	coord		1504,3859,0			Next to the bank in the Lovakengj blast mine.		item 952		dig					
+hotcold-795	hotcold	master	coord		1488,3881,0			Northern part of the Lovakengj blast mine.		item 952		dig					
+hotcold-796	hotcold	master	coord		1507,3819,0			Next to the lovakite furnace in Lovakengj.		item 952		dig					
+hotcold-797	hotcold	master	coord		1477,3778,0			Next to mithril rock in the Lovakengj mine.		item 952		dig					
+hotcold-798	hotcold	master	coord		1428,3869,0			Western entrance in the Lovakengj sulphur mine. Facemask or Slayer Helmet recommended.		item 952		dig					
+hotcold-799	hotcold	master	coord		1498,3627,0			South-east of the bank in Shayzien Encampment.		item 952		dig					
+hotcold-800	hotcold	master	coord		1467,3714,0			Overpass between Lovakengj and Shayzien.		item 952		dig					
+hotcold-801	hotcold	master	coord		1490,3698,0			Within Lizardman Canyon, east of the ladder.		item 952		dig					
+hotcold-802	hotcold	master	coord		1557,3624,0			Shayzien Encampment, south-east of the Combat Ring.		item 952		dig					
+hotcold-803	hotcold	master	coord		1490,3602,0			North of the bank in Shayzien.		item 952		dig					
+hotcold-804	hotcold	master	coord		1603,3843,0			North-west of the Arceuus Library.		item 952		dig					
+hotcold-805	hotcold	master	coord		1682,3792,0			By the entrance to the Arceuus church.		item 952		dig					
+hotcold-806	hotcold	master	coord		1698,3881,0			West of the Dark Altar.		item 952		dig					
+hotcold-807	hotcold	master	coord		1710,3700,0			By the south-eastern entrance to Arceuus.		item 952		dig					
+hotcold-808	hotcold	master	coord		1762,3852,0			By the Arceuus essence mine.		item 952		dig					
+hotcold-809	hotcold	master	coord		1773,3867,0			North-east of the Arceuus essence mine.		item 952		dig					
+hotcold-810	hotcold	master	coord		1768,3705,0			South of the Piscarilius mine.		item 952		dig					
+hotcold-811	hotcold	master	coord		1718,3643,0			South of the gravestone in Kingstown.		item 952		dig					
+hotcold-812	hotcold	master	coord		1656,3621,0			East of the Mess hall.		item 952		dig					
+hotcold-813	hotcold	master	coord		1653,3573,0			East of Watson's house.		item 952		dig					
+hotcold-814	hotcold	master	coord		1807,3523,0			North of Tithe Farm, next to the pond.		item 952		dig					
+hotcold-815	hotcold	master	coord		1208,3736,0			West of the Farming Guild.		item 952		dig					
+hotcold-816	hotcold	master	coord		1324,3722,0			North-east of the Kebos Lowlands, east of the dairy cow.		item 952		dig					
+hotcold-817	hotcold	master	coord		1187,3580,0			South-west of the Kebos Swamp, below the crimson swifts.		item 952		dig					
+hotcold-2297	hotcold	quest	coord	23069	3108,3262,0			Outside Ned's rope store in Draynor village.		item 952		dig					
+hotcold-3487	hotcold	master	coord		1695,2990,0			Amongst the trees at the Locus Oasis in Varlamore		item 952		dig					
+hotcold-3488	hotcold	master	coord		1534,2997,0			Overlooking the Sunset Coast in Varlamore		item 952		dig					
+hotcold-3489	hotcold	master	coord		1680,3107,0			In the centre of the Bazaar in Civitas illa Fortis		item 952		dig					
+hotcold-3689	hotcold	master	coord		1469,2933,0			On the Villa Lucens theatre stage		item 952		dig					
+hotcold-4963	hotcold	master	coord		2078,3665,0			On Buccaneers' Haven		item 952		dig					
+hotcold-5182	hotcold	master	coord		1312,3108,0			In the centre of the Tlati Rainforest		item 952		dig					
+hotcold-7051	hotcold	master	coord		3249,2349,0			In the south-eastern mine of the Great Conch		item 952		dig					
+hotcold-7053	hotcold	master	coord		2139,3562,0			On Drumstick Isle		item 952		dig					
+music-1876	music	easy	npc	23160	2990,3384,0		Alone	On the bridge in Falador Park.				music Cecilia					
+music-1877	music	easy	npc	23159	2990,3384,0		On the Shore	On the bridge in Falador Park.				music Cecilia					
+music-1878	music	easy	npc	23158	2990,3384,0		Rugged Terrain	On the bridge in Falador Park.				music Cecilia					
+music-1879	music	easy	npc	23156	2990,3384,0		Forlorn Homestead, The	On the bridge in Falador Park.				music Cecilia					
+music-1880	music	easy	npc	23157	2990,3384,0		Tiptoe	On the bridge in Falador Park.				music Cecilia					
+music-1881	music	easy	npc	23155	2990,3384,0		Vision	On the bridge in Falador Park.				music Cecilia					
+music-1882	music	medium	npc	23141	2990,3384,0		Catch Me If You Can	On the bridge in Falador Park.				music Cecilia					
+music-1883	music	medium	npc	23142	2990,3384,0		Cave of Beasts	On the bridge in Falador Park.				music Cecilia					
+music-1884	music	medium	npc	23143	2990,3384,0		Devils May Care	On the bridge in Falador Park.				music Cecilia					
+music-1885	music	medium	npc	23139	2990,3384,0		Faerie	On the bridge in Falador Park.				music Cecilia					
+music-1886	music	medium	npc	23140	2990,3384,0		Forgotten	On the bridge in Falador Park.				music Cecilia					
+music-1887	music	medium	npc	23138	2990,3384,0		Karamja Jam	On the bridge in Falador Park.				music Cecilia					
+music-1889	music	hard	npc	23175	2990,3384,0		Complication	On the bridge in Falador Park.				music Cecilia					
+music-1890	music	hard	npc	23180	2990,3384,0		Fossilised	On the bridge in Falador Park.				music Cecilia					
+music-1891	music	hard	npc	23181	2990,3384,0		Hells Bells	On the bridge in Falador Park.				music Cecilia					
+music-1892	music	hard	npc	23179	2990,3384,0		La Mort	On the bridge in Falador Park.				music Cecilia					
+music-1893	music	hard	npc	23177	2990,3384,0		Little Cave of Horrors	On the bridge in Falador Park.				music Cecilia					
+music-1894	music	hard	npc	25792	2990,3384,0		Regal Pomp	On the bridge in Falador Park.				music Cecilia					
+music-1895	music	hard	npc	23178	2990,3384,0		Roc and Roll	On the bridge in Falador Park.				music Cecilia					
+music-1896	music	hard	npc	23174	2990,3384,0		Scorpia Dances	On the bridge in Falador Park.				music Cecilia					
+music-1897	music	hard	npc	23176	2990,3384,0		Subterranea	On the bridge in Falador Park.				music Cecilia					
+music-1898	music	elite	npc	24773	2990,3384,0		Lament for the Hallowed	On the bridge in Falador Park.				music Cecilia					
+music-1899	music	elite	npc	26943	2990,3384,0		Pharaoh, The	On the bridge in Falador Park.				music Cecilia					
+music-3503	music	hard	npc	28918	2990,3384,0		Moons of Ruin, The	On the bridge in Falador Park.				music Cecilia					
+skillchallenge-1811	skillchallenge	beginner	npc		3209,3392,0		I need to give Charlie a cooked trout.	Next to the south entrance of Varrock.				talk Charlie the Tramp					
+skillchallenge-1812	skillchallenge	beginner	npc		3209,3392,0		I need to give Charlie a cooked pike.	Next to the south entrance of Varrock.				talk Charlie the Tramp					
+skillchallenge-1813	skillchallenge	beginner	npc		3209,3392,0		I need to give Charlie a raw herring.	Next to the south entrance of Varrock.				talk Charlie the Tramp					
+skillchallenge-1814	skillchallenge	beginner	npc		3209,3392,0		I need to give Charlie a raw trout.	Next to the south entrance of Varrock.				talk Charlie the Tramp					
+skillchallenge-1815	skillchallenge	beginner	npc		3209,3392,0		I need to give Charlie a piece of iron ore.	Next to the south entrance of Varrock.				talk Charlie the Tramp					
+skillchallenge-1816	skillchallenge	beginner	npc		3209,3392,0		I need to give Charlie one iron dagger.	Next to the south entrance of Varrock.				talk Charlie the Tramp					
+skillchallenge-1817	skillchallenge	beginner	npc		3209,3392,0		I need to give Charlie a leather body.	Next to the south entrance of Varrock.				talk Charlie the Tramp					
+skillchallenge-1818	skillchallenge	beginner	npc		3209,3392,0		I need to give Charlie some leather chaps.	Next to the south entrance of Varrock.				talk Charlie the Tramp					
+skillchallenge-1819	skillchallenge	elite	npc		2733,3415,0		Equip a Dragon Scimitar.	Near Sorcerer's tower in Seers' Village.		Attack 60		talk Sherlock					
+skillchallenge-1820	skillchallenge	elite	npc		2733,3415,0		Enchant a piece of dragonstone jewellery.	Near Sorcerer's tower in Seers' Village.		Magic 68		talk Sherlock					
+skillchallenge-1821	skillchallenge	elite	npc		2733,3415,0		Craft a nature rune.	Near Sorcerer's tower in Seers' Village.		Runecraft 44		talk Sherlock					
+skillchallenge-1822	skillchallenge	elite	npc		2733,3415,0		Catch a mottled eel with aerial fishing in Lake Molch.	Near Sorcerer's tower in Seers' Village.		Fishing 73; Hunter 68		talk Sherlock					
+skillchallenge-1823	skillchallenge	elite	npc		2733,3415,0		Score a goal in skullball.	Near Sorcerer's tower in Seers' Village.		Agility 25		talk Sherlock					
+skillchallenge-1824	skillchallenge	elite	npc		2733,3415,0		Complete a lap of Ape atoll agility course.	Near Sorcerer's tower in Seers' Village.		Agility 48		talk Sherlock					
+skillchallenge-1825	skillchallenge	elite	npc		2733,3415,0		Create a super defence potion.	Near Sorcerer's tower in Seers' Village.		Herblore 66		talk Sherlock					
+skillchallenge-1826	skillchallenge	elite	npc		2733,3415,0		Steal from a chest in Ardougne Castle.	Near Sorcerer's tower in Seers' Village.		Thieving 72		talk Sherlock					
+skillchallenge-1827	skillchallenge	elite	npc		2733,3415,0		Craft a green dragonhide body.	Near Sorcerer's tower in Seers' Village.		Crafting 63		talk Sherlock					
+skillchallenge-1828	skillchallenge	elite	npc		2733,3415,0		String a yew longbow.	Near Sorcerer's tower in Seers' Village.		Fletching 70		talk Sherlock					
+skillchallenge-1829	skillchallenge	elite	npc		2733,3415,0		Slay a dust devil.	Near Sorcerer's tower in Seers' Village.		Slayer 65		talk Sherlock					
+skillchallenge-1830	skillchallenge	elite	npc		2733,3415,0		Catch a black warlock.	Near Sorcerer's tower in Seers' Village.		Hunter 45		talk Sherlock					
+skillchallenge-1831	skillchallenge	elite	npc		2733,3415,0		Catch a red chinchompa.	Near Sorcerer's tower in Seers' Village.		Hunter 63		talk Sherlock					
+skillchallenge-1832	skillchallenge	elite	npc		2733,3415,0		Mine a mithril ore.	Near Sorcerer's tower in Seers' Village.		Mining 55		talk Sherlock					
+skillchallenge-1833	skillchallenge	elite	npc		2733,3415,0		Smith a Mithril 2h Sword.	Near Sorcerer's tower in Seers' Village.		Smithing 64		talk Sherlock					
+skillchallenge-1834	skillchallenge	elite	npc		2733,3415,0		Catch a raw shark.	Near Sorcerer's tower in Seers' Village.		Fishing 76		talk Sherlock					
+skillchallenge-1835	skillchallenge	elite	npc		2733,3415,0		Cut a yew log.	Near Sorcerer's tower in Seers' Village.		Woodcutting 60		talk Sherlock					
+skillchallenge-1836	skillchallenge	elite	npc		2733,3415,0		Fix a magical lamp in Dorgesh-Kaan.	Near Sorcerer's tower in Seers' Village.		Firemaking 52		talk Sherlock					
+skillchallenge-1837	skillchallenge	elite	npc		2733,3415,0		Burn a yew log.	Near Sorcerer's tower in Seers' Village.		Firemaking 60		talk Sherlock					
+skillchallenge-1838	skillchallenge	elite	npc		2733,3415,0		Cook a swordfish	Near Sorcerer's tower in Seers' Village.		Cooking 45		talk Sherlock					
+skillchallenge-1839	skillchallenge	elite	npc		2733,3415,0		Craft multiple cosmic runes from a single essence.	Near Sorcerer's tower in Seers' Village.		Runecraft 59		talk Sherlock					
+skillchallenge-1840	skillchallenge	elite	npc		2733,3415,0		Plant a watermelon seed.	Near Sorcerer's tower in Seers' Village.		Farming 47		talk Sherlock					
+skillchallenge-1841	skillchallenge	elite	npc		2733,3415,0		Activate the Chivalry prayer.	Near Sorcerer's tower in Seers' Village.		Prayer 60; Defence 65		talk Sherlock					
+skillchallenge-1842	skillchallenge	elite	npc		2733,3415,0		Smith a tier 2 or above Shayzien platebody.	Near Sorcerer's tower in Seers' Village.		Smithing 63; Mining 65		talk Sherlock					
+skillchallenge-1843	skillchallenge	master	npc		2733,3415,0		Equip an abyssal whip in front of the abyssal demons of the Slayer Tower.	Near Sorcerer's tower in Seers' Village.		Attack 70		talk Sherlock					
+skillchallenge-1844	skillchallenge	master	npc		2733,3415,0		Smith a runite med helm.	Near Sorcerer's tower in Seers' Village.		Smithing 88		talk Sherlock					
+skillchallenge-1845	skillchallenge	master	npc		2733,3415,0		Teleport to a spirit tree you planted yourself.	Near Sorcerer's tower in Seers' Village.		Farming 83		talk Sherlock					
+skillchallenge-1846	skillchallenge	master	npc		2733,3415,0		Create a Barrows teleport tablet.	Near Sorcerer's tower in Seers' Village.		Magic 83		talk Sherlock					
+skillchallenge-1847	skillchallenge	master	npc		2733,3415,0		Slay a Nechryael in the Slayer Tower.	Near Sorcerer's tower in Seers' Village.		Slayer 80		talk Sherlock					
+skillchallenge-1848	skillchallenge	master	npc		2733,3415,0		Kill the spiritual, magic and godly whilst representing their own god.	Near Sorcerer's tower in Seers' Village.		Slayer 83		talk Sherlock					
+skillchallenge-1849	skillchallenge	master	npc		2733,3415,0		Create an unstrung dragonstone amulet at a furnace.	Near Sorcerer's tower in Seers' Village.		Crafting 80		talk Sherlock					
+skillchallenge-1850	skillchallenge	master	npc		2733,3415,0		Burn a magic log.	Near Sorcerer's tower in Seers' Village.		Firemaking 75		talk Sherlock					
+skillchallenge-1851	skillchallenge	master	npc		2733,3415,0		Burn a redwood log.	Near Sorcerer's tower in Seers' Village.		Firemaking 90		talk Sherlock					
+skillchallenge-1852	skillchallenge	master	npc		2733,3415,0		Complete a lap of the Rellekka rooftop agility course whilst sporting the finest amount of grace.	Near Sorcerer's tower in Seers' Village.		Agility 80		talk Sherlock					
+skillchallenge-1853	skillchallenge	master	npc		2733,3415,0		Mix an anti-venom potion.	Near Sorcerer's tower in Seers' Village.		Herblore 87		talk Sherlock					
+skillchallenge-1854	skillchallenge	master	npc		2733,3415,0		Mine a piece of runite ore whilst sporting the finest mining gear.	Near Sorcerer's tower in Seers' Village.		Mining 85		talk Sherlock					
+skillchallenge-1855	skillchallenge	master	npc		2733,3415,0		Steal a gem from the Ardougne market.	Near Sorcerer's tower in Seers' Village.		Thieving 75		talk Sherlock					
+skillchallenge-1856	skillchallenge	master	npc		2733,3415,0		Pickpocket an elf.	Near Sorcerer's tower in Seers' Village.		Thieving 85		talk Sherlock					
+skillchallenge-1857	skillchallenge	master	npc		2733,3415,0		Bind a blood rune at the Blood Altar.	Near Sorcerer's tower in Seers' Village.		Runecraft 77		talk Sherlock					
+skillchallenge-1858	skillchallenge	master	npc		2733,3415,0		Mix a ranging mix potion.	Near Sorcerer's tower in Seers' Village.		Herblore 80		talk Sherlock					
+skillchallenge-1859	skillchallenge	master	npc		2733,3415,0		Fletch a rune dart.	Near Sorcerer's tower in Seers' Village.		Fletching 81		talk Sherlock					
+skillchallenge-1860	skillchallenge	master	npc		2733,3415,0		Cremate a set of fiyr remains.	Near Sorcerer's tower in Seers' Village.		Firemaking 80		talk Sherlock					
+skillchallenge-1861	skillchallenge	master	npc		2733,3415,0		Dissect a sacred eel.	Near Sorcerer's tower in Seers' Village.		Cooking 72; Fishing 87		talk Sherlock					
+skillchallenge-1862	skillchallenge	master	npc		2733,3415,0		Kill a lizardman shaman.	Near Sorcerer's tower in Seers' Village.				talk Sherlock					
+skillchallenge-1863	skillchallenge	master	npc		2733,3415,0		Angle for an Anglerfish whilst sporting the finest fishing gear.	Near Sorcerer's tower in Seers' Village.		Fishing 82		talk Sherlock					
+skillchallenge-1864	skillchallenge	master	npc		2733,3415,0		Chop a redwood log whilst sporting the finest lumberjack gear.	Near Sorcerer's tower in Seers' Village.		Woodcutting 90		talk Sherlock					
+skillchallenge-1865	skillchallenge	master	npc		2733,3415,0		Craft a light orb in the Dorgesh-Kaan bank.	Near Sorcerer's tower in Seers' Village.		Crafting 87		talk Sherlock					
+skillchallenge-1866	skillchallenge	master	npc		2733,3415,0		Kill a reanimated abyssal.	Near Sorcerer's tower in Seers' Village.		Magic 90; Slayer 85		talk Sherlock					
+skillchallenge-1867	skillchallenge	master	npc		2733,3415,0		Kill a Fiyr shade inside Mort'tons shade catacombs.	Near Sorcerer's tower in Seers' Village.		Firemaking 65		talk Sherlock					
+skillchallenge-1868	skillchallenge	master	none				Combine the torn clue scroll parts.					none					
+skillchallenge-3502	skillchallenge	master	npc		2733,3415,0		Catch a tecu salamander.	Near Sorcerer's tower in Seers' Village.				talk Sherlock					
+skillchallenge-7059	skillchallenge	elite	npc		2733,3415,0		Mine some nickel.	Near Sorcerer's tower in Seers' Village.		Mining 74		talk Sherlock					

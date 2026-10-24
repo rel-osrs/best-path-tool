@@ -1,0 +1,167 @@
+// Developer checks and previews for the Best Path plugin (workspace only: never published to the public plugin repo).
+// Applied from build.gradle below its "workspace only" line. The dev code lives in src/test/java/com/bestpath/dev.
+
+// The plugin's tests may use core's development-only code (core/src/dev: data writers, builders, diagnostics); the
+// plugin jar never contains it.
+sourceSets {
+	test {
+		java {
+			srcDir 'core/src/dev/java'
+		}
+	}
+}
+
+// gradlew run starts the game with Best Path and the dev-only canoe axe probe plugin (temporary; remove with
+// dev/CanoeAxeProbePlugin.java and dev/DevRun.java). The public repo's run uses BestPathPluginTest (Best Path alone),
+// as in RuneLite's plugin template.
+tasks.named('run', JavaExec) {
+	mainClass = 'com.bestpath.dev.DevRun'
+}
+
+// Developer aids (dev-only code in src/test, never in the plugin jar). See docs/PLUGIN_UI.md.
+// Opens only the Best Path sidebar in a window with fake routes: no game client, login or plugin manager.
+tasks.register('uiPreview', JavaExec) {
+	group = 'bestpath'
+	description = 'Opens the Best Path sidebar alone in a window with fake routes (fast UI check)'
+	classpath = sourceSets.test.runtimeClasspath
+	mainClass = 'com.bestpath.dev.UiPreview'
+	maxHeapSize = '256m'
+	// gradlew uiPreview -PexitAfterShow : closes as soon as the window is shown (timing check)
+	if (project.hasProperty('exitAfterShow')) {
+		args '--exit-after-show'
+	}
+	// gradlew uiPreview -Pshot=<file.png> : finds the sample route, saves a picture of the window, closes
+	if (project.hasProperty('shot')) {
+		args '--shot', file(project.property('shot')).absolutePath
+	}
+	// gradlew uiPreview -PrealData : real routes on the exported map data (gradlew -p tool exportPlugin first)
+	if (project.hasProperty('realData')) {
+		args '--real-data'
+	}
+}
+
+// Renders the sidebar states off screen to build/ui-shots/*.png (no window at all).
+tasks.register('uiShot', JavaExec) {
+	group = 'bestpath'
+	description = 'Saves pictures of the Best Path sidebar states to build/ui-shots'
+	classpath = sourceSets.test.runtimeClasspath
+	mainClass = 'com.bestpath.dev.UiShot'
+	maxHeapSize = '256m'
+	jvmArgs '-Djava.awt.headless=true'
+	args layout.buildDirectory.dir('ui-shots').get().asFile.absolutePath
+	// gradlew uiShot -PrealData : also real-*.png, real routes on the exported map data
+	if (project.hasProperty('realData')) {
+		args '--real-data'
+	}
+}
+
+// Pictures of the world map route overlay with sample routes (no game, no map pictures) to build/world-map-shots.
+tasks.register('worldMapShot', JavaExec) {
+	group = 'bestpath'
+	description = 'Saves pictures of the world map route overlay to build/world-map-shots'
+	classpath = sourceSets.test.runtimeClasspath
+	mainClass = 'com.bestpath.dev.WorldMapShot'
+	maxHeapSize = '512m' // the real sailing picture loads the exported map data
+	jvmArgs '-Djava.awt.headless=true'
+	args layout.buildDirectory.dir('world-map-shots').get().asFile.absolutePath
+	outputs.upToDateWhen { false }
+}
+
+// The cache the plugin data was made from: the "cache" line of its manifest, as the Data Tool's DataCache reads it;
+// cache/openrs2-<id> is the downloader's folder name. Without a manifest: the newest downloaded cache.
+def dataCache = { File manifest ->
+	def line = manifest.exists() ? manifest.readLines().find { it.startsWith('cache	') } : null
+	if (line) {
+		return 'cache/openrs2-' + line.split('	')[1]
+	}
+	def ids = (new File(projectDir, 'cache').listFiles() ?: []).findAll { it.name ==~ /openrs2-\d+/ }.collect { it.name.substring(7) as int }
+	return ids ? 'cache/openrs2-' + ids.max() : 'cache/openrs2-none'
+}
+
+// The step cards' pictures for uiPreview / uiShot (dev only; the plugin itself gets them from RuneLite's managers).
+// Lists the items and sprites the sidebar can show (from the exported transports), then the Data Tool draws them from
+// the game cache into build/preview-icons. gradlew previewIcons [-Pcache=<cache folder>] (default: the cache the plugin data was made from)
+tasks.register('previewIconList', JavaExec) {
+	group = 'bestpath'
+	description = 'Lists the item and sprite pictures the sidebar can show (for previewIcons)'
+	classpath = sourceSets.test.runtimeClasspath
+	mainClass = 'com.bestpath.dev.PreviewIconList'
+	maxHeapSize = '512m'
+	args layout.buildDirectory.file('preview-icons/wanted.txt').get().asFile.absolutePath
+	outputs.upToDateWhen { false }
+}
+
+tasks.register('previewIcons', GradleBuild) {
+	group = 'bestpath'
+	description = 'Draws the sidebar pictures from the game cache for uiPreview / uiShot (uses the Data Tool build)'
+	dependsOn 'previewIconList'
+	dir = file('tool')
+	tasks = ['previewIcons']
+	startParameter.projectProperties = [
+		iconCache: file(project.findProperty('cache') ?: dataCache(file('src/main/resources/com/bestpath/data/bestpath-data.txt'))).absolutePath,
+		iconList : layout.buildDirectory.file('preview-icons/wanted.txt').get().asFile.absolutePath,
+		iconOut  : layout.buildDirectory.dir('preview-icons').get().asFile.absolutePath]
+}
+
+// Memory and time of the real map data (dev only): heap after loading the export and after N routes.
+// Needs the export first: gradlew -p tool exportPlugin. gradlew memoryCheck [-Proutes=100]
+tasks.register('memoryCheck', JavaExec) {
+	group = 'bestpath'
+	description = 'Heap kept by the exported map data and the route search, and time per route'
+	classpath = sourceSets.test.runtimeClasspath
+	mainClass = 'com.bestpath.dev.DataMemoryCheck'
+	maxHeapSize = '512m'
+	args project.findProperty('routes') ?: '100'
+	if (project.hasProperty('sailDump'))
+	{
+		systemProperty 'sailDump', project.property('sailDump')
+	}
+	outputs.upToDateWhen { false }
+}
+
+// "No route" explained on the exported data (dev only): a fresh account to random places, each "no route" explained;
+// kinds, time and short-lived memory. gradlew noRouteCheck [-Proutes=100]
+tasks.register('noRouteCheck', JavaExec) {
+	group = 'bestpath'
+	description = 'Explains every no-route of a fresh account to random places on the exported map data'
+	classpath = sourceSets.test.runtimeClasspath
+	mainClass = 'com.bestpath.dev.NoRouteCheck'
+	maxHeapSize = '512m'
+	args project.findProperty('routes') ?: '100'
+	outputs.upToDateWhen { false }
+}
+
+// Clue detection and clue routes on the exported data (dev only): every clue step detected the plugin's way
+// (clue item, or the scroll's text for beginner / master), routed from Lumbridge; counts and times. docs/PLUGIN_CLUES.md
+tasks.register('clueRouteCheck', JavaExec) {
+	group = 'bestpath'
+	description = 'Detects every clue step the way the plugin does and routes to it on the exported map data'
+	classpath = sourceSets.test.runtimeClasspath
+	mainClass = 'com.bestpath.dev.ClueRouteCheck'
+	maxHeapSize = '512m'
+	outputs.upToDateWhen { false }
+}
+
+// Settings tab categories and "avoid" rules on the real exported transports (dev only): counts per category, the
+// effect on random routes, quests with a known progress var. Needs gradlew -p tool exportPlugin. docs/PLUGIN_UI.md
+tasks.register('settingsCheck', JavaExec) {
+	group = 'bestpath'
+	description = 'What each Settings tab choice covers and changes on the exported map data'
+	classpath = sourceSets.test.runtimeClasspath
+	mainClass = 'com.bestpath.dev.SettingsCheck'
+	maxHeapSize = '512m'
+	args project.findProperty('routes') ?: '60'
+	outputs.upToDateWhen { false }
+}
+
+// Quest progress vars (dev only): writes src/main/resources/com/bestpath/player/quest-vars.tsv from Quest Helper's
+// data (used as data with permission). gradlew questVarsExtract -PquestHelper=<folder> [-PquestHelperCommit=<hash>]
+tasks.register('questVarsExtract', JavaExec) {
+	group = 'bestpath'
+	description = 'Writes the quest -> progress varbit / varp table from Quest Helper data (reference/quest-helper)'
+	classpath = sourceSets.test.runtimeClasspath
+	mainClass = 'com.bestpath.dev.QuestVarsExtract'
+	workingDir = projectDir
+	args project.findProperty('questHelper') ?: 'reference/quest-helper', project.findProperty('questHelperCommit') ?: ''
+	outputs.upToDateWhen { false }
+}

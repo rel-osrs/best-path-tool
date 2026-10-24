@@ -1,0 +1,11 @@
+# Example routes for the Route tab ("Example routes" list).
+# One per line:  name | start x,y,plane | destination x,y,plane [| unconfirmed]
+# "unconfirmed" switches on "Use unconfirmed suggestions" for that example.
+
+# The 5 slowest Shortest Path benchmark routes for the Fast search (2026-10-10, measured with Shortest Path's own
+# transports, which the Route tab no longer offers): time per route, then where it went (reverse search / tile search).
+quest-natural-0112: Mining Guild -> Monkey Madness I step (86 ms: reverse 78 / tiles 2; 495 ticks) | 3020,3345,0 | 2773,9144,0
+quest-natural-0047: Stronghold Slayer Cave -> Monkey Madness I step (78 ms: reverse 71 / tiles 2; 495 ticks) | 2462,9827,0 | 2773,9144,0
+geographic-0051: STASH unit 2473,3418 -> Monkey Madness I step (77 ms: reverse 69 / tiles 2; 495 ticks) | 2472,3418,2 | 2773,9144,0
+regression-0013: Wilderness north-centre to east (67 ms: reverse 11 / tiles 52; 102 ticks) | 3182,3946,0 | 3244,3792,0
+gps-natural-0012: Cauldron of Thunder -> Ice Queen's Lair (64 ms: reverse 55 / tiles 4; 361 ticks) | 2895,9833,0 | 2861,9947,0

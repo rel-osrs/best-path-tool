@@ -1,0 +1,56 @@
+# Best Path plugin map data, format 1, made by the Best Path Data Tool.
+# Do not edit these files by hand: the plugin checks every file's size and hash and the fingerprint.
+format	1
+cache	2740	241
+made	2026-10-20T15:15:56Z
+fingerprint	eca0d81699fabc52
+file	movement.bpcm	738282	328d55f1c9e1ad32
+file	doors.bin	8762	5d746b7e85f9082c
+file	walls.bin	244813	1c3e2fe4b75aba17
+file	transports.tsv	728293	0b720ae4360fb0e9
+file	item-groups.tsv	32878	f5d6e5c2c75c7c40
+file	runes.tsv	8229	f8b9e46d4c5b9b98
+file	networks.tsv	12036	557bab2b47337ebd
+file	teleport-categories.tsv	1645	5eae2ffc67b0591f
+file	free-land.tsv	97798	4c6c7bd996116bea
+file	clues.tsv	173374	7f6d52c7a8b176c3
+file	item-group-defaults.tsv	2173	80d8ea7ddfb315fc
+file	sea.bin	53594	5e803810dc98ea7e
+file	boats.tsv	3554	280bd334e738cfdc
+file	banks.tsv	18415	310b60377b7883cc
+file	walks.bin	303096	98d837ced0e5227c
+file	world-maps.tsv	9362	c51c8fde261b088b
+file	wilderness.tsv	9113	5499a0486c9e33a8
+file	places.tsv	7819	cd101e66aed827fd
+file	slayer.tsv	180473	8df75bebf7b758d5
+file	charting.tsv	61875	3b9ef01d89013355
+count	cells	2175
+count	door tiles	2706
+count	wall cells	2401
+count	transports	4701
+count	transports NETWORK	129
+count	transports ONE_WAY	1128
+count	transports TELEPORT	413
+count	transports TWO_WAY	3031
+count	left out on the test list	4
+count	free land tiles per plane	376095
+count	sea channels (crooked water the links miss)	23
+count	sea channels you deleted	79
+count	sea tiles (main ocean)	2458262
+count	sea regions	830
+count	sea tiles with odd boat steps	12
+count	docks	63
+count	docks with a shipwright	16
+count	bank lines	307
+count	place kinds (go to nearest)	13
+count	places (map icons)	610
+count	slayer places	897
+count	boat kinds	4
+count	clue steps	1000
+count	clue steps with a place	999
+count	clue kill areas (Wiki)	80
+count	world maps	52
+count	world map areas	252
+count	wilderness rectangles	518
+count	sea charting tasks	358
+count	walk tables (sub-regions / end tiles)	2965 / 7153

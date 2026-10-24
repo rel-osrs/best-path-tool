@@ -1,0 +1,68 @@
+# Player-owned house: places it can be, and things built in it that move the player (for test players and
+# requirement lines: 'house at <place>', 'house has <thing>'). kind <tab> name <tab> source. Plan step 9 refines this.
+# 'destination' rows are portal destinations: the built thing is 'portal chamber: <destination>' or 'portal nexus: <destination>'.
+place	Rimmington	Wiki: Template:Table/POH locations rev 14751595
+place	Taverley	Wiki: Template:Table/POH locations rev 14751595
+place	Pollnivneach	Wiki: Template:Table/POH locations rev 14751595
+place	Hosidius	Wiki: Template:Table/POH locations rev 14751595
+place	Rellekka	Wiki: Template:Table/POH locations rev 14751595
+place	Aldarin	Wiki: Template:Table/POH locations rev 14751595
+place	Brimhaven	Wiki: Template:Table/POH locations rev 14751595
+place	Yanille	Wiki: Template:Table/POH locations rev 14751595
+place	Prifddinas	Wiki: Template:Table/POH locations rev 14751595
+thing	basic jewellery box	Wiki: Achievement gallery rev 15363195
+thing	fancy jewellery box	Wiki: Achievement gallery rev 15363195
+thing	ornate jewellery box	Wiki: Achievement gallery rev 15363195
+thing	spirit tree	Wiki: Superior garden rev 15283605
+thing	fairy ring	Wiki: Superior garden rev 15283605
+thing	spirit tree & fairy ring	Wiki: Superior garden rev 15283605
+thing	obelisk	Wiki: Superior garden rev 15283605
+thing	mounted glory	Wiki: Hall (quest trophies) rev 15346243: Amulet of Glory (mounted)
+thing	mounted mythical cape	Wiki: Hall (quest trophies) rev 15346243: Mythical cape (mounted)
+thing	mounted digsite pendant	Wiki: Portal nexus rev 15365472
+thing	mounted xeric's talisman	Wiki: Portal nexus rev 15365472
+thing	ancient altar	Wiki: Achievement gallery rev 15363195 (spellbook)
+thing	lunar altar	Wiki: Achievement gallery rev 15363195 (spellbook)
+thing	dark altar	Wiki: Achievement gallery rev 15363195 (spellbook)
+thing	occult altar	Wiki: Achievement gallery rev 15363195 (spellbook)
+destination	Arceuus Library Teleport	Wiki: Portal nexus rev 15365472 (portal chamber: same list for now)
+destination	Draynor Manor Teleport	Wiki: Portal nexus rev 15365472 (portal chamber: same list for now)
+destination	Battlefront Teleport	Wiki: Portal nexus rev 15365472 (portal chamber: same list for now)
+destination	Varrock Teleport	Wiki: Portal nexus rev 15365472 (portal chamber: same list for now)
+destination	Mind Altar Teleport	Wiki: Portal nexus rev 15365472 (portal chamber: same list for now)
+destination	Lumbridge Teleport	Wiki: Portal nexus rev 15365472 (portal chamber: same list for now)
+destination	Respawn Teleport	Wiki: Portal nexus rev 15365472 (portal chamber: same list for now)
+destination	Falador Teleport	Wiki: Portal nexus rev 15365472 (portal chamber: same list for now)
+destination	Salve Graveyard Teleport	Wiki: Portal nexus rev 15365472 (portal chamber: same list for now)
+destination	Camelot Teleport	Wiki: Portal nexus rev 15365472 (portal chamber: same list for now)
+destination	Kourend Castle Teleport	Wiki: Portal nexus rev 15365472 (portal chamber: same list for now)
+destination	Fenkenstrain's Castle Teleport	Wiki: Portal nexus rev 15365472 (portal chamber: same list for now)
+destination	Ardougne Teleport	Wiki: Portal nexus rev 15365472 (portal chamber: same list for now)
+destination	Paddewwa Teleport	Wiki: Portal nexus rev 15365472 (portal chamber: same list for now)
+destination	Watchtower Teleport	Wiki: Portal nexus rev 15365472 (portal chamber: same list for now)
+destination	Senntisten Teleport	Wiki: Portal nexus rev 15365472 (portal chamber: same list for now)
+destination	West Ardougne Teleport	Wiki: Portal nexus rev 15365472 (portal chamber: same list for now)
+destination	Trollheim Teleport	Wiki: Portal nexus rev 15365472 (portal chamber: same list for now)
+destination	Ape Atoll Teleport (standard)	Wiki: Portal nexus rev 15365472 (portal chamber: same list for now)
+destination	Harmony Island Teleport	Wiki: Portal nexus rev 15365472 (portal chamber: same list for now)
+destination	Kharyrll Teleport	Wiki: Portal nexus rev 15365472 (portal chamber: same list for now)
+destination	Teleport to Boat	Wiki: Portal nexus rev 15365472 (portal chamber: same list for now)
+destination	Moonclan Teleport	Wiki: Portal nexus rev 15365472 (portal chamber: same list for now)
+destination	Cemetery Teleport	Wiki: Portal nexus rev 15365472 (portal chamber: same list for now)
+destination	Ourania Teleport	Wiki: Portal nexus rev 15365472 (portal chamber: same list for now)
+destination	Waterbirth Teleport	Wiki: Portal nexus rev 15365472 (portal chamber: same list for now)
+destination	Lassar Teleport	Wiki: Portal nexus rev 15365472 (portal chamber: same list for now)
+destination	Barbarian Teleport	Wiki: Portal nexus rev 15365472 (portal chamber: same list for now)
+destination	Khazard Teleport	Wiki: Portal nexus rev 15365472 (portal chamber: same list for now)
+destination	Dareeyak Teleport	Wiki: Portal nexus rev 15365472 (portal chamber: same list for now)
+destination	Barrows Teleport	Wiki: Portal nexus rev 15365472 (portal chamber: same list for now)
+destination	Carrallanger Teleport	Wiki: Portal nexus rev 15365472 (portal chamber: same list for now)
+destination	Fishing Guild Teleport	Wiki: Portal nexus rev 15365472 (portal chamber: same list for now)
+destination	Catherby Teleport	Wiki: Portal nexus rev 15365472 (portal chamber: same list for now)
+destination	Ice Plateau Teleport	Wiki: Portal nexus rev 15365472 (portal chamber: same list for now)
+destination	Annakarl Teleport	Wiki: Portal nexus rev 15365472 (portal chamber: same list for now)
+destination	Ape Atoll Teleport (Arceuus)	Wiki: Portal nexus rev 15365472 (portal chamber: same list for now)
+destination	Ghorrock Teleport	Wiki: Portal nexus rev 15365472 (portal chamber: same list for now)
+destination	Stony basalt	Wiki: Portal nexus rev 15365472 (portal chamber: same list for now)
+destination	Icy basalt	Wiki: Portal nexus rev 15365472 (portal chamber: same list for now)
+destination	Civitas illa Fortis Teleport	cache #2735: enum 1377 nexus slot 31 and portal chamber objects 50713-50715, 56057 (owner 2026-10-14: add it)
