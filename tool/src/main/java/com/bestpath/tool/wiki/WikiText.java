@@ -8,10 +8,19 @@ import java.util.Map;
 
 /**
  * Reads {@code {{TeleportLocationLine|name=..|x=..|y=..}}} lines from a
- * page's wikitext (or, on a page without them, the {@code {{Map}}}
- * templates under a destination heading), and the kind of page from its
- * first infobox (spell, item, or anything else). Only these templates are
- * read; nothing is guessed from prose.
+ * page's wikitext, and the {@code {{Map}}} templates under a destination
+ * heading (on a page with such lines, only the maps that outline a landing
+ * zone, since the lines already give the exact destinations), and the kind of
+ * page from its first infobox (spell, item, or anything else). Only these
+ * templates are read; nothing is guessed from prose.
+ *
+ * <p>Landing zones: a line's own {@code r} (with no {@code mtype}, or
+ * {@code mtype=square}) is a square of that radius, and {@code mtype=pin} an
+ * exact tile. A line with neither still shows a square on the wiki, because
+ * the template defaults to {@code r=3|mtype=square}; the page doesn't state
+ * it, so such a line is not a zone, only flagged as
+ * {@code templateDefaultZone}. A map's outline ({@code mtype=polygon} and so
+ * on, with several points) keeps its points and its middle.
  */
 final class WikiText
 {
@@ -62,11 +71,25 @@ final class WikiText
 			r.page = title;
 			r.revid = revid;
 			r.how = "{{TeleportLocationLine}}";
+			String shape = p.containsKey("mtype") && !p.get("mtype").isBlank() ? p.get("mtype").trim().toLowerCase(Locale.ROOT) : null;
+			Double radius = decimal(p.get("r"));
+			if (radius != null && (shape == null || shape.equals("square")))
+			{
+				square(r, radius);
+			}
+			else if (shape == null || (shape.equals("square") && radius == null))
+			{
+				r.templateDefaultZone = true;
+			}
 			out.add(r);
 		}
-		if (out.isEmpty())
+		boolean lines = !out.isEmpty();
+		for (WikiTeleportsCli.Record m : mapsUnderDestination(title, revid, kind, text))
 		{
-			out.addAll(mapsUnderDestination(title, revid, kind, text));
+			if (!lines || m.zone)
+			{
+				out.add(m);
+			}
 		}
 		return out;
 	}
@@ -136,16 +159,24 @@ final class WikiText
 		}
 		String mtype = p.getOrDefault("mtype", "pin").trim().toLowerCase(Locale.ROOT);
 		String area = null;
+		List<int[]> outline = null;
+		Double radius = null;
 		if (points.size() > 1 && !mtype.equals("pin"))
 		{
-			// an outline of the landing area (polygon, line...): one destination in its middle
+			// an outline of the landing area (polygon, line...): one destination in its middle, the points kept
 			area = "lands somewhere in an area (" + mtype + " of " + points.size() + " points); its middle is used";
+			outline = new ArrayList<>();
+			for (String[] c : points)
+			{
+				outline.add(new int[]{Integer.parseInt(c[0]), Integer.parseInt(c[1])});
+			}
 			String[] mid = middle(points);
 			points.clear();
 			points.add(mid);
 		}
-		else if (mtype.equals("square") && p.containsKey("r"))
+		else if (mtype.equals("square") && decimal(p.get("r")) != null)
 		{
+			radius = decimal(p.get("r"));
 			area = "lands within " + p.get("r").trim() + " tiles of this point";
 		}
 		int k = 0;
@@ -164,9 +195,34 @@ final class WikiText
 			r.page = title;
 			r.revid = revid;
 			r.how = "{{Map}} under the heading \"" + heading + "\"";
+			if (outline != null)
+			{
+				r.zone = true;
+				r.zoneShape = mtype;
+				r.zonePoints = outline;
+				int reach = 0;
+				for (int[] o : outline)
+				{
+					reach = Math.max(reach, Math.max(Math.abs(o[0] - r.x), Math.abs(o[1] - r.y)));
+				}
+				r.zoneReach = reach;
+			}
+			else if (radius != null)
+			{
+				square(r, radius);
+			}
 			out.add(r);
 			k++;
 		}
+	}
+
+	/** Marks the record as landing within {@code radius} tiles of its point. */
+	private static void square(WikiTeleportsCli.Record r, double radius)
+	{
+		r.zone = true;
+		r.zoneShape = "square";
+		r.zoneRadius = radius;
+		r.zoneReach = (int) Math.floor(radius);
 	}
 
 	/** The rounded middle {x, y} of the points. */
@@ -294,6 +350,23 @@ final class WikiText
 		try
 		{
 			return Integer.parseInt(s.trim());
+		}
+		catch (NumberFormatException e)
+		{
+			return null;
+		}
+	}
+
+	private static Double decimal(String s)
+	{
+		if (s == null)
+		{
+			return null;
+		}
+		try
+		{
+			double d = Double.parseDouble(s.trim());
+			return d >= 0 && !Double.isInfinite(d) ? d : null;
 		}
 		catch (NumberFormatException e)
 		{

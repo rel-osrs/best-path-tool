@@ -1,6 +1,6 @@
 {
   "licence": "Derived from the Old School RuneScape Wiki (https://oldschool.runescape.wiki), CC BY-NC-SA 3.0. Each record names its page and revision. Not covered by the project's BSD-2 licence.",
-  "fetched": "2026-10-10T02:06:48.118460900Z",
+  "fetched": "2026-11-18T02:17:38.519146195Z",
   "template": "TeleportLocationLine",
   "records": [
     {
@@ -13,8 +13,10 @@
       "planeGiven": false,
       "note": "",
       "page": "Amulet of eternal glory",
-      "revid": 15345507,
-      "how": "{{TeleportLocationLine}}"
+      "revid": 15395882,
+      "how": "{{TeleportLocationLine}}",
+      "zone": false,
+      "templateDefaultZone": false
     },
     {
       "group": "Amulet of eternal glory",
@@ -26,8 +28,10 @@
       "planeGiven": false,
       "note": "",
       "page": "Amulet of eternal glory",
-      "revid": 15345507,
-      "how": "{{TeleportLocationLine}}"
+      "revid": 15395882,
+      "how": "{{TeleportLocationLine}}",
+      "zone": false,
+      "templateDefaultZone": false
     },
     {
       "group": "Amulet of eternal glory",
@@ -39,8 +43,10 @@
       "planeGiven": false,
       "note": "",
       "page": "Amulet of eternal glory",
-      "revid": 15345507,
-      "how": "{{TeleportLocationLine}}"
+      "revid": 15395882,
+      "how": "{{TeleportLocationLine}}",
+      "zone": false,
+      "templateDefaultZone": false
     },
     {
       "group": "Amulet of eternal glory",
@@ -52,8 +58,10 @@
       "planeGiven": false,
       "note": "",
       "page": "Amulet of eternal glory",
-      "revid": 15345507,
-      "how": "{{TeleportLocationLine}}"
+      "revid": 15395882,
+      "how": "{{TeleportLocationLine}}",
+      "zone": false,
+      "templateDefaultZone": false
     },
     {
       "group": "Amulet of glory",
@@ -65,8 +73,10 @@
       "planeGiven": false,
       "note": "",
       "page": "Amulet of glory",
-      "revid": 15362926,
-      "how": "{{TeleportLocationLine}}"
+      "revid": 15386867,
+      "how": "{{TeleportLocationLine}}",
+      "zone": false,
+      "templateDefaultZone": false
     },
     {
       "group": "Amulet of glory",
@@ -78,8 +88,10 @@
       "planeGiven": false,
       "note": "",
       "page": "Amulet of glory",
-      "revid": 15362926,
-      "how": "{{TeleportLocationLine}}"
+      "revid": 15386867,
+      "how": "{{TeleportLocationLine}}",
+      "zone": false,
+      "templateDefaultZone": false
     },
     {
       "group": "Amulet of glory",
@@ -91,8 +103,10 @@
       "planeGiven": false,
       "note": "",
       "page": "Amulet of glory",
-      "revid": 15362926,
-      "how": "{{TeleportLocationLine}}"
+      "revid": 15386867,
+      "how": "{{TeleportLocationLine}}",
+      "zone": false,
+      "templateDefaultZone": false
     },
     {
       "group": "Amulet of glory",
@@ -104,8 +118,10 @@
       "planeGiven": false,
       "note": "",
       "page": "Amulet of glory",
-      "revid": 15362926,
-      "how": "{{TeleportLocationLine}}"
+      "revid": 15386867,
+      "how": "{{TeleportLocationLine}}",
+      "zone": false,
+      "templateDefaultZone": false
     },
     {
       "group": "Amulet of glory (t)",
@@ -118,7 +134,9 @@
       "note": "",
       "page": "Amulet of glory (t)",
       "revid": 15359647,
-      "how": "{{TeleportLocationLine}}"
+      "how": "{{TeleportLocationLine}}",
+      "zone": false,
+      "templateDefaultZone": false
     },
     {
       "group": "Amulet of glory (t)",
@@ -131,7 +149,9 @@
       "note": "",
       "page": "Amulet of glory (t)",
       "revid": 15359647,
-      "how": "{{TeleportLocationLine}}"
+      "how": "{{TeleportLocationLine}}",
+      "zone": false,
+      "templateDefaultZone": false
     },
     {
       "group": "Amulet of glory (t)",
@@ -144,7 +164,9 @@
       "note": "",
       "page": "Amulet of glory (t)",
       "revid": 15359647,
-      "how": "{{TeleportLocationLine}}"
+      "how": "{{TeleportLocationLine}}",
+      "zone": false,
+      "templateDefaultZone": false
     },
     {
       "group": "Amulet of glory (t)",
@@ -157,7 +179,9 @@
       "note": "",
       "page": "Amulet of glory (t)",
       "revid": 15359647,
-      "how": "{{TeleportLocationLine}}"
+      "how": "{{TeleportLocationLine}}",
+      "zone": false,
+      "templateDefaultZone": false
     },
     {
       "group": "Amulet of the Eye",
@@ -170,33 +194,9 @@
       "note": "",
       "page": "Amulet of the Eye",
       "revid": 15309207,
-      "how": "{{TeleportLocationLine}}"
-    },
-    {
-      "group": "Annakarl Teleport",
-      "groupKind": "spell",
-      "name": "Annakarl Teleport",
-      "x": 3288,
-      "y": 3888,
-      "plane": 0,
-      "planeGiven": false,
-      "note": "lands within 2 tiles of this point",
-      "page": "Annakarl Teleport",
-      "revid": 15356670,
-      "how": "{{Map}} under the heading \"Destination\""
-    },
-    {
-      "group": "Ape Atoll Teleport (Arceuus)",
-      "groupKind": "spell",
-      "name": "Ape Atoll Teleport (Arceuus)",
-      "x": 2769,
-      "y": 2703,
-      "plane": 0,
-      "planeGiven": false,
-      "note": "lands within 2 tiles of this point",
-      "page": "Ape Atoll Teleport (Arceuus)",
-      "revid": 15356664,
-      "how": "{{Map}} under the heading \"Destination\""
+      "how": "{{TeleportLocationLine}}",
+      "zone": false,
+      "templateDefaultZone": false
     },
     {
       "group": "Ardougne cloak 3",
@@ -209,7 +209,12 @@
       "note": "",
       "page": "Ardougne cloak 3",
       "revid": 15363016,
-      "how": "{{TeleportLocationLine}}"
+      "how": "{{TeleportLocationLine}}",
+      "zone": true,
+      "zoneShape": "square",
+      "zoneRadius": 3.0,
+      "zoneReach": 3,
+      "templateDefaultZone": false
     },
     {
       "group": "Ardougne cloak 3",
@@ -222,7 +227,12 @@
       "note": "",
       "page": "Ardougne cloak 3",
       "revid": 15363016,
-      "how": "{{TeleportLocationLine}}"
+      "how": "{{TeleportLocationLine}}",
+      "zone": true,
+      "zoneShape": "square",
+      "zoneRadius": 3.0,
+      "zoneReach": 3,
+      "templateDefaultZone": false
     },
     {
       "group": "Ardougne cloak 4",
@@ -235,7 +245,12 @@
       "note": "",
       "page": "Ardougne cloak 4",
       "revid": 15363017,
-      "how": "{{TeleportLocationLine}}"
+      "how": "{{TeleportLocationLine}}",
+      "zone": true,
+      "zoneShape": "square",
+      "zoneRadius": 3.0,
+      "zoneReach": 3,
+      "templateDefaultZone": false
     },
     {
       "group": "Ardougne cloak 4",
@@ -248,7 +263,12 @@
       "note": "",
       "page": "Ardougne cloak 4",
       "revid": 15363017,
-      "how": "{{TeleportLocationLine}}"
+      "how": "{{TeleportLocationLine}}",
+      "zone": true,
+      "zoneShape": "square",
+      "zoneRadius": 3.0,
+      "zoneReach": 3,
+      "templateDefaultZone": false
     },
     {
       "group": "Bottle of exile's welcome",
@@ -261,7 +281,9 @@
       "note": "",
       "page": "Bottle of exile's welcome",
       "revid": 15194207,
-      "how": "{{TeleportLocationLine}}"
+      "how": "{{TeleportLocationLine}}",
+      "zone": false,
+      "templateDefaultZone": false
     },
     {
       "group": "Bottle of exile's welcome",
@@ -274,7 +296,9 @@
       "note": "",
       "page": "Bottle of exile's welcome",
       "revid": 15194207,
-      "how": "{{TeleportLocationLine}}"
+      "how": "{{TeleportLocationLine}}",
+      "zone": false,
+      "templateDefaultZone": false
     },
     {
       "group": "Bottle of exile's welcome",
@@ -287,7 +311,9 @@
       "note": "",
       "page": "Bottle of exile's welcome",
       "revid": 15194207,
-      "how": "{{TeleportLocationLine}}"
+      "how": "{{TeleportLocationLine}}",
+      "zone": false,
+      "templateDefaultZone": false
     },
     {
       "group": "Bottle of exile's welcome",
@@ -300,7 +326,9 @@
       "note": "",
       "page": "Bottle of exile's welcome",
       "revid": 15194207,
-      "how": "{{TeleportLocationLine}}"
+      "how": "{{TeleportLocationLine}}",
+      "zone": false,
+      "templateDefaultZone": false
     },
     {
       "group": "Bottle of exile's welcome",
@@ -313,7 +341,9 @@
       "note": "",
       "page": "Bottle of exile's welcome",
       "revid": 15194207,
-      "how": "{{TeleportLocationLine}}"
+      "how": "{{TeleportLocationLine}}",
+      "zone": false,
+      "templateDefaultZone": false
     },
     {
       "group": "Burning amulet",
@@ -325,8 +355,10 @@
       "planeGiven": false,
       "note": "",
       "page": "Burning amulet",
-      "revid": 15188167,
-      "how": "{{TeleportLocationLine}}"
+      "revid": 15386854,
+      "how": "{{TeleportLocationLine}}",
+      "zone": false,
+      "templateDefaultZone": true
     },
     {
       "group": "Burning amulet",
@@ -338,8 +370,13 @@
       "planeGiven": false,
       "note": "",
       "page": "Burning amulet",
-      "revid": 15188167,
-      "how": "{{TeleportLocationLine}}"
+      "revid": 15386854,
+      "how": "{{TeleportLocationLine}}",
+      "zone": true,
+      "zoneShape": "square",
+      "zoneRadius": 2.0,
+      "zoneReach": 2,
+      "templateDefaultZone": false
     },
     {
       "group": "Burning amulet",
@@ -351,8 +388,13 @@
       "planeGiven": false,
       "note": "",
       "page": "Burning amulet",
-      "revid": 15188167,
-      "how": "{{TeleportLocationLine}}"
+      "revid": 15386854,
+      "how": "{{TeleportLocationLine}}",
+      "zone": true,
+      "zoneShape": "square",
+      "zoneRadius": 2.0,
+      "zoneReach": 2,
+      "templateDefaultZone": false
     },
     {
       "group": "Calcified moth",
@@ -365,7 +407,12 @@
       "note": "",
       "page": "Calcified moth",
       "revid": 15340633,
-      "how": "{{TeleportLocationLine}}"
+      "how": "{{TeleportLocationLine}}",
+      "zone": true,
+      "zoneShape": "square",
+      "zoneRadius": 6.0,
+      "zoneReach": 6,
+      "templateDefaultZone": false
     },
     {
       "group": "Camelot Portal",
@@ -378,7 +425,60 @@
       "note": "",
       "page": "Camelot Portal",
       "revid": 15329706,
-      "how": "{{TeleportLocationLine}}"
+      "how": "{{TeleportLocationLine}}",
+      "zone": false,
+      "templateDefaultZone": true
+    },
+    {
+      "group": "Camelot Portal",
+      "groupKind": "other",
+      "name": "Camelot Portal",
+      "x": 2727,
+      "y": 3484,
+      "plane": 0,
+      "planeGiven": false,
+      "note": "lands somewhere in an area (polygon of 8 points); its middle is used",
+      "page": "Camelot Portal",
+      "revid": 15329706,
+      "how": "{{Map}} under the heading \"Teleportation options\"",
+      "zone": true,
+      "zoneShape": "polygon",
+      "zonePoints": [
+        [
+          2724,
+          3487
+        ],
+        [
+          2729,
+          3487
+        ],
+        [
+          2729,
+          3482
+        ],
+        [
+          2728,
+          3482
+        ],
+        [
+          2728,
+          3483
+        ],
+        [
+          2727,
+          3483
+        ],
+        [
+          2727,
+          3484
+        ],
+        [
+          2724,
+          3484
+        ]
+      ],
+      "zoneReach": 3,
+      "templateDefaultZone": false
     },
     {
       "group": "Camelot Teleport",
@@ -391,7 +491,60 @@
       "note": "",
       "page": "Camelot Teleport",
       "revid": 15356635,
-      "how": "{{TeleportLocationLine}}"
+      "how": "{{TeleportLocationLine}}",
+      "zone": false,
+      "templateDefaultZone": true
+    },
+    {
+      "group": "Camelot Teleport",
+      "groupKind": "spell",
+      "name": "Camelot Teleport",
+      "x": 2727,
+      "y": 3484,
+      "plane": 0,
+      "planeGiven": false,
+      "note": "lands somewhere in an area (polygon of 8 points); its middle is used",
+      "page": "Camelot Teleport",
+      "revid": 15356635,
+      "how": "{{Map}} under the heading \"Teleportation options\"",
+      "zone": true,
+      "zoneShape": "polygon",
+      "zonePoints": [
+        [
+          2724,
+          3487
+        ],
+        [
+          2729,
+          3487
+        ],
+        [
+          2729,
+          3482
+        ],
+        [
+          2728,
+          3482
+        ],
+        [
+          2728,
+          3483
+        ],
+        [
+          2727,
+          3483
+        ],
+        [
+          2727,
+          3484
+        ],
+        [
+          2724,
+          3484
+        ]
+      ],
+      "zoneReach": 3,
+      "templateDefaultZone": false
     },
     {
       "group": "Camulet",
@@ -404,7 +557,12 @@
       "note": "",
       "page": "Camulet",
       "revid": 15355566,
-      "how": "{{TeleportLocationLine}}"
+      "how": "{{TeleportLocationLine}}",
+      "zone": true,
+      "zoneShape": "square",
+      "zoneRadius": 2.0,
+      "zoneReach": 2,
+      "templateDefaultZone": false
     },
     {
       "group": "Combat bracelet",
@@ -416,8 +574,10 @@
       "planeGiven": false,
       "note": "",
       "page": "Combat bracelet",
-      "revid": 15320281,
-      "how": "{{TeleportLocationLine}}"
+      "revid": 15386866,
+      "how": "{{TeleportLocationLine}}",
+      "zone": false,
+      "templateDefaultZone": true
     },
     {
       "group": "Combat bracelet",
@@ -429,8 +589,10 @@
       "planeGiven": false,
       "note": "",
       "page": "Combat bracelet",
-      "revid": 15320281,
-      "how": "{{TeleportLocationLine}}"
+      "revid": 15386866,
+      "how": "{{TeleportLocationLine}}",
+      "zone": false,
+      "templateDefaultZone": true
     },
     {
       "group": "Combat bracelet",
@@ -442,8 +604,10 @@
       "planeGiven": false,
       "note": "",
       "page": "Combat bracelet",
-      "revid": 15320281,
-      "how": "{{TeleportLocationLine}}"
+      "revid": 15386866,
+      "how": "{{TeleportLocationLine}}",
+      "zone": false,
+      "templateDefaultZone": true
     },
     {
       "group": "Combat bracelet",
@@ -455,21 +619,10 @@
       "planeGiven": false,
       "note": "",
       "page": "Combat bracelet",
-      "revid": 15320281,
-      "how": "{{TeleportLocationLine}}"
-    },
-    {
-      "group": "Cowbell amulet",
-      "groupKind": "item",
-      "name": "Lumbridge cow field",
-      "x": 3259,
-      "y": 3277,
-      "plane": 0,
-      "planeGiven": false,
-      "note": "",
-      "page": "Cowbell amulet",
-      "revid": 15358637,
-      "how": "{{TeleportLocationLine}}"
+      "revid": 15386866,
+      "how": "{{TeleportLocationLine}}",
+      "zone": false,
+      "templateDefaultZone": true
     },
     {
       "group": "Desert amulet 4",
@@ -481,8 +634,13 @@
       "planeGiven": false,
       "note": "",
       "page": "Desert amulet 4",
-      "revid": 15242227,
-      "how": "{{TeleportLocationLine}}"
+      "revid": 15371906,
+      "how": "{{TeleportLocationLine}}",
+      "zone": true,
+      "zoneShape": "square",
+      "zoneRadius": 1.0,
+      "zoneReach": 1,
+      "templateDefaultZone": false
     },
     {
       "group": "Desert amulet 4",
@@ -494,8 +652,13 @@
       "planeGiven": false,
       "note": "",
       "page": "Desert amulet 4",
-      "revid": 15242227,
-      "how": "{{TeleportLocationLine}}"
+      "revid": 15371906,
+      "how": "{{TeleportLocationLine}}",
+      "zone": true,
+      "zoneShape": "square",
+      "zoneRadius": 2.5,
+      "zoneReach": 2,
+      "templateDefaultZone": false
     },
     {
       "group": "Digsite pendant",
@@ -507,8 +670,10 @@
       "planeGiven": false,
       "note": "",
       "page": "Digsite pendant",
-      "revid": 15302156,
-      "how": "{{TeleportLocationLine}}"
+      "revid": 15386847,
+      "how": "{{TeleportLocationLine}}",
+      "zone": false,
+      "templateDefaultZone": true
     },
     {
       "group": "Digsite pendant",
@@ -520,8 +685,10 @@
       "planeGiven": true,
       "note": "",
       "page": "Digsite pendant",
-      "revid": 15302156,
-      "how": "{{TeleportLocationLine}}"
+      "revid": 15386847,
+      "how": "{{TeleportLocationLine}}",
+      "zone": false,
+      "templateDefaultZone": true
     },
     {
       "group": "Drakan's medallion",
@@ -534,7 +701,9 @@
       "note": "",
       "page": "Drakan's medallion",
       "revid": 15304192,
-      "how": "{{TeleportLocationLine}}"
+      "how": "{{TeleportLocationLine}}",
+      "zone": false,
+      "templateDefaultZone": false
     },
     {
       "group": "Drakan's medallion",
@@ -547,7 +716,9 @@
       "note": "",
       "page": "Drakan's medallion",
       "revid": 15304192,
-      "how": "{{TeleportLocationLine}}"
+      "how": "{{TeleportLocationLine}}",
+      "zone": false,
+      "templateDefaultZone": false
     },
     {
       "group": "Drakan's medallion",
@@ -560,7 +731,9 @@
       "note": "",
       "page": "Drakan's medallion",
       "revid": 15304192,
-      "how": "{{TeleportLocationLine}}"
+      "how": "{{TeleportLocationLine}}",
+      "zone": false,
+      "templateDefaultZone": false
     },
     {
       "group": "Enchanted lyre",
@@ -573,7 +746,12 @@
       "note": "",
       "page": "Enchanted lyre",
       "revid": 15361207,
-      "how": "{{TeleportLocationLine}}"
+      "how": "{{TeleportLocationLine}}",
+      "zone": true,
+      "zoneShape": "square",
+      "zoneRadius": 2.0,
+      "zoneReach": 2,
+      "templateDefaultZone": false
     },
     {
       "group": "Enchanted lyre",
@@ -586,7 +764,9 @@
       "note": "",
       "page": "Enchanted lyre",
       "revid": 15361207,
-      "how": "{{TeleportLocationLine}}"
+      "how": "{{TeleportLocationLine}}",
+      "zone": false,
+      "templateDefaultZone": false
     },
     {
       "group": "Enchanted lyre",
@@ -599,7 +779,9 @@
       "note": "",
       "page": "Enchanted lyre",
       "revid": 15361207,
-      "how": "{{TeleportLocationLine}}"
+      "how": "{{TeleportLocationLine}}",
+      "zone": false,
+      "templateDefaultZone": false
     },
     {
       "group": "Enchanted lyre",
@@ -612,7 +794,9 @@
       "note": "",
       "page": "Enchanted lyre",
       "revid": 15361207,
-      "how": "{{TeleportLocationLine}}"
+      "how": "{{TeleportLocationLine}}",
+      "zone": false,
+      "templateDefaultZone": false
     },
     {
       "group": "Enchanted lyre(i)",
@@ -624,8 +808,13 @@
       "planeGiven": false,
       "note": "",
       "page": "Enchanted lyre(i)",
-      "revid": 15322185,
-      "how": "{{TeleportLocationLine}}"
+      "revid": 15370507,
+      "how": "{{TeleportLocationLine}}",
+      "zone": true,
+      "zoneShape": "square",
+      "zoneRadius": 2.0,
+      "zoneReach": 2,
+      "templateDefaultZone": false
     },
     {
       "group": "Enchanted lyre(i)",
@@ -637,8 +826,10 @@
       "planeGiven": false,
       "note": "",
       "page": "Enchanted lyre(i)",
-      "revid": 15322185,
-      "how": "{{TeleportLocationLine}}"
+      "revid": 15370507,
+      "how": "{{TeleportLocationLine}}",
+      "zone": false,
+      "templateDefaultZone": false
     },
     {
       "group": "Enchanted lyre(i)",
@@ -650,8 +841,10 @@
       "planeGiven": false,
       "note": "",
       "page": "Enchanted lyre(i)",
-      "revid": 15322185,
-      "how": "{{TeleportLocationLine}}"
+      "revid": 15370507,
+      "how": "{{TeleportLocationLine}}",
+      "zone": false,
+      "templateDefaultZone": false
     },
     {
       "group": "Enchanted lyre(i)",
@@ -663,8 +856,10 @@
       "planeGiven": false,
       "note": "",
       "page": "Enchanted lyre(i)",
-      "revid": 15322185,
-      "how": "{{TeleportLocationLine}}"
+      "revid": 15370507,
+      "how": "{{TeleportLocationLine}}",
+      "zone": false,
+      "templateDefaultZone": false
     },
     {
       "group": "Eternal teleport crystal",
@@ -677,7 +872,9 @@
       "note": "",
       "page": "Eternal teleport crystal",
       "revid": 15261005,
-      "how": "{{TeleportLocationLine}}"
+      "how": "{{TeleportLocationLine}}",
+      "zone": false,
+      "templateDefaultZone": true
     },
     {
       "group": "Games necklace",
@@ -689,8 +886,13 @@
       "planeGiven": false,
       "note": "",
       "page": "Games necklace",
-      "revid": 15351957,
-      "how": "{{TeleportLocationLine}}"
+      "revid": 15386826,
+      "how": "{{TeleportLocationLine}}",
+      "zone": true,
+      "zoneShape": "square",
+      "zoneRadius": 2.0,
+      "zoneReach": 2,
+      "templateDefaultZone": false
     },
     {
       "group": "Games necklace",
@@ -702,8 +904,13 @@
       "planeGiven": false,
       "note": "",
       "page": "Games necklace",
-      "revid": 15351957,
-      "how": "{{TeleportLocationLine}}"
+      "revid": 15386826,
+      "how": "{{TeleportLocationLine}}",
+      "zone": true,
+      "zoneShape": "square",
+      "zoneRadius": 3.0,
+      "zoneReach": 3,
+      "templateDefaultZone": false
     },
     {
       "group": "Games necklace",
@@ -715,8 +922,13 @@
       "planeGiven": false,
       "note": "",
       "page": "Games necklace",
-      "revid": 15351957,
-      "how": "{{TeleportLocationLine}}"
+      "revid": 15386826,
+      "how": "{{TeleportLocationLine}}",
+      "zone": true,
+      "zoneShape": "square",
+      "zoneRadius": 4.0,
+      "zoneReach": 4,
+      "templateDefaultZone": false
     },
     {
       "group": "Mokhaiotl waystone",
@@ -729,7 +941,114 @@
       "note": "",
       "page": "Mokhaiotl waystone",
       "revid": 15194020,
-      "how": "{{TeleportLocationLine}}"
+      "how": "{{TeleportLocationLine}}",
+      "zone": false,
+      "templateDefaultZone": true
+    },
+    {
+      "group": "Mounted digsite pendant",
+      "groupKind": "other",
+      "name": "Digsite",
+      "x": 3341,
+      "y": 3445,
+      "plane": 0,
+      "planeGiven": false,
+      "note": "",
+      "page": "Mounted digsite pendant",
+      "revid": 15404423,
+      "how": "{{TeleportLocationLine}}",
+      "zone": false,
+      "templateDefaultZone": true
+    },
+    {
+      "group": "Mounted digsite pendant",
+      "groupKind": "other",
+      "name": "Fossil Island",
+      "x": 3763,
+      "y": 3869,
+      "plane": 1,
+      "planeGiven": true,
+      "note": "",
+      "page": "Mounted digsite pendant",
+      "revid": 15404423,
+      "how": "{{TeleportLocationLine}}",
+      "zone": false,
+      "templateDefaultZone": true
+    },
+    {
+      "group": "Mounted xeric's talisman",
+      "groupKind": "other",
+      "name": "1. Xeric's Lookout, at its entrance south-east of Shayzien.",
+      "x": 1579,
+      "y": 3530,
+      "plane": 0,
+      "planeGiven": false,
+      "note": "",
+      "page": "Mounted xeric's talisman",
+      "revid": 15404422,
+      "how": "{{TeleportLocationLine}}",
+      "zone": false,
+      "templateDefaultZone": false
+    },
+    {
+      "group": "Mounted xeric's talisman",
+      "groupKind": "other",
+      "name": "2. Xeric's Glade, by the magic trees north-east of the Hosidius farming patch.",
+      "x": 1752,
+      "y": 3566,
+      "plane": 0,
+      "planeGiven": false,
+      "note": "",
+      "page": "Mounted xeric's talisman",
+      "revid": 15404422,
+      "how": "{{TeleportLocationLine}}",
+      "zone": false,
+      "templateDefaultZone": false
+    },
+    {
+      "group": "Mounted xeric's talisman",
+      "groupKind": "other",
+      "name": "3. Xeric's Inferno, at the lovakite furnace in the centre of Lovakengj",
+      "x": 1504,
+      "y": 3815,
+      "plane": 0,
+      "planeGiven": false,
+      "note": "",
+      "page": "Mounted xeric's talisman",
+      "revid": 15404422,
+      "how": "{{TeleportLocationLine}}",
+      "zone": false,
+      "templateDefaultZone": false
+    },
+    {
+      "group": "Mounted xeric's talisman",
+      "groupKind": "other",
+      "name": "4. Xeric's Heart, next to the statue at Kourend Castle.",
+      "x": 1644,
+      "y": 3673,
+      "plane": 0,
+      "planeGiven": false,
+      "note": "",
+      "page": "Mounted xeric's talisman",
+      "revid": 15404422,
+      "how": "{{TeleportLocationLine}}",
+      "zone": false,
+      "templateDefaultZone": false
+    },
+    {
+      "group": "Mounted xeric's talisman",
+      "groupKind": "other",
+      "name": "5. Xeric's Honour, at the summit of Mount Quidamortem. Players must use an ancient tablet on the talisman before being able to teleport here.",
+      "x": 1254,
+      "y": 3560,
+      "plane": 0,
+      "planeGiven": false,
+      "note": "",
+      "page": "Mounted xeric's talisman",
+      "revid": 15404422,
+      "how": "{{TeleportLocationLine}}",
+      "zone": false,
+      "templateDefaultZone": false
     },
     {
       "group": "Necklace of passage",
@@ -741,8 +1060,13 @@
       "planeGiven": false,
       "note": "",
       "page": "Necklace of passage",
-      "revid": 15367149,
-      "how": "{{TeleportLocationLine}}"
+      "revid": 15390258,
+      "how": "{{TeleportLocationLine}}",
+      "zone": true,
+      "zoneShape": "square",
+      "zoneRadius": 2.0,
+      "zoneReach": 2,
+      "templateDefaultZone": false
     },
     {
       "group": "Necklace of passage",
@@ -754,8 +1078,10 @@
       "planeGiven": false,
       "note": "",
       "page": "Necklace of passage",
-      "revid": 15367149,
-      "how": "{{TeleportLocationLine}}"
+      "revid": 15390258,
+      "how": "{{TeleportLocationLine}}",
+      "zone": false,
+      "templateDefaultZone": true
     },
     {
       "group": "Necklace of passage",
@@ -767,8 +1093,10 @@
       "planeGiven": false,
       "note": "",
       "page": "Necklace of passage",
-      "revid": 15367149,
-      "how": "{{TeleportLocationLine}}"
+      "revid": 15390258,
+      "how": "{{TeleportLocationLine}}",
+      "zone": false,
+      "templateDefaultZone": true
     },
     {
       "group": "Necklace of passage",
@@ -780,8 +1108,10 @@
       "planeGiven": false,
       "note": "",
       "page": "Necklace of passage",
-      "revid": 15367149,
-      "how": "{{TeleportLocationLine}}"
+      "revid": 15390258,
+      "how": "{{TeleportLocationLine}}",
+      "zone": false,
+      "templateDefaultZone": true
     },
     {
       "group": "Pendant of Ates",
@@ -794,7 +1124,9 @@
       "note": "",
       "page": "Pendant of Ates",
       "revid": 15319355,
-      "how": "{{TeleportLocationLine}}"
+      "how": "{{TeleportLocationLine}}",
+      "zone": false,
+      "templateDefaultZone": false
     },
     {
       "group": "Pendant of Ates",
@@ -807,7 +1139,9 @@
       "note": "",
       "page": "Pendant of Ates",
       "revid": 15319355,
-      "how": "{{TeleportLocationLine}}"
+      "how": "{{TeleportLocationLine}}",
+      "zone": false,
+      "templateDefaultZone": false
     },
     {
       "group": "Pendant of Ates",
@@ -820,7 +1154,9 @@
       "note": "",
       "page": "Pendant of Ates",
       "revid": 15319355,
-      "how": "{{TeleportLocationLine}}"
+      "how": "{{TeleportLocationLine}}",
+      "zone": false,
+      "templateDefaultZone": false
     },
     {
       "group": "Pendant of Ates",
@@ -833,7 +1169,9 @@
       "note": "",
       "page": "Pendant of Ates",
       "revid": 15319355,
-      "how": "{{TeleportLocationLine}}"
+      "how": "{{TeleportLocationLine}}",
+      "zone": false,
+      "templateDefaultZone": false
     },
     {
       "group": "Pendant of Ates",
@@ -846,7 +1184,9 @@
       "note": "",
       "page": "Pendant of Ates",
       "revid": 15319355,
-      "how": "{{TeleportLocationLine}}"
+      "how": "{{TeleportLocationLine}}",
+      "zone": false,
+      "templateDefaultZone": false
     },
     {
       "group": "Pendant of Ates",
@@ -859,7 +1199,9 @@
       "note": "",
       "page": "Pendant of Ates",
       "revid": 15319355,
-      "how": "{{TeleportLocationLine}}"
+      "how": "{{TeleportLocationLine}}",
+      "zone": false,
+      "templateDefaultZone": false
     },
     {
       "group": "Pharaoh's sceptre",
@@ -871,8 +1213,10 @@
       "planeGiven": true,
       "note": "",
       "page": "Pharaoh's sceptre",
-      "revid": 15368598,
-      "how": "{{TeleportLocationLine}}"
+      "revid": 15374164,
+      "how": "{{TeleportLocationLine}}",
+      "zone": false,
+      "templateDefaultZone": false
     },
     {
       "group": "Pharaoh's sceptre",
@@ -884,8 +1228,10 @@
       "planeGiven": true,
       "note": "",
       "page": "Pharaoh's sceptre",
-      "revid": 15368598,
-      "how": "{{TeleportLocationLine}}"
+      "revid": 15374164,
+      "how": "{{TeleportLocationLine}}",
+      "zone": false,
+      "templateDefaultZone": false
     },
     {
       "group": "Pharaoh's sceptre",
@@ -897,8 +1243,136 @@
       "planeGiven": true,
       "note": "",
       "page": "Pharaoh's sceptre",
-      "revid": 15368598,
-      "how": "{{TeleportLocationLine}}"
+      "revid": 15374164,
+      "how": "{{TeleportLocationLine}}",
+      "zone": false,
+      "templateDefaultZone": false
+    },
+    {
+      "group": "Respawn Teleport",
+      "groupKind": "spell",
+      "name": "Lumbridge",
+      "x": 3221,
+      "y": 3219,
+      "plane": 0,
+      "planeGiven": false,
+      "note": "",
+      "page": "Respawn Teleport",
+      "revid": 15404420,
+      "how": "{{TeleportLocationLine}}",
+      "zone": true,
+      "zoneShape": "square",
+      "zoneRadius": 2.0,
+      "zoneReach": 2,
+      "templateDefaultZone": false
+    },
+    {
+      "group": "Respawn Teleport",
+      "groupKind": "spell",
+      "name": "Camelot",
+      "x": 2758,
+      "y": 3480,
+      "plane": 0,
+      "planeGiven": false,
+      "note": "",
+      "page": "Respawn Teleport",
+      "revid": 15404420,
+      "how": "{{TeleportLocationLine}}",
+      "zone": true,
+      "zoneShape": "square",
+      "zoneRadius": 2.0,
+      "zoneReach": 2,
+      "templateDefaultZone": false
+    },
+    {
+      "group": "Respawn Teleport",
+      "groupKind": "spell",
+      "name": "Falador",
+      "x": 2971,
+      "y": 3338,
+      "plane": 0,
+      "planeGiven": false,
+      "note": "",
+      "page": "Respawn Teleport",
+      "revid": 15404420,
+      "how": "{{TeleportLocationLine}}",
+      "zone": true,
+      "zoneShape": "square",
+      "zoneRadius": 2.0,
+      "zoneReach": 2,
+      "templateDefaultZone": false
+    },
+    {
+      "group": "Respawn Teleport",
+      "groupKind": "spell",
+      "name": "Edgeville",
+      "x": 3095,
+      "y": 3470,
+      "plane": 0,
+      "planeGiven": false,
+      "note": "",
+      "page": "Respawn Teleport",
+      "revid": 15404420,
+      "how": "{{TeleportLocationLine}}",
+      "zone": true,
+      "zoneShape": "square",
+      "zoneRadius": 2.0,
+      "zoneReach": 2,
+      "templateDefaultZone": false
+    },
+    {
+      "group": "Respawn Teleport",
+      "groupKind": "spell",
+      "name": "Ferox Enclave",
+      "x": 3150,
+      "y": 3635,
+      "plane": 0,
+      "planeGiven": false,
+      "note": "",
+      "page": "Respawn Teleport",
+      "revid": 15404420,
+      "how": "{{TeleportLocationLine}}",
+      "zone": true,
+      "zoneShape": "square",
+      "zoneRadius": 2.0,
+      "zoneReach": 2,
+      "templateDefaultZone": false
+    },
+    {
+      "group": "Respawn Teleport",
+      "groupKind": "spell",
+      "name": "Kourend Castle",
+      "x": 1629,
+      "y": 3673,
+      "plane": 0,
+      "planeGiven": false,
+      "note": "",
+      "page": "Respawn Teleport",
+      "revid": 15404420,
+      "how": "{{TeleportLocationLine}}",
+      "zone": true,
+      "zoneShape": "square",
+      "zoneRadius": 2.0,
+      "zoneReach": 2,
+      "templateDefaultZone": false
+    },
+    {
+      "group": "Respawn Teleport",
+      "groupKind": "spell",
+      "name": "Civitas illa Fortis",
+      "x": 1681,
+      "y": 3134,
+      "plane": 0,
+      "planeGiven": false,
+      "note": "",
+      "page": "Respawn Teleport",
+      "revid": 15404420,
+      "how": "{{TeleportLocationLine}}",
+      "zone": true,
+      "zoneShape": "square",
+      "zoneRadius": 2.0,
+      "zoneReach": 2,
+      "templateDefaultZone": false
     },
     {
       "group": "Ring of dueling",
@@ -910,8 +1384,13 @@
       "planeGiven": false,
       "note": "",
       "page": "Ring of dueling",
-      "revid": 15322346,
-      "how": "{{TeleportLocationLine}}"
+      "revid": 15386835,
+      "how": "{{TeleportLocationLine}}",
+      "zone": true,
+      "zoneShape": "square",
+      "zoneRadius": 2.0,
+      "zoneReach": 2,
+      "templateDefaultZone": false
     },
     {
       "group": "Ring of dueling",
@@ -923,8 +1402,10 @@
       "planeGiven": false,
       "note": "",
       "page": "Ring of dueling",
-      "revid": 15322346,
-      "how": "{{TeleportLocationLine}}"
+      "revid": 15386835,
+      "how": "{{TeleportLocationLine}}",
+      "zone": false,
+      "templateDefaultZone": true
     },
     {
       "group": "Ring of dueling",
@@ -936,8 +1417,13 @@
       "planeGiven": false,
       "note": "",
       "page": "Ring of dueling",
-      "revid": 15322346,
-      "how": "{{TeleportLocationLine}}"
+      "revid": 15386835,
+      "how": "{{TeleportLocationLine}}",
+      "zone": true,
+      "zoneShape": "square",
+      "zoneRadius": 2.0,
+      "zoneReach": 2,
+      "templateDefaultZone": false
     },
     {
       "group": "Ring of dueling",
@@ -949,8 +1435,13 @@
       "planeGiven": false,
       "note": "",
       "page": "Ring of dueling",
-      "revid": 15322346,
-      "how": "{{TeleportLocationLine}}"
+      "revid": 15386835,
+      "how": "{{TeleportLocationLine}}",
+      "zone": true,
+      "zoneShape": "square",
+      "zoneRadius": 2.0,
+      "zoneReach": 2,
+      "templateDefaultZone": false
     },
     {
       "group": "Ring of returning",
@@ -962,8 +1453,13 @@
       "planeGiven": false,
       "note": "",
       "page": "Ring of returning",
-      "revid": 15188188,
-      "how": "{{TeleportLocationLine}}"
+      "revid": 15404425,
+      "how": "{{TeleportLocationLine}}",
+      "zone": true,
+      "zoneShape": "square",
+      "zoneRadius": 2.0,
+      "zoneReach": 2,
+      "templateDefaultZone": false
     },
     {
       "group": "Ring of returning",
@@ -975,8 +1471,13 @@
       "planeGiven": false,
       "note": "",
       "page": "Ring of returning",
-      "revid": 15188188,
-      "how": "{{TeleportLocationLine}}"
+      "revid": 15404425,
+      "how": "{{TeleportLocationLine}}",
+      "zone": true,
+      "zoneShape": "square",
+      "zoneRadius": 2.0,
+      "zoneReach": 2,
+      "templateDefaultZone": false
     },
     {
       "group": "Ring of returning",
@@ -988,8 +1489,13 @@
       "planeGiven": false,
       "note": "",
       "page": "Ring of returning",
-      "revid": 15188188,
-      "how": "{{TeleportLocationLine}}"
+      "revid": 15404425,
+      "how": "{{TeleportLocationLine}}",
+      "zone": true,
+      "zoneShape": "square",
+      "zoneRadius": 2.0,
+      "zoneReach": 2,
+      "templateDefaultZone": false
     },
     {
       "group": "Ring of returning",
@@ -1001,8 +1507,13 @@
       "planeGiven": false,
       "note": "",
       "page": "Ring of returning",
-      "revid": 15188188,
-      "how": "{{TeleportLocationLine}}"
+      "revid": 15404425,
+      "how": "{{TeleportLocationLine}}",
+      "zone": true,
+      "zoneShape": "square",
+      "zoneRadius": 2.0,
+      "zoneReach": 2,
+      "templateDefaultZone": false
     },
     {
       "group": "Ring of returning",
@@ -1014,8 +1525,13 @@
       "planeGiven": false,
       "note": "",
       "page": "Ring of returning",
-      "revid": 15188188,
-      "how": "{{TeleportLocationLine}}"
+      "revid": 15404425,
+      "how": "{{TeleportLocationLine}}",
+      "zone": true,
+      "zoneShape": "square",
+      "zoneRadius": 2.0,
+      "zoneReach": 2,
+      "templateDefaultZone": false
     },
     {
       "group": "Ring of returning",
@@ -1027,8 +1543,13 @@
       "planeGiven": false,
       "note": "",
       "page": "Ring of returning",
-      "revid": 15188188,
-      "how": "{{TeleportLocationLine}}"
+      "revid": 15404425,
+      "how": "{{TeleportLocationLine}}",
+      "zone": true,
+      "zoneShape": "square",
+      "zoneRadius": 2.0,
+      "zoneReach": 2,
+      "templateDefaultZone": false
     },
     {
       "group": "Ring of returning",
@@ -1040,8 +1561,13 @@
       "planeGiven": false,
       "note": "",
       "page": "Ring of returning",
-      "revid": 15188188,
-      "how": "{{TeleportLocationLine}}"
+      "revid": 15404425,
+      "how": "{{TeleportLocationLine}}",
+      "zone": true,
+      "zoneShape": "square",
+      "zoneRadius": 2.0,
+      "zoneReach": 2,
+      "templateDefaultZone": false
     },
     {
       "group": "Ring of shadows",
@@ -1053,8 +1579,13 @@
       "planeGiven": false,
       "note": "",
       "page": "Ring of shadows",
-      "revid": 15278103,
-      "how": "{{TeleportLocationLine}}"
+      "revid": 15398122,
+      "how": "{{TeleportLocationLine}}",
+      "zone": true,
+      "zoneShape": "square",
+      "zoneRadius": 3.0,
+      "zoneReach": 3,
+      "templateDefaultZone": false
     },
     {
       "group": "Ring of shadows",
@@ -1066,8 +1597,13 @@
       "planeGiven": false,
       "note": "",
       "page": "Ring of shadows",
-      "revid": 15278103,
-      "how": "{{TeleportLocationLine}}"
+      "revid": 15398122,
+      "how": "{{TeleportLocationLine}}",
+      "zone": true,
+      "zoneShape": "square",
+      "zoneRadius": 3.0,
+      "zoneReach": 3,
+      "templateDefaultZone": false
     },
     {
       "group": "Ring of shadows",
@@ -1079,8 +1615,13 @@
       "planeGiven": false,
       "note": "",
       "page": "Ring of shadows",
-      "revid": 15278103,
-      "how": "{{TeleportLocationLine}}"
+      "revid": 15398122,
+      "how": "{{TeleportLocationLine}}",
+      "zone": true,
+      "zoneShape": "square",
+      "zoneRadius": 3.0,
+      "zoneReach": 3,
+      "templateDefaultZone": false
     },
     {
       "group": "Ring of shadows",
@@ -1092,8 +1633,13 @@
       "planeGiven": false,
       "note": "",
       "page": "Ring of shadows",
-      "revid": 15278103,
-      "how": "{{TeleportLocationLine}}"
+      "revid": 15398122,
+      "how": "{{TeleportLocationLine}}",
+      "zone": true,
+      "zoneShape": "square",
+      "zoneRadius": 3.0,
+      "zoneReach": 3,
+      "templateDefaultZone": false
     },
     {
       "group": "Ring of shadows",
@@ -1105,8 +1651,13 @@
       "planeGiven": false,
       "note": "",
       "page": "Ring of shadows",
-      "revid": 15278103,
-      "how": "{{TeleportLocationLine}}"
+      "revid": 15398122,
+      "how": "{{TeleportLocationLine}}",
+      "zone": true,
+      "zoneShape": "square",
+      "zoneRadius": 3.0,
+      "zoneReach": 3,
+      "templateDefaultZone": false
     },
     {
       "group": "Ring of the elements",
@@ -1119,7 +1670,12 @@
       "note": "",
       "page": "Ring of the elements",
       "revid": 15321585,
-      "how": "{{TeleportLocationLine}}"
+      "how": "{{TeleportLocationLine}}",
+      "zone": true,
+      "zoneShape": "square",
+      "zoneRadius": 2.0,
+      "zoneReach": 2,
+      "templateDefaultZone": false
     },
     {
       "group": "Ring of the elements",
@@ -1132,7 +1688,12 @@
       "note": "",
       "page": "Ring of the elements",
       "revid": 15321585,
-      "how": "{{TeleportLocationLine}}"
+      "how": "{{TeleportLocationLine}}",
+      "zone": true,
+      "zoneShape": "square",
+      "zoneRadius": 2.0,
+      "zoneReach": 2,
+      "templateDefaultZone": false
     },
     {
       "group": "Ring of the elements",
@@ -1145,7 +1706,12 @@
       "note": "",
       "page": "Ring of the elements",
       "revid": 15321585,
-      "how": "{{TeleportLocationLine}}"
+      "how": "{{TeleportLocationLine}}",
+      "zone": true,
+      "zoneShape": "square",
+      "zoneRadius": 2.0,
+      "zoneReach": 2,
+      "templateDefaultZone": false
     },
     {
       "group": "Ring of the elements",
@@ -1158,7 +1724,12 @@
       "note": "",
       "page": "Ring of the elements",
       "revid": 15321585,
-      "how": "{{TeleportLocationLine}}"
+      "how": "{{TeleportLocationLine}}",
+      "zone": true,
+      "zoneShape": "square",
+      "zoneRadius": 2.0,
+      "zoneReach": 2,
+      "templateDefaultZone": false
     },
     {
       "group": "Ring of wealth",
@@ -1170,8 +1741,10 @@
       "planeGiven": false,
       "note": "",
       "page": "Ring of wealth",
-      "revid": 15364784,
-      "how": "{{TeleportLocationLine}}"
+      "revid": 15399548,
+      "how": "{{TeleportLocationLine}}",
+      "zone": false,
+      "templateDefaultZone": true
     },
     {
       "group": "Ring of wealth",
@@ -1183,8 +1756,13 @@
       "planeGiven": false,
       "note": "",
       "page": "Ring of wealth",
-      "revid": 15364784,
-      "how": "{{TeleportLocationLine}}"
+      "revid": 15399548,
+      "how": "{{TeleportLocationLine}}",
+      "zone": true,
+      "zoneShape": "square",
+      "zoneRadius": 2.0,
+      "zoneReach": 2,
+      "templateDefaultZone": false
     },
     {
       "group": "Ring of wealth",
@@ -1196,8 +1774,10 @@
       "planeGiven": false,
       "note": "",
       "page": "Ring of wealth",
-      "revid": 15364784,
-      "how": "{{TeleportLocationLine}}"
+      "revid": 15399548,
+      "how": "{{TeleportLocationLine}}",
+      "zone": false,
+      "templateDefaultZone": true
     },
     {
       "group": "Ring of wealth (i)",
@@ -1210,7 +1790,9 @@
       "note": "",
       "page": "Ring of wealth (i)",
       "revid": 15367107,
-      "how": "{{TeleportLocationLine}}"
+      "how": "{{TeleportLocationLine}}",
+      "zone": false,
+      "templateDefaultZone": true
     },
     {
       "group": "Ring of wealth (i)",
@@ -1223,7 +1805,12 @@
       "note": "",
       "page": "Ring of wealth (i)",
       "revid": 15367107,
-      "how": "{{TeleportLocationLine}}"
+      "how": "{{TeleportLocationLine}}",
+      "zone": true,
+      "zoneShape": "square",
+      "zoneRadius": 2.0,
+      "zoneReach": 2,
+      "templateDefaultZone": false
     },
     {
       "group": "Ring of wealth (i)",
@@ -1236,7 +1823,9 @@
       "note": "",
       "page": "Ring of wealth (i)",
       "revid": 15367107,
-      "how": "{{TeleportLocationLine}}"
+      "how": "{{TeleportLocationLine}}",
+      "zone": false,
+      "templateDefaultZone": true
     },
     {
       "group": "Sailors' Marker",
@@ -1249,7 +1838,9 @@
       "note": "",
       "page": "Sailors' Marker",
       "revid": 15329835,
-      "how": "{{TeleportLocationLine}}"
+      "how": "{{TeleportLocationLine}}",
+      "zone": false,
+      "templateDefaultZone": false
     },
     {
       "group": "Sailors' Marker",
@@ -1262,7 +1853,9 @@
       "note": "",
       "page": "Sailors' Marker",
       "revid": 15329835,
-      "how": "{{TeleportLocationLine}}"
+      "how": "{{TeleportLocationLine}}",
+      "zone": false,
+      "templateDefaultZone": false
     },
     {
       "group": "Sailors' Marker",
@@ -1275,7 +1868,9 @@
       "note": "",
       "page": "Sailors' Marker",
       "revid": 15329835,
-      "how": "{{TeleportLocationLine}}"
+      "how": "{{TeleportLocationLine}}",
+      "zone": false,
+      "templateDefaultZone": false
     },
     {
       "group": "Skills necklace",
@@ -1287,8 +1882,10 @@
       "planeGiven": false,
       "note": "",
       "page": "Skills necklace",
-      "revid": 15340883,
-      "how": "{{TeleportLocationLine}}"
+      "revid": 15386865,
+      "how": "{{TeleportLocationLine}}",
+      "zone": false,
+      "templateDefaultZone": true
     },
     {
       "group": "Skills necklace",
@@ -1300,8 +1897,13 @@
       "planeGiven": false,
       "note": "",
       "page": "Skills necklace",
-      "revid": 15340883,
-      "how": "{{TeleportLocationLine}}"
+      "revid": 15386865,
+      "how": "{{TeleportLocationLine}}",
+      "zone": true,
+      "zoneShape": "square",
+      "zoneRadius": 2.0,
+      "zoneReach": 2,
+      "templateDefaultZone": false
     },
     {
       "group": "Skills necklace",
@@ -1313,8 +1915,10 @@
       "planeGiven": false,
       "note": "",
       "page": "Skills necklace",
-      "revid": 15340883,
-      "how": "{{TeleportLocationLine}}"
+      "revid": 15386865,
+      "how": "{{TeleportLocationLine}}",
+      "zone": false,
+      "templateDefaultZone": true
     },
     {
       "group": "Skills necklace",
@@ -1326,8 +1930,10 @@
       "planeGiven": false,
       "note": "",
       "page": "Skills necklace",
-      "revid": 15340883,
-      "how": "{{TeleportLocationLine}}"
+      "revid": 15386865,
+      "how": "{{TeleportLocationLine}}",
+      "zone": false,
+      "templateDefaultZone": true
     },
     {
       "group": "Skills necklace",
@@ -1339,8 +1945,10 @@
       "planeGiven": false,
       "note": "",
       "page": "Skills necklace",
-      "revid": 15340883,
-      "how": "{{TeleportLocationLine}}"
+      "revid": 15386865,
+      "how": "{{TeleportLocationLine}}",
+      "zone": false,
+      "templateDefaultZone": true
     },
     {
       "group": "Statue (Ates)",
@@ -1353,7 +1961,9 @@
       "note": "",
       "page": "Statue (Ates)",
       "revid": 15319388,
-      "how": "{{TeleportLocationLine}}"
+      "how": "{{TeleportLocationLine}}",
+      "zone": false,
+      "templateDefaultZone": false
     },
     {
       "group": "Statue (Ates)",
@@ -1366,7 +1976,9 @@
       "note": "",
       "page": "Statue (Ates)",
       "revid": 15319388,
-      "how": "{{TeleportLocationLine}}"
+      "how": "{{TeleportLocationLine}}",
+      "zone": false,
+      "templateDefaultZone": false
     },
     {
       "group": "Statue (Ates)",
@@ -1379,7 +1991,9 @@
       "note": "",
       "page": "Statue (Ates)",
       "revid": 15319388,
-      "how": "{{TeleportLocationLine}}"
+      "how": "{{TeleportLocationLine}}",
+      "zone": false,
+      "templateDefaultZone": false
     },
     {
       "group": "Statue (Ates)",
@@ -1392,7 +2006,9 @@
       "note": "",
       "page": "Statue (Ates)",
       "revid": 15319388,
-      "how": "{{TeleportLocationLine}}"
+      "how": "{{TeleportLocationLine}}",
+      "zone": false,
+      "templateDefaultZone": false
     },
     {
       "group": "Statue (Ates)",
@@ -1405,7 +2021,9 @@
       "note": "",
       "page": "Statue (Ates)",
       "revid": 15319388,
-      "how": "{{TeleportLocationLine}}"
+      "how": "{{TeleportLocationLine}}",
+      "zone": false,
+      "templateDefaultZone": false
     },
     {
       "group": "Statue (Ates)",
@@ -1418,7 +2036,9 @@
       "note": "",
       "page": "Statue (Ates)",
       "revid": 15319388,
-      "how": "{{TeleportLocationLine}}"
+      "how": "{{TeleportLocationLine}}",
+      "zone": false,
+      "templateDefaultZone": false
     },
     {
       "group": "Stone chest (The Stranglewood mine)",
@@ -1431,7 +2051,9 @@
       "note": "",
       "page": "Stone chest (The Stranglewood mine)",
       "revid": 15209372,
-      "how": "{{TeleportLocationLine}}"
+      "how": "{{TeleportLocationLine}}",
+      "zone": false,
+      "templateDefaultZone": false
     },
     {
       "group": "Stone chest (The Stranglewood mine)",
@@ -1444,7 +2066,9 @@
       "note": "",
       "page": "Stone chest (The Stranglewood mine)",
       "revid": 15209372,
-      "how": "{{TeleportLocationLine}}"
+      "how": "{{TeleportLocationLine}}",
+      "zone": false,
+      "templateDefaultZone": false
     },
     {
       "group": "Stone chest (The Stranglewood mine)",
@@ -1457,7 +2081,9 @@
       "note": "",
       "page": "Stone chest (The Stranglewood mine)",
       "revid": 15209372,
-      "how": "{{TeleportLocationLine}}"
+      "how": "{{TeleportLocationLine}}",
+      "zone": false,
+      "templateDefaultZone": false
     },
     {
       "group": "Stone chest (The Stranglewood mine)",
@@ -1470,7 +2096,9 @@
       "note": "",
       "page": "Stone chest (The Stranglewood mine)",
       "revid": 15209372,
-      "how": "{{TeleportLocationLine}}"
+      "how": "{{TeleportLocationLine}}",
+      "zone": false,
+      "templateDefaultZone": false
     },
     {
       "group": "Stony basalt",
@@ -1483,7 +2111,12 @@
       "note": "",
       "page": "Stony basalt",
       "revid": 15365767,
-      "how": "{{TeleportLocationLine}}"
+      "how": "{{TeleportLocationLine}}",
+      "zone": true,
+      "zoneShape": "square",
+      "zoneRadius": 2.0,
+      "zoneReach": 2,
+      "templateDefaultZone": false
     },
     {
       "group": "Stony basalt",
@@ -1496,7 +2129,12 @@
       "note": "",
       "page": "Stony basalt",
       "revid": 15365767,
-      "how": "{{TeleportLocationLine}}"
+      "how": "{{TeleportLocationLine}}",
+      "zone": true,
+      "zoneShape": "square",
+      "zoneRadius": 2.0,
+      "zoneReach": 2,
+      "templateDefaultZone": false
     },
     {
       "group": "Teleport crystal",
@@ -1509,7 +2147,9 @@
       "note": "",
       "page": "Teleport crystal",
       "revid": 15261004,
-      "how": "{{TeleportLocationLine}}"
+      "how": "{{TeleportLocationLine}}",
+      "zone": false,
+      "templateDefaultZone": true
     },
     {
       "group": "Troll Stronghold Portal",
@@ -1522,7 +2162,12 @@
       "note": "",
       "page": "Troll Stronghold Portal",
       "revid": 15329707,
-      "how": "{{TeleportLocationLine}}"
+      "how": "{{TeleportLocationLine}}",
+      "zone": true,
+      "zoneShape": "square",
+      "zoneRadius": 2.0,
+      "zoneReach": 2,
+      "templateDefaultZone": false
     },
     {
       "group": "Troll Stronghold Portal",
@@ -1535,7 +2180,12 @@
       "note": "",
       "page": "Troll Stronghold Portal",
       "revid": 15329707,
-      "how": "{{TeleportLocationLine}}"
+      "how": "{{TeleportLocationLine}}",
+      "zone": true,
+      "zoneShape": "square",
+      "zoneRadius": 2.0,
+      "zoneReach": 2,
+      "templateDefaultZone": false
     },
     {
       "group": "Varrock Portal",
@@ -1548,7 +2198,9 @@
       "note": "",
       "page": "Varrock Portal",
       "revid": 15329697,
-      "how": "{{TeleportLocationLine}}"
+      "how": "{{TeleportLocationLine}}",
+      "zone": false,
+      "templateDefaultZone": true
     },
     {
       "group": "Varrock Portal",
@@ -1561,7 +2213,9 @@
       "note": "",
       "page": "Varrock Portal",
       "revid": 15329697,
-      "how": "{{TeleportLocationLine}}"
+      "how": "{{TeleportLocationLine}}",
+      "zone": false,
+      "templateDefaultZone": true
     },
     {
       "group": "Varrock Teleport",
@@ -1573,8 +2227,10 @@
       "planeGiven": false,
       "note": "",
       "page": "Varrock Teleport",
-      "revid": 15363031,
-      "how": "{{TeleportLocationLine}}"
+      "revid": 15372072,
+      "how": "{{TeleportLocationLine}}",
+      "zone": false,
+      "templateDefaultZone": true
     },
     {
       "group": "Varrock Teleport",
@@ -1586,8 +2242,10 @@
       "planeGiven": false,
       "note": "",
       "page": "Varrock Teleport",
-      "revid": 15363031,
-      "how": "{{TeleportLocationLine}}"
+      "revid": 15372072,
+      "how": "{{TeleportLocationLine}}",
+      "zone": false,
+      "templateDefaultZone": true
     },
     {
       "group": "Varrock teleport (tablet)",
@@ -1600,7 +2258,9 @@
       "note": "",
       "page": "Varrock teleport (tablet)",
       "revid": 15184222,
-      "how": "{{TeleportLocationLine}}"
+      "how": "{{TeleportLocationLine}}",
+      "zone": false,
+      "templateDefaultZone": true
     },
     {
       "group": "Varrock teleport (tablet)",
@@ -1613,7 +2273,9 @@
       "note": "",
       "page": "Varrock teleport (tablet)",
       "revid": 15184222,
-      "how": "{{TeleportLocationLine}}"
+      "how": "{{TeleportLocationLine}}",
+      "zone": false,
+      "templateDefaultZone": true
     },
     {
       "group": "Watchtower Teleport",
@@ -1626,7 +2288,9 @@
       "note": "",
       "page": "Watchtower Teleport",
       "revid": 15356641,
-      "how": "{{TeleportLocationLine}}"
+      "how": "{{TeleportLocationLine}}",
+      "zone": false,
+      "templateDefaultZone": true
     },
     {
       "group": "Watchtower Teleport",
@@ -1639,7 +2303,9 @@
       "note": "",
       "page": "Watchtower Teleport",
       "revid": 15356641,
-      "how": "{{TeleportLocationLine}}"
+      "how": "{{TeleportLocationLine}}",
+      "zone": false,
+      "templateDefaultZone": true
     },
     {
       "group": "Watchtower teleport (tablet)",
@@ -1652,7 +2318,9 @@
       "note": "",
       "page": "Watchtower teleport (tablet)",
       "revid": 15185084,
-      "how": "{{TeleportLocationLine}}"
+      "how": "{{TeleportLocationLine}}",
+      "zone": false,
+      "templateDefaultZone": true
     },
     {
       "group": "Watchtower teleport (tablet)",
@@ -1665,7 +2333,9 @@
       "note": "",
       "page": "Watchtower teleport (tablet)",
       "revid": 15185084,
-      "how": "{{TeleportLocationLine}}"
+      "how": "{{TeleportLocationLine}}",
+      "zone": false,
+      "templateDefaultZone": true
     },
     {
       "group": "Western banner 3",
@@ -1678,7 +2348,12 @@
       "note": "",
       "page": "Western banner 3",
       "revid": 15265264,
-      "how": "{{TeleportLocationLine}}"
+      "how": "{{TeleportLocationLine}}",
+      "zone": true,
+      "zoneShape": "square",
+      "zoneRadius": 3.0,
+      "zoneReach": 3,
+      "templateDefaultZone": false
     },
     {
       "group": "Western banner 4",
@@ -1691,7 +2366,12 @@
       "note": "",
       "page": "Western banner 4",
       "revid": 15265266,
-      "how": "{{TeleportLocationLine}}"
+      "how": "{{TeleportLocationLine}}",
+      "zone": true,
+      "zoneShape": "square",
+      "zoneRadius": 3.0,
+      "zoneReach": 3,
+      "templateDefaultZone": false
     },
     {
       "group": "Xeric's talisman",
@@ -1704,7 +2384,9 @@
       "note": "",
       "page": "Xeric's talisman",
       "revid": 15367913,
-      "how": "{{TeleportLocationLine}}"
+      "how": "{{TeleportLocationLine}}",
+      "zone": false,
+      "templateDefaultZone": false
     },
     {
       "group": "Xeric's talisman",
@@ -1717,7 +2399,9 @@
       "note": "",
       "page": "Xeric's talisman",
       "revid": 15367913,
-      "how": "{{TeleportLocationLine}}"
+      "how": "{{TeleportLocationLine}}",
+      "zone": false,
+      "templateDefaultZone": false
     },
     {
       "group": "Xeric's talisman",
@@ -1730,7 +2414,9 @@
       "note": "",
       "page": "Xeric's talisman",
       "revid": 15367913,
-      "how": "{{TeleportLocationLine}}"
+      "how": "{{TeleportLocationLine}}",
+      "zone": false,
+      "templateDefaultZone": false
     },
     {
       "group": "Xeric's talisman",
@@ -1743,7 +2429,9 @@
       "note": "",
       "page": "Xeric's talisman",
       "revid": 15367913,
-      "how": "{{TeleportLocationLine}}"
+      "how": "{{TeleportLocationLine}}",
+      "zone": false,
+      "templateDefaultZone": false
     },
     {
       "group": "Xeric's talisman",
@@ -1756,7 +2444,9 @@
       "note": "",
       "page": "Xeric's talisman",
       "revid": 15367913,
-      "how": "{{TeleportLocationLine}}"
+      "how": "{{TeleportLocationLine}}",
+      "zone": false,
+      "templateDefaultZone": false
     },
     {
       "group": "Yanille Watchtower Portal",
@@ -1769,7 +2459,9 @@
       "note": "",
       "page": "Yanille Watchtower Portal",
       "revid": 15201333,
-      "how": "{{TeleportLocationLine}}"
+      "how": "{{TeleportLocationLine}}",
+      "zone": false,
+      "templateDefaultZone": true
     },
     {
       "group": "Yanille Watchtower Portal",
@@ -1782,7 +2474,45 @@
       "note": "",
       "page": "Yanille Watchtower Portal",
       "revid": 15201333,
-      "how": "{{TeleportLocationLine}}"
+      "how": "{{TeleportLocationLine}}",
+      "zone": false,
+      "templateDefaultZone": true
+    },
+    {
+      "group": "Annakarl Teleport",
+      "groupKind": "spell",
+      "name": "Annakarl Teleport",
+      "x": 3288,
+      "y": 3888,
+      "plane": 0,
+      "planeGiven": false,
+      "note": "lands within 2 tiles of this point",
+      "page": "Annakarl Teleport",
+      "revid": 15356670,
+      "how": "{{Map}} under the heading \"Destination\"",
+      "zone": true,
+      "zoneShape": "square",
+      "zoneRadius": 2.0,
+      "zoneReach": 2,
+      "templateDefaultZone": false
+    },
+    {
+      "group": "Ape Atoll Teleport (Arceuus)",
+      "groupKind": "spell",
+      "name": "Ape Atoll Teleport (Arceuus)",
+      "x": 2769,
+      "y": 2703,
+      "plane": 0,
+      "planeGiven": false,
+      "note": "lands within 2 tiles of this point",
+      "page": "Ape Atoll Teleport (Arceuus)",
+      "revid": 15356664,
+      "how": "{{Map}} under the heading \"Destination\"",
+      "zone": true,
+      "zoneShape": "square",
+      "zoneRadius": 2.0,
+      "zoneReach": 2,
+      "templateDefaultZone": false
     },
     {
       "group": "Ape Atoll Teleport (standard)",
@@ -1795,7 +2525,12 @@
       "note": "lands within 2 tiles of this point",
       "page": "Ape Atoll Teleport (standard)",
       "revid": 14906055,
-      "how": "{{Map}} under the heading \"Destination\""
+      "how": "{{Map}} under the heading \"Destination\"",
+      "zone": true,
+      "zoneShape": "square",
+      "zoneRadius": 2.0,
+      "zoneReach": 2,
+      "templateDefaultZone": false
     },
     {
       "group": "Arceuus Home Teleport",
@@ -1808,7 +2543,12 @@
       "note": "lands within 2 tiles of this point",
       "page": "Arceuus Home Teleport",
       "revid": 15362013,
-      "how": "{{Map}} under the heading \"Destination\""
+      "how": "{{Map}} under the heading \"Destination\"",
+      "zone": true,
+      "zoneShape": "square",
+      "zoneRadius": 2.0,
+      "zoneReach": 2,
+      "templateDefaultZone": false
     },
     {
       "group": "Arceuus Library Teleport",
@@ -1821,7 +2561,12 @@
       "note": "lands within 2 tiles of this point",
       "page": "Arceuus Library Teleport",
       "revid": 15356654,
-      "how": "{{Map}} under the heading \"Destination\""
+      "how": "{{Map}} under the heading \"Destination\"",
+      "zone": true,
+      "zoneShape": "square",
+      "zoneRadius": 2.0,
+      "zoneReach": 2,
+      "templateDefaultZone": false
     },
     {
       "group": "Ardougne Teleport",
@@ -1834,7 +2579,12 @@
       "note": "lands within 3 tiles of this point",
       "page": "Ardougne Teleport",
       "revid": 14918399,
-      "how": "{{Map}} under the heading \"Destination\""
+      "how": "{{Map}} under the heading \"Destination\"",
+      "zone": true,
+      "zoneShape": "square",
+      "zoneRadius": 3.0,
+      "zoneReach": 3,
+      "templateDefaultZone": false
     },
     {
       "group": "Barbarian Teleport",
@@ -1847,7 +2597,12 @@
       "note": "lands within 2 tiles of this point",
       "page": "Barbarian Teleport",
       "revid": 15356649,
-      "how": "{{Map}} under the heading \"Destination\""
+      "how": "{{Map}} under the heading \"Destination\"",
+      "zone": true,
+      "zoneShape": "square",
+      "zoneRadius": 2.0,
+      "zoneReach": 2,
+      "templateDefaultZone": false
     },
     {
       "group": "Barrows Teleport",
@@ -1860,7 +2615,12 @@
       "note": "lands within 2 tiles of this point",
       "page": "Barrows Teleport",
       "revid": 15363218,
-      "how": "{{Map}} under the heading \"Destination\""
+      "how": "{{Map}} under the heading \"Destination\"",
+      "zone": true,
+      "zoneShape": "square",
+      "zoneRadius": 2.0,
+      "zoneReach": 2,
+      "templateDefaultZone": false
     },
     {
       "group": "Battlefront Teleport",
@@ -1873,7 +2633,12 @@
       "note": "lands within 2 tiles of this point",
       "page": "Battlefront Teleport",
       "revid": 15356656,
-      "how": "{{Map}} under the heading \"Destination\""
+      "how": "{{Map}} under the heading \"Destination\"",
+      "zone": true,
+      "zoneShape": "square",
+      "zoneRadius": 2.0,
+      "zoneReach": 2,
+      "templateDefaultZone": false
     },
     {
       "group": "Carrallanger Teleport",
@@ -1886,7 +2651,12 @@
       "note": "lands within 2 tiles of this point",
       "page": "Carrallanger Teleport",
       "revid": 15356669,
-      "how": "{{Map}} under the heading \"Destination\""
+      "how": "{{Map}} under the heading \"Destination\"",
+      "zone": true,
+      "zoneShape": "square",
+      "zoneRadius": 2.0,
+      "zoneReach": 2,
+      "templateDefaultZone": false
     },
     {
       "group": "Catherby Teleport",
@@ -1899,20 +2669,55 @@
       "note": "lands somewhere in an area (polygon of 6 points); its middle is used",
       "page": "Catherby Teleport",
       "revid": 15356652,
-      "how": "{{Map}} under the heading \"Destination\""
+      "how": "{{Map}} under the heading \"Destination\"",
+      "zone": true,
+      "zoneShape": "polygon",
+      "zonePoints": [
+        [
+          2799,
+          3448
+        ],
+        [
+          2799,
+          3452
+        ],
+        [
+          2804,
+          3452
+        ],
+        [
+          2804,
+          3447
+        ],
+        [
+          2801,
+          3447
+        ],
+        [
+          2801,
+          3448
+        ]
+      ],
+      "zoneReach": 3,
+      "templateDefaultZone": false
     },
     {
       "group": "Cemetery Teleport",
       "groupKind": "spell",
       "name": "Cemetery Teleport",
-      "x": 2981,
-      "y": 3764,
+      "x": 2980,
+      "y": 3763,
       "plane": 0,
       "planeGiven": false,
       "note": "lands within 2 tiles of this point",
       "page": "Cemetery Teleport",
-      "revid": 15356662,
-      "how": "{{Map}} under the heading \"Destination\""
+      "revid": 15384050,
+      "how": "{{Map}} under the heading \"Destination\"",
+      "zone": true,
+      "zoneShape": "square",
+      "zoneRadius": 2.0,
+      "zoneReach": 2,
+      "templateDefaultZone": false
     },
     {
       "group": "Civitas illa Fortis Teleport",
@@ -1925,7 +2730,47 @@
       "note": "lands somewhere in an area (polygon of 4 points); its middle is used",
       "page": "Civitas illa Fortis Teleport",
       "revid": 15356637,
-      "how": "{{Map}} under the heading \"Destination\""
+      "how": "{{Map}} under the heading \"Destination\"",
+      "zone": true,
+      "zoneShape": "polygon",
+      "zonePoints": [
+        [
+          1679,
+          3136
+        ],
+        [
+          1684,
+          3136
+        ],
+        [
+          1684,
+          3131
+        ],
+        [
+          1679,
+          3131
+        ]
+      ],
+      "zoneReach": 3,
+      "templateDefaultZone": false
+    },
+    {
+      "group": "Cowbell amulet",
+      "groupKind": "item",
+      "name": "Lumbridge cow field",
+      "x": 3259,
+      "y": 3277,
+      "plane": 0,
+      "planeGiven": false,
+      "note": "",
+      "page": "Cowbell amulet",
+      "revid": 15358637,
+      "how": "{{TeleportLocationLine}}",
+      "zone": true,
+      "zoneShape": "square",
+      "zoneRadius": 2.0,
+      "zoneReach": 2,
+      "templateDefaultZone": false
     },
     {
       "group": "Dareeyak Teleport",
@@ -1938,7 +2783,12 @@
       "note": "lands within 2 tiles of this point",
       "page": "Dareeyak Teleport",
       "revid": 15356668,
-      "how": "{{Map}} under the heading \"Destination\""
+      "how": "{{Map}} under the heading \"Destination\"",
+      "zone": true,
+      "zoneShape": "square",
+      "zoneRadius": 2.0,
+      "zoneReach": 2,
+      "templateDefaultZone": false
     },
     {
       "group": "Draynor Manor Teleport",
@@ -1951,7 +2801,61 @@
       "note": "lands somewhere in an area (polygon of 12 points); its middle is used",
       "page": "Draynor Manor Teleport",
       "revid": 15356655,
-      "how": "{{Map}} under the heading \"Destination\""
+      "how": "{{Map}} under the heading \"Destination\"",
+      "zone": true,
+      "zoneShape": "polygon",
+      "zonePoints": [
+        [
+          3107,
+          3354
+        ],
+        [
+          3111,
+          3354
+        ],
+        [
+          3111,
+          3352
+        ],
+        [
+          3110,
+          3352
+        ],
+        [
+          3110,
+          3351
+        ],
+        [
+          3111,
+          3351
+        ],
+        [
+          3111,
+          3350
+        ],
+        [
+          3110,
+          3350
+        ],
+        [
+          3110,
+          3349
+        ],
+        [
+          3108,
+          3349
+        ],
+        [
+          3108,
+          3353
+        ],
+        [
+          3107,
+          3353
+        ]
+      ],
+      "zoneReach": 3,
+      "templateDefaultZone": false
     },
     {
       "group": "Edgeville Home Teleport",
@@ -1964,7 +2868,29 @@
       "note": "lands somewhere in an area (polygon of 4 points); its middle is used",
       "page": "Edgeville Home Teleport",
       "revid": 15362016,
-      "how": "{{Map}} under the heading \"Destination\""
+      "how": "{{Map}} under the heading \"Destination\"",
+      "zone": true,
+      "zoneShape": "polygon",
+      "zonePoints": [
+        [
+          3087,
+          3504
+        ],
+        [
+          3090,
+          3504
+        ],
+        [
+          3090,
+          3501
+        ],
+        [
+          3087,
+          3501
+        ]
+      ],
+      "zoneReach": 2,
+      "templateDefaultZone": false
     },
     {
       "group": "Falador Teleport",
@@ -1977,7 +2903,12 @@
       "note": "lands within 2 tiles of this point",
       "page": "Falador Teleport",
       "revid": 14918402,
-      "how": "{{Map}} under the heading \"Destination\""
+      "how": "{{Map}} under the heading \"Destination\"",
+      "zone": true,
+      "zoneShape": "square",
+      "zoneRadius": 2.0,
+      "zoneReach": 2,
+      "templateDefaultZone": false
     },
     {
       "group": "Fenkenstrain's Castle Teleport",
@@ -1990,7 +2921,53 @@
       "note": "lands somewhere in an area (polygon of 10 points); its middle is used",
       "page": "Fenkenstrain's Castle Teleport",
       "revid": 15356659,
-      "how": "{{Map}} under the heading \"Destination\""
+      "how": "{{Map}} under the heading \"Destination\"",
+      "zone": true,
+      "zoneShape": "polygon",
+      "zonePoints": [
+        [
+          3546,
+          3530
+        ],
+        [
+          3548,
+          3530
+        ],
+        [
+          3548,
+          3532
+        ],
+        [
+          3550,
+          3532
+        ],
+        [
+          3550,
+          3530
+        ],
+        [
+          3551,
+          3530
+        ],
+        [
+          3551,
+          3529
+        ],
+        [
+          3550,
+          3529
+        ],
+        [
+          3550,
+          3527
+        ],
+        [
+          3546,
+          3527
+        ]
+      ],
+      "zoneReach": 3,
+      "templateDefaultZone": false
     },
     {
       "group": "Fishing Guild Teleport",
@@ -2003,7 +2980,12 @@
       "note": "lands within 2 tiles of this point",
       "page": "Fishing Guild Teleport",
       "revid": 15356651,
-      "how": "{{Map}} under the heading \"Destination\""
+      "how": "{{Map}} under the heading \"Destination\"",
+      "zone": true,
+      "zoneShape": "square",
+      "zoneRadius": 2.0,
+      "zoneReach": 2,
+      "templateDefaultZone": false
     },
     {
       "group": "Ghorrock Teleport",
@@ -2016,7 +2998,29 @@
       "note": "lands somewhere in an area (polygon of 4 points); its middle is used",
       "page": "Ghorrock Teleport",
       "revid": 15356667,
-      "how": "{{Map}} under the heading \"Destination\""
+      "how": "{{Map}} under the heading \"Destination\"",
+      "zone": true,
+      "zoneShape": "polygon",
+      "zonePoints": [
+        [
+          2974,
+          3875
+        ],
+        [
+          2979,
+          3875
+        ],
+        [
+          2979,
+          3870
+        ],
+        [
+          2974,
+          3870
+        ]
+      ],
+      "zoneReach": 3,
+      "templateDefaultZone": false
     },
     {
       "group": "Harmony Island Teleport",
@@ -2029,7 +3033,12 @@
       "note": "lands within 2 tiles of this point",
       "page": "Harmony Island Teleport",
       "revid": 15356661,
-      "how": "{{Map}} under the heading \"Destination\""
+      "how": "{{Map}} under the heading \"Destination\"",
+      "zone": true,
+      "zoneShape": "square",
+      "zoneRadius": 2.0,
+      "zoneReach": 2,
+      "templateDefaultZone": false
     },
     {
       "group": "Ice Plateau Teleport",
@@ -2042,7 +3051,12 @@
       "note": "lands within 3 tiles of this point",
       "page": "Ice Plateau Teleport",
       "revid": 15356653,
-      "how": "{{Map}} under the heading \"Destination\""
+      "how": "{{Map}} under the heading \"Destination\"",
+      "zone": true,
+      "zoneShape": "square",
+      "zoneRadius": 3.0,
+      "zoneReach": 3,
+      "templateDefaultZone": false
     },
     {
       "group": "Kharyrll Teleport",
@@ -2055,7 +3069,12 @@
       "note": "lands within 2 tiles of this point",
       "page": "Kharyrll Teleport",
       "revid": 15356666,
-      "how": "{{Map}} under the heading \"Destination\""
+      "how": "{{Map}} under the heading \"Destination\"",
+      "zone": true,
+      "zoneShape": "square",
+      "zoneRadius": 2.0,
+      "zoneReach": 2,
+      "templateDefaultZone": false
     },
     {
       "group": "Khazard Teleport",
@@ -2068,7 +3087,12 @@
       "note": "lands within 2 tiles of this point",
       "page": "Khazard Teleport",
       "revid": 15356650,
-      "how": "{{Map}} under the heading \"Destination\""
+      "how": "{{Map}} under the heading \"Destination\"",
+      "zone": true,
+      "zoneShape": "square",
+      "zoneRadius": 2.0,
+      "zoneReach": 2,
+      "templateDefaultZone": false
     },
     {
       "group": "Kourend Castle Teleport",
@@ -2081,7 +3105,29 @@
       "note": "lands somewhere in an area (polygon of 4 points); its middle is used",
       "page": "Kourend Castle Teleport",
       "revid": 15311656,
-      "how": "{{Map}} under the heading \"Destination\""
+      "how": "{{Map}} under the heading \"Destination\"",
+      "zone": true,
+      "zoneShape": "polygon",
+      "zonePoints": [
+        [
+          1639,
+          3676
+        ],
+        [
+          1644,
+          3676
+        ],
+        [
+          1644,
+          3671
+        ],
+        [
+          1639,
+          3671
+        ]
+      ],
+      "zoneReach": 3,
+      "templateDefaultZone": false
     },
     {
       "group": "Lassar Teleport",
@@ -2094,7 +3140,29 @@
       "note": "lands somewhere in an area (polygon of 4 points); its middle is used",
       "page": "Lassar Teleport",
       "revid": 15356665,
-      "how": "{{Map}} under the heading \"Destination\""
+      "how": "{{Map}} under the heading \"Destination\"",
+      "zone": true,
+      "zoneShape": "polygon",
+      "zonePoints": [
+        [
+          3002,
+          3473
+        ],
+        [
+          3007,
+          3473
+        ],
+        [
+          3007,
+          3468
+        ],
+        [
+          3002,
+          3468
+        ]
+      ],
+      "zoneReach": 3,
+      "templateDefaultZone": false
     },
     {
       "group": "Lumbridge Home Teleport",
@@ -2107,7 +3175,12 @@
       "note": "lands within 2 tiles of this point",
       "page": "Lumbridge Home Teleport",
       "revid": 15362019,
-      "how": "{{Map}} under the heading \"Destination\""
+      "how": "{{Map}} under the heading \"Destination\"",
+      "zone": true,
+      "zoneShape": "square",
+      "zoneRadius": 2.0,
+      "zoneReach": 2,
+      "templateDefaultZone": false
     },
     {
       "group": "Lumbridge Teleport",
@@ -2120,7 +3193,61 @@
       "note": "lands somewhere in an area (polygon of 12 points); its middle is used",
       "page": "Lumbridge Teleport",
       "revid": 14918404,
-      "how": "{{Map}} under the heading \"Destination\""
+      "how": "{{Map}} under the heading \"Destination\"",
+      "zone": true,
+      "zoneShape": "polygon",
+      "zonePoints": [
+        [
+          3219,
+          3218
+        ],
+        [
+          3219,
+          3220
+        ],
+        [
+          3221,
+          3220
+        ],
+        [
+          3221,
+          3221
+        ],
+        [
+          3223,
+          3221
+        ],
+        [
+          3223,
+          3220
+        ],
+        [
+          3224,
+          3220
+        ],
+        [
+          3224,
+          3218
+        ],
+        [
+          3223,
+          3218
+        ],
+        [
+          3223,
+          3216
+        ],
+        [
+          3221,
+          3216
+        ],
+        [
+          3221,
+          3218
+        ]
+      ],
+      "zoneReach": 3,
+      "templateDefaultZone": false
     },
     {
       "group": "Lunar Home Teleport",
@@ -2133,7 +3260,12 @@
       "note": "lands within 2 tiles of this point",
       "page": "Lunar Home Teleport",
       "revid": 15362024,
-      "how": "{{Map}} under the heading \"Destination\""
+      "how": "{{Map}} under the heading \"Destination\"",
+      "zone": true,
+      "zoneShape": "square",
+      "zoneRadius": 2.0,
+      "zoneReach": 2,
+      "templateDefaultZone": false
     },
     {
       "group": "Mind Altar Teleport",
@@ -2146,20 +3278,30 @@
       "note": "lands within 2 tiles of this point",
       "page": "Mind Altar Teleport",
       "revid": 15356657,
-      "how": "{{Map}} under the heading \"Destination\""
+      "how": "{{Map}} under the heading \"Destination\"",
+      "zone": true,
+      "zoneShape": "square",
+      "zoneRadius": 2.0,
+      "zoneReach": 2,
+      "templateDefaultZone": false
     },
     {
       "group": "Minigame Teleport",
       "groupKind": "spell",
       "name": "Minigame Teleport",
-      "x": 2521,
-      "y": 3570,
+      "x": 2531,
+      "y": 3577,
       "plane": 0,
       "planeGiven": false,
       "note": "lands within 2.5 tiles of this point",
       "page": "Minigame Teleport",
-      "revid": 15359028,
-      "how": "{{Map}} under the heading \"Destinations\""
+      "revid": 15396126,
+      "how": "{{Map}} under the heading \"Destinations\"",
+      "zone": true,
+      "zoneShape": "square",
+      "zoneRadius": 2.5,
+      "zoneReach": 2,
+      "templateDefaultZone": false
     },
     {
       "group": "Minigame Teleport",
@@ -2171,8 +3313,13 @@
       "planeGiven": false,
       "note": "lands within 2.5 tiles of this point",
       "page": "Minigame Teleport",
-      "revid": 15359028,
-      "how": "{{Map}} under the heading \"Destinations\""
+      "revid": 15396126,
+      "how": "{{Map}} under the heading \"Destinations\"",
+      "zone": true,
+      "zoneShape": "square",
+      "zoneRadius": 2.5,
+      "zoneReach": 2,
+      "templateDefaultZone": false
     },
     {
       "group": "Minigame Teleport",
@@ -2184,8 +3331,13 @@
       "planeGiven": false,
       "note": "lands within 2.5 tiles of this point",
       "page": "Minigame Teleport",
-      "revid": 15359028,
-      "how": "{{Map}} under the heading \"Destinations\""
+      "revid": 15396126,
+      "how": "{{Map}} under the heading \"Destinations\"",
+      "zone": true,
+      "zoneShape": "square",
+      "zoneRadius": 2.5,
+      "zoneReach": 2,
+      "templateDefaultZone": false
     },
     {
       "group": "Minigame Teleport",
@@ -2197,8 +3349,13 @@
       "planeGiven": false,
       "note": "lands within 2.5 tiles of this point",
       "page": "Minigame Teleport",
-      "revid": 15359028,
-      "how": "{{Map}} under the heading \"Destinations\""
+      "revid": 15396126,
+      "how": "{{Map}} under the heading \"Destinations\"",
+      "zone": true,
+      "zoneShape": "square",
+      "zoneRadius": 2.5,
+      "zoneReach": 2,
+      "templateDefaultZone": false
     },
     {
       "group": "Minigame Teleport",
@@ -2210,8 +3367,13 @@
       "planeGiven": false,
       "note": "lands within 2.5 tiles of this point",
       "page": "Minigame Teleport",
-      "revid": 15359028,
-      "how": "{{Map}} under the heading \"Destinations\""
+      "revid": 15396126,
+      "how": "{{Map}} under the heading \"Destinations\"",
+      "zone": true,
+      "zoneShape": "square",
+      "zoneRadius": 2.5,
+      "zoneReach": 2,
+      "templateDefaultZone": false
     },
     {
       "group": "Minigame Teleport",
@@ -2223,8 +3385,13 @@
       "planeGiven": false,
       "note": "lands within 2.5 tiles of this point",
       "page": "Minigame Teleport",
-      "revid": 15359028,
-      "how": "{{Map}} under the heading \"Destinations\""
+      "revid": 15396126,
+      "how": "{{Map}} under the heading \"Destinations\"",
+      "zone": true,
+      "zoneShape": "square",
+      "zoneRadius": 2.5,
+      "zoneReach": 2,
+      "templateDefaultZone": false
     },
     {
       "group": "Minigame Teleport",
@@ -2236,8 +3403,13 @@
       "planeGiven": false,
       "note": "lands within 2.5 tiles of this point",
       "page": "Minigame Teleport",
-      "revid": 15359028,
-      "how": "{{Map}} under the heading \"Destinations\""
+      "revid": 15396126,
+      "how": "{{Map}} under the heading \"Destinations\"",
+      "zone": true,
+      "zoneShape": "square",
+      "zoneRadius": 2.5,
+      "zoneReach": 2,
+      "templateDefaultZone": false
     },
     {
       "group": "Minigame Teleport",
@@ -2249,8 +3421,13 @@
       "planeGiven": false,
       "note": "lands within 2.5 tiles of this point",
       "page": "Minigame Teleport",
-      "revid": 15359028,
-      "how": "{{Map}} under the heading \"Destinations\""
+      "revid": 15396126,
+      "how": "{{Map}} under the heading \"Destinations\"",
+      "zone": true,
+      "zoneShape": "square",
+      "zoneRadius": 2.5,
+      "zoneReach": 2,
+      "templateDefaultZone": false
     },
     {
       "group": "Minigame Teleport",
@@ -2262,8 +3439,13 @@
       "planeGiven": false,
       "note": "lands within 2.5 tiles of this point",
       "page": "Minigame Teleport",
-      "revid": 15359028,
-      "how": "{{Map}} under the heading \"Destinations\""
+      "revid": 15396126,
+      "how": "{{Map}} under the heading \"Destinations\"",
+      "zone": true,
+      "zoneShape": "square",
+      "zoneRadius": 2.5,
+      "zoneReach": 2,
+      "templateDefaultZone": false
     },
     {
       "group": "Minigame Teleport",
@@ -2275,8 +3457,13 @@
       "planeGiven": false,
       "note": "lands within 2.5 tiles of this point",
       "page": "Minigame Teleport",
-      "revid": 15359028,
-      "how": "{{Map}} under the heading \"Destinations\""
+      "revid": 15396126,
+      "how": "{{Map}} under the heading \"Destinations\"",
+      "zone": true,
+      "zoneShape": "square",
+      "zoneRadius": 2.5,
+      "zoneReach": 2,
+      "templateDefaultZone": false
     },
     {
       "group": "Minigame Teleport",
@@ -2288,8 +3475,13 @@
       "planeGiven": false,
       "note": "lands within 2.5 tiles of this point",
       "page": "Minigame Teleport",
-      "revid": 15359028,
-      "how": "{{Map}} under the heading \"Destinations\""
+      "revid": 15396126,
+      "how": "{{Map}} under the heading \"Destinations\"",
+      "zone": true,
+      "zoneShape": "square",
+      "zoneRadius": 2.5,
+      "zoneReach": 2,
+      "templateDefaultZone": false
     },
     {
       "group": "Minigame Teleport",
@@ -2301,8 +3493,13 @@
       "planeGiven": false,
       "note": "lands within 2.5 tiles of this point",
       "page": "Minigame Teleport",
-      "revid": 15359028,
-      "how": "{{Map}} under the heading \"Destinations\""
+      "revid": 15396126,
+      "how": "{{Map}} under the heading \"Destinations\"",
+      "zone": true,
+      "zoneShape": "square",
+      "zoneRadius": 2.5,
+      "zoneReach": 2,
+      "templateDefaultZone": false
     },
     {
       "group": "Minigame Teleport",
@@ -2314,8 +3511,13 @@
       "planeGiven": false,
       "note": "lands within 2.5 tiles of this point",
       "page": "Minigame Teleport",
-      "revid": 15359028,
-      "how": "{{Map}} under the heading \"Destinations\""
+      "revid": 15396126,
+      "how": "{{Map}} under the heading \"Destinations\"",
+      "zone": true,
+      "zoneShape": "square",
+      "zoneRadius": 2.5,
+      "zoneReach": 2,
+      "templateDefaultZone": false
     },
     {
       "group": "Minigame Teleport",
@@ -2327,8 +3529,13 @@
       "planeGiven": false,
       "note": "lands within 2.5 tiles of this point",
       "page": "Minigame Teleport",
-      "revid": 15359028,
-      "how": "{{Map}} under the heading \"Destinations\""
+      "revid": 15396126,
+      "how": "{{Map}} under the heading \"Destinations\"",
+      "zone": true,
+      "zoneShape": "square",
+      "zoneRadius": 2.5,
+      "zoneReach": 2,
+      "templateDefaultZone": false
     },
     {
       "group": "Minigame Teleport",
@@ -2340,8 +3547,13 @@
       "planeGiven": false,
       "note": "lands within 2.5 tiles of this point",
       "page": "Minigame Teleport",
-      "revid": 15359028,
-      "how": "{{Map}} under the heading \"Destinations\""
+      "revid": 15396126,
+      "how": "{{Map}} under the heading \"Destinations\"",
+      "zone": true,
+      "zoneShape": "square",
+      "zoneRadius": 2.5,
+      "zoneReach": 2,
+      "templateDefaultZone": false
     },
     {
       "group": "Minigame Teleport",
@@ -2353,8 +3565,13 @@
       "planeGiven": false,
       "note": "lands within 2.5 tiles of this point",
       "page": "Minigame Teleport",
-      "revid": 15359028,
-      "how": "{{Map}} under the heading \"Destinations\""
+      "revid": 15396126,
+      "how": "{{Map}} under the heading \"Destinations\"",
+      "zone": true,
+      "zoneShape": "square",
+      "zoneRadius": 2.5,
+      "zoneReach": 2,
+      "templateDefaultZone": false
     },
     {
       "group": "Minigame Teleport",
@@ -2366,8 +3583,13 @@
       "planeGiven": false,
       "note": "lands within 2.5 tiles of this point",
       "page": "Minigame Teleport",
-      "revid": 15359028,
-      "how": "{{Map}} under the heading \"Destinations\""
+      "revid": 15396126,
+      "how": "{{Map}} under the heading \"Destinations\"",
+      "zone": true,
+      "zoneShape": "square",
+      "zoneRadius": 2.5,
+      "zoneReach": 2,
+      "templateDefaultZone": false
     },
     {
       "group": "Minigame Teleport",
@@ -2379,8 +3601,13 @@
       "planeGiven": false,
       "note": "lands within 2.5 tiles of this point",
       "page": "Minigame Teleport",
-      "revid": 15359028,
-      "how": "{{Map}} under the heading \"Destinations\""
+      "revid": 15396126,
+      "how": "{{Map}} under the heading \"Destinations\"",
+      "zone": true,
+      "zoneShape": "square",
+      "zoneRadius": 2.5,
+      "zoneReach": 2,
+      "templateDefaultZone": false
     },
     {
       "group": "Minigame Teleport",
@@ -2392,8 +3619,13 @@
       "planeGiven": false,
       "note": "lands within 2.5 tiles of this point",
       "page": "Minigame Teleport",
-      "revid": 15359028,
-      "how": "{{Map}} under the heading \"Destinations\""
+      "revid": 15396126,
+      "how": "{{Map}} under the heading \"Destinations\"",
+      "zone": true,
+      "zoneShape": "square",
+      "zoneRadius": 2.5,
+      "zoneReach": 2,
+      "templateDefaultZone": false
     },
     {
       "group": "Minigame Teleport",
@@ -2405,21 +3637,31 @@
       "planeGiven": false,
       "note": "lands within 2.5 tiles of this point",
       "page": "Minigame Teleport",
-      "revid": 15359028,
-      "how": "{{Map}} under the heading \"Destinations\""
+      "revid": 15396126,
+      "how": "{{Map}} under the heading \"Destinations\"",
+      "zone": true,
+      "zoneShape": "square",
+      "zoneRadius": 2.5,
+      "zoneReach": 2,
+      "templateDefaultZone": false
     },
     {
       "group": "Minigame Teleport",
       "groupKind": "spell",
       "name": "Minigame Teleport",
-      "x": 2018,
-      "y": 5929,
+      "x": 2210,
+      "y": 2857,
       "plane": 0,
       "planeGiven": false,
       "note": "lands within 2.5 tiles of this point",
       "page": "Minigame Teleport",
-      "revid": 15359028,
-      "how": "{{Map}} under the heading \"Destinations\""
+      "revid": 15396126,
+      "how": "{{Map}} under the heading \"Destinations\"",
+      "zone": true,
+      "zoneShape": "square",
+      "zoneRadius": 2.5,
+      "zoneReach": 2,
+      "templateDefaultZone": false
     },
     {
       "group": "Minigame Teleport",
@@ -2431,21 +3673,31 @@
       "planeGiven": false,
       "note": "lands within 2.5 tiles of this point",
       "page": "Minigame Teleport",
-      "revid": 15359028,
-      "how": "{{Map}} under the heading \"Destinations\""
+      "revid": 15396126,
+      "how": "{{Map}} under the heading \"Destinations\"",
+      "zone": true,
+      "zoneShape": "square",
+      "zoneRadius": 2.5,
+      "zoneReach": 2,
+      "templateDefaultZone": false
     },
     {
       "group": "Minigame Teleport",
       "groupKind": "spell",
       "name": "Minigame Teleport",
-      "x": 3801,
-      "y": 3015,
+      "x": 3816,
+      "y": 3024,
       "plane": 0,
       "planeGiven": false,
       "note": "lands within 2.5 tiles of this point",
       "page": "Minigame Teleport",
-      "revid": 15359028,
-      "how": "{{Map}} under the heading \"Destinations\""
+      "revid": 15396126,
+      "how": "{{Map}} under the heading \"Destinations\"",
+      "zone": true,
+      "zoneShape": "square",
+      "zoneRadius": 2.5,
+      "zoneReach": 2,
+      "templateDefaultZone": false
     },
     {
       "group": "Minigame Teleport",
@@ -2457,8 +3709,13 @@
       "planeGiven": false,
       "note": "lands within 2.5 tiles of this point",
       "page": "Minigame Teleport",
-      "revid": 15359028,
-      "how": "{{Map}} under the heading \"Destinations\""
+      "revid": 15396126,
+      "how": "{{Map}} under the heading \"Destinations\"",
+      "zone": true,
+      "zoneShape": "square",
+      "zoneRadius": 2.5,
+      "zoneReach": 2,
+      "templateDefaultZone": false
     },
     {
       "group": "Moonclan Teleport",
@@ -2471,7 +3728,12 @@
       "note": "lands within 2 tiles of this point",
       "page": "Moonclan Teleport",
       "revid": 15356646,
-      "how": "{{Map}} under the heading \"Destination\""
+      "how": "{{Map}} under the heading \"Destination\"",
+      "zone": true,
+      "zoneShape": "square",
+      "zoneRadius": 2.0,
+      "zoneReach": 2,
+      "templateDefaultZone": false
     },
     {
       "group": "Ourania Teleport",
@@ -2484,7 +3746,12 @@
       "note": "lands within 2 tiles of this point",
       "page": "Ourania Teleport",
       "revid": 15356647,
-      "how": "{{Map}} under the heading \"Destination\""
+      "how": "{{Map}} under the heading \"Destination\"",
+      "zone": true,
+      "zoneShape": "square",
+      "zoneRadius": 2.0,
+      "zoneReach": 2,
+      "templateDefaultZone": false
     },
     {
       "group": "Salve Graveyard Teleport",
@@ -2497,7 +3764,12 @@
       "note": "lands within 2 tiles of this point",
       "page": "Salve Graveyard Teleport",
       "revid": 15356658,
-      "how": "{{Map}} under the heading \"Destination\""
+      "how": "{{Map}} under the heading \"Destination\"",
+      "zone": true,
+      "zoneShape": "square",
+      "zoneRadius": 2.0,
+      "zoneReach": 2,
+      "templateDefaultZone": false
     },
     {
       "group": "Senntisten Teleport",
@@ -2510,7 +3782,12 @@
       "note": "lands within 2 tiles of this point",
       "page": "Senntisten Teleport",
       "revid": 15356671,
-      "how": "{{Map}} under the heading \"Destination\""
+      "how": "{{Map}} under the heading \"Destination\"",
+      "zone": true,
+      "zoneShape": "square",
+      "zoneRadius": 2.0,
+      "zoneReach": 2,
+      "templateDefaultZone": false
     },
     {
       "group": "Tele Group Barbarian",
@@ -2523,7 +3800,12 @@
       "note": "lands within 2 tiles of this point",
       "page": "Tele Group Barbarian",
       "revid": 15362975,
-      "how": "{{Map}} under the heading \"Destination\""
+      "how": "{{Map}} under the heading \"Destination\"",
+      "zone": true,
+      "zoneShape": "square",
+      "zoneRadius": 2.0,
+      "zoneReach": 2,
+      "templateDefaultZone": false
     },
     {
       "group": "Tele Group Catherby",
@@ -2536,7 +3818,37 @@
       "note": "lands somewhere in an area (polygon of 6 points); its middle is used",
       "page": "Tele Group Catherby",
       "revid": 15362978,
-      "how": "{{Map}} under the heading \"Destination\""
+      "how": "{{Map}} under the heading \"Destination\"",
+      "zone": true,
+      "zoneShape": "polygon",
+      "zonePoints": [
+        [
+          2799,
+          3448
+        ],
+        [
+          2799,
+          3452
+        ],
+        [
+          2804,
+          3452
+        ],
+        [
+          2804,
+          3447
+        ],
+        [
+          2801,
+          3447
+        ],
+        [
+          2801,
+          3448
+        ]
+      ],
+      "zoneReach": 3,
+      "templateDefaultZone": false
     },
     {
       "group": "Tele Group Fishing Guild",
@@ -2549,7 +3861,12 @@
       "note": "lands within 2 tiles of this point",
       "page": "Tele Group Fishing Guild",
       "revid": 15362977,
-      "how": "{{Map}} under the heading \"Destination\""
+      "how": "{{Map}} under the heading \"Destination\"",
+      "zone": true,
+      "zoneShape": "square",
+      "zoneRadius": 2.0,
+      "zoneReach": 2,
+      "templateDefaultZone": false
     },
     {
       "group": "Tele Group Ice Plateau",
@@ -2562,7 +3879,12 @@
       "note": "lands within 3 tiles of this point",
       "page": "Tele Group Ice Plateau",
       "revid": 15362979,
-      "how": "{{Map}} under the heading \"Destination\""
+      "how": "{{Map}} under the heading \"Destination\"",
+      "zone": true,
+      "zoneShape": "square",
+      "zoneRadius": 3.0,
+      "zoneReach": 3,
+      "templateDefaultZone": false
     },
     {
       "group": "Tele Group Khazard",
@@ -2575,7 +3897,12 @@
       "note": "lands within 2 tiles of this point",
       "page": "Tele Group Khazard",
       "revid": 15362976,
-      "how": "{{Map}} under the heading \"Destination\""
+      "how": "{{Map}} under the heading \"Destination\"",
+      "zone": true,
+      "zoneShape": "square",
+      "zoneRadius": 2.0,
+      "zoneReach": 2,
+      "templateDefaultZone": false
     },
     {
       "group": "Tele Group Moonclan",
@@ -2588,7 +3915,29 @@
       "note": "lands somewhere in an area (polygon of 4 points); its middle is used",
       "page": "Tele Group Moonclan",
       "revid": 15362973,
-      "how": "{{Map}} under the heading \"Destination\""
+      "how": "{{Map}} under the heading \"Destination\"",
+      "zone": true,
+      "zoneShape": "polygon",
+      "zonePoints": [
+        [
+          2107,
+          3915
+        ],
+        [
+          2112,
+          3915
+        ],
+        [
+          2112,
+          3916
+        ],
+        [
+          2107,
+          3916
+        ]
+      ],
+      "zoneReach": 3,
+      "templateDefaultZone": false
     },
     {
       "group": "Tele Group Waterbirth",
@@ -2601,7 +3950,12 @@
       "note": "lands within 2 tiles of this point",
       "page": "Tele Group Waterbirth",
       "revid": 15362974,
-      "how": "{{Map}} under the heading \"Destination\""
+      "how": "{{Map}} under the heading \"Destination\"",
+      "zone": true,
+      "zoneShape": "square",
+      "zoneRadius": 2.0,
+      "zoneReach": 2,
+      "templateDefaultZone": false
     },
     {
       "group": "Teleother Camelot",
@@ -2614,7 +3968,12 @@
       "note": "lands within 2 tiles of this point",
       "page": "Teleother Camelot",
       "revid": 15362972,
-      "how": "{{Map}} under the heading \"Destination\""
+      "how": "{{Map}} under the heading \"Destination\"",
+      "zone": true,
+      "zoneShape": "square",
+      "zoneRadius": 2.0,
+      "zoneReach": 2,
+      "templateDefaultZone": false
     },
     {
       "group": "Teleother Falador",
@@ -2627,7 +3986,12 @@
       "note": "lands within 2 tiles of this point",
       "page": "Teleother Falador",
       "revid": 15362971,
-      "how": "{{Map}} under the heading \"Destination\""
+      "how": "{{Map}} under the heading \"Destination\"",
+      "zone": true,
+      "zoneShape": "square",
+      "zoneRadius": 2.0,
+      "zoneReach": 2,
+      "templateDefaultZone": false
     },
     {
       "group": "Teleother Lumbridge",
@@ -2639,8 +4003,62 @@
       "planeGiven": false,
       "note": "lands somewhere in an area (polygon of 12 points); its middle is used",
       "page": "Teleother Lumbridge",
-      "revid": 15362968,
-      "how": "{{Map}} under the heading \"Destination\""
+      "revid": 15403605,
+      "how": "{{Map}} under the heading \"Destination\"",
+      "zone": true,
+      "zoneShape": "polygon",
+      "zonePoints": [
+        [
+          3219,
+          3218
+        ],
+        [
+          3219,
+          3220
+        ],
+        [
+          3221,
+          3220
+        ],
+        [
+          3221,
+          3221
+        ],
+        [
+          3223,
+          3221
+        ],
+        [
+          3223,
+          3220
+        ],
+        [
+          3224,
+          3220
+        ],
+        [
+          3224,
+          3218
+        ],
+        [
+          3223,
+          3218
+        ],
+        [
+          3223,
+          3216
+        ],
+        [
+          3221,
+          3216
+        ],
+        [
+          3221,
+          3218
+        ]
+      ],
+      "zoneReach": 3,
+      "templateDefaultZone": false
     },
     {
       "group": "Achievement diary cape",
@@ -2652,8 +4070,62 @@
       "planeGiven": false,
       "note": "lands somewhere in an area (polygon of 12 points); its middle is used",
       "page": "Achievement diary cape",
-      "revid": 15342685,
-      "how": "{{Map}} under the heading \"Teleports\""
+      "revid": 15391726,
+      "how": "{{Map}} under the heading \"Teleports\"",
+      "zone": true,
+      "zoneShape": "polygon",
+      "zonePoints": [
+        [
+          2574,
+          3326
+        ],
+        [
+          2575,
+          3326
+        ],
+        [
+          2575,
+          3325
+        ],
+        [
+          2576,
+          3325
+        ],
+        [
+          2576,
+          3324
+        ],
+        [
+          2575,
+          3324
+        ],
+        [
+          2575,
+          3323
+        ],
+        [
+          2574,
+          3323
+        ],
+        [
+          2574,
+          3324
+        ],
+        [
+          2573,
+          3324
+        ],
+        [
+          2573,
+          3325
+        ],
+        [
+          2574,
+          3325
+        ]
+      ],
+      "zoneReach": 2,
+      "templateDefaultZone": false
     },
     {
       "group": "Achievement diary cape",
@@ -2665,8 +4137,46 @@
       "planeGiven": false,
       "note": "lands somewhere in an area (polygon of 8 points); its middle is used",
       "page": "Achievement diary cape",
-      "revid": 15342685,
-      "how": "{{Map}} under the heading \"Teleports\""
+      "revid": 15391726,
+      "how": "{{Map}} under the heading \"Teleports\"",
+      "zone": true,
+      "zoneShape": "polygon",
+      "zonePoints": [
+        [
+          3299,
+          3123
+        ],
+        [
+          3301,
+          3123
+        ],
+        [
+          3301,
+          3122
+        ],
+        [
+          3302,
+          3122
+        ],
+        [
+          3302,
+          3120
+        ],
+        [
+          3300,
+          3120
+        ],
+        [
+          3300,
+          3121
+        ],
+        [
+          3299,
+          3121
+        ]
+      ],
+      "zoneReach": 2,
+      "templateDefaultZone": false
     },
     {
       "group": "Achievement diary cape",
@@ -2678,8 +4188,13 @@
       "planeGiven": false,
       "note": "lands within 1.5 tiles of this point",
       "page": "Achievement diary cape",
-      "revid": 15342685,
-      "how": "{{Map}} under the heading \"Teleports\""
+      "revid": 15391726,
+      "how": "{{Map}} under the heading \"Teleports\"",
+      "zone": true,
+      "zoneShape": "square",
+      "zoneRadius": 1.5,
+      "zoneReach": 1,
+      "templateDefaultZone": false
     },
     {
       "group": "Achievement diary cape",
@@ -2691,8 +4206,13 @@
       "planeGiven": false,
       "note": "lands within 1.5 tiles of this point",
       "page": "Achievement diary cape",
-      "revid": 15342685,
-      "how": "{{Map}} under the heading \"Teleports\""
+      "revid": 15391726,
+      "how": "{{Map}} under the heading \"Teleports\"",
+      "zone": true,
+      "zoneShape": "square",
+      "zoneRadius": 1.5,
+      "zoneReach": 1,
+      "templateDefaultZone": false
     },
     {
       "group": "Achievement diary cape",
@@ -2704,8 +4224,13 @@
       "planeGiven": false,
       "note": "lands within 1.5 tiles of this point",
       "page": "Achievement diary cape",
-      "revid": 15342685,
-      "how": "{{Map}} under the heading \"Teleports\""
+      "revid": 15391726,
+      "how": "{{Map}} under the heading \"Teleports\"",
+      "zone": true,
+      "zoneShape": "square",
+      "zoneRadius": 1.5,
+      "zoneReach": 1,
+      "templateDefaultZone": false
     },
     {
       "group": "Achievement diary cape",
@@ -2717,8 +4242,38 @@
       "planeGiven": false,
       "note": "lands somewhere in an area (polygon of 6 points); its middle is used",
       "page": "Achievement diary cape",
-      "revid": 15342685,
-      "how": "{{Map}} under the heading \"Teleports\""
+      "revid": 15391726,
+      "how": "{{Map}} under the heading \"Teleports\"",
+      "zone": true,
+      "zoneShape": "polygon",
+      "zonePoints": [
+        [
+          2809,
+          3193
+        ],
+        [
+          2812,
+          3193
+        ],
+        [
+          2812,
+          3191
+        ],
+        [
+          2810,
+          3191
+        ],
+        [
+          2810,
+          3190
+        ],
+        [
+          2809,
+          3190
+        ]
+      ],
+      "zoneReach": 2,
+      "templateDefaultZone": false
     },
     {
       "group": "Achievement diary cape",
@@ -2730,8 +4285,46 @@
       "planeGiven": true,
       "note": "lands somewhere in an area (polygon of 8 points); its middle is used",
       "page": "Achievement diary cape",
-      "revid": 15342685,
-      "how": "{{Map}} under the heading \"Teleports\""
+      "revid": 15391726,
+      "how": "{{Map}} under the heading \"Teleports\"",
+      "zone": true,
+      "zoneShape": "polygon",
+      "zonePoints": [
+        [
+          2860,
+          2997
+        ],
+        [
+          2861,
+          2997
+        ],
+        [
+          2861,
+          2996
+        ],
+        [
+          2862,
+          2996
+        ],
+        [
+          2862,
+          2997
+        ],
+        [
+          2863,
+          2997
+        ],
+        [
+          2863,
+          2994
+        ],
+        [
+          2860,
+          2994
+        ]
+      ],
+      "zoneReach": 2,
+      "templateDefaultZone": false
     },
     {
       "group": "Achievement diary cape",
@@ -2743,8 +4336,13 @@
       "planeGiven": false,
       "note": "lands within 1.5 tiles of this point",
       "page": "Achievement diary cape",
-      "revid": 15342685,
-      "how": "{{Map}} under the heading \"Teleports\""
+      "revid": 15391726,
+      "how": "{{Map}} under the heading \"Teleports\"",
+      "zone": true,
+      "zoneShape": "square",
+      "zoneRadius": 1.5,
+      "zoneReach": 1,
+      "templateDefaultZone": false
     },
     {
       "group": "Achievement diary cape",
@@ -2756,8 +4354,13 @@
       "planeGiven": false,
       "note": "lands within 1.5 tiles of this point",
       "page": "Achievement diary cape",
-      "revid": 15342685,
-      "how": "{{Map}} under the heading \"Teleports\""
+      "revid": 15391726,
+      "how": "{{Map}} under the heading \"Teleports\"",
+      "zone": true,
+      "zoneShape": "square",
+      "zoneRadius": 1.5,
+      "zoneReach": 1,
+      "templateDefaultZone": false
     },
     {
       "group": "Achievement diary cape",
@@ -2769,8 +4372,13 @@
       "planeGiven": false,
       "note": "lands within 1.5 tiles of this point",
       "page": "Achievement diary cape",
-      "revid": 15342685,
-      "how": "{{Map}} under the heading \"Teleports\""
+      "revid": 15391726,
+      "how": "{{Map}} under the heading \"Teleports\"",
+      "zone": true,
+      "zoneShape": "square",
+      "zoneRadius": 1.5,
+      "zoneReach": 1,
+      "templateDefaultZone": false
     },
     {
       "group": "Achievement diary cape",
@@ -2782,8 +4390,13 @@
       "planeGiven": false,
       "note": "lands within 1.5 tiles of this point",
       "page": "Achievement diary cape",
-      "revid": 15342685,
-      "how": "{{Map}} under the heading \"Teleports\""
+      "revid": 15391726,
+      "how": "{{Map}} under the heading \"Teleports\"",
+      "zone": true,
+      "zoneShape": "square",
+      "zoneRadius": 1.5,
+      "zoneReach": 1,
+      "templateDefaultZone": false
     },
     {
       "group": "Achievement diary cape",
@@ -2795,8 +4408,54 @@
       "planeGiven": false,
       "note": "lands somewhere in an area (polygon of 10 points); its middle is used",
       "page": "Achievement diary cape",
-      "revid": 15342685,
-      "how": "{{Map}} under the heading \"Teleports\""
+      "revid": 15391726,
+      "how": "{{Map}} under the heading \"Teleports\"",
+      "zone": true,
+      "zoneShape": "polygon",
+      "zonePoints": [
+        [
+          3223,
+          3416
+        ],
+        [
+          3225,
+          3416
+        ],
+        [
+          3225,
+          3415
+        ],
+        [
+          3226,
+          3415
+        ],
+        [
+          3226,
+          3413
+        ],
+        [
+          3225,
+          3413
+        ],
+        [
+          3225,
+          3414
+        ],
+        [
+          3224,
+          3414
+        ],
+        [
+          3224,
+          3413
+        ],
+        [
+          3223,
+          3413
+        ]
+      ],
+      "zoneReach": 2,
+      "templateDefaultZone": false
     },
     {
       "group": "Achievement diary cape",
@@ -2808,8 +4467,13 @@
       "planeGiven": false,
       "note": "lands within 1.5 tiles of this point",
       "page": "Achievement diary cape",
-      "revid": 15342685,
-      "how": "{{Map}} under the heading \"Teleports\""
+      "revid": 15391726,
+      "how": "{{Map}} under the heading \"Teleports\"",
+      "zone": true,
+      "zoneShape": "square",
+      "zoneRadius": 1.5,
+      "zoneReach": 1,
+      "templateDefaultZone": false
     },
     {
       "group": "Achievement diary cape",
@@ -2821,8 +4485,13 @@
       "planeGiven": false,
       "note": "lands within 1.5 tiles of this point",
       "page": "Achievement diary cape",
-      "revid": 15342685,
-      "how": "{{Map}} under the heading \"Teleports\""
+      "revid": 15391726,
+      "how": "{{Map}} under the heading \"Teleports\"",
+      "zone": true,
+      "zoneShape": "square",
+      "zoneRadius": 1.5,
+      "zoneReach": 1,
+      "templateDefaultZone": false
     },
     {
       "group": "Achievement diary cape",
@@ -2834,8 +4503,13 @@
       "planeGiven": false,
       "note": "lands within 1.5 tiles of this point",
       "page": "Achievement diary cape",
-      "revid": 15342685,
-      "how": "{{Map}} under the heading \"Teleports\""
+      "revid": 15391726,
+      "how": "{{Map}} under the heading \"Teleports\"",
+      "zone": true,
+      "zoneShape": "square",
+      "zoneRadius": 1.5,
+      "zoneReach": 1,
+      "templateDefaultZone": false
     },
     {
       "group": "Annakarl teleport (tablet)",
@@ -2848,7 +4522,37 @@
       "note": "lands somewhere in an area (polygon of 6 points); its middle is used",
       "page": "Annakarl teleport (tablet)",
       "revid": 15186388,
-      "how": "{{Map}} under the heading \"Destination\""
+      "how": "{{Map}} under the heading \"Destination\"",
+      "zone": true,
+      "zoneShape": "polygon",
+      "zonePoints": [
+        [
+          3287,
+          3888
+        ],
+        [
+          3289,
+          3888
+        ],
+        [
+          3289,
+          3886
+        ],
+        [
+          3288,
+          3886
+        ],
+        [
+          3288,
+          3885
+        ],
+        [
+          3287,
+          3885
+        ]
+      ],
+      "zoneReach": 2,
+      "templateDefaultZone": false
     },
     {
       "group": "Ape atoll teleport (tablet)",
@@ -2861,7 +4565,12 @@
       "note": "lands within 2 tiles of this point",
       "page": "Ape atoll teleport (tablet)",
       "revid": 15187525,
-      "how": "{{Map}} under the heading \"Destination\""
+      "how": "{{Map}} under the heading \"Destination\"",
+      "zone": true,
+      "zoneShape": "square",
+      "zoneRadius": 2.0,
+      "zoneReach": 2,
+      "templateDefaultZone": false
     },
     {
       "group": "Arceuus library teleport (tablet)",
@@ -2874,7 +4583,12 @@
       "note": "lands within 2 tiles of this point",
       "page": "Arceuus library teleport (tablet)",
       "revid": 15231347,
-      "how": "{{Map}} under the heading \"Destination\""
+      "how": "{{Map}} under the heading \"Destination\"",
+      "zone": true,
+      "zoneShape": "square",
+      "zoneRadius": 2.0,
+      "zoneReach": 2,
+      "templateDefaultZone": false
     },
     {
       "group": "Ardeaglais teleport",
@@ -2887,7 +4601,9 @@
       "note": "",
       "page": "Ardeaglais teleport",
       "revid": 15291623,
-      "how": "{{Map}} under the heading \"Destination\""
+      "how": "{{Map}} under the heading \"Destination\"",
+      "zone": false,
+      "templateDefaultZone": false
     },
     {
       "group": "Ardougne cloak 1",
@@ -2900,7 +4616,61 @@
       "note": "lands somewhere in an area (polygon of 12 points); its middle is used",
       "page": "Ardougne cloak 1",
       "revid": 15363015,
-      "how": "{{Map}} under the heading \"Destination\""
+      "how": "{{Map}} under the heading \"Destination\"",
+      "zone": true,
+      "zoneShape": "polygon",
+      "zonePoints": [
+        [
+          2605,
+          3224
+        ],
+        [
+          2608,
+          3224
+        ],
+        [
+          2608,
+          3223
+        ],
+        [
+          2609,
+          3223
+        ],
+        [
+          2609,
+          3219
+        ],
+        [
+          2604,
+          3219
+        ],
+        [
+          2604,
+          3221
+        ],
+        [
+          2605,
+          3221
+        ],
+        [
+          2605,
+          3222
+        ],
+        [
+          2606,
+          3222
+        ],
+        [
+          2606,
+          3223
+        ],
+        [
+          2605,
+          3223
+        ]
+      ],
+      "zoneReach": 3,
+      "templateDefaultZone": false
     },
     {
       "group": "Ardougne cloak 2",
@@ -2913,7 +4683,61 @@
       "note": "lands somewhere in an area (polygon of 12 points); its middle is used",
       "page": "Ardougne cloak 2",
       "revid": 15363014,
-      "how": "{{Map}} under the heading \"Destination\""
+      "how": "{{Map}} under the heading \"Destination\"",
+      "zone": true,
+      "zoneShape": "polygon",
+      "zonePoints": [
+        [
+          2605,
+          3224
+        ],
+        [
+          2608,
+          3224
+        ],
+        [
+          2608,
+          3223
+        ],
+        [
+          2609,
+          3223
+        ],
+        [
+          2609,
+          3219
+        ],
+        [
+          2604,
+          3219
+        ],
+        [
+          2604,
+          3221
+        ],
+        [
+          2605,
+          3221
+        ],
+        [
+          2605,
+          3222
+        ],
+        [
+          2606,
+          3222
+        ],
+        [
+          2606,
+          3223
+        ],
+        [
+          2605,
+          3223
+        ]
+      ],
+      "zoneReach": 3,
+      "templateDefaultZone": false
     },
     {
       "group": "Ardougne teleport (tablet)",
@@ -2926,7 +4750,12 @@
       "note": "lands within 2 tiles of this point",
       "page": "Ardougne teleport (tablet)",
       "revid": 15183982,
-      "how": "{{Map}} under the heading \"Destination\""
+      "how": "{{Map}} under the heading \"Destination\"",
+      "zone": true,
+      "zoneShape": "square",
+      "zoneRadius": 2.0,
+      "zoneReach": 2,
+      "templateDefaultZone": false
     },
     {
       "group": "Barbarian teleport (tablet)",
@@ -2939,7 +4768,12 @@
       "note": "lands within 2 tiles of this point",
       "page": "Barbarian teleport (tablet)",
       "revid": 15189873,
-      "how": "{{Map}} under the heading \"Destination\""
+      "how": "{{Map}} under the heading \"Destination\"",
+      "zone": true,
+      "zoneShape": "square",
+      "zoneRadius": 2.0,
+      "zoneReach": 2,
+      "templateDefaultZone": false
     },
     {
       "group": "Barrows teleport (tablet)",
@@ -2952,7 +4786,12 @@
       "note": "lands within 2 tiles of this point",
       "page": "Barrows teleport (tablet)",
       "revid": 15187524,
-      "how": "{{Map}} under the heading \"Destination\""
+      "how": "{{Map}} under the heading \"Destination\"",
+      "zone": true,
+      "zoneShape": "square",
+      "zoneRadius": 2.0,
+      "zoneReach": 2,
+      "templateDefaultZone": false
     },
     {
       "group": "Basic quetzal whistle",
@@ -2964,8 +4803,10 @@
       "planeGiven": false,
       "note": "",
       "page": "Basic quetzal whistle",
-      "revid": 15356472,
-      "how": "{{Map}} under the heading \"Destination\""
+      "revid": 15404693,
+      "how": "{{Map}} under the heading \"Destination\"",
+      "zone": false,
+      "templateDefaultZone": false
     },
     {
       "group": "Battlefront teleport (tablet)",
@@ -2978,7 +4819,12 @@
       "note": "lands within 2 tiles of this point",
       "page": "Battlefront teleport (tablet)",
       "revid": 15189104,
-      "how": "{{Map}} under the heading \"Destination\""
+      "how": "{{Map}} under the heading \"Destination\"",
+      "zone": true,
+      "zoneShape": "square",
+      "zoneRadius": 2.0,
+      "zoneReach": 2,
+      "templateDefaultZone": false
     },
     {
       "group": "Brimhaven teleport",
@@ -2991,7 +4837,12 @@
       "note": "lands within 2 tiles of this point",
       "page": "Brimhaven teleport",
       "revid": 15309318,
-      "how": "{{Map}} under the heading \"Destination\""
+      "how": "{{Map}} under the heading \"Destination\"",
+      "zone": true,
+      "zoneShape": "square",
+      "zoneRadius": 2.0,
+      "zoneReach": 2,
+      "templateDefaultZone": false
     },
     {
       "group": "Camelot teleport (tablet)",
@@ -3004,7 +4855,12 @@
       "note": "lands within 2 tiles of this point",
       "page": "Camelot teleport (tablet)",
       "revid": 15185080,
-      "how": "{{Map}} under the heading \"Destination\""
+      "how": "{{Map}} under the heading \"Destination\"",
+      "zone": true,
+      "zoneShape": "square",
+      "zoneRadius": 2.0,
+      "zoneReach": 2,
+      "templateDefaultZone": false
     },
     {
       "group": "Carrallanger teleport (tablet)",
@@ -3017,7 +4873,12 @@
       "note": "lands within 3 tiles of this point",
       "page": "Carrallanger teleport (tablet)",
       "revid": 15186389,
-      "how": "{{Map}} under the heading \"Destination\""
+      "how": "{{Map}} under the heading \"Destination\"",
+      "zone": true,
+      "zoneShape": "square",
+      "zoneRadius": 3.0,
+      "zoneReach": 3,
+      "templateDefaultZone": false
     },
     {
       "group": "Catherby teleport (tablet)",
@@ -3030,7 +4891,12 @@
       "note": "lands within 2 tiles of this point",
       "page": "Catherby teleport (tablet)",
       "revid": 15189876,
-      "how": "{{Map}} under the heading \"Destination\""
+      "how": "{{Map}} under the heading \"Destination\"",
+      "zone": true,
+      "zoneShape": "square",
+      "zoneRadius": 2.0,
+      "zoneReach": 2,
+      "templateDefaultZone": false
     },
     {
       "group": "Cemetery teleport (tablet)",
@@ -3043,7 +4909,12 @@
       "note": "lands within 2 tiles of this point",
       "page": "Cemetery teleport (tablet)",
       "revid": 15187523,
-      "how": "{{Map}} under the heading \"Destination\""
+      "how": "{{Map}} under the heading \"Destination\"",
+      "zone": true,
+      "zoneShape": "square",
+      "zoneRadius": 2.0,
+      "zoneReach": 2,
+      "templateDefaultZone": false
     },
     {
       "group": "Chasm teleport scroll",
@@ -3055,8 +4926,10 @@
       "planeGiven": false,
       "note": "",
       "page": "Chasm teleport scroll",
-      "revid": 15350393,
-      "how": "{{Map}} under the heading \"Destination\""
+      "revid": 15403052,
+      "how": "{{Map}} under the heading \"Destination\"",
+      "zone": false,
+      "templateDefaultZone": false
     },
     {
       "group": "Chronicle",
@@ -3069,7 +4942,12 @@
       "note": "lands within 2 tiles of this point",
       "page": "Chronicle",
       "revid": 15366319,
-      "how": "{{Map}} under the heading \"Destination\""
+      "how": "{{Map}} under the heading \"Destination\"",
+      "zone": true,
+      "zoneShape": "square",
+      "zoneRadius": 2.0,
+      "zoneReach": 2,
+      "templateDefaultZone": false
     },
     {
       "group": "Civitas illa fortis teleport (tablet)",
@@ -3082,7 +4960,12 @@
       "note": "lands within 2 tiles of this point",
       "page": "Civitas illa fortis teleport (tablet)",
       "revid": 15192363,
-      "how": "{{Map}} under the heading \"Destination\""
+      "how": "{{Map}} under the heading \"Destination\"",
+      "zone": true,
+      "zoneShape": "square",
+      "zoneRadius": 2.0,
+      "zoneReach": 2,
+      "templateDefaultZone": false
     },
     {
       "group": "Colossal wyrm teleport scroll",
@@ -3094,8 +4977,13 @@
       "planeGiven": false,
       "note": "lands within 1.5 tiles of this point",
       "page": "Colossal wyrm teleport scroll",
-      "revid": 15192735,
-      "how": "{{Map}} under the heading \"Destination\""
+      "revid": 15403882,
+      "how": "{{Map}} under the heading \"Destination\"",
+      "zone": true,
+      "zoneShape": "square",
+      "zoneRadius": 1.5,
+      "zoneReach": 1,
+      "templateDefaultZone": false
     },
     {
       "group": "Construct. cape",
@@ -3108,7 +4996,9 @@
       "note": "",
       "page": "Construct. cape",
       "revid": 15365081,
-      "how": "{{Map}} under the heading \"Teleportation options\""
+      "how": "{{Map}} under the heading \"Teleportation options\"",
+      "zone": false,
+      "templateDefaultZone": false
     },
     {
       "group": "Construct. cape",
@@ -3121,7 +5011,9 @@
       "note": "",
       "page": "Construct. cape",
       "revid": 15365081,
-      "how": "{{Map}} under the heading \"Teleportation options\""
+      "how": "{{Map}} under the heading \"Teleportation options\"",
+      "zone": false,
+      "templateDefaultZone": false
     },
     {
       "group": "Construct. cape",
@@ -3134,7 +5026,9 @@
       "note": "",
       "page": "Construct. cape",
       "revid": 15365081,
-      "how": "{{Map}} under the heading \"Teleportation options\""
+      "how": "{{Map}} under the heading \"Teleportation options\"",
+      "zone": false,
+      "templateDefaultZone": false
     },
     {
       "group": "Construct. cape",
@@ -3147,7 +5041,9 @@
       "note": "",
       "page": "Construct. cape",
       "revid": 15365081,
-      "how": "{{Map}} under the heading \"Teleportation options\""
+      "how": "{{Map}} under the heading \"Teleportation options\"",
+      "zone": false,
+      "templateDefaultZone": false
     },
     {
       "group": "Construct. cape",
@@ -3160,7 +5056,9 @@
       "note": "",
       "page": "Construct. cape",
       "revid": 15365081,
-      "how": "{{Map}} under the heading \"Teleportation options\""
+      "how": "{{Map}} under the heading \"Teleportation options\"",
+      "zone": false,
+      "templateDefaultZone": false
     },
     {
       "group": "Construct. cape",
@@ -3173,7 +5071,9 @@
       "note": "",
       "page": "Construct. cape",
       "revid": 15365081,
-      "how": "{{Map}} under the heading \"Teleportation options\""
+      "how": "{{Map}} under the heading \"Teleportation options\"",
+      "zone": false,
+      "templateDefaultZone": false
     },
     {
       "group": "Construct. cape",
@@ -3186,7 +5086,9 @@
       "note": "",
       "page": "Construct. cape",
       "revid": 15365081,
-      "how": "{{Map}} under the heading \"Teleportation options\""
+      "how": "{{Map}} under the heading \"Teleportation options\"",
+      "zone": false,
+      "templateDefaultZone": false
     },
     {
       "group": "Construct. cape",
@@ -3199,7 +5101,9 @@
       "note": "",
       "page": "Construct. cape",
       "revid": 15365081,
-      "how": "{{Map}} under the heading \"Teleportation options\""
+      "how": "{{Map}} under the heading \"Teleportation options\"",
+      "zone": false,
+      "templateDefaultZone": false
     },
     {
       "group": "Construct. cape",
@@ -3212,7 +5116,9 @@
       "note": "",
       "page": "Construct. cape",
       "revid": 15365081,
-      "how": "{{Map}} under the heading \"Teleportation options\""
+      "how": "{{Map}} under the heading \"Teleportation options\"",
+      "zone": false,
+      "templateDefaultZone": false
     },
     {
       "group": "Crafting cape",
@@ -3224,8 +5130,10 @@
       "planeGiven": false,
       "note": "",
       "page": "Crafting cape",
-      "revid": 15232507,
-      "how": "{{Map}} under the heading \"Destination\""
+      "revid": 15403122,
+      "how": "{{Map}} under the heading \"Destination\"",
+      "zone": false,
+      "templateDefaultZone": false
     },
     {
       "group": "Dareeyak teleport (tablet)",
@@ -3238,7 +5146,12 @@
       "note": "lands within 2 tiles of this point",
       "page": "Dareeyak teleport (tablet)",
       "revid": 15186390,
-      "how": "{{Map}} under the heading \"Destination\""
+      "how": "{{Map}} under the heading \"Destination\"",
+      "zone": true,
+      "zoneShape": "square",
+      "zoneRadius": 2.0,
+      "zoneReach": 2,
+      "templateDefaultZone": false
     },
     {
       "group": "Desert amulet 2",
@@ -3251,7 +5164,12 @@
       "note": "lands within 3 tiles of this point",
       "page": "Desert amulet 2",
       "revid": 15186683,
-      "how": "{{Map}} under the heading \"Destination\""
+      "how": "{{Map}} under the heading \"Destination\"",
+      "zone": true,
+      "zoneShape": "square",
+      "zoneRadius": 3.0,
+      "zoneReach": 3,
+      "templateDefaultZone": false
     },
     {
       "group": "Desert amulet 3",
@@ -3264,7 +5182,12 @@
       "note": "lands within 3 tiles of this point",
       "page": "Desert amulet 3",
       "revid": 15186684,
-      "how": "{{Map}} under the heading \"Destination\""
+      "how": "{{Map}} under the heading \"Destination\"",
+      "zone": true,
+      "zoneShape": "square",
+      "zoneRadius": 3.0,
+      "zoneReach": 3,
+      "templateDefaultZone": false
     },
     {
       "group": "Digsite teleport",
@@ -3276,8 +5199,13 @@
       "planeGiven": false,
       "note": "lands within 2 tiles of this point",
       "page": "Digsite teleport",
-      "revid": 15186009,
-      "how": "{{Map}} under the heading \"Destination\""
+      "revid": 15403023,
+      "how": "{{Map}} under the heading \"Destination\"",
+      "zone": true,
+      "zoneShape": "square",
+      "zoneRadius": 2.0,
+      "zoneReach": 2,
+      "templateDefaultZone": false
     },
     {
       "group": "Draynor manor teleport (tablet)",
@@ -3290,7 +5218,29 @@
       "note": "lands somewhere in an area (polygon of 4 points); its middle is used",
       "page": "Draynor manor teleport (tablet)",
       "revid": 15187517,
-      "how": "{{Map}} under the heading \"Destination\""
+      "how": "{{Map}} under the heading \"Destination\"",
+      "zone": true,
+      "zoneShape": "polygon",
+      "zonePoints": [
+        [
+          3108,
+          3353
+        ],
+        [
+          3110,
+          3353
+        ],
+        [
+          3110,
+          3350
+        ],
+        [
+          3108,
+          3350
+        ]
+      ],
+      "zoneReach": 2,
+      "templateDefaultZone": false
     },
     {
       "group": "Ectophial",
@@ -3303,7 +5253,9 @@
       "note": "",
       "page": "Ectophial",
       "revid": 15195604,
-      "how": "{{Map}} under the heading \"Destination\""
+      "how": "{{Map}} under the heading \"Destination\"",
+      "zone": false,
+      "templateDefaultZone": false
     },
     {
       "group": "Enhanced quetzal whistle",
@@ -3315,8 +5267,10 @@
       "planeGiven": false,
       "note": "",
       "page": "Enhanced quetzal whistle",
-      "revid": 15356473,
-      "how": "{{Map}} under the heading \"Destination\""
+      "revid": 15404695,
+      "how": "{{Map}} under the heading \"Destination\"",
+      "zone": false,
+      "templateDefaultZone": false
     },
     {
       "group": "Explorer's ring 2",
@@ -3328,8 +5282,13 @@
       "planeGiven": false,
       "note": "lands within 4 tiles of this point",
       "page": "Explorer's ring 2",
-      "revid": 15361995,
-      "how": "{{Map}} under the heading \"Destination\""
+      "revid": 15403626,
+      "how": "{{Map}} under the heading \"Destination\"",
+      "zone": true,
+      "zoneShape": "square",
+      "zoneRadius": 4.0,
+      "zoneReach": 4,
+      "templateDefaultZone": false
     },
     {
       "group": "Explorer's ring 3",
@@ -3341,8 +5300,13 @@
       "planeGiven": false,
       "note": "lands within 4 tiles of this point",
       "page": "Explorer's ring 3",
-      "revid": 15361998,
-      "how": "{{Map}} under the heading \"Destination\""
+      "revid": 15403624,
+      "how": "{{Map}} under the heading \"Destination\"",
+      "zone": true,
+      "zoneShape": "square",
+      "zoneRadius": 4.0,
+      "zoneReach": 4,
+      "templateDefaultZone": false
     },
     {
       "group": "Explorer's ring 4",
@@ -3354,8 +5318,13 @@
       "planeGiven": false,
       "note": "lands within 4 tiles of this point",
       "page": "Explorer's ring 4",
-      "revid": 15361997,
-      "how": "{{Map}} under the heading \"Destination\""
+      "revid": 15403627,
+      "how": "{{Map}} under the heading \"Destination\"",
+      "zone": true,
+      "zoneShape": "square",
+      "zoneRadius": 4.0,
+      "zoneReach": 4,
+      "templateDefaultZone": false
     },
     {
       "group": "Falador teleport (tablet)",
@@ -3368,33 +5337,12 @@
       "note": "lands within 2 tiles of this point",
       "page": "Falador teleport (tablet)",
       "revid": 15185079,
-      "how": "{{Map}} under the heading \"Destination\""
-    },
-    {
-      "group": "Farming cape",
-      "groupKind": "item",
-      "name": "Farming cape",
-      "x": 1248,
-      "y": 3725,
-      "plane": 0,
-      "planeGiven": false,
-      "note": "lands somewhere in an area (polygon of 6 points); its middle is used",
-      "page": "Farming cape",
-      "revid": 15327005,
-      "how": "{{Map}} under the heading \"Destination\""
-    },
-    {
-      "group": "Feldip hills teleport",
-      "groupKind": "item",
-      "name": "Feldip hills teleport",
-      "x": 2541,
-      "y": 2925,
-      "plane": 0,
-      "planeGiven": false,
-      "note": "lands within 2 tiles of this point",
-      "page": "Feldip hills teleport",
-      "revid": 15186010,
-      "how": "{{Map}} under the heading \"Destination\""
+      "how": "{{Map}} under the heading \"Destination\"",
+      "zone": true,
+      "zoneShape": "square",
+      "zoneRadius": 2.0,
+      "zoneReach": 2,
+      "templateDefaultZone": false
     },
     {
       "group": "Trollheim Teleport",
@@ -3406,8 +5354,13 @@
       "planeGiven": false,
       "note": "lands within 2 tiles of this point",
       "page": "Trollheim Teleport",
-      "revid": 15134848,
-      "how": "{{Map}} under the heading \"Destination\""
+      "revid": 15376463,
+      "how": "{{Map}} under the heading \"Destination\"",
+      "zone": true,
+      "zoneShape": "square",
+      "zoneRadius": 2.0,
+      "zoneReach": 2,
+      "templateDefaultZone": false
     },
     {
       "group": "Waterbirth Teleport",
@@ -3420,7 +5373,12 @@
       "note": "lands within 2 tiles of this point",
       "page": "Waterbirth Teleport",
       "revid": 15363075,
-      "how": "{{Map}} under the heading \"Destination\""
+      "how": "{{Map}} under the heading \"Destination\"",
+      "zone": true,
+      "zoneShape": "square",
+      "zoneRadius": 2.0,
+      "zoneReach": 2,
+      "templateDefaultZone": false
     },
     {
       "group": "West Ardougne Teleport",
@@ -3433,7 +5391,73 @@
       "note": "lands within 2 tiles of this point",
       "page": "West Ardougne Teleport",
       "revid": 15356660,
-      "how": "{{Map}} under the heading \"Destination\""
+      "how": "{{Map}} under the heading \"Destination\"",
+      "zone": true,
+      "zoneShape": "square",
+      "zoneRadius": 2.0,
+      "zoneReach": 2,
+      "templateDefaultZone": false
+    },
+    {
+      "group": "Farming cape",
+      "groupKind": "item",
+      "name": "Farming cape",
+      "x": 1248,
+      "y": 3725,
+      "plane": 0,
+      "planeGiven": false,
+      "note": "lands somewhere in an area (polygon of 6 points); its middle is used",
+      "page": "Farming cape",
+      "revid": 15327005,
+      "how": "{{Map}} under the heading \"Destination\"",
+      "zone": true,
+      "zoneShape": "polygon",
+      "zonePoints": [
+        [
+          1247,
+          3727
+        ],
+        [
+          1250,
+          3727
+        ],
+        [
+          1250,
+          3724
+        ],
+        [
+          1248,
+          3724
+        ],
+        [
+          1248,
+          3725
+        ],
+        [
+          1247,
+          3725
+        ]
+      ],
+      "zoneReach": 2,
+      "templateDefaultZone": false
+    },
+    {
+      "group": "Feldip hills teleport",
+      "groupKind": "item",
+      "name": "Feldip hills teleport",
+      "x": 2541,
+      "y": 2925,
+      "plane": 0,
+      "planeGiven": false,
+      "note": "lands within 2 tiles of this point",
+      "page": "Feldip hills teleport",
+      "revid": 15403024,
+      "how": "{{Map}} under the heading \"Destination\"",
+      "zone": true,
+      "zoneShape": "square",
+      "zoneRadius": 2.0,
+      "zoneReach": 2,
+      "templateDefaultZone": false
     },
     {
       "group": "Fenkenstrain's castle teleport (tablet)",
@@ -3446,7 +5470,12 @@
       "note": "lands within 2 tiles of this point",
       "page": "Fenkenstrain's castle teleport (tablet)",
       "revid": 15187520,
-      "how": "{{Map}} under the heading \"Destination\""
+      "how": "{{Map}} under the heading \"Destination\"",
+      "zone": true,
+      "zoneShape": "square",
+      "zoneRadius": 2.0,
+      "zoneReach": 2,
+      "templateDefaultZone": false
     },
     {
       "group": "Fishing cape",
@@ -3459,7 +5488,9 @@
       "note": "",
       "page": "Fishing cape",
       "revid": 15327000,
-      "how": "{{Map}} under the heading \"Teleportation options\""
+      "how": "{{Map}} under the heading \"Teleportation options\"",
+      "zone": false,
+      "templateDefaultZone": false
     },
     {
       "group": "Fishing cape",
@@ -3472,7 +5503,9 @@
       "note": "",
       "page": "Fishing cape",
       "revid": 15327000,
-      "how": "{{Map}} under the heading \"Teleportation options\""
+      "how": "{{Map}} under the heading \"Teleportation options\"",
+      "zone": false,
+      "templateDefaultZone": false
     },
     {
       "group": "Fishing guild teleport (tablet)",
@@ -3485,7 +5518,12 @@
       "note": "lands within 2 tiles of this point",
       "page": "Fishing guild teleport (tablet)",
       "revid": 15189875,
-      "how": "{{Map}} under the heading \"Destination\""
+      "how": "{{Map}} under the heading \"Destination\"",
+      "zone": true,
+      "zoneShape": "square",
+      "zoneRadius": 2.0,
+      "zoneReach": 2,
+      "templateDefaultZone": false
     },
     {
       "group": "Fremennik sea boots 1",
@@ -3498,7 +5536,12 @@
       "note": "lands within 6 tiles of this point",
       "page": "Fremennik sea boots 1",
       "revid": 15364836,
-      "how": "{{Map}} under the heading \"Destination\""
+      "how": "{{Map}} under the heading \"Destination\"",
+      "zone": true,
+      "zoneShape": "square",
+      "zoneRadius": 6.0,
+      "zoneReach": 6,
+      "templateDefaultZone": false
     },
     {
       "group": "Fremennik sea boots 2",
@@ -3511,7 +5554,12 @@
       "note": "lands within 6 tiles of this point",
       "page": "Fremennik sea boots 2",
       "revid": 15364831,
-      "how": "{{Map}} under the heading \"Destination\""
+      "how": "{{Map}} under the heading \"Destination\"",
+      "zone": true,
+      "zoneShape": "square",
+      "zoneRadius": 6.0,
+      "zoneReach": 6,
+      "templateDefaultZone": false
     },
     {
       "group": "Fremennik sea boots 3",
@@ -3524,7 +5572,12 @@
       "note": "lands within 6 tiles of this point",
       "page": "Fremennik sea boots 3",
       "revid": 15364832,
-      "how": "{{Map}} under the heading \"Destination\""
+      "how": "{{Map}} under the heading \"Destination\"",
+      "zone": true,
+      "zoneShape": "square",
+      "zoneRadius": 6.0,
+      "zoneReach": 6,
+      "templateDefaultZone": false
     },
     {
       "group": "Fremennik sea boots 4",
@@ -3536,8 +5589,13 @@
       "planeGiven": false,
       "note": "lands within 6 tiles of this point",
       "page": "Fremennik sea boots 4",
-      "revid": 15364833,
-      "how": "{{Map}} under the heading \"Destination\""
+      "revid": 15372019,
+      "how": "{{Map}} under the heading \"Destination\"",
+      "zone": true,
+      "zoneShape": "square",
+      "zoneRadius": 6.0,
+      "zoneReach": 6,
+      "templateDefaultZone": false
     },
     {
       "group": "Ghorrock teleport (tablet)",
@@ -3550,7 +5608,12 @@
       "note": "lands within 2 tiles of this point",
       "page": "Ghorrock teleport (tablet)",
       "revid": 15186391,
-      "how": "{{Map}} under the heading \"Destination\""
+      "how": "{{Map}} under the heading \"Destination\"",
+      "zone": true,
+      "zoneShape": "square",
+      "zoneRadius": 2.0,
+      "zoneReach": 2,
+      "templateDefaultZone": false
     },
     {
       "group": "Guthixian temple teleport",
@@ -3562,8 +5625,38 @@
       "planeGiven": false,
       "note": "lands somewhere in an area (polygon of 6 points); its middle is used",
       "page": "Guthixian temple teleport",
-      "revid": 15192605,
-      "how": "{{Map}} under the heading \"Destination\""
+      "revid": 15403048,
+      "how": "{{Map}} under the heading \"Destination\"",
+      "zone": true,
+      "zoneShape": "polygon",
+      "zonePoints": [
+        [
+          4062,
+          4556
+        ],
+        [
+          4062,
+          4559
+        ],
+        [
+          4064,
+          4559
+        ],
+        [
+          4064,
+          4558
+        ],
+        [
+          4065,
+          4558
+        ],
+        [
+          4065,
+          4556
+        ]
+      ],
+      "zoneReach": 2,
+      "templateDefaultZone": false
     },
     {
       "group": "Harmony island teleport (tablet)",
@@ -3576,7 +5669,12 @@
       "note": "lands within 2 tiles of this point",
       "page": "Harmony island teleport (tablet)",
       "revid": 15187522,
-      "how": "{{Map}} under the heading \"Destination\""
+      "how": "{{Map}} under the heading \"Destination\"",
+      "zone": true,
+      "zoneShape": "square",
+      "zoneRadius": 2.0,
+      "zoneReach": 2,
+      "templateDefaultZone": false
     },
     {
       "group": "Hosidius teleport",
@@ -3589,7 +5687,12 @@
       "note": "lands within 2 tiles of this point",
       "page": "Hosidius teleport",
       "revid": 15309320,
-      "how": "{{Map}} under the heading \"Destination\""
+      "how": "{{Map}} under the heading \"Destination\"",
+      "zone": true,
+      "zoneShape": "square",
+      "zoneRadius": 2.0,
+      "zoneReach": 2,
+      "templateDefaultZone": false
     },
     {
       "group": "Hunter cape",
@@ -3602,7 +5705,9 @@
       "note": "",
       "page": "Hunter cape",
       "revid": 15365595,
-      "how": "{{Map}} under the heading \"Teleportation options\""
+      "how": "{{Map}} under the heading \"Teleportation options\"",
+      "zone": false,
+      "templateDefaultZone": false
     },
     {
       "group": "Hunter cape",
@@ -3615,7 +5720,9 @@
       "note": "",
       "page": "Hunter cape",
       "revid": 15365595,
-      "how": "{{Map}} under the heading \"Teleportation options\""
+      "how": "{{Map}} under the heading \"Teleportation options\"",
+      "zone": false,
+      "templateDefaultZone": false
     },
     {
       "group": "Hunter cape",
@@ -3628,7 +5735,9 @@
       "note": "",
       "page": "Hunter cape",
       "revid": 15365595,
-      "how": "{{Map}} under the heading \"Teleportation options\""
+      "how": "{{Map}} under the heading \"Teleportation options\"",
+      "zone": false,
+      "templateDefaultZone": false
     },
     {
       "group": "Ice plateau teleport (tablet)",
@@ -3641,7 +5750,12 @@
       "note": "lands within 2 tiles of this point",
       "page": "Ice plateau teleport (tablet)",
       "revid": 15189877,
-      "how": "{{Map}} under the heading \"Destination\""
+      "how": "{{Map}} under the heading \"Destination\"",
+      "zone": true,
+      "zoneShape": "square",
+      "zoneRadius": 2.0,
+      "zoneReach": 2,
+      "templateDefaultZone": false
     },
     {
       "group": "Icy basalt",
@@ -3654,7 +5768,12 @@
       "note": "lands within 2 tiles of this point",
       "page": "Icy basalt",
       "revid": 15265415,
-      "how": "{{Map}} under the heading \"Destination\""
+      "how": "{{Map}} under the heading \"Destination\"",
+      "zone": true,
+      "zoneShape": "square",
+      "zoneRadius": 2.0,
+      "zoneReach": 2,
+      "templateDefaultZone": false
     },
     {
       "group": "Iorwerth camp teleport",
@@ -3666,8 +5785,13 @@
       "planeGiven": false,
       "note": "lands within 2 tiles of this point",
       "page": "Iorwerth camp teleport",
-      "revid": 15186008,
-      "how": "{{Map}} under the heading \"Destination\""
+      "revid": 15403040,
+      "how": "{{Map}} under the heading \"Destination\"",
+      "zone": true,
+      "zoneShape": "square",
+      "zoneRadius": 2.0,
+      "zoneReach": 2,
+      "templateDefaultZone": false
     },
     {
       "group": "Kandarin headgear 3",
@@ -3680,7 +5804,37 @@
       "note": "lands somewhere in an area (polygon of 6 points); its middle is used",
       "page": "Kandarin headgear 3",
       "revid": 15363091,
-      "how": "{{Map}} under the heading \"Destination\""
+      "how": "{{Map}} under the heading \"Destination\"",
+      "zone": true,
+      "zoneShape": "polygon",
+      "zonePoints": [
+        [
+          2730,
+          3420
+        ],
+        [
+          2738,
+          3420
+        ],
+        [
+          2738,
+          3409
+        ],
+        [
+          2728,
+          3409
+        ],
+        [
+          2728,
+          3417
+        ],
+        [
+          2730,
+          3417
+        ]
+      ],
+      "zoneReach": 6,
+      "templateDefaultZone": false
     },
     {
       "group": "Kandarin headgear 4",
@@ -3693,7 +5847,37 @@
       "note": "lands somewhere in an area (polygon of 6 points); its middle is used",
       "page": "Kandarin headgear 4",
       "revid": 15363093,
-      "how": "{{Map}} under the heading \"Destination\""
+      "how": "{{Map}} under the heading \"Destination\"",
+      "zone": true,
+      "zoneShape": "polygon",
+      "zonePoints": [
+        [
+          2730,
+          3420
+        ],
+        [
+          2738,
+          3420
+        ],
+        [
+          2738,
+          3409
+        ],
+        [
+          2728,
+          3409
+        ],
+        [
+          2728,
+          3417
+        ],
+        [
+          2730,
+          3417
+        ]
+      ],
+      "zoneReach": 6,
+      "templateDefaultZone": false
     },
     {
       "group": "Karamja gloves 3",
@@ -3706,7 +5890,12 @@
       "note": "lands within 2 tiles of this point",
       "page": "Karamja gloves 3",
       "revid": 15266075,
-      "how": "{{Map}} under the heading \"Destination\""
+      "how": "{{Map}} under the heading \"Destination\"",
+      "zone": true,
+      "zoneShape": "square",
+      "zoneRadius": 2.0,
+      "zoneReach": 2,
+      "templateDefaultZone": false
     },
     {
       "group": "Karamja gloves 4",
@@ -3719,7 +5908,12 @@
       "note": "lands within 2 tiles of this point",
       "page": "Karamja gloves 4",
       "revid": 15266078,
-      "how": "{{Map}} under the heading \"Teleportation options\""
+      "how": "{{Map}} under the heading \"Teleportation options\"",
+      "zone": true,
+      "zoneShape": "square",
+      "zoneRadius": 2.0,
+      "zoneReach": 2,
+      "templateDefaultZone": false
     },
     {
       "group": "Karamja gloves 4",
@@ -3732,7 +5926,12 @@
       "note": "lands within 2 tiles of this point",
       "page": "Karamja gloves 4",
       "revid": 15266078,
-      "how": "{{Map}} under the heading \"Teleportation options\""
+      "how": "{{Map}} under the heading \"Teleportation options\"",
+      "zone": true,
+      "zoneShape": "square",
+      "zoneRadius": 2.0,
+      "zoneReach": 2,
+      "templateDefaultZone": false
     },
     {
       "group": "Key master teleport",
@@ -3744,8 +5943,13 @@
       "planeGiven": false,
       "note": "lands within 2 tiles of this point",
       "page": "Key master teleport",
-      "revid": 15259810,
-      "how": "{{Map}} under the heading \"Destination\""
+      "revid": 15403044,
+      "how": "{{Map}} under the heading \"Destination\"",
+      "zone": true,
+      "zoneShape": "square",
+      "zoneRadius": 2.0,
+      "zoneReach": 2,
+      "templateDefaultZone": false
     },
     {
       "group": "Kharyrll teleport (tablet)",
@@ -3758,7 +5962,12 @@
       "note": "lands within 2 tiles of this point",
       "page": "Kharyrll teleport (tablet)",
       "revid": 15186392,
-      "how": "{{Map}} under the heading \"Destination\""
+      "how": "{{Map}} under the heading \"Destination\"",
+      "zone": true,
+      "zoneShape": "square",
+      "zoneRadius": 2.0,
+      "zoneReach": 2,
+      "templateDefaultZone": false
     },
     {
       "group": "Khazard teleport (tablet)",
@@ -3771,7 +5980,12 @@
       "note": "lands within 2 tiles of this point",
       "page": "Khazard teleport (tablet)",
       "revid": 15189874,
-      "how": "{{Map}} under the heading \"Destination\""
+      "how": "{{Map}} under the heading \"Destination\"",
+      "zone": true,
+      "zoneShape": "square",
+      "zoneRadius": 2.0,
+      "zoneReach": 2,
+      "templateDefaultZone": false
     },
     {
       "group": "Kourend castle teleport (tablet)",
@@ -3784,7 +5998,29 @@
       "note": "lands somewhere in an area (polygon of 4 points); its middle is used",
       "page": "Kourend castle teleport (tablet)",
       "revid": 15287395,
-      "how": "{{Map}} under the heading \"Destination\""
+      "how": "{{Map}} under the heading \"Destination\"",
+      "zone": true,
+      "zoneShape": "polygon",
+      "zonePoints": [
+        [
+          1639,
+          3676
+        ],
+        [
+          1644,
+          3676
+        ],
+        [
+          1644,
+          3671
+        ],
+        [
+          1639,
+          3671
+        ]
+      ],
+      "zoneReach": 3,
+      "templateDefaultZone": false
     },
     {
       "group": "Lassar teleport (tablet)",
@@ -3797,7 +6033,12 @@
       "note": "lands within 2 tiles of this point",
       "page": "Lassar teleport (tablet)",
       "revid": 15186393,
-      "how": "{{Map}} under the heading \"Destination\""
+      "how": "{{Map}} under the heading \"Destination\"",
+      "zone": true,
+      "zoneShape": "square",
+      "zoneRadius": 2.0,
+      "zoneReach": 2,
+      "templateDefaultZone": false
     },
     {
       "group": "Lumberyard teleport",
@@ -3809,8 +6050,13 @@
       "planeGiven": false,
       "note": "lands within 2 tiles of this point",
       "page": "Lumberyard teleport",
-      "revid": 15186290,
-      "how": "{{Map}} under the heading \"Destination\""
+      "revid": 15403021,
+      "how": "{{Map}} under the heading \"Destination\"",
+      "zone": true,
+      "zoneShape": "square",
+      "zoneRadius": 2.0,
+      "zoneReach": 2,
+      "templateDefaultZone": false
     },
     {
       "group": "Lumbridge teleport (tablet)",
@@ -3823,7 +6069,12 @@
       "note": "lands within 2 tiles of this point",
       "page": "Lumbridge teleport (tablet)",
       "revid": 15185081,
-      "how": "{{Map}} under the heading \"Destination\""
+      "how": "{{Map}} under the heading \"Destination\"",
+      "zone": true,
+      "zoneShape": "square",
+      "zoneRadius": 2.0,
+      "zoneReach": 2,
+      "templateDefaultZone": false
     },
     {
       "group": "Lunar isle teleport",
@@ -3835,8 +6086,13 @@
       "planeGiven": false,
       "note": "lands within 2 tiles of this point",
       "page": "Lunar isle teleport",
-      "revid": 15186011,
-      "how": "{{Map}} under the heading \"Destination\""
+      "revid": 15403025,
+      "how": "{{Map}} under the heading \"Destination\"",
+      "zone": true,
+      "zoneShape": "square",
+      "zoneRadius": 2.0,
+      "zoneReach": 2,
+      "templateDefaultZone": false
     },
     {
       "group": "Max cape",
@@ -3848,8 +6104,10 @@
       "planeGiven": false,
       "note": "",
       "page": "Max cape",
-      "revid": 15368155,
-      "how": "{{Map}} under the heading \"Teleportation options\""
+      "revid": 15373027,
+      "how": "{{Map}} under the heading \"Teleportation options\"",
+      "zone": false,
+      "templateDefaultZone": false
     },
     {
       "group": "Max cape",
@@ -3861,8 +6119,10 @@
       "planeGiven": false,
       "note": "",
       "page": "Max cape",
-      "revid": 15368155,
-      "how": "{{Map}} under the heading \"Teleportation options\""
+      "revid": 15373027,
+      "how": "{{Map}} under the heading \"Teleportation options\"",
+      "zone": false,
+      "templateDefaultZone": false
     },
     {
       "group": "Max cape",
@@ -3874,8 +6134,10 @@
       "planeGiven": false,
       "note": "",
       "page": "Max cape",
-      "revid": 15368155,
-      "how": "{{Map}} under the heading \"Teleportation options\""
+      "revid": 15373027,
+      "how": "{{Map}} under the heading \"Teleportation options\"",
+      "zone": false,
+      "templateDefaultZone": false
     },
     {
       "group": "Max cape",
@@ -3887,8 +6149,38 @@
       "planeGiven": false,
       "note": "lands somewhere in an area (polygon of 6 points); its middle is used",
       "page": "Max cape",
-      "revid": 15368155,
-      "how": "{{Map}} under the heading \"Teleportation options\""
+      "revid": 15373027,
+      "how": "{{Map}} under the heading \"Teleportation options\"",
+      "zone": true,
+      "zoneShape": "polygon",
+      "zonePoints": [
+        [
+          1247,
+          3727
+        ],
+        [
+          1250,
+          3727
+        ],
+        [
+          1250,
+          3724
+        ],
+        [
+          1248,
+          3724
+        ],
+        [
+          1248,
+          3725
+        ],
+        [
+          1247,
+          3725
+        ]
+      ],
+      "zoneReach": 2,
+      "templateDefaultZone": false
     },
     {
       "group": "Max cape",
@@ -3900,8 +6192,10 @@
       "planeGiven": false,
       "note": "",
       "page": "Max cape",
-      "revid": 15368155,
-      "how": "{{Map}} under the heading \"Teleportation options\""
+      "revid": 15373027,
+      "how": "{{Map}} under the heading \"Teleportation options\"",
+      "zone": false,
+      "templateDefaultZone": false
     },
     {
       "group": "Max cape",
@@ -3913,8 +6207,10 @@
       "planeGiven": false,
       "note": "",
       "page": "Max cape",
-      "revid": 15368155,
-      "how": "{{Map}} under the heading \"Teleportation options\""
+      "revid": 15373027,
+      "how": "{{Map}} under the heading \"Teleportation options\"",
+      "zone": false,
+      "templateDefaultZone": false
     },
     {
       "group": "Max cape",
@@ -3926,8 +6222,10 @@
       "planeGiven": false,
       "note": "",
       "page": "Max cape",
-      "revid": 15368155,
-      "how": "{{Map}} under the heading \"Teleportation options\""
+      "revid": 15373027,
+      "how": "{{Map}} under the heading \"Teleportation options\"",
+      "zone": false,
+      "templateDefaultZone": false
     },
     {
       "group": "Max cape",
@@ -3939,8 +6237,10 @@
       "planeGiven": false,
       "note": "",
       "page": "Max cape",
-      "revid": 15368155,
-      "how": "{{Map}} under the heading \"Teleportation options\""
+      "revid": 15373027,
+      "how": "{{Map}} under the heading \"Teleportation options\"",
+      "zone": false,
+      "templateDefaultZone": false
     },
     {
       "group": "Max cape",
@@ -3952,8 +6252,10 @@
       "planeGiven": false,
       "note": "",
       "page": "Max cape",
-      "revid": 15368155,
-      "how": "{{Map}} under the heading \"Teleportation options\""
+      "revid": 15373027,
+      "how": "{{Map}} under the heading \"Teleportation options\"",
+      "zone": false,
+      "templateDefaultZone": false
     },
     {
       "group": "Max cape",
@@ -3965,8 +6267,10 @@
       "planeGiven": false,
       "note": "",
       "page": "Max cape",
-      "revid": 15368155,
-      "how": "{{Map}} under the heading \"Teleportation options\""
+      "revid": 15373027,
+      "how": "{{Map}} under the heading \"Teleportation options\"",
+      "zone": false,
+      "templateDefaultZone": false
     },
     {
       "group": "Max cape",
@@ -3978,8 +6282,10 @@
       "planeGiven": false,
       "note": "",
       "page": "Max cape",
-      "revid": 15368155,
-      "how": "{{Map}} under the heading \"Teleportation options\""
+      "revid": 15373027,
+      "how": "{{Map}} under the heading \"Teleportation options\"",
+      "zone": false,
+      "templateDefaultZone": false
     },
     {
       "group": "Max cape",
@@ -3991,8 +6297,10 @@
       "planeGiven": false,
       "note": "",
       "page": "Max cape",
-      "revid": 15368155,
-      "how": "{{Map}} under the heading \"Teleportation options\""
+      "revid": 15373027,
+      "how": "{{Map}} under the heading \"Teleportation options\"",
+      "zone": false,
+      "templateDefaultZone": false
     },
     {
       "group": "Max cape",
@@ -4004,8 +6312,10 @@
       "planeGiven": false,
       "note": "",
       "page": "Max cape",
-      "revid": 15368155,
-      "how": "{{Map}} under the heading \"Teleportation options\""
+      "revid": 15373027,
+      "how": "{{Map}} under the heading \"Teleportation options\"",
+      "zone": false,
+      "templateDefaultZone": false
     },
     {
       "group": "Max cape",
@@ -4017,8 +6327,10 @@
       "planeGiven": false,
       "note": "",
       "page": "Max cape",
-      "revid": 15368155,
-      "how": "{{Map}} under the heading \"Teleportation options\""
+      "revid": 15373027,
+      "how": "{{Map}} under the heading \"Teleportation options\"",
+      "zone": false,
+      "templateDefaultZone": false
     },
     {
       "group": "Max cape",
@@ -4030,8 +6342,10 @@
       "planeGiven": false,
       "note": "",
       "page": "Max cape",
-      "revid": 15368155,
-      "how": "{{Map}} under the heading \"Teleportation options\""
+      "revid": 15373027,
+      "how": "{{Map}} under the heading \"Teleportation options\"",
+      "zone": false,
+      "templateDefaultZone": false
     },
     {
       "group": "Max cape",
@@ -4043,8 +6357,10 @@
       "planeGiven": false,
       "note": "",
       "page": "Max cape",
-      "revid": 15368155,
-      "how": "{{Map}} under the heading \"Teleportation options\""
+      "revid": 15373027,
+      "how": "{{Map}} under the heading \"Teleportation options\"",
+      "zone": false,
+      "templateDefaultZone": false
     },
     {
       "group": "Max cape",
@@ -4056,8 +6372,10 @@
       "planeGiven": false,
       "note": "",
       "page": "Max cape",
-      "revid": 15368155,
-      "how": "{{Map}} under the heading \"Teleportation options\""
+      "revid": 15373027,
+      "how": "{{Map}} under the heading \"Teleportation options\"",
+      "zone": false,
+      "templateDefaultZone": false
     },
     {
       "group": "Max cape",
@@ -4069,8 +6387,10 @@
       "planeGiven": false,
       "note": "",
       "page": "Max cape",
-      "revid": 15368155,
-      "how": "{{Map}} under the heading \"Teleportation options\""
+      "revid": 15373027,
+      "how": "{{Map}} under the heading \"Teleportation options\"",
+      "zone": false,
+      "templateDefaultZone": false
     },
     {
       "group": "Mind altar teleport (tablet)",
@@ -4083,7 +6403,12 @@
       "note": "lands within 2 tiles of this point",
       "page": "Mind altar teleport (tablet)",
       "revid": 15187518,
-      "how": "{{Map}} under the heading \"Destination\""
+      "how": "{{Map}} under the heading \"Destination\"",
+      "zone": true,
+      "zoneShape": "square",
+      "zoneRadius": 2.0,
+      "zoneReach": 2,
+      "templateDefaultZone": false
     },
     {
       "group": "Moonclan teleport (tablet)",
@@ -4096,7 +6421,12 @@
       "note": "lands within 2 tiles of this point",
       "page": "Moonclan teleport (tablet)",
       "revid": 15189870,
-      "how": "{{Map}} under the heading \"Destination\""
+      "how": "{{Map}} under the heading \"Destination\"",
+      "zone": true,
+      "zoneShape": "square",
+      "zoneRadius": 2.0,
+      "zoneReach": 2,
+      "templateDefaultZone": false
     },
     {
       "group": "Mort'ton teleport",
@@ -4108,8 +6438,13 @@
       "planeGiven": false,
       "note": "lands within 2 tiles of this point",
       "page": "Mort'ton teleport",
-      "revid": 15365433,
-      "how": "{{Map}} under the heading \"Destination\""
+      "revid": 15403026,
+      "how": "{{Map}} under the heading \"Destination\"",
+      "zone": true,
+      "zoneShape": "square",
+      "zoneRadius": 2.0,
+      "zoneReach": 2,
+      "templateDefaultZone": false
     },
     {
       "group": "Morytania legs 1",
@@ -4122,7 +6457,12 @@
       "note": "lands within 1 tiles of this point",
       "page": "Morytania legs 1",
       "revid": 15360478,
-      "how": "{{Map}} under the heading \"Destination\""
+      "how": "{{Map}} under the heading \"Destination\"",
+      "zone": true,
+      "zoneShape": "square",
+      "zoneRadius": 1.0,
+      "zoneReach": 1,
+      "templateDefaultZone": false
     },
     {
       "group": "Morytania legs 2",
@@ -4135,7 +6475,12 @@
       "note": "lands within 1 tiles of this point",
       "page": "Morytania legs 2",
       "revid": 15360475,
-      "how": "{{Map}} under the heading \"Destination\""
+      "how": "{{Map}} under the heading \"Destination\"",
+      "zone": true,
+      "zoneShape": "square",
+      "zoneRadius": 1.0,
+      "zoneReach": 1,
+      "templateDefaultZone": false
     },
     {
       "group": "Morytania legs 3",
@@ -4148,7 +6493,12 @@
       "note": "lands within 1 tiles of this point",
       "page": "Morytania legs 3",
       "revid": 15360474,
-      "how": "{{Map}} under the heading \"Teleportation options\""
+      "how": "{{Map}} under the heading \"Teleportation options\"",
+      "zone": true,
+      "zoneShape": "square",
+      "zoneRadius": 1.0,
+      "zoneReach": 1,
+      "templateDefaultZone": false
     },
     {
       "group": "Morytania legs 3",
@@ -4161,7 +6511,12 @@
       "note": "lands within 3 tiles of this point",
       "page": "Morytania legs 3",
       "revid": 15360474,
-      "how": "{{Map}} under the heading \"Teleportation options\""
+      "how": "{{Map}} under the heading \"Teleportation options\"",
+      "zone": true,
+      "zoneShape": "square",
+      "zoneRadius": 3.0,
+      "zoneReach": 3,
+      "templateDefaultZone": false
     },
     {
       "group": "Morytania legs 4",
@@ -4174,7 +6529,12 @@
       "note": "lands within 1 tiles of this point",
       "page": "Morytania legs 4",
       "revid": 15360476,
-      "how": "{{Map}} under the heading \"Teleportation options\""
+      "how": "{{Map}} under the heading \"Teleportation options\"",
+      "zone": true,
+      "zoneShape": "square",
+      "zoneRadius": 1.0,
+      "zoneReach": 1,
+      "templateDefaultZone": false
     },
     {
       "group": "Morytania legs 4",
@@ -4187,7 +6547,12 @@
       "note": "lands within 3 tiles of this point",
       "page": "Morytania legs 4",
       "revid": 15360476,
-      "how": "{{Map}} under the heading \"Teleportation options\""
+      "how": "{{Map}} under the heading \"Teleportation options\"",
+      "zone": true,
+      "zoneShape": "square",
+      "zoneRadius": 3.0,
+      "zoneReach": 3,
+      "templateDefaultZone": false
     },
     {
       "group": "Mos le'harmless teleport",
@@ -4199,8 +6564,13 @@
       "planeGiven": false,
       "note": "lands within 2 tiles of this point",
       "page": "Mos le'harmless teleport",
-      "revid": 15186013,
-      "how": "{{Map}} under the heading \"Destination\""
+      "revid": 15403041,
+      "how": "{{Map}} under the heading \"Destination\"",
+      "zone": true,
+      "zoneShape": "square",
+      "zoneRadius": 2.0,
+      "zoneReach": 2,
+      "templateDefaultZone": false
     },
     {
       "group": "Mythical cape",
@@ -4213,7 +6583,12 @@
       "note": "lands within 1.5 tiles of this point",
       "page": "Mythical cape",
       "revid": 15366320,
-      "how": "{{Map}} under the heading \"Teleport destination\""
+      "how": "{{Map}} under the heading \"Teleport destination\"",
+      "zone": true,
+      "zoneShape": "square",
+      "zoneRadius": 1.5,
+      "zoneReach": 1,
+      "templateDefaultZone": false
     },
     {
       "group": "Nardah teleport",
@@ -4225,8 +6600,13 @@
       "planeGiven": false,
       "note": "lands within 2 tiles of this point",
       "page": "Nardah teleport",
-      "revid": 15186014,
-      "how": "{{Map}} under the heading \"Destination\""
+      "revid": 15403022,
+      "how": "{{Map}} under the heading \"Destination\"",
+      "zone": true,
+      "zoneShape": "square",
+      "zoneRadius": 2.0,
+      "zoneReach": 2,
+      "templateDefaultZone": false
     },
     {
       "group": "Ourania teleport (tablet)",
@@ -4239,7 +6619,12 @@
       "note": "lands within 2 tiles of this point",
       "page": "Ourania teleport (tablet)",
       "revid": 15189871,
-      "how": "{{Map}} under the heading \"Destination\""
+      "how": "{{Map}} under the heading \"Destination\"",
+      "zone": true,
+      "zoneShape": "square",
+      "zoneRadius": 2.0,
+      "zoneReach": 2,
+      "templateDefaultZone": false
     },
     {
       "group": "Paddewwa teleport (tablet)",
@@ -4252,7 +6637,12 @@
       "note": "lands within 2 tiles of this point",
       "page": "Paddewwa teleport (tablet)",
       "revid": 15186395,
-      "how": "{{Map}} under the heading \"Destination\""
+      "how": "{{Map}} under the heading \"Destination\"",
+      "zone": true,
+      "zoneShape": "square",
+      "zoneRadius": 2.0,
+      "zoneReach": 2,
+      "templateDefaultZone": false
     },
     {
       "group": "Perfected quetzal whistle",
@@ -4264,8 +6654,10 @@
       "planeGiven": false,
       "note": "",
       "page": "Perfected quetzal whistle",
-      "revid": 15361330,
-      "how": "{{Map}} under the heading \"Destination\""
+      "revid": 15404697,
+      "how": "{{Map}} under the heading \"Destination\"",
+      "zone": false,
+      "templateDefaultZone": false
     },
     {
       "group": "Perfected quetzal whistle(i)",
@@ -4277,8 +6669,10 @@
       "planeGiven": false,
       "note": "",
       "page": "Perfected quetzal whistle(i)",
-      "revid": 15285931,
-      "how": "{{Map}} under the heading \"Destination (Whistle set to Hunter guild in [[Settings]])\""
+      "revid": 15404698,
+      "how": "{{Map}} under the heading \"Destination (Whistle set to Hunter guild in [[Settings]])\"",
+      "zone": false,
+      "templateDefaultZone": false
     },
     {
       "group": "Pest control teleport",
@@ -4290,8 +6684,13 @@
       "planeGiven": false,
       "note": "lands within 2 tiles of this point",
       "page": "Pest control teleport",
-      "revid": 15186015,
-      "how": "{{Map}} under the heading \"Destination\""
+      "revid": 15403027,
+      "how": "{{Map}} under the heading \"Destination\"",
+      "zone": true,
+      "zoneShape": "square",
+      "zoneRadius": 2.0,
+      "zoneReach": 2,
+      "templateDefaultZone": false
     },
     {
       "group": "Piscatoris teleport",
@@ -4303,8 +6702,13 @@
       "planeGiven": false,
       "note": "lands within 1.5 tiles of this point",
       "page": "Piscatoris teleport",
-      "revid": 15186016,
-      "how": "{{Map}} under the heading \"Destination\""
+      "revid": 15403028,
+      "how": "{{Map}} under the heading \"Destination\"",
+      "zone": true,
+      "zoneShape": "square",
+      "zoneRadius": 1.5,
+      "zoneReach": 1,
+      "templateDefaultZone": false
     },
     {
       "group": "Pollnivneach teleport",
@@ -4317,7 +6721,12 @@
       "note": "lands within 2 tiles of this point",
       "page": "Pollnivneach teleport",
       "revid": 15309321,
-      "how": "{{Map}} under the heading \"Destination\""
+      "how": "{{Map}} under the heading \"Destination\"",
+      "zone": true,
+      "zoneShape": "square",
+      "zoneRadius": 2.0,
+      "zoneReach": 2,
+      "templateDefaultZone": false
     },
     {
       "group": "Rada's blessing 1",
@@ -4330,7 +6739,117 @@
       "note": "lands somewhere in an area (polygon of 26 points); its middle is used",
       "page": "Rada's blessing 1",
       "revid": 15240314,
-      "how": "{{Map}} under the heading \"Destination\""
+      "how": "{{Map}} under the heading \"Destination\"",
+      "zone": true,
+      "zoneShape": "polygon",
+      "zonePoints": [
+        [
+          1549,
+          3461
+        ],
+        [
+          1559,
+          3461
+        ],
+        [
+          1559,
+          3459
+        ],
+        [
+          1560,
+          3459
+        ],
+        [
+          1560,
+          3456
+        ],
+        [
+          1559,
+          3456
+        ],
+        [
+          1559,
+          3453
+        ],
+        [
+          1560,
+          3453
+        ],
+        [
+          1560,
+          3450
+        ],
+        [
+          1557,
+          3450
+        ],
+        [
+          1557,
+          3452
+        ],
+        [
+          1556,
+          3452
+        ],
+        [
+          1556,
+          3453
+        ],
+        [
+          1555,
+          3453
+        ],
+        [
+          1555,
+          3454
+        ],
+        [
+          1554,
+          3454
+        ],
+        [
+          1554,
+          3453
+        ],
+        [
+          1553,
+          3453
+        ],
+        [
+          1553,
+          3452
+        ],
+        [
+          1552,
+          3452
+        ],
+        [
+          1552,
+          3450
+        ],
+        [
+          1549,
+          3450
+        ],
+        [
+          1549,
+          3452
+        ],
+        [
+          1550,
+          3452
+        ],
+        [
+          1550,
+          3454
+        ],
+        [
+          1549,
+          3454
+        ]
+      ],
+      "zoneReach": 7,
+      "templateDefaultZone": false
     },
     {
       "group": "Rada's blessing 2",
@@ -4343,7 +6862,117 @@
       "note": "lands somewhere in an area (polygon of 26 points); its middle is used",
       "page": "Rada's blessing 2",
       "revid": 15240313,
-      "how": "{{Map}} under the heading \"Destination\""
+      "how": "{{Map}} under the heading \"Destination\"",
+      "zone": true,
+      "zoneShape": "polygon",
+      "zonePoints": [
+        [
+          1549,
+          3461
+        ],
+        [
+          1559,
+          3461
+        ],
+        [
+          1559,
+          3459
+        ],
+        [
+          1560,
+          3459
+        ],
+        [
+          1560,
+          3456
+        ],
+        [
+          1559,
+          3456
+        ],
+        [
+          1559,
+          3453
+        ],
+        [
+          1560,
+          3453
+        ],
+        [
+          1560,
+          3450
+        ],
+        [
+          1557,
+          3450
+        ],
+        [
+          1557,
+          3452
+        ],
+        [
+          1556,
+          3452
+        ],
+        [
+          1556,
+          3453
+        ],
+        [
+          1555,
+          3453
+        ],
+        [
+          1555,
+          3454
+        ],
+        [
+          1554,
+          3454
+        ],
+        [
+          1554,
+          3453
+        ],
+        [
+          1553,
+          3453
+        ],
+        [
+          1553,
+          3452
+        ],
+        [
+          1552,
+          3452
+        ],
+        [
+          1552,
+          3450
+        ],
+        [
+          1549,
+          3450
+        ],
+        [
+          1549,
+          3452
+        ],
+        [
+          1550,
+          3452
+        ],
+        [
+          1550,
+          3454
+        ],
+        [
+          1549,
+          3454
+        ]
+      ],
+      "zoneReach": 7,
+      "templateDefaultZone": false
     },
     {
       "group": "Rada's blessing 3",
@@ -4356,7 +6985,117 @@
       "note": "lands somewhere in an area (polygon of 26 points); its middle is used",
       "page": "Rada's blessing 3",
       "revid": 15240310,
-      "how": "{{Map}} under the heading \"Teleportation options\""
+      "how": "{{Map}} under the heading \"Teleportation options\"",
+      "zone": true,
+      "zoneShape": "polygon",
+      "zonePoints": [
+        [
+          1549,
+          3461
+        ],
+        [
+          1559,
+          3461
+        ],
+        [
+          1559,
+          3459
+        ],
+        [
+          1560,
+          3459
+        ],
+        [
+          1560,
+          3456
+        ],
+        [
+          1559,
+          3456
+        ],
+        [
+          1559,
+          3453
+        ],
+        [
+          1560,
+          3453
+        ],
+        [
+          1560,
+          3450
+        ],
+        [
+          1557,
+          3450
+        ],
+        [
+          1557,
+          3452
+        ],
+        [
+          1556,
+          3452
+        ],
+        [
+          1556,
+          3453
+        ],
+        [
+          1555,
+          3453
+        ],
+        [
+          1555,
+          3454
+        ],
+        [
+          1554,
+          3454
+        ],
+        [
+          1554,
+          3453
+        ],
+        [
+          1553,
+          3453
+        ],
+        [
+          1553,
+          3452
+        ],
+        [
+          1552,
+          3452
+        ],
+        [
+          1552,
+          3450
+        ],
+        [
+          1549,
+          3450
+        ],
+        [
+          1549,
+          3452
+        ],
+        [
+          1550,
+          3452
+        ],
+        [
+          1550,
+          3454
+        ],
+        [
+          1549,
+          3454
+        ]
+      ],
+      "zoneReach": 7,
+      "templateDefaultZone": false
     },
     {
       "group": "Rada's blessing 3",
@@ -4369,7 +7108,45 @@
       "note": "lands somewhere in an area (polygon of 8 points); its middle is used",
       "page": "Rada's blessing 3",
       "revid": 15240310,
-      "how": "{{Map}} under the heading \"Teleportation options\""
+      "how": "{{Map}} under the heading \"Teleportation options\"",
+      "zone": true,
+      "zoneShape": "polygon",
+      "zonePoints": [
+        [
+          1311,
+          3806
+        ],
+        [
+          1312,
+          3806
+        ],
+        [
+          1312,
+          3799
+        ],
+        [
+          1313,
+          3799
+        ],
+        [
+          1313,
+          3795
+        ],
+        [
+          1310,
+          3795
+        ],
+        [
+          1310,
+          3797
+        ],
+        [
+          1311,
+          3797
+        ]
+      ],
+      "zoneReach": 7,
+      "templateDefaultZone": false
     },
     {
       "group": "Rada's blessing 4",
@@ -4382,7 +7159,117 @@
       "note": "lands somewhere in an area (polygon of 26 points); its middle is used",
       "page": "Rada's blessing 4",
       "revid": 15242366,
-      "how": "{{Map}} under the heading \"Teleportation options\""
+      "how": "{{Map}} under the heading \"Teleportation options\"",
+      "zone": true,
+      "zoneShape": "polygon",
+      "zonePoints": [
+        [
+          1549,
+          3461
+        ],
+        [
+          1559,
+          3461
+        ],
+        [
+          1559,
+          3459
+        ],
+        [
+          1560,
+          3459
+        ],
+        [
+          1560,
+          3456
+        ],
+        [
+          1559,
+          3456
+        ],
+        [
+          1559,
+          3453
+        ],
+        [
+          1560,
+          3453
+        ],
+        [
+          1560,
+          3450
+        ],
+        [
+          1557,
+          3450
+        ],
+        [
+          1557,
+          3452
+        ],
+        [
+          1556,
+          3452
+        ],
+        [
+          1556,
+          3453
+        ],
+        [
+          1555,
+          3453
+        ],
+        [
+          1555,
+          3454
+        ],
+        [
+          1554,
+          3454
+        ],
+        [
+          1554,
+          3453
+        ],
+        [
+          1553,
+          3453
+        ],
+        [
+          1553,
+          3452
+        ],
+        [
+          1552,
+          3452
+        ],
+        [
+          1552,
+          3450
+        ],
+        [
+          1549,
+          3450
+        ],
+        [
+          1549,
+          3452
+        ],
+        [
+          1550,
+          3452
+        ],
+        [
+          1550,
+          3454
+        ],
+        [
+          1549,
+          3454
+        ]
+      ],
+      "zoneReach": 7,
+      "templateDefaultZone": false
     },
     {
       "group": "Rada's blessing 4",
@@ -4395,7 +7282,45 @@
       "note": "lands somewhere in an area (polygon of 8 points); its middle is used",
       "page": "Rada's blessing 4",
       "revid": 15242366,
-      "how": "{{Map}} under the heading \"Teleportation options\""
+      "how": "{{Map}} under the heading \"Teleportation options\"",
+      "zone": true,
+      "zoneShape": "polygon",
+      "zonePoints": [
+        [
+          1311,
+          3806
+        ],
+        [
+          1312,
+          3806
+        ],
+        [
+          1312,
+          3799
+        ],
+        [
+          1313,
+          3799
+        ],
+        [
+          1313,
+          3795
+        ],
+        [
+          1310,
+          3795
+        ],
+        [
+          1310,
+          3797
+        ],
+        [
+          1311,
+          3797
+        ]
+      ],
+      "zoneReach": 7,
+      "templateDefaultZone": false
     },
     {
       "group": "Rellekka teleport",
@@ -4408,7 +7333,12 @@
       "note": "lands within 2 tiles of this point",
       "page": "Rellekka teleport",
       "revid": 15309323,
-      "how": "{{Map}} under the heading \"Destination\""
+      "how": "{{Map}} under the heading \"Destination\"",
+      "zone": true,
+      "zoneShape": "square",
+      "zoneRadius": 2.0,
+      "zoneReach": 2,
+      "templateDefaultZone": false
     },
     {
       "group": "Rimmington teleport",
@@ -4421,7 +7351,12 @@
       "note": "lands within 2 tiles of this point",
       "page": "Rimmington teleport",
       "revid": 15309324,
-      "how": "{{Map}} under the heading \"Destination\""
+      "how": "{{Map}} under the heading \"Destination\"",
+      "zone": true,
+      "zoneShape": "square",
+      "zoneRadius": 2.0,
+      "zoneReach": 2,
+      "templateDefaultZone": false
     },
     {
       "group": "Salve graveyard teleport (tablet)",
@@ -4434,7 +7369,12 @@
       "note": "lands within 2 tiles of this point",
       "page": "Salve graveyard teleport (tablet)",
       "revid": 15187519,
-      "how": "{{Map}} under the heading \"Destination\""
+      "how": "{{Map}} under the heading \"Destination\"",
+      "zone": true,
+      "zoneShape": "square",
+      "zoneRadius": 2.0,
+      "zoneReach": 2,
+      "templateDefaultZone": false
     },
     {
       "group": "Senntisten teleport (tablet)",
@@ -4447,7 +7387,12 @@
       "note": "lands within 2 tiles of this point",
       "page": "Senntisten teleport (tablet)",
       "revid": 15186394,
-      "how": "{{Map}} under the heading \"Destination\""
+      "how": "{{Map}} under the heading \"Destination\"",
+      "zone": true,
+      "zoneShape": "square",
+      "zoneRadius": 2.0,
+      "zoneReach": 2,
+      "templateDefaultZone": false
     },
     {
       "group": "Spider cave teleport",
@@ -4459,8 +7404,30 @@
       "planeGiven": false,
       "note": "lands somewhere in an area (polygon of 4 points); its middle is used",
       "page": "Spider cave teleport",
-      "revid": 15192620,
-      "how": "{{Map}} under the heading \"Destination\""
+      "revid": 15403049,
+      "how": "{{Map}} under the heading \"Destination\"",
+      "zone": true,
+      "zoneShape": "polygon",
+      "zonePoints": [
+        [
+          3657,
+          3402
+        ],
+        [
+          3657,
+          3405
+        ],
+        [
+          3660,
+          3405
+        ],
+        [
+          3660,
+          3402
+        ]
+      ],
+      "zoneReach": 2,
+      "templateDefaultZone": false
     },
     {
       "group": "Strength cape",
@@ -4473,7 +7440,9 @@
       "note": "",
       "page": "Strength cape",
       "revid": 15342993,
-      "how": "{{Map}} under the heading \"Destination\""
+      "how": "{{Map}} under the heading \"Destination\"",
+      "zone": false,
+      "templateDefaultZone": false
     },
     {
       "group": "Tai bwo wannai teleport",
@@ -4485,8 +7454,13 @@
       "planeGiven": false,
       "note": "lands within 2 tiles of this point",
       "page": "Tai bwo wannai teleport",
-      "revid": 15186007,
-      "how": "{{Map}} under the heading \"Destination\""
+      "revid": 15403029,
+      "how": "{{Map}} under the heading \"Destination\"",
+      "zone": true,
+      "zoneShape": "square",
+      "zoneRadius": 2.0,
+      "zoneReach": 2,
+      "templateDefaultZone": false
     },
     {
       "group": "Taverley teleport",
@@ -4499,7 +7473,12 @@
       "note": "lands within 2 tiles of this point",
       "page": "Taverley teleport",
       "revid": 15309326,
-      "how": "{{Map}} under the heading \"Destination\""
+      "how": "{{Map}} under the heading \"Destination\"",
+      "zone": true,
+      "zoneShape": "square",
+      "zoneRadius": 2.0,
+      "zoneReach": 2,
+      "templateDefaultZone": false
     },
     {
       "group": "Trollheim teleport (tablet)",
@@ -4512,7 +7491,12 @@
       "note": "lands within 2 tiles of this point",
       "page": "Trollheim teleport (tablet)",
       "revid": 15309327,
-      "how": "{{Map}} under the heading \"Destination\""
+      "how": "{{Map}} under the heading \"Destination\"",
+      "zone": true,
+      "zoneShape": "square",
+      "zoneRadius": 2.0,
+      "zoneReach": 2,
+      "templateDefaultZone": false
     },
     {
       "group": "Volcanic mine teleport",
@@ -4525,7 +7509,29 @@
       "note": "lands somewhere in an area (polygon of 4 points); its middle is used",
       "page": "Volcanic mine teleport",
       "revid": 15188411,
-      "how": "{{Map}} under the heading \"Destination\""
+      "how": "{{Map}} under the heading \"Destination\"",
+      "zone": true,
+      "zoneShape": "polygon",
+      "zonePoints": [
+        [
+          3810,
+          3812
+        ],
+        [
+          3810,
+          3815
+        ],
+        [
+          3813,
+          3815
+        ],
+        [
+          3813,
+          3812
+        ]
+      ],
+      "zoneReach": 2,
+      "templateDefaultZone": false
     },
     {
       "group": "Waterbirth teleport (tablet)",
@@ -4538,7 +7544,12 @@
       "note": "lands within 2 tiles of this point",
       "page": "Waterbirth teleport (tablet)",
       "revid": 15189872,
-      "how": "{{Map}} under the heading \"Destination\""
+      "how": "{{Map}} under the heading \"Destination\"",
+      "zone": true,
+      "zoneShape": "square",
+      "zoneRadius": 2.0,
+      "zoneReach": 2,
+      "templateDefaultZone": false
     },
     {
       "group": "Watson teleport",
@@ -4550,8 +7561,13 @@
       "planeGiven": false,
       "note": "lands within 2 tiles of this point",
       "page": "Watson teleport",
-      "revid": 15257420,
-      "how": "{{Map}} under the heading \"Destination\""
+      "revid": 15403047,
+      "how": "{{Map}} under the heading \"Destination\"",
+      "zone": true,
+      "zoneShape": "square",
+      "zoneRadius": 2.0,
+      "zoneReach": 2,
+      "templateDefaultZone": false
     },
     {
       "group": "West ardougne teleport (tablet)",
@@ -4564,7 +7580,12 @@
       "note": "lands within 2 tiles of this point",
       "page": "West ardougne teleport (tablet)",
       "revid": 15187521,
-      "how": "{{Map}} under the heading \"Destination\""
+      "how": "{{Map}} under the heading \"Destination\"",
+      "zone": true,
+      "zoneShape": "square",
+      "zoneRadius": 2.0,
+      "zoneReach": 2,
+      "templateDefaultZone": false
     },
     {
       "group": "Wilderness crabs teleport",
@@ -4577,7 +7598,12 @@
       "note": "lands within 2 tiles of this point",
       "page": "Wilderness crabs teleport",
       "revid": 15271148,
-      "how": "{{Map}} under the heading \"Destination\""
+      "how": "{{Map}} under the heading \"Destination\"",
+      "zone": true,
+      "zoneShape": "square",
+      "zoneRadius": 2.0,
+      "zoneReach": 2,
+      "templateDefaultZone": false
     },
     {
       "group": "Yanille teleport",
@@ -4590,7 +7616,12 @@
       "note": "lands within 2 tiles of this point",
       "page": "Yanille teleport",
       "revid": 15342795,
-      "how": "{{Map}} under the heading \"Destination\""
+      "how": "{{Map}} under the heading \"Destination\"",
+      "zone": true,
+      "zoneShape": "square",
+      "zoneRadius": 2.0,
+      "zoneReach": 2,
+      "templateDefaultZone": false
     },
     {
       "group": "Zul-andra teleport",
@@ -4602,8 +7633,13 @@
       "planeGiven": false,
       "note": "lands within 2 tiles of this point",
       "page": "Zul-andra teleport",
-      "revid": 15186555,
-      "how": "{{Map}} under the heading \"Destination\""
+      "revid": 15403043,
+      "how": "{{Map}} under the heading \"Destination\"",
+      "zone": true,
+      "zoneShape": "square",
+      "zoneRadius": 2.0,
+      "zoneReach": 2,
+      "templateDefaultZone": false
     }
   ]
 }

@@ -77,6 +77,28 @@ public final class WikiTeleportsCli
 		long revid;
 		/** Which template it was read from. */
 		String how;
+		/**
+		 * True when the page states that this destination is a landing zone: a {{TeleportLocationLine}} with its own
+		 * {@code r} or {@code mtype=square}, or a {{Map}} outline or square with {@code r}. False otherwise (an
+		 * exact tile, or the page doesn't say).
+		 */
+		boolean zone;
+		/** The zone's shape as the page gives it ("square", "polygon"...), or null without a zone. */
+		String zoneShape;
+		/** A square zone's radius in tiles as the page gives it (it may be a fraction, e.g. 2.5), or null. */
+		Double zoneRadius;
+		/** An outlined zone's points {x, y} as the page lists them, or null; (x, y) is then their middle. */
+		List<int[]> zonePoints;
+		/**
+		 * How many whole tiles from (x, y) the landing can be: a square's radius rounded down, or for an outline the
+		 * farthest of its points (counting a diagonal step as one tile). Null without a zone.
+		 */
+		Integer zoneReach;
+		/**
+		 * True for a {{TeleportLocationLine}} that gives neither {@code r} nor {@code mtype}: the template then draws a
+		 * 3-tile square by default, but the page itself doesn't say the landing is random, so {@code zone} is false.
+		 */
+		boolean templateDefaultZone;
 	}
 
 	private void run() throws Exception
@@ -105,8 +127,11 @@ public final class WikiTeleportsCli
 		Files.writeString(new File(dir, "teleports.json").toPath(), gson.toJson(doc), StandardCharsets.UTF_8);
 		long spells = out.stream().filter(r -> r.groupKind.equals("spell")).count();
 		long items = out.stream().filter(r -> r.groupKind.equals("item")).count();
-		System.out.printf(Locale.ROOT, "%d destinations (%d spell, %d item, %d other/network) written to data/wiki/teleports.json; "
-			+ "%d web requests%n", out.size(), spells, items, out.size() - spells - items, requests);
+		long zones = out.stream().filter(r -> r.zone).count();
+		long defaults = out.stream().filter(r -> r.templateDefaultZone).count();
+		System.out.printf(Locale.ROOT, "%d destinations (%d spell, %d item, %d other/network; %d landing zones, %d lines with "
+			+ "only the template's default square) written to data/wiki/teleports.json; %d web requests%n",
+			out.size(), spells, items, out.size() - spells - items, zones, defaults, requests);
 	}
 
 	/** 1) Every page that uses the destination template, then every page in the teleport categories, each once. */
