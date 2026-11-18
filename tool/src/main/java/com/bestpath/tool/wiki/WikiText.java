@@ -16,10 +16,10 @@ import java.util.Map;
  *
  * <p>Landing zones: a line's own {@code r} (with no {@code mtype}, or
  * {@code mtype=square}) is a square of that radius, and {@code mtype=pin} an
- * exact tile. A line with neither still shows a square on the wiki, because
- * the template defaults to {@code r=3|mtype=square}; the page doesn't state
- * it, so such a line is not a zone, only flagged as
- * {@code templateDefaultZone}. A map's outline ({@code mtype=polygon} and so
+ * exact tile. A line with neither is the 3-tile square the template draws by
+ * default ({@code r=3|mtype=square}), as the wiki shows it, and is flagged
+ * {@code templateDefaultZone}. A map in a table row is named after the row's
+ * first link (the destination). A map's outline ({@code mtype=polygon} and so
  * on, with several points) keeps its points and its middle.
  */
 final class WikiText
@@ -79,6 +79,7 @@ final class WikiText
 			}
 			else if (shape == null || (shape.equals("square") && radius == null))
 			{
+				square(r, 3); // the template's default, as the wiki draws it
 				r.templateDefaultZone = true;
 			}
 			out.add(r);
@@ -103,8 +104,11 @@ final class WikiText
 	{
 		List<WikiTeleportsCli.Record> out = new ArrayList<>();
 		String heading = "";
+		String previous = "";
 		for (String line : text.split("\n", -1))
 		{
+			String row = previous;
+			previous = line;
 			String t = line.trim();
 			if (t.startsWith("==") && t.endsWith("=="))
 			{
@@ -132,14 +136,22 @@ final class WikiText
 					break;
 				}
 				from = end + 2;
-				addMapRecords(title, revid, kind, heading, line.substring(i + 2, end), out);
+				// in a table row, the destination is the row's first link: before the map on its line, or on the
+				// line above when the map has a cell line of its own
+				String name = t.startsWith("|") ? firstLink(line.substring(0, i)) : null;
+				if (name == null && t.startsWith("|") && row.trim().startsWith("|") && !row.trim().startsWith("|-"))
+				{
+					name = firstLink(row);
+				}
+				addMapRecords(title, revid, kind, heading, name, line.substring(i + 2, end), out);
 			}
 		}
 		return out;
 	}
 
 	/** The destinations of one {{Map}} template's body (none when it is on another map layer than the surface). */
-	private static void addMapRecords(String title, long revid, String kind, String heading, String body, List<WikiTeleportsCli.Record> out)
+	private static void addMapRecords(String title, long revid, String kind, String heading, String name, String body,
+		List<WikiTeleportsCli.Record> out)
 	{
 		Map<String, String> p = params(body);
 		String map = p.get("mapid");
@@ -185,7 +197,7 @@ final class WikiText
 			WikiTeleportsCli.Record r = new WikiTeleportsCli.Record();
 			r.group = title;
 			r.groupKind = kind;
-			r.name = title + (k > 0 ? " (" + (k + 1) + ")" : "");
+			r.name = (name != null ? name : title) + (k > 0 ? " (" + (k + 1) + ")" : "");
 			r.x = Integer.parseInt(c[0]);
 			r.y = Integer.parseInt(c[1]);
 			Integer pl = c.length > 2 ? Integer.valueOf(c[2]) : plane;
@@ -214,6 +226,22 @@ final class WikiText
 			out.add(r);
 			k++;
 		}
+	}
+
+	/** The label of the first link in the text that isn't a file, or null. */
+	private static String firstLink(String text)
+	{
+		java.util.regex.Matcher m = java.util.regex.Pattern.compile("\\[\\[([^\\]|]*)(?:\\|([^\\]]*))?\\]\\]").matcher(text);
+		while (m.find())
+		{
+			String target = m.group(1).trim();
+			if (target.regionMatches(true, 0, "File:", 0, 5) || target.regionMatches(true, 0, "Image:", 0, 6))
+			{
+				continue;
+			}
+			return plain(m.group(2) != null ? m.group(2) : target);
+		}
+		return null;
 	}
 
 	/** Marks the record as landing within {@code radius} tiles of its point. */

@@ -78,9 +78,9 @@ public final class WikiTeleportsCli
 		/** Which template it was read from. */
 		String how;
 		/**
-		 * True when the page states that this destination is a landing zone: a {{TeleportLocationLine}} with its own
-		 * {@code r} or {@code mtype=square}, or a {{Map}} outline or square with {@code r}. False otherwise (an
-		 * exact tile, or the page doesn't say).
+		 * True when the wiki draws this destination as a landing zone: a {{TeleportLocationLine}} without
+		 * {@code mtype=pin} (its own {@code r}, or the template's default 3-tile square), or a {{Map}} outline or square
+		 * with {@code r}. False for an exact tile.
 		 */
 		boolean zone;
 		/** The zone's shape as the page gives it ("square", "polygon"...), or null without a zone. */
@@ -95,8 +95,8 @@ public final class WikiTeleportsCli
 		 */
 		Integer zoneReach;
 		/**
-		 * True for a {{TeleportLocationLine}} that gives neither {@code r} nor {@code mtype}: the template then draws a
-		 * 3-tile square by default, but the page itself doesn't say the landing is random, so {@code zone} is false.
+		 * True for a {{TeleportLocationLine}} that gives neither {@code r} nor {@code mtype}: its zone is the 3-tile
+		 * square the template draws by default.
 		 */
 		boolean templateDefaultZone;
 	}
@@ -129,8 +129,8 @@ public final class WikiTeleportsCli
 		long items = out.stream().filter(r -> r.groupKind.equals("item")).count();
 		long zones = out.stream().filter(r -> r.zone).count();
 		long defaults = out.stream().filter(r -> r.templateDefaultZone).count();
-		System.out.printf(Locale.ROOT, "%d destinations (%d spell, %d item, %d other/network; %d landing zones, %d lines with "
-			+ "only the template's default square) written to data/wiki/teleports.json; %d web requests%n",
+		System.out.printf(Locale.ROOT, "%d destinations (%d spell, %d item, %d other/network; %d landing zones, %d of them "
+			+ "the template's default square) written to data/wiki/teleports.json; %d web requests%n",
 			out.size(), spells, items, out.size() - spells - items, zones, defaults, requests);
 	}
 

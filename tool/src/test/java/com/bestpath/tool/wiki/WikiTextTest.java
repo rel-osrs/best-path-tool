@@ -2,7 +2,6 @@ package com.bestpath.tool.wiki;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
 import static org.junit.jupiter.api.Assertions.assertFalse;
-import static org.junit.jupiter.api.Assertions.assertNull;
 import static org.junit.jupiter.api.Assertions.assertTrue;
 
 import java.util.List;
@@ -21,13 +20,27 @@ class WikiTextTest
 		+ "{{TableBottom}}\n";
 
 	@Test
-	void aLineWithoutRadiusOrTypeIsNotAZoneButIsFlagged()
+	void aLineWithoutRadiusOrTypeIsTheTemplatesDefaultSquare()
 	{
 		WikiTeleportsCli.Record camelot = WikiText.records("Camelot Teleport", 1, CAMELOT).get(0);
 		assertEquals("Camelot", camelot.name);
-		assertFalse(camelot.zone);
+		assertTrue(camelot.zone);
 		assertTrue(camelot.templateDefaultZone);
-		assertNull(camelot.zoneReach);
+		assertEquals(3.0, camelot.zoneRadius);
+		assertEquals(3, camelot.zoneReach);
+	}
+
+	@Test
+	void aMapInATableRowIsNamedAfterTheRow()
+	{
+		String text = "{{Infobox Spell\n}}\n==Destinations==\n{|class=\"wikitable\"\n|-\n"
+			+ "|[[File:Soul Wars logo.png]]||[[Soul Wars]]||{{Map|group=1|text=Map|mapID=-1|2210,2857|mtype=square|r=2.5}}||{{NA}}\n"
+			+ "|}\nThe spell can take you to [[Varrock]] {{Map|3000,3000}}\n";
+		List<WikiTeleportsCli.Record> recs = WikiText.records("Minigame Teleport", 1, text);
+		assertEquals("Soul Wars", recs.get(0).name);
+		assertEquals(2, recs.get(0).zoneReach);
+		assertEquals("Minigame Teleport", recs.get(1).name, "a link in prose doesn't name a map");
+		assertEquals("Seers' Village bank", WikiText.records("Camelot Teleport", 1, CAMELOT).get(1).name);
 	}
 
 	@Test

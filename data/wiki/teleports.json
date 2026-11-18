@@ -1,6 +1,6 @@
 {
   "licence": "Derived from the Old School RuneScape Wiki (https://oldschool.runescape.wiki), CC BY-NC-SA 3.0. Each record names its page and revision. Not covered by the project's BSD-2 licence.",
-  "fetched": "2026-11-18T02:17:38.519146195Z",
+  "fetched": "2026-11-18T02:41:16.683160003Z",
   "template": "TeleportLocationLine",
   "records": [
     {
@@ -357,7 +357,10 @@
       "page": "Burning amulet",
       "revid": 15386854,
       "how": "{{TeleportLocationLine}}",
-      "zone": false,
+      "zone": true,
+      "zoneShape": "square",
+      "zoneRadius": 3.0,
+      "zoneReach": 3,
       "templateDefaultZone": true
     },
     {
@@ -426,13 +429,16 @@
       "page": "Camelot Portal",
       "revid": 15329706,
       "how": "{{TeleportLocationLine}}",
-      "zone": false,
+      "zone": true,
+      "zoneShape": "square",
+      "zoneRadius": 3.0,
+      "zoneReach": 3,
       "templateDefaultZone": true
     },
     {
       "group": "Camelot Portal",
       "groupKind": "other",
-      "name": "Camelot Portal",
+      "name": "Seers' Village bank",
       "x": 2727,
       "y": 3484,
       "plane": 0,
@@ -492,13 +498,16 @@
       "page": "Camelot Teleport",
       "revid": 15356635,
       "how": "{{TeleportLocationLine}}",
-      "zone": false,
+      "zone": true,
+      "zoneShape": "square",
+      "zoneRadius": 3.0,
+      "zoneReach": 3,
       "templateDefaultZone": true
     },
     {
       "group": "Camelot Teleport",
       "groupKind": "spell",
-      "name": "Camelot Teleport",
+      "name": "Seers' Village bank",
       "x": 2727,
       "y": 3484,
       "plane": 0,
@@ -576,7 +585,10 @@
       "page": "Combat bracelet",
       "revid": 15386866,
       "how": "{{TeleportLocationLine}}",
-      "zone": false,
+      "zone": true,
+      "zoneShape": "square",
+      "zoneRadius": 3.0,
+      "zoneReach": 3,
       "templateDefaultZone": true
     },
     {
@@ -591,7 +603,10 @@
       "page": "Combat bracelet",
       "revid": 15386866,
       "how": "{{TeleportLocationLine}}",
-      "zone": false,
+      "zone": true,
+      "zoneShape": "square",
+      "zoneRadius": 3.0,
+      "zoneReach": 3,
       "templateDefaultZone": true
     },
     {
@@ -606,7 +621,10 @@
       "page": "Combat bracelet",
       "revid": 15386866,
       "how": "{{TeleportLocationLine}}",
-      "zone": false,
+      "zone": true,
+      "zoneShape": "square",
+      "zoneRadius": 3.0,
+      "zoneReach": 3,
       "templateDefaultZone": true
     },
     {
@@ -621,7 +639,10 @@
       "page": "Combat bracelet",
       "revid": 15386866,
       "how": "{{TeleportLocationLine}}",
-      "zone": false,
+      "zone": true,
+      "zoneShape": "square",
+      "zoneRadius": 3.0,
+      "zoneReach": 3,
       "templateDefaultZone": true
     },
     {
@@ -672,7 +693,10 @@
       "page": "Digsite pendant",
       "revid": 15386847,
       "how": "{{TeleportLocationLine}}",
-      "zone": false,
+      "zone": true,
+      "zoneShape": "square",
+      "zoneRadius": 3.0,
+      "zoneReach": 3,
       "templateDefaultZone": true
     },
     {
@@ -687,7 +711,10 @@
       "page": "Digsite pendant",
       "revid": 15386847,
       "how": "{{TeleportLocationLine}}",
-      "zone": false,
+      "zone": true,
+      "zoneShape": "square",
+      "zoneRadius": 3.0,
+      "zoneReach": 3,
       "templateDefaultZone": true
     },
     {
@@ -873,7 +900,10 @@
       "page": "Eternal teleport crystal",
       "revid": 15261005,
       "how": "{{TeleportLocationLine}}",
-      "zone": false,
+      "zone": true,
+      "zoneShape": "square",
+      "zoneRadius": 3.0,
+      "zoneReach": 3,
       "templateDefaultZone": true
     },
     {
@@ -942,7 +972,10 @@
       "page": "Mokhaiotl waystone",
       "revid": 15194020,
       "how": "{{TeleportLocationLine}}",
-      "zone": false,
+      "zone": true,
+      "zoneShape": "square",
+      "zoneRadius": 3.0,
+      "zoneReach": 3,
       "templateDefaultZone": true
     },
     {
@@ -957,7 +990,10 @@
       "page": "Mounted digsite pendant",
       "revid": 15404423,
       "how": "{{TeleportLocationLine}}",
-      "zone": false,
+      "zone": true,
+      "zoneShape": "square",
+      "zoneRadius": 3.0,
+      "zoneReach": 3,
       "templateDefaultZone": true
     },
     {
@@ -972,7 +1008,10 @@
       "page": "Mounted digsite pendant",
       "revid": 15404423,
       "how": "{{TeleportLocationLine}}",
-      "zone": false,
+      "zone": true,
+      "zoneShape": "square",
+      "zoneRadius": 3.0,
+      "zoneReach": 3,
       "templateDefaultZone": true
     },
     {
@@ -1080,7 +1119,10 @@
       "page": "Necklace of passage",
       "revid": 15390258,
       "how": "{{TeleportLocationLine}}",
-      "zone": false,
+      "zone": true,
+      "zoneShape": "square",
+      "zoneRadius": 3.0,
+      "zoneReach": 3,
       "templateDefaultZone": true
     },
     {
@@ -1095,7 +1137,10 @@
       "page": "Necklace of passage",
       "revid": 15390258,
       "how": "{{TeleportLocationLine}}",
-      "zone": false,
+      "zone": true,
+      "zoneShape": "square",
+      "zoneRadius": 3.0,
+      "zoneReach": 3,
       "templateDefaultZone": true
     },
     {
@@ -1110,7 +1155,10 @@
       "page": "Necklace of passage",
       "revid": 15390258,
       "how": "{{TeleportLocationLine}}",
-      "zone": false,
+      "zone": true,
+      "zoneShape": "square",
+      "zoneRadius": 3.0,
+      "zoneReach": 3,
       "templateDefaultZone": true
     },
     {
@@ -1404,7 +1452,10 @@
       "page": "Ring of dueling",
       "revid": 15386835,
       "how": "{{TeleportLocationLine}}",
-      "zone": false,
+      "zone": true,
+      "zoneShape": "square",
+      "zoneRadius": 3.0,
+      "zoneReach": 3,
       "templateDefaultZone": true
     },
     {
@@ -1743,7 +1794,10 @@
       "page": "Ring of wealth",
       "revid": 15399548,
       "how": "{{TeleportLocationLine}}",
-      "zone": false,
+      "zone": true,
+      "zoneShape": "square",
+      "zoneRadius": 3.0,
+      "zoneReach": 3,
       "templateDefaultZone": true
     },
     {
@@ -1776,7 +1830,10 @@
       "page": "Ring of wealth",
       "revid": 15399548,
       "how": "{{TeleportLocationLine}}",
-      "zone": false,
+      "zone": true,
+      "zoneShape": "square",
+      "zoneRadius": 3.0,
+      "zoneReach": 3,
       "templateDefaultZone": true
     },
     {
@@ -1791,7 +1848,10 @@
       "page": "Ring of wealth (i)",
       "revid": 15367107,
       "how": "{{TeleportLocationLine}}",
-      "zone": false,
+      "zone": true,
+      "zoneShape": "square",
+      "zoneRadius": 3.0,
+      "zoneReach": 3,
       "templateDefaultZone": true
     },
     {
@@ -1824,7 +1884,10 @@
       "page": "Ring of wealth (i)",
       "revid": 15367107,
       "how": "{{TeleportLocationLine}}",
-      "zone": false,
+      "zone": true,
+      "zoneShape": "square",
+      "zoneRadius": 3.0,
+      "zoneReach": 3,
       "templateDefaultZone": true
     },
     {
@@ -1884,7 +1947,10 @@
       "page": "Skills necklace",
       "revid": 15386865,
       "how": "{{TeleportLocationLine}}",
-      "zone": false,
+      "zone": true,
+      "zoneShape": "square",
+      "zoneRadius": 3.0,
+      "zoneReach": 3,
       "templateDefaultZone": true
     },
     {
@@ -1917,7 +1983,10 @@
       "page": "Skills necklace",
       "revid": 15386865,
       "how": "{{TeleportLocationLine}}",
-      "zone": false,
+      "zone": true,
+      "zoneShape": "square",
+      "zoneRadius": 3.0,
+      "zoneReach": 3,
       "templateDefaultZone": true
     },
     {
@@ -1932,7 +2001,10 @@
       "page": "Skills necklace",
       "revid": 15386865,
       "how": "{{TeleportLocationLine}}",
-      "zone": false,
+      "zone": true,
+      "zoneShape": "square",
+      "zoneRadius": 3.0,
+      "zoneReach": 3,
       "templateDefaultZone": true
     },
     {
@@ -1947,7 +2019,10 @@
       "page": "Skills necklace",
       "revid": 15386865,
       "how": "{{TeleportLocationLine}}",
-      "zone": false,
+      "zone": true,
+      "zoneShape": "square",
+      "zoneRadius": 3.0,
+      "zoneReach": 3,
       "templateDefaultZone": true
     },
     {
@@ -2148,7 +2223,10 @@
       "page": "Teleport crystal",
       "revid": 15261004,
       "how": "{{TeleportLocationLine}}",
-      "zone": false,
+      "zone": true,
+      "zoneShape": "square",
+      "zoneRadius": 3.0,
+      "zoneReach": 3,
       "templateDefaultZone": true
     },
     {
@@ -2199,7 +2277,10 @@
       "page": "Varrock Portal",
       "revid": 15329697,
       "how": "{{TeleportLocationLine}}",
-      "zone": false,
+      "zone": true,
+      "zoneShape": "square",
+      "zoneRadius": 3.0,
+      "zoneReach": 3,
       "templateDefaultZone": true
     },
     {
@@ -2214,7 +2295,10 @@
       "page": "Varrock Portal",
       "revid": 15329697,
       "how": "{{TeleportLocationLine}}",
-      "zone": false,
+      "zone": true,
+      "zoneShape": "square",
+      "zoneRadius": 3.0,
+      "zoneReach": 3,
       "templateDefaultZone": true
     },
     {
@@ -2229,7 +2313,10 @@
       "page": "Varrock Teleport",
       "revid": 15372072,
       "how": "{{TeleportLocationLine}}",
-      "zone": false,
+      "zone": true,
+      "zoneShape": "square",
+      "zoneRadius": 3.0,
+      "zoneReach": 3,
       "templateDefaultZone": true
     },
     {
@@ -2244,7 +2331,10 @@
       "page": "Varrock Teleport",
       "revid": 15372072,
       "how": "{{TeleportLocationLine}}",
-      "zone": false,
+      "zone": true,
+      "zoneShape": "square",
+      "zoneRadius": 3.0,
+      "zoneReach": 3,
       "templateDefaultZone": true
     },
     {
@@ -2259,7 +2349,10 @@
       "page": "Varrock teleport (tablet)",
       "revid": 15184222,
       "how": "{{TeleportLocationLine}}",
-      "zone": false,
+      "zone": true,
+      "zoneShape": "square",
+      "zoneRadius": 3.0,
+      "zoneReach": 3,
       "templateDefaultZone": true
     },
     {
@@ -2274,7 +2367,10 @@
       "page": "Varrock teleport (tablet)",
       "revid": 15184222,
       "how": "{{TeleportLocationLine}}",
-      "zone": false,
+      "zone": true,
+      "zoneShape": "square",
+      "zoneRadius": 3.0,
+      "zoneReach": 3,
       "templateDefaultZone": true
     },
     {
@@ -2289,7 +2385,10 @@
       "page": "Watchtower Teleport",
       "revid": 15356641,
       "how": "{{TeleportLocationLine}}",
-      "zone": false,
+      "zone": true,
+      "zoneShape": "square",
+      "zoneRadius": 3.0,
+      "zoneReach": 3,
       "templateDefaultZone": true
     },
     {
@@ -2304,7 +2403,10 @@
       "page": "Watchtower Teleport",
       "revid": 15356641,
       "how": "{{TeleportLocationLine}}",
-      "zone": false,
+      "zone": true,
+      "zoneShape": "square",
+      "zoneRadius": 3.0,
+      "zoneReach": 3,
       "templateDefaultZone": true
     },
     {
@@ -2319,7 +2421,10 @@
       "page": "Watchtower teleport (tablet)",
       "revid": 15185084,
       "how": "{{TeleportLocationLine}}",
-      "zone": false,
+      "zone": true,
+      "zoneShape": "square",
+      "zoneRadius": 3.0,
+      "zoneReach": 3,
       "templateDefaultZone": true
     },
     {
@@ -2334,7 +2439,10 @@
       "page": "Watchtower teleport (tablet)",
       "revid": 15185084,
       "how": "{{TeleportLocationLine}}",
-      "zone": false,
+      "zone": true,
+      "zoneShape": "square",
+      "zoneRadius": 3.0,
+      "zoneReach": 3,
       "templateDefaultZone": true
     },
     {
@@ -2460,7 +2568,10 @@
       "page": "Yanille Watchtower Portal",
       "revid": 15201333,
       "how": "{{TeleportLocationLine}}",
-      "zone": false,
+      "zone": true,
+      "zoneShape": "square",
+      "zoneRadius": 3.0,
+      "zoneReach": 3,
       "templateDefaultZone": true
     },
     {
@@ -2475,7 +2586,10 @@
       "page": "Yanille Watchtower Portal",
       "revid": 15201333,
       "how": "{{TeleportLocationLine}}",
-      "zone": false,
+      "zone": true,
+      "zoneShape": "square",
+      "zoneRadius": 3.0,
+      "zoneReach": 3,
       "templateDefaultZone": true
     },
     {
@@ -3288,7 +3402,7 @@
     {
       "group": "Minigame Teleport",
       "groupKind": "spell",
-      "name": "Minigame Teleport",
+      "name": "Barbarian Assault",
       "x": 2531,
       "y": 3577,
       "plane": 0,
@@ -3306,7 +3420,7 @@
     {
       "group": "Minigame Teleport",
       "groupKind": "spell",
-      "name": "Minigame Teleport",
+      "name": "Blast Furnace",
       "x": 2930,
       "y": 10193,
       "plane": 0,
@@ -3324,7 +3438,7 @@
     {
       "group": "Minigame Teleport",
       "groupKind": "spell",
-      "name": "Minigame Teleport",
+      "name": "Bounty Hunter",
       "x": 3140,
       "y": 3626,
       "plane": 0,
@@ -3342,7 +3456,7 @@
     {
       "group": "Minigame Teleport",
       "groupKind": "spell",
-      "name": "Minigame Teleport",
+      "name": "Burthorpe Games Room",
       "x": 2899,
       "y": 3553,
       "plane": 0,
@@ -3360,7 +3474,7 @@
     {
       "group": "Minigame Teleport",
       "groupKind": "spell",
-      "name": "Minigame Teleport",
+      "name": "Castle Wars",
       "x": 2442,
       "y": 3093,
       "plane": 0,
@@ -3378,7 +3492,7 @@
     {
       "group": "Minigame Teleport",
       "groupKind": "spell",
-      "name": "Minigame Teleport",
+      "name": "Clan Wars",
       "x": 3149,
       "y": 3634,
       "plane": 0,
@@ -3396,7 +3510,7 @@
     {
       "group": "Minigame Teleport",
       "groupKind": "spell",
-      "name": "Minigame Teleport",
+      "name": "Fishing Trawler",
       "x": 2658,
       "y": 3157,
       "plane": 0,
@@ -3414,7 +3528,7 @@
     {
       "group": "Minigame Teleport",
       "groupKind": "spell",
-      "name": "Minigame Teleport",
+      "name": "Giants' Foundry",
       "x": 3361,
       "y": 3149,
       "plane": 0,
@@ -3432,7 +3546,7 @@
     {
       "group": "Minigame Teleport",
       "groupKind": "spell",
-      "name": "Minigame Teleport",
+      "name": "Guardians of the Rift",
       "x": 3615,
       "y": 9477,
       "plane": 0,
@@ -3450,7 +3564,7 @@
     {
       "group": "Minigame Teleport",
       "groupKind": "spell",
-      "name": "Minigame Teleport",
+      "name": "Last Man Standing",
       "x": 3149,
       "y": 3634,
       "plane": 0,
@@ -3468,7 +3582,7 @@
     {
       "group": "Minigame Teleport",
       "groupKind": "spell",
-      "name": "Minigame Teleport",
+      "name": "Mage Training Arena",
       "x": 3363,
       "y": 3295,
       "plane": 0,
@@ -3486,7 +3600,7 @@
     {
       "group": "Minigame Teleport",
       "groupKind": "spell",
-      "name": "Minigame Teleport",
+      "name": "Mastering Mixology",
       "x": 1388,
       "y": 2918,
       "plane": 0,
@@ -3504,7 +3618,7 @@
     {
       "group": "Minigame Teleport",
       "groupKind": "spell",
-      "name": "Minigame Teleport",
+      "name": "Nightmare Zone",
       "x": 2609,
       "y": 3114,
       "plane": 0,
@@ -3522,7 +3636,7 @@
     {
       "group": "Minigame Teleport",
       "groupKind": "spell",
-      "name": "Minigame Teleport",
+      "name": "Pest Control",
       "x": 2658,
       "y": 2663,
       "plane": 0,
@@ -3540,7 +3654,7 @@
     {
       "group": "Minigame Teleport",
       "groupKind": "spell",
-      "name": "Minigame Teleport",
+      "name": "Rat Pits",
       "x": 2561,
       "y": 3320,
       "plane": 0,
@@ -3558,7 +3672,7 @@
     {
       "group": "Minigame Teleport",
       "groupKind": "spell",
-      "name": "Minigame Teleport",
+      "name": "Rat Pits",
       "x": 3267,
       "y": 3400,
       "plane": 0,
@@ -3576,7 +3690,7 @@
     {
       "group": "Minigame Teleport",
       "groupKind": "spell",
-      "name": "Minigame Teleport",
+      "name": "Rat Pits",
       "x": 2914,
       "y": 10193,
       "plane": 0,
@@ -3594,7 +3708,7 @@
     {
       "group": "Minigame Teleport",
       "groupKind": "spell",
-      "name": "Minigame Teleport",
+      "name": "Rat Pits",
       "x": 3018,
       "y": 3232,
       "plane": 0,
@@ -3612,7 +3726,7 @@
     {
       "group": "Minigame Teleport",
       "groupKind": "spell",
-      "name": "Minigame Teleport",
+      "name": "Shades of Mort'ton",
       "x": 3506,
       "y": 3304,
       "plane": 0,
@@ -3630,7 +3744,7 @@
     {
       "group": "Minigame Teleport",
       "groupKind": "spell",
-      "name": "Minigame Teleport",
+      "name": "Sorceress's Garden",
       "x": 3321,
       "y": 3138,
       "plane": 0,
@@ -3648,7 +3762,7 @@
     {
       "group": "Minigame Teleport",
       "groupKind": "spell",
-      "name": "Minigame Teleport",
+      "name": "Soul Wars",
       "x": 2210,
       "y": 2857,
       "plane": 0,
@@ -3666,7 +3780,7 @@
     {
       "group": "Minigame Teleport",
       "groupKind": "spell",
-      "name": "Minigame Teleport",
+      "name": "Tithe Farm",
       "x": 1792,
       "y": 3501,
       "plane": 0,
@@ -3684,7 +3798,7 @@
     {
       "group": "Minigame Teleport",
       "groupKind": "spell",
-      "name": "Minigame Teleport",
+      "name": "Trouble Brewing",
       "x": 3816,
       "y": 3024,
       "plane": 0,
@@ -3702,7 +3816,7 @@
     {
       "group": "Minigame Teleport",
       "groupKind": "spell",
-      "name": "Minigame Teleport",
+      "name": "TzHaar Fight Pit",
       "x": 2399,
       "y": 5177,
       "plane": 0,
@@ -4063,7 +4177,7 @@
     {
       "group": "Achievement diary cape",
       "groupKind": "item",
-      "name": "Achievement diary cape",
+      "name": "Two-pints",
       "x": 2575,
       "y": 3325,
       "plane": 0,
@@ -4130,7 +4244,7 @@
     {
       "group": "Achievement diary cape",
       "groupKind": "item",
-      "name": "Achievement diary cape",
+      "name": "Jarr",
       "x": 3301,
       "y": 3122,
       "plane": 0,
@@ -4181,7 +4295,7 @@
     {
       "group": "Achievement diary cape",
       "groupKind": "item",
-      "name": "Achievement diary cape",
+      "name": "Sir Rebral",
       "x": 2977,
       "y": 3345,
       "plane": 0,
@@ -4199,7 +4313,7 @@
     {
       "group": "Achievement diary cape",
       "groupKind": "item",
-      "name": "Achievement diary cape",
+      "name": "Thorodin",
       "x": 2659,
       "y": 3627,
       "plane": 0,
@@ -4217,7 +4331,7 @@
     {
       "group": "Achievement diary cape",
       "groupKind": "item",
-      "name": "Achievement diary cape",
+      "name": "Flax keeper",
       "x": 2744,
       "y": 3444,
       "plane": 0,
@@ -4235,7 +4349,7 @@
     {
       "group": "Achievement diary cape",
       "groupKind": "item",
-      "name": "Achievement diary cape",
+      "name": "Pirate Jackie the Fruit",
       "x": 2810,
       "y": 3191,
       "plane": 0,
@@ -4278,7 +4392,7 @@
     {
       "group": "Achievement diary cape",
       "groupKind": "item",
-      "name": "Achievement diary cape",
+      "name": "Kaleb Paramaya",
       "x": 2862,
       "y": 2996,
       "plane": 1,
@@ -4329,7 +4443,7 @@
     {
       "group": "Achievement diary cape",
       "groupKind": "item",
-      "name": "Achievement diary cape",
+      "name": "Jungle forester",
       "x": 2795,
       "y": 2945,
       "plane": 0,
@@ -4347,7 +4461,7 @@
     {
       "group": "Achievement diary cape",
       "groupKind": "item",
-      "name": "Achievement diary cape",
+      "name": "Elise",
       "x": 1647,
       "y": 3666,
       "plane": 0,
@@ -4365,7 +4479,7 @@
     {
       "group": "Achievement diary cape",
       "groupKind": "item",
-      "name": "Achievement diary cape",
+      "name": "Mikasi",
       "x": 3239,
       "y": 3220,
       "plane": 0,
@@ -4383,7 +4497,7 @@
     {
       "group": "Achievement diary cape",
       "groupKind": "item",
-      "name": "Achievement diary cape",
+      "name": "Le-sabrè",
       "x": 3465,
       "y": 3477,
       "plane": 0,
@@ -4401,7 +4515,7 @@
     {
       "group": "Achievement diary cape",
       "groupKind": "item",
-      "name": "Achievement diary cape",
+      "name": "Toby",
       "x": 3225,
       "y": 3414,
       "plane": 0,
@@ -4460,7 +4574,7 @@
     {
       "group": "Achievement diary cape",
       "groupKind": "item",
-      "name": "Achievement diary cape",
+      "name": "Lesser Fanatic",
       "x": 3122,
       "y": 3516,
       "plane": 0,
@@ -4478,7 +4592,7 @@
     {
       "group": "Achievement diary cape",
       "groupKind": "item",
-      "name": "Achievement diary cape",
+      "name": "Elder Gnome child",
       "x": 2467,
       "y": 3459,
       "plane": 0,
@@ -4496,7 +4610,7 @@
     {
       "group": "Achievement diary cape",
       "groupKind": "item",
-      "name": "Achievement diary cape",
+      "name": "Twiggy O'Korn",
       "x": 3097,
       "y": 3226,
       "plane": 0,
@@ -4988,7 +5102,7 @@
     {
       "group": "Construct. cape",
       "groupKind": "item",
-      "name": "Construct. cape",
+      "name": "Rimmington",
       "x": 2954,
       "y": 3224,
       "plane": 0,
@@ -5003,7 +5117,7 @@
     {
       "group": "Construct. cape",
       "groupKind": "item",
-      "name": "Construct. cape",
+      "name": "Taverley",
       "x": 2894,
       "y": 3465,
       "plane": 0,
@@ -5018,7 +5132,7 @@
     {
       "group": "Construct. cape",
       "groupKind": "item",
-      "name": "Construct. cape",
+      "name": "Pollnivneach",
       "x": 3340,
       "y": 3004,
       "plane": 0,
@@ -5033,7 +5147,7 @@
     {
       "group": "Construct. cape",
       "groupKind": "item",
-      "name": "Construct. cape",
+      "name": "Hosidius",
       "x": 1744,
       "y": 3517,
       "plane": 0,
@@ -5048,7 +5162,7 @@
     {
       "group": "Construct. cape",
       "groupKind": "item",
-      "name": "Construct. cape",
+      "name": "Aldarin",
       "x": 1422,
       "y": 2965,
       "plane": 0,
@@ -5063,7 +5177,7 @@
     {
       "group": "Construct. cape",
       "groupKind": "item",
-      "name": "Construct. cape",
+      "name": "Rellekka",
       "x": 2670,
       "y": 3632,
       "plane": 0,
@@ -5078,7 +5192,7 @@
     {
       "group": "Construct. cape",
       "groupKind": "item",
-      "name": "Construct. cape",
+      "name": "Brimhaven",
       "x": 2758,
       "y": 3178,
       "plane": 0,
@@ -5093,7 +5207,7 @@
     {
       "group": "Construct. cape",
       "groupKind": "item",
-      "name": "Construct. cape",
+      "name": "Yanille",
       "x": 2544,
       "y": 3095,
       "plane": 0,
@@ -5108,7 +5222,7 @@
     {
       "group": "Construct. cape",
       "groupKind": "item",
-      "name": "Construct. cape",
+      "name": "Prifddinas",
       "x": 3239,
       "y": 6076,
       "plane": 0,
@@ -5480,7 +5594,7 @@
     {
       "group": "Fishing cape",
       "groupKind": "item",
-      "name": "Fishing cape",
+      "name": "Fishing Guild",
       "x": 2604,
       "y": 3401,
       "plane": 0,
@@ -5495,7 +5609,7 @@
     {
       "group": "Fishing cape",
       "groupKind": "item",
-      "name": "Fishing cape",
+      "name": "Otto's Grotto",
       "x": 2504,
       "y": 3484,
       "plane": 0,
@@ -5697,7 +5811,7 @@
     {
       "group": "Hunter cape",
       "groupKind": "item",
-      "name": "Hunter cape",
+      "name": "Feldip Hunter area",
       "x": 2556,
       "y": 2916,
       "plane": 0,
@@ -5712,7 +5826,7 @@
     {
       "group": "Hunter cape",
       "groupKind": "item",
-      "name": "Hunter cape",
+      "name": "Wilderness Hunter area",
       "x": 3144,
       "y": 3772,
       "plane": 0,
@@ -5727,7 +5841,7 @@
     {
       "group": "Hunter cape",
       "groupKind": "item",
-      "name": "Hunter cape",
+      "name": "Hunter Guild",
       "x": 1558,
       "y": 3046,
       "plane": 0,
@@ -5900,7 +6014,7 @@
     {
       "group": "Karamja gloves 4",
       "groupKind": "item",
-      "name": "Karamja gloves 4",
+      "name": "Gem Mine",
       "x": 2840,
       "y": 9387,
       "plane": 0,
@@ -5918,7 +6032,7 @@
     {
       "group": "Karamja gloves 4",
       "groupKind": "item",
-      "name": "Karamja gloves 4",
+      "name": "Duradel",
       "x": 2869,
       "y": 2982,
       "plane": 1,
@@ -6097,7 +6211,7 @@
     {
       "group": "Max cape",
       "groupKind": "item",
-      "name": "Max cape",
+      "name": "Warrior's Guild",
       "x": 2865,
       "y": 3546,
       "plane": 0,
@@ -6112,7 +6226,7 @@
     {
       "group": "Max cape",
       "groupKind": "item",
-      "name": "Max cape",
+      "name": "Fishing Guild",
       "x": 2604,
       "y": 3401,
       "plane": 0,
@@ -6127,7 +6241,7 @@
     {
       "group": "Max cape",
       "groupKind": "item",
-      "name": "Max cape",
+      "name": "Crafting Guild",
       "x": 2931,
       "y": 3286,
       "plane": 0,
@@ -6142,7 +6256,7 @@
     {
       "group": "Max cape",
       "groupKind": "item",
-      "name": "Max cape",
+      "name": "Farming Guild",
       "x": 1248,
       "y": 3725,
       "plane": 0,
@@ -6185,7 +6299,7 @@
     {
       "group": "Max cape",
       "groupKind": "item",
-      "name": "Max cape",
+      "name": "Otto's Grotto",
       "x": 2504,
       "y": 3484,
       "plane": 0,
@@ -6200,7 +6314,7 @@
     {
       "group": "Max cape",
       "groupKind": "item",
-      "name": "Max cape",
+      "name": "Feldip Hunter area",
       "x": 2556,
       "y": 2916,
       "plane": 0,
@@ -6215,7 +6329,7 @@
     {
       "group": "Max cape",
       "groupKind": "item",
-      "name": "Max cape",
+      "name": "Wilderness Hunter area",
       "x": 3144,
       "y": 3772,
       "plane": 0,
@@ -6230,7 +6344,7 @@
     {
       "group": "Max cape",
       "groupKind": "item",
-      "name": "Max cape",
+      "name": "Hunter Guild",
       "x": 1558,
       "y": 3046,
       "plane": 0,
@@ -6245,7 +6359,7 @@
     {
       "group": "Max cape",
       "groupKind": "item",
-      "name": "Max cape",
+      "name": "The Pandemonium",
       "x": 3048,
       "y": 2972,
       "plane": 0,
@@ -6260,7 +6374,7 @@
     {
       "group": "Max cape",
       "groupKind": "item",
-      "name": "Max cape",
+      "name": "Rimmington",
       "x": 2954,
       "y": 3224,
       "plane": 0,
@@ -6275,7 +6389,7 @@
     {
       "group": "Max cape",
       "groupKind": "item",
-      "name": "Max cape",
+      "name": "Taverley",
       "x": 2894,
       "y": 3465,
       "plane": 0,
@@ -6290,7 +6404,7 @@
     {
       "group": "Max cape",
       "groupKind": "item",
-      "name": "Max cape",
+      "name": "Pollnivneach",
       "x": 3340,
       "y": 3004,
       "plane": 0,
@@ -6305,7 +6419,7 @@
     {
       "group": "Max cape",
       "groupKind": "item",
-      "name": "Max cape",
+      "name": "Hosidius",
       "x": 1744,
       "y": 3517,
       "plane": 0,
@@ -6320,7 +6434,7 @@
     {
       "group": "Max cape",
       "groupKind": "item",
-      "name": "Max cape",
+      "name": "Aldarin",
       "x": 1422,
       "y": 2965,
       "plane": 0,
@@ -6335,7 +6449,7 @@
     {
       "group": "Max cape",
       "groupKind": "item",
-      "name": "Max cape",
+      "name": "Rellekka",
       "x": 2670,
       "y": 3632,
       "plane": 0,
@@ -6350,7 +6464,7 @@
     {
       "group": "Max cape",
       "groupKind": "item",
-      "name": "Max cape",
+      "name": "Brimhaven",
       "x": 2758,
       "y": 3178,
       "plane": 0,
@@ -6365,7 +6479,7 @@
     {
       "group": "Max cape",
       "groupKind": "item",
-      "name": "Max cape",
+      "name": "Yanille",
       "x": 2544,
       "y": 3095,
       "plane": 0,
@@ -6380,7 +6494,7 @@
     {
       "group": "Max cape",
       "groupKind": "item",
-      "name": "Max cape",
+      "name": "Prifddinas",
       "x": 3239,
       "y": 6076,
       "plane": 0,
@@ -6503,7 +6617,7 @@
     {
       "group": "Morytania legs 3",
       "groupKind": "item",
-      "name": "Morytania legs 3",
+      "name": "Burgh de Rott",
       "x": 3482,
       "y": 3230,
       "plane": 0,
@@ -6539,7 +6653,7 @@
     {
       "group": "Morytania legs 4",
       "groupKind": "item",
-      "name": "Morytania legs 4",
+      "name": "Burgh de Rott",
       "x": 3482,
       "y": 3230,
       "plane": 0,
@@ -6977,7 +7091,7 @@
     {
       "group": "Rada's blessing 3",
       "groupKind": "item",
-      "name": "Rada's blessing 3",
+      "name": "Kourend Woodland",
       "x": 1555,
       "y": 3454,
       "plane": 0,
@@ -7100,7 +7214,7 @@
     {
       "group": "Rada's blessing 3",
       "groupKind": "item",
-      "name": "Rada's blessing 3",
+      "name": "Mount Karuulm",
       "x": 1312,
       "y": 3799,
       "plane": 0,
@@ -7151,7 +7265,7 @@
     {
       "group": "Rada's blessing 4",
       "groupKind": "item",
-      "name": "Rada's blessing 4",
+      "name": "Kourend Woodland",
       "x": 1555,
       "y": 3454,
       "plane": 0,
@@ -7274,7 +7388,7 @@
     {
       "group": "Rada's blessing 4",
       "groupKind": "item",
-      "name": "Rada's blessing 4",
+      "name": "Mount Karuulm",
       "x": 1312,
       "y": 3799,
       "plane": 0,
